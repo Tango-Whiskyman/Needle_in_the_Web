@@ -1,0 +1,418 @@
+[
+    {
+        "id": 0,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a source that discusses the nostalgic representation of popular culture as a complex and valuable creative tool. The article \"Recycled Culture: The Significance\" explores how nostalgia functions in musical theatre, highlighting its multifaceted nature and its role in shaping creative expression. ([scribd.com](https://www.scribd.com/document/752397708/Recycled-culture-the-significance?utm_source=openai))\n\nAdditionally, the article \"Art as Public Knowledge and Everyday Politics: The Case of African American Spoken Word\" examines the increasing prominence of spoken word's ability to engage with cultural and political issues, reflecting its growing significance in shifting cultural landscapes. ([journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/0160597612451240?icid=int.sj-abstract.citing-articles.8&utm_source=openai))\n\nWhile these sources address the individual components of your query, they do not combine all the specified information into a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5a0915c081958255707edd1699030ccda6a8c3738b50",
+            "action": {
+                "query": "\"The nostalgic representation of popular culture functions as a complex and valuable creative tool\" \"Conversations concerning spoken word's ability\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://olh.openlibhums.org/article/id/17984/",
+        "search": {
+            "id": "ws_68ad5a1235bc8197ac88c87b4aed910c0375f49121cdb8d9",
+            "action": {
+                "query": "article explores political functions of the 'customary' Changkija\u2019s criticism",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "Jasmine Gardosi's debut show, *Dancing To Music You Hate*, was commissioned by Warwick Arts Centre and premiered there in October 2021. The show blends poetry, beatboxing, and Celtic dubstep to explore themes of gender identity. Gardosi has performed her work on various mediums, including television, with appearances on BBC Four and Sky Arts. ([448creative.wordpress.com](https://448creative.wordpress.com/2023/04/20/jasmine-gardosi-dancing-to-music-you-hate/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5a1894cc81979345c042dcc9321f01b7b6d1be95c849",
+            "action": {
+                "query": "Jasmine Gardosi Dancing to Music You Hate Warwick Arts Centre medium",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5a20d8c4819499fce40d9e234a14031f69673fd70025",
+            "action": {
+                "query": "Liveness contrasted with something Bradley 7DS For the Love of Mary punishment disconnection voyeurism Covid-19 restrictions",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://artviewer.org/cecilia-vicuna-at-ca2m-centro-de-arte-dos-de-mayo/",
+        "search": {
+            "id": "ws_68ad5a2847088197af930d73b6bb4ce20cd688fbda5af2d9",
+            "action": {
+                "query": "Cecilia Vicu\u00f1a inspiration basuritas artist's books quipu installations Conc\u00f3n",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://erenow.org/common/finding-out-an-introduction-to-lgbtq-studies/10.php",
+        "search": {
+            "id": "ws_68ad5a2f404c8194b30082b73069fb8a0a1de4da3a3a52cb",
+            "action": {
+                "query": "This persecution would soon ruin someone. Factors deducible from these moral codes include certain factors. Something is now regularly introduced to readers as a canonically gay novel.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a source that mentions Joseph Kennard's 1923 statement about the typical friar as found in real life. In the article \"Plesaunt was his absolucioun? Friars and Light Penances in English History and Literature\" by Campbell, it is noted that Joseph Kennard, in his 1923 work \"The Friar in Fiction, Sincerity in Art and Other Essays,\" discusses the representation of the typical friar in real life. ([olh.openlibhums.org](https://olh.openlibhums.org/articles/10.16995/olh.16931/?utm_source=openai))\n\nAdditionally, the same article references W.A. Hinnebusch's 1951 work \"The Early English Friars Preachers,\" which discusses the secular clergy's claims about friars making confession in a certain way. ([olh.openlibhums.org](https://olh.openlibhums.org/articles/10.16995/olh.16931/?utm_source=openai))\n\nRegarding Hagen's statement about Chaucer's attack on the friars reflecting something, I found a reference to Karl T. Hagen's discussion in \"Chaucer's Pilgrims: An Historical Guide to the Pilgrims in the Canterbury Tales,\" where he analyzes Chaucer's portrayal of friars. ([vdoc.pub](https://vdoc.pub/documents/chaucers-pilgrims-an-historical-guide-to-the-pilgrims-in-the-canterbury-tales-4g6b32t5tc70?utm_source=openai))\n\nWhile these sources individually address the points you've mentioned, I couldn't locate a single webpage that combines all three pieces of information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5a38fe8c8196856d666b5d4becab0128774dedfb5a13",
+            "action": {
+                "query": "Hagen Chaucer attack on friars Hinnebusch secular clergy confession Joseph Kennard 1923 typical friar",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "I was unable to find a single webpage that mentions all of the following information:\n\n- Researchers need access to various data and information related to something.\n- Researchers need access to various data and information related to someone.\n- Researchers need access to various data and information related to details of a certain kind.\n\nHowever, the article \"Understanding the Information Needs of Social Scientists in Germany\" discusses the diverse information needs of social science researchers, including literature, research data, measurement instruments, support for data analysis, support for data collection, variables in research data, software support, networking/cooperation, and illustrative material. ([arxiv.org](https://arxiv.org/abs/1909.08876?utm_source=openai))\n\nAdditionally, the \"Guidelines for Responsible Data Management in Scientific Research\" provide examples of various types of medical research data, such as patient survey responses, white blood cell counts, core temperature readings, and metabolism rates. ([paperzz.com](https://paperzz.com/doc/7566482/guidelines-for-responsible-data-management-in-scientific-...?utm_source=openai))\n\nThese sources collectively address the need for researchers to access various data and information related to different aspects of their studies.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5a48fb148190bdc3783bfd886e89090fb01221b3ff04",
+            "action": {
+                "query": "\"Researchers need access to various data and information related to something\" \"Researchers need access to various data and information related to someone\" \"Researchers need access to various data and information related to details of a certain kind\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://www.numberanalytics.com/blog/power-of-marginalized-voices-literature",
+        "search": {
+            "id": "ws_68ad5a534cf8819092893952e3596e750f87d79e2db87b7e",
+            "action": {
+                "query": "The aim of literature giving a voice to the inaudible reporting on marginal experiences",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://olh.openlibhums.org/article/id/16767/",
+        "search": {
+            "id": "ws_68ad5a5cf04c819085912331afdecfd50235f276ea8cdafa",
+            "action": {
+                "query": "novels narrate the cultural economy of localized Irish experiences Rooney Marx's ideas digital capitalism",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5a63d0708193a10ccdc7943773de082a377d02220d5a",
+            "action": {
+                "query": "Sub-Saharan Africa encounter red tape engagement apartheid state paperwork writers",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://olh.openlibhums.org/article/id/16523/",
+        "search": {
+            "id": "ws_68ad5a6c3580819780208c99a69fba87064971f4a46ac803",
+            "action": {
+                "query": "Memes cultural artifacts black humor gallows humor civilized communication in war",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://olh.openlibhums.org/article/id/16695/",
+        "search": {
+            "id": "ws_68ad5a747aa48194a35af71ce85b97b102900d159c2f895c",
+            "action": {
+                "query": "complexity interpreting parody copyright trademark rights freedom of expression meta-hermeneutics humor law judicial interpretation",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://www.theguardian.com/books/2018/jun/06/top-10-working-class-heroes-in-books",
+        "search": {
+            "id": "ws_68ad5a7f8b8c81959e6494d92a4a04a70f838141ec086eb5",
+            "action": {
+                "query": "conventional wisdom working-class writing hero setting place British fiction",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses Peter L\u00e1szl\u00f3 Peri's views on architecture and sculpture:\n\n([olh.openlibhums.org](https://olh.openlibhums.org/article/id/10131/?utm_source=openai))\n\nAdditionally, the Canadian Centre for Architecture (CCA) has an article that touches upon its mission and raison d\u2019\u00eatre:\n\n([cca.qc.ca](https://www.cca.qc.ca/en/articles/93332/carbon-present?utm_source=openai))\n\nUnfortunately, I couldn't locate a source that includes the exact phrase \"The artwork evidences a concern with certain kinds of processes.\"  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5a88b9c081939a7471fff7ea48c30f497278b4828f59",
+            "action": {
+                "query": "\"The artwork evidences a concern with certain kinds of processes\" \"Peri believed architects cannot suggest the use of sculpture\" \"raison d\u2019\u00eatre of the CCA\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://olh.openlibhums.org/article/id/16725/",
+        "search": {
+            "id": "ws_68ad5a9a010081939318a43777fb736607a2e11423b314eb",
+            "action": {
+                "query": "The Dragonfly Sea Indian Ocean fluidity colonial expansion By the Sea coherent sense of self",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://olh.openlibhums.org/article/id/16293/",
+        "search": {
+            "id": "ws_68ad5aa844788193b959dd558351c39a0ac9e38732a4de3b",
+            "action": {
+                "query": "Helplessness and pessimism traced in jokes before 1989 Hungarian perceptions laughter societies absurdity",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://olh.openlibhums.org/article/id/16536/",
+        "search": {
+            "id": "ws_68ad5aafef408194ba082c0aeec778c30495a6a922f51a3d",
+            "action": {
+                "query": "Wildean avatars Deleuzian \u2018assemblages\u2019 Ulysses public narrative Eumaeus Buck Mulligan 1895 trials Oscar Wilde James Joyce",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://timesofindia.indiatimes.com/tech-news/Modi-is-a-social-media-wizard-says-US-study/articleshow/47335787.cms",
+        "search": {
+            "id": "ws_68ad5ab9da788197aa2845e8ac1c731e084acd6464667309",
+            "action": {
+                "query": "humour brings happiness best healer site:twitter.com",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://arxiv.org/abs/2301.11182",
+        "search": {
+            "id": "ws_68ad5ac96b9c81949843c8be260e7b5a098e0082a08b8f40",
+            "action": {
+                "query": "\"The rise of\" \"data organization\" \"Traditional research methods are\" \"online catalogues\" \"Semantic Web adoption\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5ad36db88197879459ee56a8ff6603907da729b73fed",
+            "action": {
+                "query": "\"steamship as a contained society\" \"Ship of Fools\" steamship \"shipboard materials\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://arxiv.org/abs/2508.10467",
+        "search": {
+            "id": "ws_68ad5add31608193b3e99273423f575d0f3f94b8ad2ebee8",
+            "action": {
+                "query": "Attempts have been made to develop something for constructing SPARQL queries and use of AI chatbots",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7857126/",
+        "search": {
+            "id": "ws_68ad5ae7b7dc8194a5f337cb9653f25f0574b003ccbec613",
+            "action": {
+                "query": "Technologies needed to make use of the knowledge in a certain way were identified. The article is divided into sections based on something. The system's scale is similar to something.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://olh.openlibhums.org/article/id/10801/",
+        "search": {
+            "id": "ws_68ad5af0d3448196a729206928237a750b744ba79fd8f81e",
+            "action": {
+                "query": "Desk Based Assessment medieval Lincoln \"The Archaeology of Wigford and the Brayford Pool\" \"The City by the Pool\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://olh.openlibhums.org/articles/10.16995/olh.10172/",
+        "search": {
+            "id": "ws_68ad5afb1c888195bbc6c02a2d63150b0b35d748ee391841",
+            "action": {
+                "query": "Amber Film and Photography Collective transcended perceives commitment to Realism problem filmmaking strategies",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://henry-moore.org/discover-and-research/discover-henry-moore/henry-moores-story/",
+        "search": {
+            "id": "ws_68ad5b02a4e08193ab1f21f6fca961850c517718a993d769",
+            "action": {
+                "query": "Family Group is something artwork location Shelter Drawings assigned",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://olh.openlibhums.org/article/id/10477/",
+        "search": {
+            "id": "ws_68ad5b0d9d208195ae2fc937974fd3ce0efe73ad8d6d6195",
+            "action": {
+                "query": "Ruth Ronen spatial arrangements mimetic dramatic space frames theory",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://utsvertigo.com.au/discover/saint-sebastian-and-his-kind",
+        "search": {
+            "id": "ws_68ad5b16bb388190aed2fc46fdf29c030ff1be059d4a7fe4",
+            "action": {
+                "query": "Wilde reminded his audience of Europe\u2019s debt to the sorrow of a single Florentine in exile at Verona and Wilde as a Saint Sebastian, redeemed by suffering",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5b22228c8193a8222e395cba2b9b0d06937c6a79e222",
+            "action": {
+                "query": "\"De Profundis\" dehumanizing anguish extra-judicial punishments Joyce's initial thoughts literary reinventions",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://en.wikipedia.org/wiki/Ancestors_Legacy",
+        "search": {
+            "id": "ws_68ad5b2a538481909ad3e2d06524974905950c4004adf15e",
+            "action": {
+                "query": "Ancestors Legacy real-time strategy video game players operate defeat opponents developed published",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://architizer.com/blog/inspiration/stories/gesamtkunstwerk-how-architects-can-fuse-brief-cultural-context/",
+        "search": {
+            "id": "ws_68ad5b3163ec819592edd5eb595a945902b9384e447c2f6a",
+            "action": {
+                "query": "Gesamtkunstwerk current state application desire differences conditions contexts",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5b3aca7481959d28c3b6a0c4976f0b663fa8d697d4c2",
+            "action": {
+                "query": "glossed version of the Benedictine Rule animus anima soul engage required",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

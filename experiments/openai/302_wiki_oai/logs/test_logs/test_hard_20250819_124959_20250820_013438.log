@@ -1,0 +1,1505 @@
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch%2C_Vienna) 
+The Last Judgment (Bosch, Vienna) 
+Someone is depicted in a certain location in a certain way.
+
+A certain area in a certain state contrasts with the rest of something in a certain way.
+
+A certain group of people are treated in a certain way in a certain location. 
+St. James is depicted on the left shutter as a pilgrim in a wicked land with a hanged man.
+
+The bright blue celestial zone contrasts with the rest of the panel.
+
+The Gluttonous are specifically forced to eat impure food in the central panel.
+
+**********Web Search Result**********
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4059347/
+
+{
+    "id": "ws_68a4b3fb2e048190b806e8fd30bdbf1702a7779a450d4c22",
+    "action": {
+        "query": "depicted in location contrast area state treated group location",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone is depicted in a certain location in a certain way.' is supported by the citation.
+<accept> The document explicitly mentions groups of people (e.g., "African Americans," "Hispanics") in specific locations (e.g., "Michigan," "New Jersey") and describes their behavior or characteristics regarding cancer screening (e.g., "significantly more likely than whites to utilize CRC screening," "higher probability of both BC and CRC screening than whites"). This directly matches the information "Someone is depicted in a certain location in a certain way." </accept>
+
+**********Source Check**********
+
+The claim 'A certain area in a certain state contrasts with the rest of something in a certain way.' is supported by the citation.
+<accept> The content explicitly states that Michigan and New Jersey are examples of states where minority disparities in cancer screening with whites are "reversed," meaning minorities are more likely to be screened than whites. This contrasts with the majority of states where minorities have lower screening rates, thereby showing how a "certain area in a certain state contrasts with the rest of something in a certain way." For instance, it says: "our results suggest that in Michigan, this disparity in CRC screening has been reversed for African Americans," and "However, our results suggest that in New Jersey, this disparity in BC and CRC screening has been reversed for Hispanics." It also explicitly summarizes this by stating: "Although the majority of the states showed lower BC and CRC screening rates for African Americans and Hispanics than whites, consistent with the national benchmark, our findings demonstrate that minority disparities with whites are reversed in some states, such as Michigan and New Jersey." </accept>
+
+**********Source Check**********
+
+The claim 'A certain group of people are treated in a certain way in a certain location.' is supported by the citation.
+<accept> The article explicitly mentions instances where specific groups of people (e.g., African Americans, Hispanics) are treated in a certain way (e.g., significantly more likely or less likely to utilize cancer screening compared to whites) in certain locations (e.g., Michigan, New Jersey, other specific states). For example, the abstract states: "We find that African Americans in Michigan and Hispanics in New Jersey are significantly more likely than whites to utilize CRC screening". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'St. James is depicted on the left shutter as a pilgrim in a wicked land with a hanged man.' is supported by the original webpage.
+<accept> The text explicitly states under the "Shutters" section that "At left is St. James in pilgrimage within a wicked land with a hanged man". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The bright blue celestial zone contrasts with the rest of the panel.' is supported by the original webpage.
+<accept> The text explicitly states, "The celestial zone, painted in a bright blue, contrasts with the rest of the panel..." under the "Central panel" section, which matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Gluttonous are specifically forced to eat impure food in the central panel.' is supported by the original webpage.
+<accept> The text explicitly states in the "Central panel" section that among the punishments, "the damned are... forced to eat impure food (the Gluttonous)". This confirms that the Gluttonous are specifically forced to eat impure food in the central panel. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/John_Rooney_(footballer) 
+John Rooney (footballer) 
+A particular season was brought to an early end.
+
+A specific team was removed from contention at a certain stage of the competition by another rival team.
+
+Another specific team won against a certain opponent by a definite score to secure a particular championship. 
+The 2019-20 season was curtailed.
+
+Orlando City was eliminated in the Semi-final of the Playoffs by the Wilmington Hammerheads.
+
+Orlando City defeated the Charleston Battery 4-0 to secure the 2012 Regular season title.
+
+**********Web Search Result**********
+
+https://www.sportingnews.com/us/other-sports/list/most-unlikely-champions-playoff-runs-sports-history/1r458oih6jkx01clpcvv7f8nno
+
+{
+    "id": "ws_68a4b40797908190aa4ff262895285520694e37e82b7e232",
+    "action": {
+        "query": "season ended early team removed from contention championship won against specific score",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A particular season was brought to an early end.' is NOT supported by the citation.
+<reject> The provided content discusses sports news, player retirements due to injuries (like John Wall), trade rumors, and game results. It does not contain any explicit mention of a "particular season" being brought to an early end. While John Wall's career was impacted by injuries, it doesn't state a specific *season* of a sport was ended early. </reject>
+
+**********Source Check**********
+
+The claim 'A specific team was removed from contention at a certain stage of the competition by another rival team.' is NOT supported by the citation.
+<reject> The content discusses various sports news, including game previews, player movements, and team decisions, but it does not contain any explicit mention of a specific team being removed from contention at a certain stage of a competition by another rival team. </reject>
+
+**********Source Check**********
+
+The claim 'Another specific team won against a certain opponent by a definite score to secure a particular championship.' is NOT supported by the citation.
+<reject> The webpage mentions "Portugal's Nations League success ends Ronaldo's trophy drought," which implies a team (Portugal) won a championship (Nations League). However, it does not mention the specific opponent or the definite score of that win, which are required by the information. Other mentions of championships or championship games (e.g., "Last year's national championship game," "1990s Cowboys dynasty," "Astros...made the World Series") also do not provide all the specific details (team, opponent, and definite score of a win) required by the information. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Rough_Guide_to_the_Music_of_Afghanistan 
+The Rough Guide to the Music of Afghanistan 
+Disc Two of the album contains a certain number of songs.
+
+Disc One of the album contains a different number of recordings.
+
+The total length of the album spans a certain amount of time. 
+Disc Two of the album contains 8 tracks.
+
+Disc One of the album contains 15 tracks.
+
+The total length of the album is 112 minutes and 55 seconds.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/The_Complete_U2
+
+{
+    "id": "ws_68a4b413eb1081979a98b11dd21713d60cf6cf22d317b2a9",
+    "action": {
+        "query": "Disc Two number of songs Disc One number of recordings total album length ",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Disc Two of the album contains a certain number of songs.' is supported by the citation.
+<accept> The "Disc list" table explicitly shows that "Disc 2", titled "_Three_", contains "3" tracks. </accept>
+
+**********Source Check**********
+
+The claim 'Disc One of the album contains a different number of recordings.' is supported by the citation.
+<accept> The "Disc list" table explicitly states that Disc 1 ("Another Day") contains "2" tracks. This number is indeed different from the total number of tracks for the entire box set (446 tracks) and also different from the number of tracks on many other discs listed in the table (e.g., Disc 6 has 11 tracks, Disc 64 has 18 tracks). </accept>
+
+**********Source Check**********
+
+The claim 'The total length of the album spans a certain amount of time.' is supported by the citation.
+<accept> The "Disc list" table explicitly states the "Total:" length of the box set as "28:00:00 (approx.)". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Disc Two of the album contains 8 tracks.' is supported by the original webpage.
+<accept> The "Track listing" section of the content explicitly lists 8 tracks under the "Disc Two" heading, numbered 1 through 8. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Disc One of the album contains 15 tracks.' is supported by the original webpage.
+<accept> The "Track listing" section explicitly lists 15 tracks under "Disc One", confirming the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The total length of the album is 112 minutes and 55 seconds.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the album's infobox under "Length" as "112:55". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Legally_Blonde%3A_The_Musical%3A_The_Search_for_Elle_Woods 
+Legally Blonde: The Musical: The Search for Elle Woods 
+There was no reward in a certain episode.
+
+Someone served as a judge or mentor.
+
+Celina Carvajal's hometown is a certain place. 
+There was no reward in Episode 1.
+
+Denis Jones served as a judge or mentor.
+
+Celina Carvajal's hometown is San Francisco, California.
+
+**********Web Search Result**********
+
+https://www.realitytvworld.com/realitytvdb/legally-blonde-the-musical-the-search-for-elle-woods
+
+{
+    "id": "ws_68a4b41f20f081949a81a3b984e11a2906427cddbe8dae7a",
+    "action": {
+        "query": "Celina Carvajal no reward episode judge mentor hometown",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'There was no reward in a certain episode.' is supported by the citation.
+<accept> The "Rewards/Gifts" section explicitly states "Episode 1: None", indicating there was no reward in that particular episode. </accept>
+
+**********Source Check**********
+
+The claim 'Someone served as a judge or mentor.' is supported by the citation.
+<accept> The webpage has a dedicated section titled "Judges and mentors" which lists several individuals who served in these roles for the show "Legally Blonde The Musical: The Search for Elle Woods". It also states earlier in the text that "A three-judge panel made the elimination decisions." </accept>
+
+**********Source Check**********
+
+The claim 'Celina Carvajal's hometown is a certain place.' is supported by the citation.
+<accept> The "Contestants" table explicitly lists Celina Carvajal with her hometown as "San Francisco". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'There was no reward in Episode 1.' is supported by the original webpage.
+<accept> The "Rewards/Gifts" section explicitly states "Episode 1: None", directly supporting the claim that there was no reward in Episode 1. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Denis Jones served as a judge or mentor.' is supported by the original webpage.
+<accept> The content explicitly lists "Denis Jones" under the "Judges and mentors" section, stating his role as "Associate Choreographer of _Legally Blonde: The Musical_." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Celina Carvajal's hometown is San Francisco, California.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "Contestants" table, which lists "Celina Carvajal" with "San Francisco, California" under the "Hometown" column. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Manj%C5%AB 
+Manjū 
+The "Omanjū Dokoro" signboard is now in possession of something in a certain location.
+
+Enni built something in a certain place after returning from China.
+
+The teahouse owner was kind to Enni when he went on takuhatsu (begging rounds) around something. 
+The "Omanjū Dokoro" signboard is now in possession of Toraya Kurokawa in Akasaka, Tokyo.
+
+Enni built Joten-ji, a temple of the Rinzai sect in Hakata, after returning from China.
+
+The teahouse owner was kind to Enni when he went on takuhatsu (begging rounds) around Mount Aratsu.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b429e6b48194bc2f94a50f7ec1450c2e8735090fd760",
+    "action": {
+        "query": "Omanj\u016b Dokoro signboard possession Enni built after returning from China teahouse owner kind Enni takuhatsu",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks 
+Stephen Malkmus and the Jicks 
+Real Emotional Trash was released at a certain time.
+
+Face the Truth received something in a certain state.
+
+Real Emotional Trash was received in a certain way. 
+*Real Emotional Trash* was released on March 4, 2008.
+
+*Face the Truth* received widely positive reviews.
+
+*Real Emotional Trash* received generally positive reviews.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4424e4881949e78b7d1f65a71d6031d449a813e4cad",
+    "action": {
+        "query": "\"Real Emotional Trash\" release date \"Face the Truth\" received \"Real Emotional Trash\" reception",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Air_raids_on_Semarang%E2%80%93Salatiga%E2%80%93Ambarawa 
+Air raids on Semarang–Salatiga–Ambarawa 
+Something could not be repaired in time for the raid.
+
+A certain number of people were killed at a certain location.
+
+A certain piece of equipment could not be mounted on a certain vehicle. 
+The machine gun synchronization system in the Ki-43 could not be repaired in time for the raid.
+
+Seven people were killed at the Port of Tanjung Emas.
+
+A defensive machine gun could not be mounted on Sutarjo Sigit's K5Y1.
+
+**********Web Search Result**********
+
+https://nationalinterest.org/blog/buzz/disaster-5-us-special-forces-raids-went-bad-47607
+
+{
+    "id": "ws_68a4b4555ff88190b4da37464596b8350deaddf987cc0c65",
+    "action": {
+        "query": "Something could not be repaired in time for the raid. A certain number of people were killed at a certain location. A certain piece of equipment could not be mounted on a certain vehicle.",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something could not be repaired in time for the raid.' is supported by the citation.
+<accept> The text states under "Operation Eagle Claw: Escape from Tehran" that "Mechanical problems affected several of the choppers, leaving the contingent with too few aircraft to successfully pull off the operation." This implies that the mechanical issues (something broken) were not resolved in time for the raid to proceed as planned. </accept>
+
+**********Source Check**********
+
+The claim 'A certain number of people were killed at a certain location.' is supported by the citation.
+<accept> The content explicitly mentions multiple instances where a specific number of people were killed at certain locations. For example, "Altogether, thirty of the Marines committed to the operation died" at "Makin Atoll," "only twenty-one left the hill alive" at "Hill 205" in "North Korea," "killing eight servicemen" during "Operation Eagle Claw" in "Tehran," "thirteen of the nineteen U.S. dead from the Grenada invasion were special operators" in "Grenada," and "the loss of nineteen American operators and the death of upwards of a thousand Somalis" in "Mogadishu." </accept>
+
+**********Source Check**********
+
+The claim 'A certain piece of equipment could not be mounted on a certain vehicle.' is NOT supported by the citation.
+<reject> The provided text details several special operations missions and the challenges faced, including mechanical problems with helicopters, vehicles struggling to find targets, and crashes. However, it does not explicitly mention that "a certain piece of equipment could not be mounted on a certain vehicle." </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2016 
+Pro Evolution Soccer 2016 
+The standalone re-release was for something.
+
+"myClub Legends" allows the acquisition of someone.
+
+The ten non-qualifying national teams are something. 
+The standalone re-release was for PlayStation 4 and PlayStation 3.
+
+"myClub Legends" allows the acquisition of classic players.
+
+The ten non-qualifying national teams are Bosnia and Herzegovina, Bulgaria, Denmark, Greece, Israel, Netherlands, Norway, Scotland, Serbia, and Slovenia.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4629f948194a84351363cf41274029a278bb75dd318",
+    "action": {
+        "query": "standalone re-release was for something \"myClub Legends\" allows the acquisition of someone ten non-qualifying national teams",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/One_True_King 
+One True King 
+Someone's resignation was in light of certain allegations.
+
+The team's performance qualified them for something.
+
+According to someone, a certain investigation did not find direct evidence that someone else attempted to act in a certain way. 
+Rich Campbell's resignation was in light of sexual assault allegations.
+
+The team's performance qualified them for the Regional Circuit Championships.
+
+According to the Texas-based law firm Jackson Walker, the investigation's counsel did not find direct evidence that Mizkif attempted to minimize or cover up sexual assault.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b46efd3481939525d1db0767ad9a0eb2a3222c57e52c",
+    "action": {
+        "query": "resignation in light of allegations performance qualified investigation no direct evidence",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Torsion_siege_engine 
+Torsion siege engine 
+A certain number of balls were found in a certain location.
+
+Some devices could be affected in a certain way by something.
+
+A problem was addressed in a certain way by adding certain objects in certain parts of something. 
+Over 200 balls were found in Tel Dor (Israel).
+
+Animal tissue devices could be severely affected by changing weather.
+
+This problem was solved by adding metal washers in the holes of the frames.
+
+**********Web Search Result**********
+
+https://patents.justia.com/patent/10639529
+
+{
+    "id": "ws_68a4b47dd4f48194a029d3ffcf3c971d0f7f7ccedc3d6572",
+    "action": {
+        "query": "\"number of balls found\" \"devices could be affected\" \"problem was addressed by adding\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A certain number of balls were found in a certain location.' is NOT supported by the citation.
+<reject> The information "A certain number of balls were found in a certain location" is not explicitly mentioned. While the text describes a system that tracks, dispenses, detects, and collects a "plurality of balls" in various "locations" (hitting bays, targets, failed ball holders), it does not use the phrasing "found in a certain location" to imply a discovery of an unknown quantity in an unspecified place. Instead, it details the controlled and known processes of ball management within the system. </reject>
+
+**********Source Check**********
+
+The claim 'Some devices could be affected in a certain way by something.' is supported by the citation.
+<accept> The content explicitly states: "The probability of having an unidentifiable ball may never be zero because the traumatic hit of a golf club to a golf ball with imbedded electronics, such as an RFID tag, is likely to eventually cause a failure." This directly mentions that RFID tags (devices) can be affected (cause a failure) by something (the traumatic hit of a golf club). </accept>
+
+**********Source Check**********
+
+The claim 'A problem was addressed in a certain way by adding certain objects in certain parts of something.' is supported by the citation.
+<accept> The document explicitly mentions a problem with tracking golf balls and the need for higher accuracy in wagering systems. It describes how this problem is addressed by "embedding Radio Frequency Identification Devices (“RFIDs”) in golf balls." Here, RFIDs are the "certain objects" added "in" "golf balls" (certain parts of something) to solve the "problem" of tracking accuracy. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m 
+Daniel Lindström 
+A certain song was released in a certain year.
+
+Another song was released in another year.
+
+A specific song is featured on someone's album, a certain album. 
+The single "Caught in that Feeling" was released in 2008.
+
+The single "My Love Won't Let You Down" was released in 2005.
+
+The song "Let It Go" is featured on Jacky Cheung’s album "Private Corner".
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Love_Again_%28Dua_Lipa_song%29
+
+{
+    "id": "ws_68a4b4871e888195a89edc89d2e4a2b003e4538d3d8584c0",
+    "action": {
+        "query": "song released in year another song released in different year specific song on album",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A certain song was released in a certain year.' is supported by the citation.
+<accept> The infobox for the song "Love Again" explicitly states "Released | 11 March 2021". The "Release and promotion" section also mentions it was sent for radio airplay in France on 11 March 2021 and released for digital download and streaming globally on 4 June 2021. </accept>
+
+**********Source Check**********
+
+The claim 'Another song was released in another year.' is supported by the citation.
+<accept> The content mentions several other songs with their release years, and some of these years are different from the release year of "Love Again". For example, "My Woman" was released in 1932, and "Don't Start Now" was released in 2019. </accept>
+
+**********Source Check**********
+
+The claim 'A specific song is featured on someone's album, a certain album.' is supported by the citation.
+<accept> The article explicitly states that ""Love Again" is a song by English and Albanian singer Dua Lipa from her second studio album, _Future Nostalgia_ (2020)." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The single "Caught in that Feeling" was released in 2008.' is supported by the original webpage.
+<accept> The "Singles" section of the discography explicitly lists "Caught in that Feeling" as being released in 2008. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The single "My Love Won't Let You Down" was released in 2005.' is supported by the original webpage.
+<accept> The "Singles" section of the discography explicitly lists "My Love Won't Let You Down" with the year "2005". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The song "Let It Go" is featured on Jacky Cheung’s album "Private Corner".' is supported by the original webpage.
+<accept> The text explicitly states under the "Songwriting in Asia" section: "Lindstrom is a co-writer of “ Let It Go ” by Jacky Cheung on Cheung’s “ Private Corner” album." This confirms that the song "Let It Go" is featured on Jacky Cheung’s album "Private Corner". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Norway_during_the_Great_Northern_War 
+Norway during the Great Northern War 
+Someone surrounded himself with people in a certain state.
+
+Something took place in a certain location.
+
+Something was founded at a certain time. 
+Frederick IV surrounded himself with ministers and advisers of humble origin.
+
+The Battle of Poltava took place in modern-day Ukraine.
+
+The city of St. Petersburg was founded between 1703 and 1707.
+
+**********Web Search Result**********
+
+https://www.archives.gov/founding-docs/more-perfect-union
+
+{
+    "id": "ws_68a4b490e9e081948e5139c93e8a15ec09e8a6d660d6f981",
+    "action": {
+        "query": "surrounded himself with people in state, took place in location, founded at time",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone surrounded himself with people in a certain state.' is NOT supported by the citation.
+<reject> The text describes various individuals and groups of people (e.g., delegates, farmers, Federalists, anti-Federalists) and their characteristics, beliefs, or actions. It also describes the general state of the country (e.g., economic disaster, fear of anarchy). However, it does not explicitly state that "someone surrounded himself with people in a certain state" (meaning a particular condition or situation). While the text describes the delegates as being "weary" or having "diverse prejudices and interests," it does not phrase it as an individual *surrounding themselves* with people who are *in* such a state. </reject>
+
+**********Source Check**********
+
+The claim 'Something took place in a certain location.' is supported by the citation.
+<accept> The text explicitly mentions numerous events and the locations where they occurred, such as the Constitutional Convention starting at the Pennsylvania State House in Philadelphia, a convention taking place in Annapolis, MD, and the Constitution and Declaration being moved to Fort Knox. </accept>
+
+**********Source Check**********
+
+The claim 'Something was founded at a certain time.' is supported by the citation.
+<accept> The text states that the "Articles of Confederation" were "established" in 1781: "In force since 1781, established as a 'league of friendship' and a constitution for the 13 sovereign and independent states after the Revolution, the articles seemed to Madison woefully inadequate." </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Jacob_Bekenstein 
+Jacob Bekenstein 
+A certain theory was developed in the early 1970s.
+
+A certain institution is now known as another institution.
+
+TeVeS stands for a certain term. 
+The no-hair theorem was developed in the early 1970s.
+
+The Polytechnic Institute of Brooklyn is now known as the New York University Tandon School of Engineering.
+
+TeVeS stands for Tensor/Vector/Scalar.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b49d82888197abda51ae596bc9f408dfbb9633c84216",
+    "action": {
+        "query": "theory developed in early 1970s institution now known as TeVeS stands for",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Tennessee_Volunteers_football 
+Tennessee Volunteers football 
+The idea for the checkerboard design was inspired by something.
+
+A certain jersey number worn by someone was retired in a certain year.
+
+Some people died in service during a certain event. 
+The idea for the checkerboard design was inspired by the checkerboard design around the top of the clock tower at the historic Ayres Hall.
+
+Jersey number 49 (Rudy Klarer, G, 1941–1942) was retired in 1946.
+
+Billy Nowling, Rudy Klarer, Willis Tucker, and Clyde Fuson died in service during World War II.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4a71218819090aeb584bf0abb4f04f5317392eb344e",
+    "action": {
+        "query": "checkerboard design inspiration jersey number retired year people died in service",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy 
+1971–72 Ranji Trophy 
+Someone earned some number of points in a certain zone of a specific tournament stage.
+
+Another team earned a different number of points in another zone of a particular competition phase.
+
+A third team earned a specific point value in a particular zone of a defined group stage. 
+Hyderabad earned 30 points in the South Zone of the 1971–72 Ranji Trophy group stage.
+
+Madhya Pradesh earned 19 points in the Central Zone of the 1971–72 Ranji Trophy group stage.
+
+Punjab earned 16 points in the North Zone of the 1971–72 Ranji Trophy group stage.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4b479848196a04ed6d4747cb8710f3fa53d78330bd0",
+    "action": {
+        "query": "tournament stage zone points group stage points competition phase points",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_2%3A_A_New_Menace 
+Cyber Citizen Shockman 2: A New Menace 
+Someone's a certain name is another name.
+
+Someone else's some other name is a different name.
+
+A particular person had a continuous suspicion that a certain event was imminent following a specific occurrence. 
+Jeeta's Japanese name is Bēta.
+
+Sonya's Japanese name is Kyapiko.
+
+Doc consistently suspected another invasion was coming after the fall of the Dark Skull.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4bdd5e4819385bd110e5afc625601e4ecaf98263dfb",
+    "action": {
+        "query": "\"Someone's a certain name is another name\" \"Someone else's some other name is a different name\" \"A particular person had a continuous suspicion that a certain event was imminent following a specific occurrence\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_(TV_series) 
+The Witches and the Grinnygog (TV series) 
+An individual wrote some written information in a particular format.
+
+An inanimate object appears to perform an autonomous action.
+
+A young person is in a vulnerable condition, lacking a parental figure. 
+The elder wrote an account of the event in a journal.
+
+The mannequin appears to walk by itself at one point.
+
+The daughter is lost without her mother.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4c7d89081948dbd7cb6c07aa03208ce57e303889f1d",
+    "action": {
+        "query": "written information in a particular format autonomous action inanimate object vulnerable young person lacking parental figure",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Interleukin_7 
+Interleukin 7 
+The determination of IL-7's three-dimensional structure was performed in a certain way.
+
+Hematological malignancies include something.
+
+Hematological malignancies include something else. 
+The determination of IL-7's three-dimensional structure was performed using X-ray diffraction.
+
+Hematological malignancies include T cell lymphoma.
+
+Hematological malignancies include acute lymphoblastic leukemia.
+
+**********Web Search Result**********
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654238/
+
+{
+    "id": "ws_68a4b4cfd9548195a1a51c7683a81764057aef8903d8cea4",
+    "action": {
+        "query": "IL-7 three-dimensional structure determination hematological malignancies",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The determination of IL-7's three-dimensional structure was performed in a certain way.' is supported by the citation.
+<accept> The content explicitly details the methods used for the determination of IL-7's three-dimensional structure under the "IL-7/IL-7Rα Crystal Structure Determinations" and "Crystallization, Data Collection, and Structure Determination" sections. It specifies that the unglycosylated complex structure was solved using a 3-wavelength MAD dataset with selenomethionine, and the glycosylated complex structure was solved by combining phases of a Pt-derivative with a molecular replacement solution. Various software and techniques like ShelxD, autoSharp, Resolve, DM, SIGMAA, Coot, CNS 1.2, EPMR, SIRAS strategy, Molprobity, CCP4, and Pisa are mentioned in the process. </accept>
+
+**********Source Check**********
+
+The claim 'Hematological malignancies include something.' is NOT supported by the citation.
+<reject> The webpage mentions "proliferation of cancers" in the context of overstimulation of pathways, but it does not specifically mention "Hematological malignancies" by name, nor does it list what specific conditions or diseases fall under this category. </reject>
+
+**********Source Check**********
+
+The claim 'Hematological malignancies include something else.' is NOT supported by the citation.
+<reject> The text mentions "proliferation of cancers" as a result of pathway overstimulation, but it does not specifically mention "hematological malignancies" or state what they include. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus 
+Panulirus echinatus 
+Female _Panulirus echinatus_ carry something in a certain way.
+
+Male _Panulirus echinatus_ are in a certain state than females.
+
+Male _Panulirus echinatus_ act in a certain way during the breeding season. 
+Female _Panulirus echinatus_ carry their egg mass for several months until the eggs hatch.
+
+Male _Panulirus echinatus_ are generally heavier than females.
+
+Male _Panulirus echinatus_ do not change their feeding behavior during the breeding season.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus
+
+{
+    "id": "ws_68a4b4d8d6e48193b7d11778e0f46d38074dbe8a1f808df3",
+    "action": {
+        "query": "Female Panulirus echinatus carry Male Panulirus echinatus state behavior breeding season",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Female _Panulirus echinatus_ carry something in a certain way.' is supported by the citation.
+<accept> The content explicitly states under the "Biology" section: "Females carry their egg mass around on their abdomens, under their tails, for several months until the eggs hatch." This describes how female _Panulirus echinatus_ carry something (egg mass) in a certain way (on their abdomens, under their tails). </accept>
+
+**********Source Check**********
+
+The claim 'Male _Panulirus echinatus_ are in a certain state than females.' is supported by the citation.
+<accept> The content explicitly states that "Males are in general more numerous, larger and heavier than females" and that "Males do not change their feeding behaviour during the breeding season" in contrast to females. These describe certain states of male _Panulirus echinatus_ relative to females. </accept>
+
+**********Source Check**********
+
+The claim 'Male _Panulirus echinatus_ act in a certain way during the breeding season.' is supported by the citation.
+<accept> The text explicitly states that "Males do not change their feeding behaviour during the breeding season" in the "Biology" section, which describes a specific behavior of male _Panulirus echinatus_ during that period. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Female _Panulirus echinatus_ carry their egg mass for several months until the eggs hatch.' is supported by the original webpage.
+<accept> The text explicitly states in the "Biology" section: "Females carry their egg mass around on their abdomens, under their tails, for several months until the eggs hatch." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Male _Panulirus echinatus_ are generally heavier than females.' is supported by the original webpage.
+<accept> The text explicitly states in the "Description" section: "Males are in general more numerous, larger and heavier than females but this may be because of behavioural differences, with females feeding less during the breeding season." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Male _Panulirus echinatus_ do not change their feeding behavior during the breeding season.' is supported by the original webpage.
+<accept> The text explicitly states under the "Biology" section: "Males do not change their feeding behaviour during the breeding season." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Parentia 
+Parentia 
+_Parentia_ belongs to a certain phylum.
+
+_Parentia_ belongs to a certain kingdom.
+
+Parent identified something in 1932. 
+_Parentia_ belongs to the Phylum Arthropoda.
+
+_Parentia_ belongs to the Kingdom Animalia.
+
+Parent identified _Condylostylus separatus_ in 1932.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b4e5916c8194bec5d7ecc081086a0d9454f9d95b6214",
+    "action": {
+        "query": "Parentia phylum kingdom Parent 1932",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Brennan%2C_Baron_Brennan 
+Daniel Brennan, Baron Brennan 
+The APPG on Legal and Constitutional Affairs focuses in a certain way.
+
+Someone is in a certain state.
+
+Something is a certain kind of something. 
+The APPG on Legal and Constitutional Affairs focuses on the reform of the law and constitution.
+
+Pilar Sánchez Moya is a Spanish national.
+
+Global Financial Integrity is a Washington-based think-tank.
+
+**********Web Search Result**********
+
+The All-Party Parliamentary Group (APPG) on Legal and Constitutional Affairs aims to "raise awareness and build understanding of legal and constitutional issues, and provide a source of debate and expertise on these subjects." ([publications.parliament.uk](https://publications.parliament.uk/pa/cm/cmallparty/231101/legal-and-constitutional-affairs.htm?utm_source=openai))
+
+Catherine Atkinson MP serves as the Chair and Registered Contact for the APPG on Legal and Constitutional Affairs. ([members.parliament.uk](https://members.parliament.uk/member/5143/appgofficerroles?utm_source=openai))
+
+The APPG is jointly supported by The Law Society and the Bar Council, which act as the group's secretariat. ([publications.parliament.uk](https://publications.parliament.uk/pa/cm/cmallparty/231101/legal-and-constitutional-affairs.htm?utm_source=openai))
+
+For more information, you can visit the official register entry for the APPG on Legal and Constitutional Affairs. ([publications.parliament.uk](https://publications.parliament.uk/pa/cm/cmallparty/231101/legal-and-constitutional-affairs.htm?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b4f644c4819699cfa851c89bd101078e8766fe8337d3",
+    "action": {
+        "query": "APPG on Legal and Constitutional Affairs focuses",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H7N9 
+Influenza A virus subtype H7N9 
+All `a certain number of chickens` on the Noxubee farm were euthanized as a precautionary measure to prevent further spread of the virus.
+
+The poultry farm in Terang, Australia, housed `a certain quantity of birds`.
+
+The farm in Noxubee, Mississippi, housed `a certain number of chickens`. 
+All 47,654 chickens on the Noxubee farm were euthanized as a precautionary measure to prevent further spread of the virus.
+
+The poultry farm in Terang, Australia, housed 151,894 birds.
+
+The farm in Noxubee, Mississippi, housed 47,654 chickens.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b50152f48196beda202f98cc0faa0ce230f9f8585f97",
+    "action": {
+        "query": "All chickens on the Noxubee farm were euthanized precautionary measure Terang Australia farm housed birds Noxubee Mississippi housed chickens",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Irish_National_War_Memorial_Gardens 
+Irish National War Memorial Gardens 
+The use of a certain type of equipment was restricted during construction for a specific reason.
+
+The Creosote Stream got its name from a certain kind of substance.
+
+Another bomb detonation attempt was made at a particular time, which failed and resulted in the monument being in a certain condition. 
+The use of mechanical equipment was restricted during construction to provide as much work as possible.
+
+The Creosote Stream got its name from pollutants that used to leach into it from the railway works.
+
+Another bomb detonation attempt was made in October 1958, which failed and resulted in superficial damage.
+
+**********Web Search Result**********
+
+https://www.toxicdocs.org/d/oeK3n3VooNjRqxqJ975OOZ9QE
+
+{
+    "id": "ws_68a4b5106a3481959fb4549e2572e8d606d326fa361daa54",
+    "action": {
+        "query": "\"equipment was restricted during construction\" \"Creosote Stream named after\" \"bomb detonation attempt failed\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The use of a certain type of equipment was restricted during construction for a specific reason.' is NOT supported by the citation.
+<reject> The provided text describes challenges during construction at the Kansas Ordnance Plant, such as heavy rains affecting the use of motor shovels and cranes, and a minor issue with an air compressor's packing. However, it does not state that the use of a *certain type of equipment was restricted* during construction for a *specific reason*. </reject>
+
+**********Source Check**********
+
+The claim 'The Creosote Stream got its name from a certain kind of substance.' is NOT supported by the citation.
+<reject> The provided content does not contain any mention of "Creosote Stream" or its origin. Therefore, it does not state that the Creosote Stream got its name from a certain kind of substance. </reject>
+
+**********Source Check**********
+
+The claim 'Another bomb detonation attempt was made at a particular time, which failed and resulted in the monument being in a certain condition.' is NOT supported by the citation.
+<reject> The provided text describes Johns-Manville's involvement in producing munitions, including bombs and shells, during World War II, particularly at the Kansas Ordnance Plant. It highlights the plant's excellent safety record, stating there was "not one blemish on the safety record" and that large quantities of ammunition were produced "without mishap." There is no mention of a failed bomb detonation attempt or any monument being in a certain condition as a result.</reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Vascular_smooth_muscle 
+Vascular smooth muscle 
+Less widespread usage of beta-2 receptor agonists is due to certain effects.
+
+Atherosclerotic plaque is a certain cause of some conditions.
+
+Usage of beta-2 receptor agonists is less widespread for a certain purpose. 
+Less widespread usage of beta-2 receptor agonists is due to adverse effects such as unnecessary bronchodilation in lungs and an increase in blood sugar levels.
+
+Atherosclerotic plaque is the predominant cause of heart attack and stroke.
+
+Usage of beta-2 receptor agonists as hypotensive agents is less widespread.
+
+**********Web Search Result**********
+
+I was unable to find a single webpage that mentions all of the specified information.
+
+However, I found separate sources that address each point:
+
+1. **Less widespread usage of beta-2 receptor agonists due to certain effects:**
+   - Beta-2 adrenergic agonists can cause adverse effects such as tachycardia, tremor, and anxiety, which may limit their widespread use. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Beta2-adrenergic_agonist?utm_source=openai))
+
+2. **Atherosclerotic plaque is a certain cause of some conditions:**
+   - Atherosclerotic plaques can lead to conditions like coronary artery disease, stroke, and peripheral artery disease. ([mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569?utm_source=openai))
+
+3. **Usage of beta-2 receptor agonists is less widespread for a certain purpose:**
+   - Long-acting beta-2 adrenoceptor agonists (LABAs) are not recommended for the treatment of acute asthma exacerbations due to their slower onset of action compared to short-acting beta-2 agonists. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Long-acting_beta-adrenoceptor_agonist?utm_source=openai))
+
+While these sources address each point individually, I couldn't locate a single webpage encompassing all the specified information.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b52091ac81978933de7cef61b09c0590236ed59ee9bf",
+    "action": {
+        "query": "Less widespread usage of beta-2 receptor agonists due to certain effects Atherosclerotic plaque cause conditions usage of beta-2 receptor agonists less widespread",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Little_Blue_Book 
+Little Blue Book 
+Someone were well represented in the series.
+
+Many letters expressed a certain feeling about something.
+
+This strategy frequently resulted in something. 
+Goethe and Shakespeare were well represented in the series.
+
+Many letters expressed satisfaction with the venture.
+
+This strategy frequently resulted in a hit.
+
+**********Web Search Result**********
+
+https://sec45.weebly.com/strategies.html
+
+{
+    "id": "ws_68a4b532d5b48194ae24086f851440010ec81ee6ac010d16",
+    "action": {
+        "query": "Someone were well represented in the series. Many letters expressed a certain feeling about something. This strategy frequently resulted in something.",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone were well represented in the series.' is NOT supported by the citation.
+<reject> The provided text describes various teaching strategies for English Language Arts and Social Studies. It discusses how these strategies help students with vocabulary, comprehension, and writing. However, there is no mention of "someone" or any group being "well represented" in a "series" within the content. </reject>
+
+**********Source Check**********
+
+The claim 'Many letters expressed a certain feeling about something.' is supported by the citation.
+<accept> The section "E. Unsent Letter" explicitly states that students will "write letters" in which they "develop a certain opinion on a topic" and "write their opinion and view points." An opinion or viewpoint can be considered a type of feeling about something. </accept>
+
+**********Source Check**********
+
+The claim 'This strategy frequently resulted in something.' is NOT supported by the citation.
+<reject> The provided text describes several teaching strategies and their intended benefits or what the teacher hopes to accomplish with them. It does not state that any specific strategy "frequently resulted in something." The language used focuses on the purpose, benefits, and desired outcomes, not on historical or frequent results. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/By_the_Way%2C_I_Forgive_You 
+By the Way, I Forgive You 
+The song "Fulton County Jane Doe" is based on a certain event.
+
+A portion of the profits from the "Party of One" remix was announced to benefit a certain organization.
+
+Someone performed drums. 
+The song "Fulton County Jane Doe" is based on the real-life story of an unidentified murder victim in Fulton County, Georgia.
+
+A portion of the profits from the "Party of One" remix was announced to benefit Children In Conflict, a non-profit organization aiding children affected by war.
+
+Chris Powell performed drums.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b53eed2c81979d4636c46030ca260c8b38b6e1a790f9",
+    "action": {
+        "query": "\"Fulton County Jane Doe\" song event \"Party of One\" remix profits drums",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Adela_of_Normandy 
+Adela of Normandy 
+Stephen Henry was under an obligation to someone for agreements made years earlier.
+
+Henry sponsored hundreds of constructions, including something.
+
+Lucia-Mahaut's husband also drowned in something. 
+Stephen Henry was under an obligation to the pope for agreements made years earlier.
+
+Henry sponsored hundreds of constructions, including bridges, canals, palaces, forts, castles, and whole villages.
+
+Lucia-Mahaut's husband also drowned in the White Ship disaster.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b5492124819597213a8ff3caf3880b7f5a5137f032ce",
+    "action": {
+        "query": "Stephen Henry obligation agreements years earlier Henry sponsored hundreds of constructions Lucia-Mahaut's husband drowned",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Umberto_Blasi 
+Umberto Blasi 
+Something at a certain location was subsequently believed to have been a certain measurement.
+
+The supporters behaved in a specific manner and attempted a certain action towards someone.
+
+That person was from a certain city. 
+The 20-mile race at the Rocky Point baseball grounds was subsequently believed to have been considerably less than 18 miles.
+
+The supporters crowded the track and attempted to trip the leader, Patrick Dineen.
+
+Patrick Dineen was from Boston.
+
+**********Web Search Result**********
+
+https://www.chicagohistoryresources.org/hadc/transcript/supreme/000-050/S001-220.htm
+
+{
+    "id": "ws_68a4b551ce248193a50aec673ed9dbf507f2b4020e87037c",
+    "action": {
+        "query": "\"Something at a certain location was subsequently believed to have been a certain measurement\" AND \"The supporters behaved in a specific manner and attempted a certain action towards someone\" AND \"That person was from a certain city\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something at a certain location was subsequently believed to have been a certain measurement.' is supported by the citation.
+<accept> The text states that Zeller, a witness for the defense, observed the bomb "going through the air" and subsequently described its measurement as "about as big as a baseball," explicitly mentioning the bomb (something), the Haymarket (implied location of the bomb's trajectory), the subsequent belief (witness testimony), and the measurement (size comparison). </accept>
+
+**********Source Check**********
+
+The claim 'The supporters behaved in a specific manner and attempted a certain action towards someone.' is supported by the citation.
+<accept> The content explicitly mentions that supporters, identified as members of the International Workingmen's Association and sympathetic workingmen, behaved in specific manners such as arming themselves, drilling, and manufacturing bombs. It details their attempted actions, including plans to throw bombs into police stations, shoot policemen, destroy property, and specifically describes the actual throwing of a dynamite bomb among policemen and the firing of pistol shots during the Haymarket incident, resulting in deaths and injuries to police officers. </accept>
+
+**********Source Check**********
+
+The claim 'That person was from a certain city.' is NOT supported by the citation.
+<reject> The information "That person was from a certain city" is not explicitly mentioned in the content. While the text mentions Louis Linng came "from some place in Germany" (a country, not a city) and describes the various locations and residences of individuals within Chicago, it does not state that any specific person was "from" a certain city as their place of origin. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Eli_Beer 
+Eli Beer 
+Young Global Leaders come from a certain number of countries.
+
+Branches were established in certain regions at a certain time.
+
+Ambucycles do not carry certain types of equipment. 
+Young Global Leaders come from 65 countries.
+
+Branches were established in South America and other countries in 2015.
+
+Ambucycles do not carry a backboard, stair-chair, or bed.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b55f9f288194bcee54be2f50e9d606d9fd7a55f97fe0",
+    "action": {
+        "query": "Young Global Leaders countries branches established regions time ambucycles equipment",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/80th_Birthday_Stadium 
+80th Birthday Stadium 
+The tribunes are in a certain shape around the pitch and running track.
+
+The pitch is known to be in a certain state during the rainy season.
+
+The tribune ring on the covered side rises in a certain way. 
+The tribunes are almost a perfect circle around the pitch and running track.
+
+The pitch is known to drain well during the rainy season.
+
+The tribune ring on the covered side rises to approximately double the height of the tribune it faces.
+
+**********Web Search Result**********
+
+I was unable to find a single webpage that mentions all of the following information:
+
+- The tribunes are in a certain shape around the pitch and running track.
+- The pitch is known to be in a certain state during the rainy season.
+- The tribune ring on the covered side rises in a certain way.
+
+However, I found separate sources that address each point:
+
+1. **Tribunes' Shape Around the Pitch and Running Track**: Modern stadiums are typically oval-shaped with a football pitch at the center surrounded by a running track. ([scribd.com](https://www.scribd.com/document/699255250/Stadiums?utm_source=openai))
+
+2. **Pitch Condition During Rainy Season**: Water logging and ground water lying near the surface of ground tend to create soggy and uneven surfaces which do not permit satisfactory play. ([slideshare.net](https://www.slideshare.net/slideshow/report-on-stadium-constructio2n/55132114?utm_source=openai))
+
+3. **Tribune Ring on the Covered Side Rising**: The arch at a 68-degree tilt from the horizontal supports 5,000 tons of the roof structure. With its load-bearing capabilities, the arch allowed designers to eliminate the need for columns within the interior, which means that every stadium seat has an unobstructed view of the pitch. ([ru.scribd.com](https://ru.scribd.com/presentation/174335615/Stadium-Ppt?utm_source=openai))
+
+Since no single source contains all the specified information, I cannot provide a single webpage that encompasses all three points.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b56a93cc8193b37a508a986a98c60c5fa0c487317884",
+    "action": {
+        "query": "tribunes shape around the pitch running track rainy season tribune ring covered side",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/IEEE_Rebooting_Computing 
+IEEE Rebooting Computing 
+The logo consists of something.
+
+The competition fielded competitors from a certain number of places.
+
+The podcast is updated in a certain way. 
+The logo consists of an exploding infinity symbol.
+
+The competition fielded competitors from four different countries.
+
+The podcast is updated monthly.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b57b30c481908c5d23854be3402a04e58c93746ff595",
+    "action": {
+        "query": "The logo consists of something. The competition fielded competitors from a certain number of places. The podcast is updated in a certain way.",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Marcus_Adams_(footballer) 
+Marcus Adams (footballer) 
+The 2020 AFL season had a certain duration.
+
+The 2020 AFL season's changes in format were due to a specific global event.
+
+The 2020 AFL season had a certain number of games. 
+The 2020 AFL season had 16-minute quarters with time on.
+
+The 2020 AFL season's reduced matches and quarter lengths were due to the impact of the COVID-19 pandemic.
+
+The 2020 AFL season had 17 home-and-away matches per team.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/2020_AFL_season
+
+{
+    "id": "ws_68a4b583e354819096ca16c75ba180ea08b669b626e9fa92",
+    "action": {
+        "query": "2020 AFL season duration changes format global event number of games",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The 2020 AFL season had a certain duration.' is supported by the citation.
+<accept> The content explicitly mentions the duration of the 2020 AFL season in the introductory section, stating, "The season commenced on 19 March and was suspended four days later; it resumed on 11 June and ran until 24 October." This information is also presented in a table under the "Date" field as "19 March – 24 October". </accept>
+
+**********Source Check**********
+
+The claim 'The 2020 AFL season's changes in format were due to a specific global event.' is supported by the citation.
+<accept> The content explicitly states that the 2020 AFL season was "Played during the first year of the COVID-19 pandemic" and details how the format was changed due to "virus outbreaks and interstate travel restrictions" and "Health directives". It also mentions a dedicated section "Impact of the COVID-19 pandemic" which further elaborates on the changes to the fixture, rule changes (shorter game lengths), and relocation of clubs due to the pandemic. </accept>
+
+**********Source Check**********
+
+The claim 'The 2020 AFL season had a certain number of games.' is supported by the citation.
+<accept> The content explicitly states "Matches played | 162" in the infobox, which is a specific number of games for the 2020 AFL season. It also mentions a "17-game home-and-away season followed by a finals series." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The 2020 AFL season had 16-minute quarters with time on.' is supported by the original webpage.
+<accept> The content explicitly states under footnote [a] linked to the 2020 season in the statistics table: "The 2020 season was played with... 16-minute quarters with time on (down from 20-minute quarters with time on) due to the impact of the COVID-19 pandemic." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The 2020 AFL season's reduced matches and quarter lengths were due to the impact of the COVID-19 pandemic.' is supported by the original webpage.
+<accept> The content explicitly states in a note under the "Statistics" section for the 2020 season: "The 2020 season was played with 17 home-and-away matches per team (down from 22) and 16-minute quarters with time on (down from 20-minute quarters with time on) due to the impact of the COVID-19 pandemic." This confirms that the reduced matches and quarter lengths were a direct result of the COVID-19 pandemic. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The 2020 AFL season had 17 home-and-away matches per team.' is supported by the original webpage.
+<accept> The content explicitly states under the "Statistics" section, in a note about the 2020 season, that "The 2020 season was played with 17 home-and-away matches per team". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer 
+Christian Wolkersdorfer 
+Christian Wolkersdorfer gained employment in a particular role after achieving a certain academic milestone.
+
+Christian Wolkersdorfer obtained a specific academic qualification with a certain numerical result.
+
+Christian Wolkersdorfer completed a particular level of schooling at a certain educational facility at a specific point in time. 
+Christian Wolkersdorfer gained employment as a computer operator after his graduation.
+
+Christian Wolkersdorfer obtained the Allgemeine Hochschulreife with a final grade of 1.8.
+
+Christian Wolkersdorfer completed his secondary education at Gymnasium Roth in 1984.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer
+
+{
+    "id": "ws_68a4b591aed88196800239f11ccf32bf0b0b5b40cc2282ce",
+    "action": {
+        "query": "Christian Wolkersdorfer academic achievement employment schooling",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer gained employment in a particular role after achieving a certain academic milestone.' is supported by the citation.
+<accept> The text states, "After completing his PhD on hydrogeochemical conditions in uranium mine water at Technical University Clausthal in November 1995, he obtained a Habilitation at TU Bergakademie Freiberg Germany... Wolkersdorfer began working at TU Bergakademie Freiberg as a DFG-Grant researcher and later as a postdoctoral researcher in 1999." This explicitly mentions him gaining employment (DFG-Grant researcher, postdoctoral researcher) after achieving his PhD and Habilitation, which are academic milestones. </accept>
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer obtained a specific academic qualification with a certain numerical result.' is supported by the citation.
+<accept> The webpage explicitly states that Christian Wolkersdorfer obtained his Allgemeine Hochschulreife with a final grade of 1.8 and graduated with a grade of 1.3 for his master's thesis. </accept>
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer completed a particular level of schooling at a certain educational facility at a specific point in time.' is supported by the citation.
+<accept> The content explicitly states that Christian Wolkersdorfer completed various levels of schooling, including his secondary education (Allgemeine Hochschulreife), attended universities for Geology and Paleontology, completed a master's degree, and obtained a PhD and Habilitation. It specifies the educational facilities for each, such as Gymnasium Roth, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Universität Clausthal, and TU Bergakademie Freiberg, along with the specific years or periods for these achievements (e.g., 1984 for secondary education, 1984-1986 for Erlangen-Nürnberg, 1986-1989 for Clausthal for master's, and November 1995 for his PhD). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer gained employment as a computer operator after his graduation.' is supported by the original webpage.
+<accept> The text explicitly states, "Following his graduation, he gained employment as a computer operator before transitioning to a role as an Engineering geologist for Gesellschaft für Baugeologie und Meßtechnik Limburg, Germany." This confirms that Christian Wolkersdorfer worked as a computer operator after his graduation. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer obtained the Allgemeine Hochschulreife with a final grade of 1.8.' is supported by the original webpage.
+<accept> The text explicitly states in the "Early life and education" section: "In 1984, he completed his secondary education at Gymnasium Roth and obtained the Allgemeine Hochschulreife with a final grade of 1.8." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer completed his secondary education at Gymnasium Roth in 1984.' is supported by the original webpage.
+<accept> The content explicitly states under "Early life and education": "In 1984, he completed his secondary education at Gymnasium Roth and obtained the Allgemeine Hochschulreife with a final grade of 1.8." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/MV_Liberty_Star 
+MV Liberty Star 
+TV _Kings Pointer_ was acquired on a certain date.
+
+Something provides greater response time and maneuverability for the ships.
+
+The double-drum waterfall winch holds a certain amount of wire rope on each drum. 
+TV _Kings Pointer_ was acquired on September 14, 2012.
+
+Controllable pitch provides greater response time and maneuverability for the ships.
+
+The double-drum waterfall winch holds 2,000 feet (610 m) or more of wire rope on each drum.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b59a44288195b1e77afdfe5ae1c702b193649e8e0897",
+    "action": {
+        "query": "TV Kings Pointer acquisition date greater response time maneuverability double-drum waterfall winch wire rope",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Born_to_Win 
+Born to Win 
+J insists on returning to the city for a certain reason.
+
+Vivian senses a particular thing and refuses to do something else.
+
+J's agreement to perform a task is made under a specific threat. 
+J insists on returning to the city for payment for the airport delivery.
+
+Vivian senses that the meeting is a setup and refuses to make a deal.
+
+J's agreement to work as a narc is made under the threat of serious jail time.
+
+**********Web Search Result**********
+
+https://www.bookey.app/book/city-of-girls/qa
+
+{
+    "id": "ws_68a4b5a2ae408196be27dad0fdf1c5b408386e78b068c17b",
+    "action": {
+        "query": "J insists on returning to the city reason Vivian senses refuses J's agreement under threat",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'J insists on returning to the city for a certain reason.' is NOT supported by the citation.
+<reject> The webpage does not mention any character named 'J' who insists on returning to the city. The protagonist mentioned throughout the text is Vivian (Vivvie/Vee) who returns to New York City. </reject>
+
+**********Source Check**********
+
+The claim 'Vivian senses a particular thing and refuses to do something else.' is supported by the citation.
+<accept>The content explicitly states that Vivian (the narrator) senses a desire for practicality and freedom and, based on this, rejects (refuses to wear) flouncy dresses as a form of post-war femininity. This is mentioned in Chapter 27, Question 2, which states: "The narrator's decision to wear men's suits instead of flouncy dresses is a direct rejection of post-war femininity. It signifies her practicality and desire for freedom in her movements, as well as a rejection of the constraints that societal expectations impose on women."</accept>
+
+**********Source Check**********
+
+The claim 'J's agreement to perform a task is made under a specific threat.' is NOT supported by the citation.
+<reject> The text does not mention any character, referred to as 'J' or otherwise, making an agreement to perform a task under a specific threat. The various tasks and agreements mentioned are motivated by desire, opportunity, or necessity, but not explicitly by a threat. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+

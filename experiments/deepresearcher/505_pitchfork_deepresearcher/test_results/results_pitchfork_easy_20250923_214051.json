@@ -1,0 +1,166 @@
+{
+    "item_count": 31,
+    "accuracy": 0.5483870967741935,
+    "correct_count": 17,
+    "ground_truth_match_count": 17,
+    "criteria_match_count": 0,
+    "invalid_source_count": 10,
+    "wrong_webpage_count": 4,
+    "detail": [
+        {
+            "id": 0,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 1,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 2,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 3,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 4,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 5,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 7,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 8,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 9,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 10,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 11,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 12,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 13,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 14,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 16,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 17,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 18,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 19,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 20,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 21,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 22,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 23,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 24,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 26,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 27,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 28,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 29,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 30,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 32,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 33,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 34,
+            "correct": false,
+            "reason": "The source is incorrect"
+        }
+    ]
+}

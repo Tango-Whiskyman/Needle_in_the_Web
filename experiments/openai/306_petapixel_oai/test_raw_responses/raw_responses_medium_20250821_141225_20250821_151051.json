@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c58526f88197b88a32b7c2133823012dd37a479e6715",
+            "action": {
+                "query": "\"verges on post-rock\" \"twinkling guitar lines on 'Dani'\" \"'Not Too Late' features a restrained groove\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the Wikipedia page for Rio Da Yung OG provides details about his collaborations with RMC Mike on the \"Dum and Dumber\" mixtape series and mentions his 2020 release, \"City on My Back.\" ([en.wikipedia.org](https://en.wikipedia.org/wiki/Rio_da_Yung_OG?utm_source=openai)) Additionally, the SoundCloud page for \"Dum and Dumber Too\" lists the track \"News,\" which is the opening track of that mixtape. ([soundcloud.com](https://soundcloud.com/riodayungog/sets/dum-and-dumber-too-1?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c58abc188196a0049ef2951edaac090b01d69f81e282",
+            "action": {
+                "query": "\"Different Music\" opening track \"Dum and Dumber\" mixtape series \"Rio Da Yung OG\" 2020",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that mentions Jack Mudurian's \"Downloading the Repertoire,\" which features 129 songs in 47 minutes:\n\n([en.wikipedia.org](https://en.wikipedia.org/wiki/Downloading_the_Repertoire?utm_source=openai))\n\nAdditionally, I found a webpage that mentions licensing issues delaying a legal Shooby Taylor retrospective:\n\n([djvu.online](https://djvu.online/file/KqfJv6v41q1SU?utm_source=openai))\n\nUnfortunately, I couldn't find a webpage that mentions the Wiggins recording an LP in 1969.\n\nTherefore, I cannot provide a single source that includes all the specified information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c59229c48196a513537fc48fbb1604e3eb8985939050",
+            "action": {
+                "query": "\"Downloading the Repertoire\" 129 songs 47 minutes Shooby Taylor licensing delay 1969 Wiggins LP",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://en.wikipedia.org/wiki/Hail_to_the_Thief",
+        "search": {
+            "id": "ws_68a6c59952708194911b979b5610686805c39441b79a3c15",
+            "action": {
+                "query": "Radiohead Kid A Amnesiac live recordings barely recognized Hail to the Thief lyrics imagery",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c5a064608197bd438ef8d7d0da7b016168a77015ffba",
+            "action": {
+                "query": "\"Pile's drummer\", \"Sunshine and Balance Beams\", \"I built that house with only bones\", \"Shelters those dreams for which I\u2019ve atoned\" lyrics\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **\"tell me whats up\" features someone rapping about the isolation of addiction.**\n\n  In the song \"tell me whats up,\" MGK raps about personal struggles, including the isolation of addiction. ([pitchfork.com](https://pitchfork.com/reviews/albums/mgk-lost-americana/?utm_source=openai))\n\n- **\"Outlaw Overture\" contains something.**\n\n  In \"Outlaw Overture,\" MGK sings, \"I miss my drugs, they\u2019ve been my friends since 21,\" reflecting on his relationship with substance use. ([pitchfork.com](https://pitchfork.com/reviews/albums/mgk-lost-americana/?utm_source=openai))\n\n- **The collaboration between MGK and Bob Dylan resulted from something.**\n\n  Bob Dylan narrated the trailer for MGK's album \"lost americana,\" describing it as a personal exploration of the American dream. ([thehoneypop.com](https://thehoneypop.com/2025/08/20/mgk-takes-the-long-way-home-to-find-himself-on-lost-americana/?utm_source=openai))\n\nWhile no single webpage covers all three points, these sources collectively provide the information you're seeking.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c5a8c53c8195af0921d808642e18091c287300c8826c",
+            "action": {
+                "query": "\"tell me whats up\" features someone rapping about the isolation of addiction \"Outlaw Overture\" contains \"collaboration between mgk and Bob Dylan resulted from\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://www.theskinny.co.uk/music/reviews/albums/mount-eerie-night-palace",
+        "search": {
+            "id": "ws_68a6c5b205f481909001e1607a484f8b0c7c812e0f9819cb",
+            "action": {
+                "query": "collaborative musical work Mount Eerie album influenced by The Glow, Pt. 2 Night Palace influenced",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c5bb398081958dabadc64ede32860fbe31c137e223af",
+            "action": {
+                "query": "Tyler, the Creator studied teenage years paragon Joseph Badejo mastered performance character",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://pitchfork.com/reviews/albums/quadeca-vanisher-horizon-scraper/",
+        "search": {
+            "id": "ws_68a6c5c14814819782fa03da100d710a04967c5e04aefb94",
+            "action": {
+                "query": "Quadeca buried blurred together album shadowed cries vocals",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://www.artshealthnetwork.com.au/the-healing-quality-of-sound/",
+        "search": {
+            "id": "ws_68a6c5ca50f48193bd5efbe7d24b46f505587418185ff810",
+            "action": {
+                "query": "focus of interest in gay culture Sound Bath ring out into the darkness Sound Bath sounds like",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, I did find an interview with Kevin Patrick Sullivan, known as Field Medic, where he discusses his songwriting process and personal experiences. In this interview, he mentions that he writes all the lyrics first, often drawing from personal observations and poems, and then matches them with melodies. He also shares that he started writing music to make a living doing poetry and that he loves words, considering himself a poet first. Additionally, he talks about his early experiences with music, including teaching himself to play guitar and fingerpick during a period when he was alone and had no friends, highlighting how music served as a refuge during his youth. ([theeveningclass.blogspot.com](https://theeveningclass.blogspot.com/2018/03/treefort-2018-evening-class-interview.html?utm_source=openai))\n\nWhile this source doesn't explicitly mention the songs \"falling out\" or \"tricks & illusions,\" it provides insight into Kevin Patrick Sullivan's relationship with music and how it has been a refuge for him during challenging times.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c5d25fec8195bba98532ed961cdc096c8f8094d024d2",
+            "action": {
+                "query": "\"falling out\" \"Kevin Patrick Sullivan\" bridge \"tricks & illusions\" relationship music refuge childhood",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://pitchfork.com/reviews/albums/osees-abomination-revealed-at-last/",
+        "search": {
+            "id": "ws_68a6c5db60f08193b273e95deea18c8301fd8e1ad7ff08aa",
+            "action": {
+                "query": "committed to Osees \"Glitter-Shot\" closing track \"Glass Window\" _ABOMINATION REVEALED AT LAST_ description",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c5e4a58c8197a98992802cefe82206ddd01ee112123b",
+            "action": {
+                "query": "Anamanaguchi band type, Anamanaguchi cover song, Anamanaguchi song 'Come for Us' singer",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, I located a source that discusses collaborations between Chicago artists, including Noname, Mick Jenkins, and femdot. Additionally, it highlights how these artists have influenced each other and the Chicago music scene.\n\n([buzzfeednews.com](https://www.buzzfeednews.com/article/hannahgiorgis/it-hit-close-to-home?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c5ed9f708193bb8f08553a1cf3f8047a493ae5ec7421",
+            "action": {
+                "query": "Recoechi recurring theme every song talent influential figures collaboration Chicago artists Noname Mick Jenkins femdot",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **Angel Marcloid collaborated with No Joy on *Bugland***\n\n  According to the Wikipedia page for *Bugland*, Angel Marcloid co-produced the album with Jasamine White-Gluz. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Bugland?utm_source=openai))\n\n- **Tara McLeod, a guitarist from Kittie, contributed to No Joy's album *Motherhood***\n\n  As reported by BrooklynVegan, Tara McLeod played guitar and banjo on *Motherhood*. ([brooklynvegan.com](https://www.brooklynvegan.com/no-joy-announce-first-album-in-5-years-listen-to-birthmark/?utm_source=openai))\n\n- **Angel Marcloid uses various instruments in her own records**\n\n  The Wikipedia page for Angel Marcloid lists her as a multi-instrumentalist, playing guitar, keyboards, drums, bass guitar, vocals, and VSTs. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Angel_Marcloid?utm_source=openai))\n\nWhile these sources individually cover the required information, a single webpage containing all three details was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c5f467a4819486964ad955d2eec102ac3b4df3d099a8",
+            "action": {
+                "query": "Angel Marcloid Bugland collaboration Kittie guitarist No Joy Motherhood Angel Marcloid own records",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://pitchfork.com/reviews/albums/big-freedia-pressing-onward/",
+        "search": {
+            "id": "ws_68a6c5fcf10c8194b7e31c4b816fdd3409e43ee4e164300b",
+            "action": {
+                "query": "\"Church\" from *Pressing Onward* \"urban\" gospel \"Big Freedia\" mainstream \"Highway to Heaven\" bounce vocal style",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c6046f188195b55285f91891d2b8093445529aaa87ed",
+            "action": {
+                "query": "Zelda Trixie Lulamoon profound impact first hearing biggest song sings",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://www.theguardian.com/music/2014/feb/28/toni-braxton-kenneth-babyface-edmonds-interview",
+        "search": {
+            "id": "ws_68a6c60cf98c819787d0f694ef86f9c3069ac04f1b2af60d",
+            "action": {
+                "query": "Toni Braxton questioned Babyface cockier style R&B",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found multiple sources that collectively cover the details:\n\n1. **Joe Boyd's instruction to Nick Drake after \"Mayfair\":**\n   - In the first Sound Techniques session in March 1968, Nick Drake recorded \"Mayfair.\" ([en.wikipedia.org](https://en.wikipedia.org/wiki/The_Making_of_Five_Leaves_Left?utm_source=openai))\n\n2. **Nick Drake's musical partnership with bassist Danny Thompson:**\n   - Nick Drake collaborated with bassist Danny Thompson during the recording of his debut album, \"Five Leaves Left.\" ([en.wikipedia.org](https://en.wikipedia.org/wiki/Five_Leaves_Left?utm_source=openai))\n\n3. **Universal Music's uncertainty about the archive for \"The Making of Five Leaves Left\":**\n   - In July 2025, Island Records released \"The Making of Five Leaves Left,\" a box set featuring outtakes and alternative versions of songs from the album. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Five_Leaves_Left?utm_source=openai))\n\nWhile these sources provide the individual pieces of information, they do not all appear together on a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c61301248195b863e2d502ec1aca002416f77b52c344",
+            "action": {
+                "query": "Joe Boyd instructed Nick Drake after Mayfair Nick Drake musical partner bassist Universal Music archive Five Leaves Left",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I did find a webpage that discusses the song \"Your Love Is My Drug\" by Kesha, which might be related to the song you're referring to. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Your_Love_Is_My_Drug?utm_source=openai))\n\nAdditionally, I found a webpage that discusses the structure of songwriting teams and the role of career songwriters and producers. ([scribd.com](https://www.scribd.com/document/474360114/think-like-a-pro-songwriter?utm_source=openai))\n\nUnfortunately, I couldn't find a webpage that mentions the album's credo as a specific expression.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c61b8f608190a59256a93622152a09acbee2c47a4a9d",
+            "action": {
+                "query": "The song \u201cShe Is My Drug\u201d braintrust structure career songwriters producers album credo expression",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "I found a webpage that mentions Alexandra Levy's background in painting and her statements about her artistic process. However, it does not specify that she went back to school to study painting and poetry.\n\n([theskinny.co.uk](https://www.theskinny.co.uk/music/interviews/alexandra-levy-on-her-debut-album-as-ada-lea?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c6232acc8196930d18041bc5f02909b3880886b260dc",
+            "action": {
+                "query": "went back to school to study painting and poetry Alexandra Levy",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I did find a webpage that discusses the performance of masculinity and its societal implications:\n\n([charlieglickman.com](https://charlieglickman.com/the-performance-of-masculinty/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c62bb3748195b43a2c03eec200040739f5f93de602bf",
+            "action": {
+                "query": "Mal Blum guitar defiant counterpoint despair Truth Is out There Killer political gender non-conformity masculine performance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://www.ft.com/content/99810d26-0ec9-4dc3-bab0-eb64af85da1e",
+        "search": {
+            "id": "ws_68a6c634f11481979c9edaec6ac850eb086b69562cf4c98b",
+            "action": {
+                "query": "\"Fuck Me Eyes\" second single \"laggy and distorted\" \"Willoughby Tucker and death\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c63c79c48195ab10f132935cacee03d77d8cb660948d",
+            "action": {
+                "query": "This Is a Film About the Black Keys SXSW 2024, No Rain, No Flowers state, No Rain, No Flowers includes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c6438a5c81908616a10519cccef403a5321438ef38c5",
+            "action": {
+                "query": "\"O Balama (Censored Love Song)\" features in a certain state \"O Balama (Censored Love Song)\" is intermittently interrupted \"Love Language\", gender is presented",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, I located a source that discusses Metro Boomin's prominence as a producer and his collaboration with Young Dro on the song \"They Wanna Have Fun.\" This track is part of Metro Boomin's project \"A Futuristic Summa,\" which features various Atlanta-based artists. ([globalgrind.com](https://globalgrind.com/playlist/new-music-aug1/?utm_source=openai))\n\nUnfortunately, I couldn't find information about Young Dro's age or his rapping style on this song, nor details about the continuous stream of melodies in the same vocal register on \"Don\u2019t Stop Dancin.\"  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c64c28508194985bc494da2407c2004e05bc10e6e831",
+            "action": {
+                "query": "Metro Boomin prominent producer Young Dro 46 laid-back triple-time rapping Don't Stop Dancin continuous stream of melodies",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c6549b548197b992da0511900f8c051d272c053c0f79",
+            "action": {
+                "query": "song cycles through presets chintzy horns witchy synth melodies Carlos Marighella Minimanual chapter favelas blindspot Brazil dictatorship",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://pitchfork.com/reviews/albums/xaviersobased-once-more-ep/",
+        "search": {
+            "id": "ws_68a6c65a98608190bd2dda671e8d8c56094f5b0937f6bcfc",
+            "action": {
+                "query": "xaviersobased vocal delivery shifts candy-coated warble love fans 808s cymbal crashes _once more_ EP",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://lifeoftherecord.com/heatmiser-notes",
+        "search": {
+            "id": "ws_68a6c660aacc81938febc14f2f12f7950d0a690fe41d2c7f",
+            "action": {
+                "query": "Heatmiser Neil Gust drumming emphasis Elliott Smith",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://pitchfork.com/reviews/albums/araabmuzik-electronic-dream-2/",
+        "search": {
+            "id": "ws_68a6c667a83481959e6d9f4c560a80e90b223950d9a66f32",
+            "action": {
+                "query": "AraabMuzik transformed something Electronic Dream 2 begins with first Electronic Dream combined",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://pitchfork.com/reviews/albums/2pillz-pillzcasso",
+        "search": {
+            "id": "ws_68a6c66ed11c81938de9f5c282549ef30786589298bd3c05",
+            "action": {
+                "query": "2pillz recognition PILLZCASSO YouTube \u0110\u1ebeN L\u00daC N\u00c0Y TH\u00cc singing",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I did find a webpage that includes the lyrics for \"Break Down the Walls\" by Drown the Deep, which contains the lines:\n\n\"Embers of madness are glowing red\nFires dance inside my head\nNo one can get to me now\"\n\nThis song is listed on their official lyrics page:\n\n([drownthedeep.com](https://www.drownthedeep.com/lyrics?utm_source=openai))\n\nUnfortunately, I couldn't locate information about the song \"Kingbreaker\" or details regarding Moe Kazra's listing on \"Broken Mirror\" on the same webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c67671ec8190bfe4b136ccb486ad0de5231d9e444750",
+            "action": {
+                "query": "\"Can\u2019t you see I\u2019m on the edge/Broken plans in tangled webs... I am in hell\" \"Sharp Teeth\" \"Kingbreaker\" \"Moe Kazra\" \"Broken Mirror\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

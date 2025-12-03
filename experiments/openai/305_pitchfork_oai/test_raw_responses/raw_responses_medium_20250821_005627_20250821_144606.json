@@ -1,0 +1,444 @@
+[
+    {
+        "id": 0,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that mentions that film packs used with the Leica I were manufactured by companies like Kodak, Agfa, and Perutz. ([petapixel.com](https://petapixel.com/2025/08/08/leica-monopan-50-review-is-it-just-re-boxed-adox-hr-50/?utm_source=openai))\n\nAdditionally, I found a webpage that mentions that Ilford's Pan film reproduces tonal range better than FP4. ([petapixel.com](https://petapixel.com/2025/08/08/leica-monopan-50-review-is-it-just-re-boxed-adox-hr-50/?utm_source=openai))\n\nUnfortunately, I couldn't find a webpage that mentions that Adox 50 retains more detail in a certain area.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bfa2ac7c8190a2033046551bfa6901607f0994104b22",
+            "action": {
+                "query": "Film packs used with the Leica I manufactured by companies Adox 50 detail Ilford Pan film tonal range",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- The main rear camera is something.\n- The main rear camera uses something.\n- The camera app includes modes such as something.\n\nHowever, I found a webpage that discusses various camera modes available in the Xiaomi camera app, which might be relevant to your query:\n\n([androidauthority.com](https://www.androidauthority.com/xiaomi-camera-app-guide-896004/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bfabbdbc8193814c1e8bd21195fa0aa7900709b24f9a",
+            "action": {
+                "query": "main rear camera is something main rear camera uses something camera app includes modes such as something",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, multiple sources provide details on each aspect:\n\n1. **Lack of S Pen Support**: The Samsung Galaxy Z Fold 7 does not support the S Pen, which affects functionalities like writing, doodling, or editing. ([tech.yahoo.com](https://tech.yahoo.com/phones/articles/galaxy-z-fold-7-samsungs-170711615.html?utm_source=openai))\n\n2. **Accolades for Design and Performance**: The Galaxy Z Fold 7 has been praised for its design and performance, with TechRadar noting it as Samsung's best foldable yet. ([techradar.com](https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-z-fold-7-review?utm_source=openai))\n\n3. **Battery Composition**: The device retains a 4,400mAh battery and does not utilize silicon-carbon batteries, opting instead for conventional cells. ([tech.yahoo.com](https://tech.yahoo.com/phones/articles/galaxy-z-fold-7-samsungs-170711615.html?utm_source=openai))\n\nWhile no single source covers all these points, the above references collectively provide the required information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bfb1e6a48197bb32dc4d265a3671014ec997a6c52b46",
+            "action": {
+                "query": "Samsung Galaxy Z Fold 7 not support writing doodling editing accolades design performance battery not made from",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://www.canonrumors.com/sony-announces-the-61mp-rx1r-iii-fixed-lens-camera/",
+        "search": {
+            "id": "ws_68a6bfba034c8195ae4207591639ea4a032a9c74a6989b00",
+            "action": {
+                "query": "Sony RX1R III features access EVF positioned",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- The Viltrox 85mm f/1.4 Pro lens produces results in a certain state throughout its aperture range.\n\n  The Viltrox AF 85mm f/1.4 Pro FE is very sharp at all mainstream aperture settings. The center quality is very good to excellent at f/1.4, and the outer image field is easily on a very good level. Stopping down to f/2 provides a boost in the broader center \u2013 and more so at f/2.8. The outstanding peak quality is reached at f/4. Diffraction is the limiting factor beyond. You won\u2019t really notice this at f/5.6, but f/11 and beyond should be avoided unless you require the depth-of-field. ([opticallimits.com](https://opticallimits.com/sony/sony-fe-full-format/viltrox-af-85mm-f-1-4-pro-fe-review/?utm_source=openai))\n\n- Stopping down the Samyang 85mm f/1.8 P FE lens performs in a certain way when focusing at minimum distance.\n\n  If you are focusing on a minimum distance, the lens can get a little soft. Stopping the lens down does help, so consider this in the rare situations where you are trying to get as close as possible. ([petapixel.com](https://petapixel.com/2025/07/26/samyang-85mm-f-1-8-prima-fe-review-affordable-sharp-and-small/?utm_source=openai))\n\n- The Samyang 85mm f/1.8 P FE lens has something.\n\n  The lens features a construction of nine elements arranged into eight groups, including one high-refractive index optic and three extra-low dispersion elements. ([petapixel.com](https://petapixel.com/2025/07/15/samyang-adds-85mm-f-1-8-and-16mm-f-2-8-to-its-e-mount-prime-series/?utm_source=openai))\n\nFor more detailed information, you may refer to the respective articles linked above.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bfc07964819098cebcc464716a980f7d47db678b21ad",
+            "action": {
+                "query": "Viltrox 85mm f/1.4 Pro lens results aperture range Samyang 85mm f/1.8 P FE lens minimum distance performance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://en.wikipedia.org/wiki/Nothing_Phone_3",
+        "search": {
+            "id": "ws_68a6bfcd821c8197860eefe1a367d7220d68662dd2332c45",
+            "action": {
+                "query": "Phone 3 video recording frame rates Nothing firmware update display resolution",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "The Reto Pano camera advances to the next frame using a manual film advance wheel located at the bottom of the camera. Its entire construction is primarily made of lightweight plastic, making it compact and portable. The built-in flash is powered by a single AAA battery and can be activated via a switch beneath the lens.\n\n([analog.cafe](https://www.analog.cafe/r/reto-pano-reusable-35mm-film-camera-review-j7eh?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bfd7126881968ebf7ce66d0337c307ac52ba49370fcd",
+            "action": {
+                "query": "Reto Pano camera advances next frame construction state flash",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://petapixel.com/2025/06/02/shimoda-sidecountry-backpack-review-comfortable-for-all-adventurous-photographers/",
+        "search": {
+            "id": "ws_68a6bfdd301c8193ac320c5ab6efab950f2f4b634ba45c88",
+            "action": {
+                "query": "Shimoda Sidecountry Backpack adjustable features and usage",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://petapixel.com/2025/07/22/megadap-etz21-pro-e-to-z-mount-adapter-review-viable-but-not-vindicated/",
+        "search": {
+            "id": "ws_68a6bfe52bb8819496ee463eb5fd5b2206493f4e81afc22c",
+            "action": {
+                "query": "adapter showed 'in a certain way', even with a stationary subject. ETZ21 Pro works 'to a certain degree'. At medium and close distances, the adapter cannot 'perform a certain action'. ",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://graination.ca/harman-phoenix-ii-the-next-generation-of-experimental-colour-film/",
+        "search": {
+            "id": "ws_68a6bfeb7aa88195b98076b646580c4b0389453a6adb7e46",
+            "action": {
+                "query": "Phoenix II color state Phoenix II provides Harman acted",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6bff23d2c81939deca989ff1e1a3501e7809b8b01cb04",
+            "action": {
+                "query": "lens exhibits state bright light corner sharpness 14mm improves working distance 24mm close-up",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://phillipreeve.net/blog/review-laowa-8-15mm-f-2-8-ff-zoom-fisheye/",
+        "search": {
+            "id": "ws_68a6bff918048195a5f6c3a07ba2ef80059e0b7abd5e2f04",
+            "action": {
+                "query": "Laowa 8-15mm lens bokeh full-frame sensor",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, here are some sources that cover parts of the information:\n\n- The bokeh fall-off of the Tamron 16-30mm lens is discussed in this review:\n\n  ([petapixel.com](https://petapixel.com/2025/07/10/tamron-16-30mm-f-2-8-di-iii-vxd-g2-review-the-daisangen-dream/?utm_source=openai))\n\n- Information about Tamron's G2 lenses can be found here:\n\n  ([tamron.com](https://www.tamron.com/global/consumer/news/detail/a064_20250701.html?utm_source=openai))\n\n- Details on Nikon's Z-mount lenses, including pricing, are available here:\n\n  ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nikon_Nikkor_Z_14-30_mm_f/4_S?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6bffe50048194b6842ae4d0ad65810a6d12f0b64540d1",
+            "action": {
+                "query": "bokeh fall-off Tamron 16-30mm Tamron G2 lenses Nikon Z-mount expensive",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://shuttermuse.com/gura-gear-kiboko-city-sling-6l-review/",
+        "search": {
+            "id": "ws_68a6c005e1788197a55f44933de81f730376e31da66deaac",
+            "action": {
+                "query": "Gura Gear Kiboko City Sling 6L announced $180 sold 1500 X-Pac material review",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c00a7bd08194baad2d32e28f90b30ffa6235eb4efed6",
+            "action": {
+                "query": "QNAP TS-464 interface feel UGreen NASync DXP4800 Plus bays locked Synology QNAP advanced features",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://www.bhphotovideo.com/c/product/1278213-REG/zeiss_2149_221_21_100mm_t2_9_3_9_lightweight_zoom.html",
+        "search": {
+            "id": "ws_68a6c0115d74819788aea4f1ee92ecd704cbea8e218f2043",
+            "action": {
+                "query": "Z21 lens glass elements infused effect widest apertures characteristic",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://crowdfund.news/crowdfunding-project/genki-moonbase-moonlinks-turbocharger/",
+        "search": {
+            "id": "ws_68a6c017a2b48197933cb6c015b1d4000116d07196d79ef9",
+            "action": {
+                "query": "Moonlink+ Smart Cable supports up to Genki Moonbase design Moonlink+ Smart Cable features",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.prnewswire.com/news-releases/ugreen-announces-a-faster-and-safer-charger-for-any-charging-scenario-the-nexode-140w-pd3-1-charger-301622880.html",
+        "search": {
+            "id": "ws_68a6c02026248196b508dba6579fa95202eccf5b445b643b",
+            "action": {
+                "query": "UGreen Nexode power efficiency available is",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- The absence of Motion Sensing for action shots in the Honor 400 camera options is discussed in this review:\n\n- Information about the OnePlus 13R's camera performance and AI features can be found here:\n\n- Details on the AI features of the Honor 400 are available in this article:\n\nWhile no single source covers all the points, these articles collectively address the topics you're interested in.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c02824d48196a706cbe4d252e1b902a5545224ce6c72",
+            "action": {
+                "query": "Honor 400 camera action shots missing OnePlus 13R imaging partner absent AI features state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://www.35mmc.com/24/05/2024/thypoch-eureka-50mm-f-2-review/",
+        "search": {
+            "id": "ws_68a6c031924c8190a90d5e1ab1d5b3340faaac7990f6989c",
+            "action": {
+                "query": "\"good center sharpness when used wide open\" \"Bokeh produced by the Eureka 50mm f/2\" \"The Thypoch 75mm f/1.4 features a design\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://sonyaddict.com/2025/07/14/pp-sirui-aurora-85mm-f-1-4-review-clean-creamy-bokeh/",
+        "search": {
+            "id": "ws_68a6c03af5208195b5b6d43e6d36ee960c4cc463b90e6e6b",
+            "action": {
+                "query": "Specular highlights produced by something are clean vintage aesthetic bokeh Sirui Aurora 85mm f/1.4",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://www.imaging-resource.com/news/2025/05/06/sigma-300-600mm-f-4-dg-os-sports-hands-on-review-a-groundbreaking-lens-with",
+        "search": {
+            "id": "ws_68a6c0450c8c8195ba58eb77ab1fd6b204fd36d3bd31458d",
+            "action": {
+                "query": "Sigma 300-600mm f/4 limitation Sony E-mount precision zoom lock",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://fstoppers.com/gear/sony-85mm-f14-gm-ii-vs-viltrox-85mm-f14-pro-lens-review-708619",
+        "search": {
+            "id": "ws_68a6c04cef6881938b37cf4f4e328a250311294ba12b0f00",
+            "action": {
+                "query": "Sony G Master 85mm f/1.4 II state Viltrox 85mm f/1.4 Pro features at f/1.4",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://www.pentaxforums.com/reviews/sigma-18-35mm-f18-dc-hsm-art/aberrations-and-flare.html",
+        "search": {
+            "id": "ws_68a6c054dafc81958f97dda6a260a315012b5ac887e63a92",
+            "action": {
+                "query": "compromises when shooting with lens Sigma Art series f/1.8 soft flare",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://petapixel.com/2025/06/17/peak-design-pro-lite-tripod-review-the-travel-tripod-we-needed/",
+        "search": {
+            "id": "ws_68a6c05d56b0819097e8b653a50962f806f7cf4ab5d4309d",
+            "action": {
+                "query": "Peak Design Pro Lite tripod review minimizes size maximizes stability",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://explore.omsystem.com/us/en/om-5-mark-ii",
+        "search": {
+            "id": "ws_68a6c06341cc8197be00ad8904868c1c0ea8cccc3670be4d",
+            "action": {
+                "query": "OM-5 Mark II outdoor camera features hiking sporting",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://www.techradar.com/cameras/mirrorless-cameras/fujifilm-x-e5-review",
+        "search": {
+            "id": "ws_68a6c068d0048190bbc6f686213cb8be0bfff58c780a5009",
+            "action": {
+                "query": "Fujifilm X-E5 mechanical shutter rate exposure compensation positioning X-E series",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://onlinemanual.insta360.com/x5/en-us/faq/functionality/waterproof",
+        "search": {
+            "id": "ws_68a6c0701cc48190bdee79eb814fbd030ff8d8f3ad6b9ab2",
+            "action": {
+                "query": "Insta360 X5 waterproof rating audio feature",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "The Kyu camera is a compact device designed to capture 9-second video clips, emphasizing simplicity and the enjoyment of the moment. It features a single button for operation, allowing users to focus on their experiences rather than the act of recording. The camera has a rechargeable battery, a stereo microphone for audio capture, and is water-resistant. Video quality is limited to 1080p resolution at 30 frames per second. On one side, it has a camera lens, and on the other, a 1.6-inch round OLED display with a button underneath for viewing and capturing footage. The device can store up to 27 video clips, and once the storage is full, users can transfer the videos to their smartphone by connecting the camera's USB-C connector. ([wired.com](https://www.wired.com/story/kyu-camera/?utm_source=openai))\n\nThe Kyu app complements the camera by automatically stitching together the captured clips into highlight videos, allowing users to relive their memories effortlessly. It operates on an invitation-only basis, enabling private sharing of videos within invited groups. The app is available on iOS and Android devices, with a web browser version in development. Users can record up to 9 clips per day, each 9 seconds long, even without the camera. All memories are automatically saved in the cloud, accessible later at no extra cost. ([wiki.kyu-o.com](https://wiki.kyu-o.com/products/camera/faq?utm_source=openai))\n\nThe back of the Kyu camera features a 1.6-inch round OLED display with a button underneath, allowing users to see what they're capturing and to start recordings. This design emphasizes simplicity and ease of use, enabling users to focus on the moment while capturing it. ([wired.com](https://www.wired.com/story/kyu-camera/?utm_source=openai))\n\nFor more detailed information, you can refer to the Kyu camera's official page. ([wiki.kyu-o.com](https://wiki.kyu-o.com/camera?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c07a4e2c819786755f9efbb0fc6b08b39b25bdfcfe21",
+            "action": {
+                "query": "Kyu camera state app features back",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://petapixel.com/2025/06/06/leica-lux-review-revisited-a-year-of-progression-but-still-a-few-stops-short/",
+        "search": {
+            "id": "ws_68a6c0855e2c8197a6bd044b24b767fa0b035a92d5976a4d",
+            "action": {
+                "query": "crop modes like 28mm or 35mm in Photo mode Leica Looks",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "After reviewing the available sources, I couldn't find a single webpage that mentions all the specified information. However, multiple sources collectively cover various aspects of the Panasonic Lumix S 24-60mm f/2.8 lens.\n\nFor instance, the lens's affordability and compact design are highlighted in reviews by Fstoppers and PetaPixel. The lens's performance, including its sharpness and autofocus capabilities, is discussed in detail by Photography Blog and Amateur Photographer. Additionally, features like the customizable focus button and weather-sealed build are mentioned in articles from Digital Camera World and B&H Photo.\n\nWhile no single source encompasses all the details listed, these articles collectively provide comprehensive information about the lens.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c08dd5b08196b4eef530f325ee5d0adf616f81cb46c7",
+            "action": {
+                "query": "Panasonic 24-60mm f/2.8 lens review",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://petapixel.com/2025/06/02/shimoda-sidecountry-backpack-review-comfortable-for-all-adventurous-photographers/",
+        "search": {
+            "id": "ws_68a6c094f97081959245cf2af4eb799b05c1f728940f62cc",
+            "action": {
+                "query": "\"Shimoda Sidecountry\" \"Lowepro Flipside BP 300 AW III\" \"side access\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://petapixel.com/2025/05/31/laowa-15mm-f-4-5-macro-review-is-it-a-landscape-or-macro-lens-yes/",
+        "search": {
+            "id": "ws_68a6c09d8d448193917134273625122d0b7059b8557cd1a9",
+            "action": {
+                "query": "Laowa 15mm f/4.5 focusing ring out-of-focus areas aperture ring",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- Sony cameras have more reliable autofocus compared to `something`.\n- 4Kp60 recording on the FX2 requires `something`.\n- The FX2 takes its design cues from `something`.\n\nHowever, I found a webpage that mentions two of the three pieces of information:\n\nThe article \"Sony Introduces FX2 Compact Camera\" from TV Technology states that the FX2 features the same compact, flat-top design as Sony\u2019s Cinema Line FX3 and FX30 cameras, indicating that the FX2 takes its design cues from these models. ([tvtechnology.com](https://www.tvtechnology.com/news/sony-introduces-fx2-compact-camera?utm_source=openai))\n\nAdditionally, the article mentions that the FX2 can continuously record for up to 13 hours in 4K 60p thanks to its internal cooling fan and effective heat dissipation structure, suggesting that 4Kp60 recording on the FX2 requires these features. ([tvtechnology.com](https://www.tvtechnology.com/news/sony-introduces-fx2-compact-camera?utm_source=openai))\n\nHowever, this article does not mention that Sony cameras have more reliable autofocus compared to `something`.\n\nTherefore, I couldn't find a single webpage that mentions all three pieces of information.\n\n([tvtechnology.com](https://www.tvtechnology.com/news/sony-introduces-fx2-compact-camera?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c0a5a4e08190b316603cba906ab300e06bb83f5abd1a",
+            "action": {
+                "query": "Sony cameras have more reliable autofocus 4Kp60 recording on the FX2 requires The FX2 takes its design cues from",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

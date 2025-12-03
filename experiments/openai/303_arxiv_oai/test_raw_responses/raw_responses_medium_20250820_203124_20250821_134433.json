@@ -1,0 +1,431 @@
+[
+    {
+        "id": 0,
+        "source": "https://arxiv.org/abs/2508.11630",
+        "search": {
+            "id": "ws_68a6b164769c8193bc5af83cc2de66d00a0ae0bd94c747aa",
+            "action": {
+                "query": "\"high-quality SFT dataset of approximately 500K samples is curated from\" \"for Thyme\" \"MLLMs to incorporate visual inputs generally fall into\" \"Thyme's RL dataset primarily consists of\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://arxiv.org/abs/2508.11628",
+        "search": {
+            "id": "ws_68a6b16a2274819792d1ae3a7394d6ea0a23049ebd3a78a8",
+            "action": {
+                "query": "CMMD dataset GPT-5 abnormality detection mammogram interpretation AI advances in medical imaging",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://arxiv.org/abs/2508.11624",
+        "search": {
+            "id": "ws_68a6b17083348190b4f4347eb2a1624d0cb78f04f494220e",
+            "action": {
+                "query": "Performance deteriorates when simultaneously loaded in a single model instance spatially-aware weight matrix LoRA-adapted model distribution",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://arxiv.org/abs/2508.11620",
+        "search": {
+            "id": "ws_68a6b1759f7481949146f886a3c52c7a073411a422c499e3",
+            "action": {
+                "query": "Grab-n-Go average recognition accuracy user study customized deep learning model infers microgestures",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://arxiv.org/abs/2508.11620",
+        "search": {
+            "id": "ws_68a6b17c9aa88190b6af81576d9c9e700be2da4d3a4fdeed",
+            "action": {
+                "query": "\"The user study included something.\" \"The Grab-n-Go wristband uses something.\" \"Diverse object geometries lead to something.\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://arxiv.org/abs/2508.11618",
+        "search": {
+            "id": "ws_68a6b182809081979558a34f79e3dac101e9726942b4c5bf",
+            "action": {
+                "query": "CO2 storage sites hydrocarbon extraction wastewater disposal large-scale GCS deployments complex monitoring regulatory requirements optimization of a GCS system forward evaluations models",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://quantumzeitgeist.com/reward-guided-decoding-improves-precision-and-recall-in-multimodal-large-language-models/",
+        "search": {
+            "id": "ws_68a6b188f43c8190adf16f364826be520e377ff6829a6170",
+            "action": {
+                "query": "Extensive experiments show trade-off in MLLMs, method allows MLLM\u2019s outputs, MRGD employs",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6b18f33e88196b733e26f502ccf590c1cd6dbd34240e8",
+            "action": {
+                "query": "Active Zone Minutes health guidelines Cardio Load calculation intensity",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://link.springer.com/article/10.1007/s10714-024-03314-9",
+        "search": {
+            "id": "ws_68a6b193ed248196a89d01f0b541efbd0c346510b95fda3c",
+            "action": {
+                "query": "Jacobi metric approach geodesic",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, the following sources cover parts of the requested information:\n\n- **Transformers achieving state-of-the-art results in audio processing**:\n\n  The paper \"SpecTNT: a Time-Frequency Transformer for Music Audio\" discusses how Transformers have drawn attention in the Music Information Retrieval (MIR) field for their remarkable performance in natural language processing and computer vision. ([arxiv.org](https://arxiv.org/abs/2110.09127?utm_source=openai))\n\n- **Audio fingerprinting employing contrastive learning**:\n\n  The paper \"Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrastive Learning\" presents a contrastive learning framework for generating low-dimensional representations from short audio segments, enhancing audio retrieval tasks. ([arxiv.org](https://arxiv.org/abs/2010.11910?utm_source=openai))\n\n- **Combining peak extraction techniques with contrastive learning**:\n\n  The paper \"Music Augmentation and Denoising for Peak-Based Audio Fingerprinting\" discusses methods that combine peak extraction techniques with contrastive learning for audio fingerprinting. ([ar5iv.labs.arxiv.org](https://ar5iv.labs.arxiv.org/html/2310.13388?utm_source=openai))\n\nWhile these sources individually address parts of the information, a single webpage encompassing all the specified details was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b1993fa48193a3b2f838be1137870d7fe8239e4fdb12",
+            "action": {
+                "query": "Transformers state-of-the-art audio fingerprinting contrastive learning peak extraction",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the paper titled \"Hierarchical Jacobi Iteration for Structured Matrices on GPUs using Shared Memory\" discusses a parallel implementation of the Jacobi method, the use of overlapping subdomains, and the combination of Jacobi methods with other techniques. ([arxiv.org](https://arxiv.org/abs/2006.16465?utm_source=openai))\n\nAdditionally, the \"Parallel Jacobi Iterative Scheme\" page from Boston University provides insights into parallel implementations of the Jacobi method and domain decomposition techniques. ([bu.edu](https://www.bu.edu/tech/support/research/training-consulting/online-tutorials/mpi/alliance/solvers/jacobi_parallel/?utm_source=openai))\n\nWhile these sources do not explicitly mention all the specified information, they may offer relevant insights into the topics of interest.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b1a16e588190a9684a47c3a1be4e0c760825531fad41",
+            "action": {
+                "query": "parallel implementation smoother cut cells Jacobi method subdomains",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S0065260123000291",
+        "search": {
+            "id": "ws_68a6b1a945208190ab8ec115aa64a839016b19730390ada1",
+            "action": {
+                "query": "Specialized models can do something in diverse settings Ambiguity and creative extrapolation are inherent in something The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain's something",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://arxiv.org/abs/2508.11605",
+        "search": {
+            "id": "ws_68a6b1b004b881959d1c0faef5ce1ae807be51926855af52",
+            "action": {
+                "query": "extrinsic evaluation validity of generated images visual entailment classifier synthetic training data F-score 0.686 0.703 hypothesis text",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://arxiv.org/abs/2508.11603",
+        "search": {
+            "id": "ws_68a6b1b75fac819082a1d6ae96d71da30458f5be64065fc1",
+            "action": {
+                "query": "Existing approaches often fail to maintain cross-view consistency without something This approach ensures something When significant disparity exists among per-view editing results, CCA tends to act",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a source that discusses how human speech perception mechanisms learn compressed representations by retaining essential information for audio reconstruction. The study titled \"Towards reconstructing intelligible speech from the human auditory cortex\" explores how deep learning and speech synthesis algorithms can reconstruct intelligible speech from neural activity, effectively learning compressed representations that retain essential information for audio reconstruction. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6351601/?utm_source=openai))\n\nAdditionally, the concept of autoencoders in deep learning involves learning compressed representations by retaining essential information for data reconstruction. Autoencoders are neural networks that learn to encode input data into a lower-dimensional representation and then decode it back to the original data, effectively capturing the most salient features necessary for accurate reconstruction. ([ar5iv.labs.arxiv.org](https://ar5iv.labs.arxiv.org/html/2001.00378?utm_source=openai))\n\nRegarding AuriStream's framework, I couldn't find specific information about it.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b1bdb3d88193acd9250c779a289906054f90a1c79445",
+            "action": {
+                "query": "AuriStream's framework does not rely on something Human speech perception mechanisms learn something over the audio signal learns compressed representations by retaining essential information for audio reconstruction",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://arxiv.org/abs/2508.11588",
+        "search": {
+            "id": "ws_68a6b1c80fe8819398611f60f117e5be0dfe589a41135506",
+            "action": {
+                "query": "As something increases, the fruit may slip in the grasp and enter a slip state. Something faced challenges in identifying other critical transitions, such as from slip to a successful pick. The work evaluates the something of each sensor.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.mdpi.com/1424-8220/22/15/5483",
+        "search": {
+            "id": "ws_68a6b1ce7cb88195a3c0f8e7dcb5d2f10bb7507d9354bda3",
+            "action": {
+                "query": "study success detecting slip events unstructured settings challenging robots fruit separation harvesting",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "The Visual Perception Engine (VPEngine) framework is designed to enable mobile machines to interpret complex environments. It fosters extensibility by allowing efficient GPU usage for visual multitasking while maintaining developer accessibility. The framework is written in Python and is open source with ROS2 C++ bindings. ([arxiv.org](https://arxiv.org/abs/2508.11584?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b1d5619c81958c410fdce86670180950db8880c4397a",
+            "action": {
+                "query": "\"enables mobile machines to interpret complex environments\" \"fosters extendability\" \"VPEngine framework is written in\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6b1dc1fe481948d7144c5f4185ef602ea7de1fbed389c",
+            "action": {
+                "query": "Adaptive Length Management encourages DR. SAF enforces Experimental results demonstrate that DR. SAF",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://www.usenix.org/conference/soups2025/presentation/larubbio-poster",
+        "search": {
+            "id": "ws_68a6b1e28be48194911ec4eafab700420b5a04831acf3f24",
+            "action": {
+                "query": "study contributes intergenerational support victimized deepfake impersonation scams",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "https://arxiv.org/abs/2508.11576",
+        "search": {
+            "id": "ws_68a6b1e8e2f881968968e7720038f092042181bd5ca6137f",
+            "action": {
+                "query": "\"positional encoding leads directly to a certain state\" \"temporal cues through inter-frame attention\" \"aggregated in the final video frame\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found multiple sources that address the individual topics:\n\n1. **LeNet-5 Architecture**: The GeeksforGeeks article provides an in-depth exploration of the LeNet-5 architecture, detailing each component and its contribution to deep learning. ([geeksforgeeks.org](https://www.geeksforgeeks.org/lenet-5-architecture/?utm_source=openai))\n\n2. **Privacy and Security Concerns in Machine Learning Applications**: The NIST blog discusses how deploying machine learning with differential privacy can address privacy and security concerns, especially in sensitive tasks like medical diagnosis. ([nist.gov](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy?utm_source=openai))\n\n3. **Access to Large Volumes of Sensitive Data for Successful ML Deployment**: The arXiv paper titled \"Privacy-Preserving Machine Learning: Methods, Challenges and Directions\" highlights the importance of access to large volumes of sensitive data for the successful deployment of machine learning in critical applications. ([arxiv.org](https://arxiv.org/abs/2108.04417?utm_source=openai))\n\nWhile these sources individually cover the topics of LeNet-5 architecture, privacy and security concerns in machine learning applications, and the necessity of large volumes of sensitive data for successful ML deployment, I couldn't locate a single webpage that encompasses all these aspects together.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b1ee6b848195a732e0c3ee71c0040d280e088ae797d4",
+            "action": {
+                "query": "LeNet-5 square function state machine learning privacy security sensitive data",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://arxiv.org/abs/2405.06507",
+        "search": {
+            "id": "ws_68a6b1f7e2e48196a94cdafd66a5f15600cd5897ebe0d939",
+            "action": {
+                "query": "Mobile Edge Computing minimizes delays certain way Digital Twins enable analysis prediction without interfering developed algorithm evaluated using certain tool",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://arxiv.org/abs/2508.11573",
+        "search": {
+            "id": "ws_68a6b1fe3c78819785e1aa2476b1af4201e5dee2741105d5",
+            "action": {
+                "query": "controlled across all section control cases spraying process affected multiple field runs crop cycle",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://arxiv.org/abs/2508.11571",
+        "search": {
+            "id": "ws_68a6b2038c6481978aabc663c6faa6fc06173fce7515892d",
+            "action": {
+                "query": "microservices network model temporal network analysis microservice composition study",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://arxiv.org/abs/1803.01176",
+        "search": {
+            "id": "ws_68a6b20a8acc8190bf725abc1acbb1310852107fc5eb1953",
+            "action": {
+                "query": "ASP-complete problem is #P-complete NP-complete problem k\u22650 solutions puzzles common rule",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://arxiv.org/abs/2508.11569",
+        "search": {
+            "id": "ws_68a6b2115b28819099df35f0be0c60c509b942e602561e8d",
+            "action": {
+                "query": "TrajSV state-of-the-art results 9 out of 17 action categories trajectories used for recognizing actions retrieving similar scenes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the study titled \"GPT-4 shows potential for identifying social anxiety from clinical interview data\" ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/39681627?utm_source=openai)) discusses the investigation into GPT-4's performance in identifying social anxiety from semi-structured clinical interview data. Additionally, the paper \"GPT is an effective tool for multilingual psychological text analysis\" ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11348013/?utm_source=openai)) highlights the limitations of relying on static text analysis in automated psychological assessments.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b2160ca08197b437b909b6d1eb7c0023dfa573292506",
+            "action": {
+                "query": "\"Reliance on a certain process limits the ability of most existing automated psychological assessment approaches to capture deeper insights\" \"Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture certain insights\" \"Someone investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://arxiv.org/abs/2508.11565",
+        "search": {
+            "id": "ws_68a6b21f22248197b6b39b5cf0dc4f9007a8d20bd4ed5b86",
+            "action": {
+                "query": "Proxies in INFNet condense into compact anchors design yields directly feeding large token sets into deep interaction layers",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://arxiv.org/abs/2508.11563",
+        "search": {
+            "id": "ws_68a6b2256f1081959edbb05db30b47950ef01ad54c06c619",
+            "action": {
+                "query": "frequency analysis optimal outcome search-pattern leakage overcome additional leakage",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://www.mdpi.com/1996-1073/14/15/4626",
+        "search": {
+            "id": "ws_68a6b22a92fc8197872c9fd4c95e4cb907f6d87827adcec3",
+            "action": {
+                "query": "SSCIs may involve something at more than one frequency observed in grids mitigation",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://arxiv.org/abs/2508.11553",
+        "search": {
+            "id": "ws_68a6b236949c8196a7fd77fc60272d780fc1b59452dcab17",
+            "action": {
+                "query": "\"SeamlessFlow introduces\" \"The tag-driven scheduling paradigm unifies\" \"jeopardizes throughput in disaggregated designs when wall times drift\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://arxiv.org/abs/2508.11550",
+        "search": {
+            "id": "ws_68a6b23c5e4c819484c291fb980eeb7d0289aa5aee63264a",
+            "action": {
+                "query": "anomaly data from testing dataset for training insufficient data industrial anomaly detection AAG normal image mask text prompt",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

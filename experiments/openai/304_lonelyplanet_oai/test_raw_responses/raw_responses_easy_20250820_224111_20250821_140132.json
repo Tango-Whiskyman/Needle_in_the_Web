@@ -1,0 +1,418 @@
+[
+    {
+        "id": 0,
+        "source": "https://exploretraveloasis.com/kyrgyzstan-horseback-riding/",
+        "search": {
+            "id": "ws_68a6b558ac848195a9840b91e8ccd81c0028680521d7da2e",
+            "action": {
+                "query": "Horse treks in Kyrgyzstan organizations and ways",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://www.budgetyourtrip.com/italy/florence",
+        "search": {
+            "id": "ws_68a6b55f607c8194ab414a454340b9c7045ffc7b6d01401c",
+            "action": {
+                "query": "average daily costs in Florence compared to other Italian cities",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://italiabsolutely.com/news/transportation/venice-and-its-islands-are-a-treasure-trove-of-romance-and-art-architecture-and-natural-beauty",
+        "search": {
+            "id": "ws_68a6b566ca0c8193ba4d9b97b47fc67f025fb77b81b1fefd",
+            "action": {
+                "query": "Venice art located islands filled palazzi built",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://www.vietnameseprivatetours.com/saigon-opera-house",
+        "search": {
+            "id": "ws_68a6b56f1b048194ab599a90da54669300d3ebe2ae0aeb06",
+            "action": {
+                "query": "Something historic building Ho Chi Minh City Saigon Opera House Ho Chi Minh City offers",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://www.oban.org.uk/see-do/on-the-water/",
+        "search": {
+            "id": "ws_68a6b575df4c8197a93ada3ded3e17760150b224f99da545",
+            "action": {
+                "query": "rich in marine life closest island to Oban guided kayaking adventures Oban coastline",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://www.nationalgeographic.com/travel/article/best-road-trips-iceland",
+        "search": {
+            "id": "ws_68a6b57c49f08190af65f48d1243dfa9054179473e46563f",
+            "action": {
+                "query": "Iceland road trips Arctic Coast Way coastline starts finishes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://www.lonelyplanet.com/articles/shopping-for-groceries-thailand",
+        "search": {
+            "id": "ws_68a6b58016f08195a00c7db2e055123c0ce01f60dcc70c33",
+            "action": {
+                "query": "Each shopping experience in Thailand offers a unique insight open-air markets groceries markets vendors",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://www.nationalgeographic.com/travel/article/free-things-to-do-in-havana",
+        "search": {
+            "id": "ws_68a6b585959c81949ac68334a1df6b640959c1f287f1d675",
+            "action": {
+                "query": "Havana attractions condition local beaches free walking tour historic quarter",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://kcparent.com/unique-locally-made-kansas-city-sports-souvenirs-for-the-whole-family/",
+        "search": {
+            "id": "ws_68a6b58ae5c88194b474180cf3a7f06803953b4152c01093",
+            "action": {
+                "query": "Kansas City civic pride locally made items sports teams known by certain names",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://www.visitstaugustine.com/thing-to-do/st-augustine-distillery-events",
+        "search": {
+            "id": "ws_68a6b591ff8481938149de301cb8a34208d024339ab50ae4",
+            "action": {
+                "query": "Something bar and restaurant St Augustine Distillery renovated ice plant free self-guided tours 10:30am 5:30pm site:.com",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://www.businessinsider.com/blue-city-chefchaouen-morocco-instagram-social-media-2019-1",
+        "search": {
+            "id": "ws_68a6b5994154819385ecbe8826413f9801111f2331674e2f",
+            "action": {
+                "query": "Day-trippers Moroccan tourists influencers Chefchaouen tourism blue-washed city",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://en.wikipedia.org/wiki/Transport_in_Madrid",
+        "search": {
+            "id": "ws_68a6b5a1eeb08194bf7f5de5b2bb68f10fb8e544d8287896",
+            "action": {
+                "query": "Madrid's bus and subway vehicles and stations state public transit infrastructure includes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "I couldn't locate a single webpage that mentions all the specified information. However, multiple sources provide relevant details:\n\n- Reykjav\u00edk offers numerous museums, restaurants, swimming pools, and a wide variety of children's activities. ([visitreykjavik.is](https://visitreykjavik.is/things-do-reykjavik-kids?utm_source=openai))\n\n- Many forests in Iceland have features designed for children. ([visitreykjavik.is](https://visitreykjavik.is/things-do-reykjavik-kids?utm_source=openai))\n\n- Forests in Iceland are popular destinations for outdoor activities such as hiking, cycling, and birdwatching. ([visitreykjavik.is](https://visitreykjavik.is/things-do-reykjavik-kids?utm_source=openai))\n\nWhile no single webpage encompasses all these points, the provided sources collectively cover the information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b5a82f7081909c5bc58305bc2f8a03018c5dd82743d6",
+            "action": {
+                "query": "most museums restaurants swimming pools children's activities Iceland forests children popular",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://www.lonelyplanet.com/articles/best-parks-lisbon",
+        "search": {
+            "id": "ws_68a6b5b1bc348190a686cd847518b15d064cf725abb2e613",
+            "action": {
+                "query": "Lisbon unmissable parks public gardens urban parks picturesque squares outdoor gatherings Book Fair music events Wonderland Lisboa",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://www.dubrovnik-festival.hr/en/festival/2025",
+        "search": {
+            "id": "ws_68a6b5b8125081958537339fd77dd7f30d708c2f93355219",
+            "action": {
+                "query": "\"Dubrovnik Summer Festival features\" \"old town of Dubrovnik\" \"Dubrovnik pass\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://www.rent.com/blog/cities-with-beautiful-murals/",
+        "search": {
+            "id": "ws_68a6b5be8ee4819397e4f03932830ed609cdc30f4cb23376",
+            "action": {
+                "query": "magnificent outdoor adventure vibrant art scene dozens of murals",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.argentina.travel/en/news/tourist-trains-in-argentina-routes-and-where-to-buy-tickets",
+        "search": {
+            "id": "ws_68a6b5c5676c8194902037649e54c594001acac3252b428c",
+            "action": {
+                "query": "Argentina long distances between tourist attractions flights tourist centers trains panoramic views",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://oregondiscovery.com/indian-beach",
+        "search": {
+            "id": "ws_68a6b5ccae7c81909ba5e8f9f5be251f0f370eae91eac35a",
+            "action": {
+                "query": "Oregon coastline features popular beach towns Indian Beach",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "Cape Cod offers a variety of attractions that cater to diverse interests. Many of these attractions extend along scenic routes, providing visitors with picturesque views and unique experiences. Additionally, Cape Cod features numerous historic sites that reflect its rich cultural heritage.\n\nFor instance, the Cape Cod Rail Trail is a 25-mile paved path that stretches from Yarmouth to Wellfleet, passing through several towns and offering access to beaches, forests, and charming New England neighborhoods. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Cape_Cod_Rail_Trail?utm_source=openai))\n\nAnother notable attraction is the Wellfleet Drive-In Theatre, the only drive-in theater on Cape Cod, which has been operating since 1957 and offers a nostalgic movie-watching experience under the stars. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Wellfleet_Drive-In_Theater?utm_source=openai))\n\nThese examples highlight the diverse offerings of Cape Cod, from scenic trails to historic sites, providing visitors with a rich and varied experience.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b5d22a0c8195af970f7a607fc2b205f825b1d092736b",
+            "action": {
+                "query": "Cape Cod offers something attractions extend certain way features kind of place",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- India has a reputation for `something`.\n- Checking `something` before booking a trip to India is always advisable.\n- India has `something` that visitors might find unfamiliar.\n\nHowever, I found multiple sources that address aspects of these points:\n\n- **India has a reputation for `something`.**\n\n  India is known for its rich cultural diversity and vibrant traditions. ([encounterstravel.com](https://www.encounterstravel.com/in/blog/dos-and-donts-india?utm_source=openai))\n\n- **Checking `something` before booking a trip to India is always advisable.**\n\n  It's recommended to check travel advisories and health precautions before planning a trip to India. ([travel.state.gov](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/india-travel-advisory.html?utm_source=openai))\n\n- **India has `something` that visitors might find unfamiliar.**\n\n  Visitors might find India's cultural norms and practices unfamiliar, such as the importance of modest dress and the custom of removing shoes before entering homes or religious sites. ([nomadicexpeditions.com](https://www.nomadicexpeditions.com/the-dos-and-donts-in-india-how-to-be-on-the-right-side-of-indian-cultural-norms/?utm_source=openai))\n\nWhile these sources individually address parts of the information, a single webpage encompassing all three points was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b5d9f5308194a4661d18cda293e0055da33a98cecdf2",
+            "action": {
+                "query": "India has a reputation for something checking before booking a trip to India is always advisable India has something that visitors might find unfamiliar",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://niceandbeyond.com/castle-hill-nice/",
+        "search": {
+            "id": "ws_68a6b5e27d0c8195bf47f1e07ad8250a08ca7a27c472c5ae",
+            "action": {
+                "query": "Colline du Ch\u00e2teau Castle Hill offers something views down public beaches free-to-visit",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, the following sources cover parts of the information:\n\n- The Italian section of the Via Francigena includes certain places.\n\n  The Via Francigena in Italy stretches approximately 1,000 km, passing through regions such as Valle d\u2019Aosta, Piedmont, Emilia Romagna, Liguria, Tuscany, and Lazio. ([vieromee.forwalk.org](https://vieromee.forwalk.org/en-us/guide/5-the-via-francigena/?utm_source=openai))\n\n- Something is surrounded by some of Europe's highest peaks, including Mont Blanc, the Matterhorn, Monte Rosa, and Gran Paradiso.\n\n  The Aosta Valley is surrounded by some of Europe's highest peaks, including Mont Blanc, the Matterhorn, Monte Rosa, and Gran Paradiso. ([lovevda.it](https://www.lovevda.it/en/culture/via-francigena?utm_source=openai))\n\n- Italy is known as a certain phrase.\n\n  Italy is often referred to as \"Il Bel Paese,\" meaning \"The Beautiful Country.\"\n\nWhile no single source contains all three pieces of information, these references collectively provide the details you're seeking.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b5e8f1dc8196994ce8da58765bd10e3ad0cf39c81d09",
+            "action": {
+                "query": "Via Francigena Italy Mont Blanc Matterhorn Monte Rosa Gran Paradiso Italy known as phrase",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://parisjetaime.com/eng/media/article/accessibilite-thematic-sheet-a1858",
+        "search": {
+            "id": "ws_68a6b5f3081c8197b074ad0696ca32600f7e3e8ee4197c19",
+            "action": {
+                "query": "Paris Tourist Office website practical information Accessible Paris guide",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://www.floridarambler.com/historic-florida-getaways/free-things-to-do-in-key-west/",
+        "search": {
+            "id": "ws_68a6b5ffa0ac8196a5d16c0919963ef40c3d1d699c90182d",
+            "action": {
+                "query": "Free activities in Key West Florida attractions free things to do",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources collectively cover the details:\n\n- **Daily Budget for Private Room and Dining Out**: According to BudgetYourTrip.com, the average daily cost for a traveler in Wales is $215 (\u00a3159), which includes $114 (\u00a384) for accommodation and $78 (\u00a357) for meals. ([budgetyourtrip.com](https://www.budgetyourtrip.com/united-kingdom/wales?utm_source=openai))\n\n- **Quantity to See and Do in Wales**: Visit Wales highlights numerous attractions, including free family-friendly activities like exploring the natural world, star gazing, cycling, and visiting seven national museums. ([visitwales.com](https://www.visitwales.com/en-us/inspire-me/holidays/budget-family-breaks-wales-uk?utm_source=openai))\n\n- **Challenges Due to Small Size**: The Trusted Traveller notes that while Wales is relatively small, getting around is simple and cheap, with options like buses and driving. ([thetrustedtraveller.com](https://thetrustedtraveller.com/travel-guides/wales-travel-guide/?utm_source=openai))\n\nAlthough these sources provide the required information, they are not consolidated on a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b6051a5c8197bd5c47c72f6f244e0e9d1776ac539dfc",
+            "action": {
+                "query": "daily budget private room cafes restaurants Wales challenges first-time visitors small size",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://sheiswanderlust.com/a-look-at-bozeman-montana-an-outdoorsmans-paradise/",
+        "search": {
+            "id": "ws_68a6b60cd0648194914fd0055b7c59c90ff1b1e6c9e8d5b2",
+            "action": {
+                "query": "Bozeman state outdoor enthusiasts visitors love respect outdoors",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://www.eventticketscenter.com/blog/red-rocks-amphitheatre-guide/1036/b",
+        "search": {
+            "id": "ws_68a6b613424c8197b0b579ef9bb1618106039840d701478a",
+            "action": {
+                "query": "Red Rocks Park & Amphitheatre synonymous seating natural incline artists performed",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- The Malibu Pier is a popular spot in a certain way.\n- The Malibu Farmers Market is located in a certain location.\n- Regional vendors at the Malibu Farmers Market sell certain things.\n\nHowever, I found multiple sources that collectively provide this information:\n\n- The Malibu Pier is a popular spot for fresh local dining, boutique shopping, and ocean adventures. ([malibupier.com](https://www.malibupier.com/?utm_source=openai))\n\n- The Malibu Farmers Market is located at Legacy Park in Malibu. ([malibutimes.com](https://malibutimes.com/a-new-year-a-new-experience-the-malibu-farmers-market-celebrates-new-location-at-legacy-park?utm_source=openai))\n\n- Regional vendors at the Malibu Farmers Market sell fresh produce, artisan cheese, honey, olive oil, gourmet snacks, handmade pasta, baked goods, and pastries. ([hollyandchrisluxuryhomes.com](https://hollyandchrisluxuryhomes.com/malibu-farmers-markets-best-fresh-finds-by-the-coast/?utm_source=openai))\n\nWhile no single webpage contains all this information, these sources together provide a comprehensive overview.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b61a39188195ac8e98ab52893a770254a98cea9168f8",
+            "action": {
+                "query": "Malibu Pier popular spot Malibu Farmers Market location regional vendors",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses last-minute Labor Day weekend destinations from New York City and mentions that many New York City locals travel during this period.\n\nThe article titled \"The best last-minute Labor Day weekend getaways from NYC\" from TimeOut New York provides information on various destinations suitable for a last-minute Labor Day weekend trip from New York City. ([timeout.com](https://www.timeout.com/newyork/blog/the-best-last-minute-labor-day-weekend-getaways-from-nyc-090116?utm_source=openai))\n\nAdditionally, the article notes that during major holiday weekends, the shore attracts a younger, college-age crowd, indicating that many New York City locals travel during this period.\n\nHowever, this article does not mention specific perks that New York City offers to visitors during Labor Day weekend.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b6212d5881968aba7f872a0b4e4a0c0c7f4e5f88a46d",
+            "action": {
+                "query": "last-minute Labor Day weekend destinations New York City perks locals travel",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "I couldn't locate a single webpage that mentions all the specified information. However, here are some sources that cover parts of the requested details:\n\n- **Dallas offers a wide variety of museums, architecture, outdoor adventures, and food.**\n\n  The Dallas Museum of Art, Perot Museum of Nature and Science, and the Dallas Arboretum and Botanical Garden are notable cultural and outdoor attractions in the city. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Dallas_Museum_of_Art?utm_source=openai))\n\n- **The Texas Star Ferris Wheel at the State Fair of Texas offers views across Dallas and of the fairgrounds.**\n\n  The Texas Star Ferris Wheel provides a birds-eye view of the State Fair and downtown Dallas from a height of 212 feet. ([bigtex.com](https://bigtex.com/plan-your-visit/attractions-events/midway/?utm_source=openai))\n\n- **Big Tex stands at the heart of the State Fair of Texas.**\n\n  Big Tex is located at the center of the fairgrounds along Lone Star Boulevard and Grand Avenue, welcoming every fairgoer with a deep, Texas-accented voice. ([visitdallas.com](https://www.visitdallas.com/blog/avoid-these-4-fair-fails-when-visiting-the-state-fair-of-texas/?utm_source=openai))\n\nWhile no single webpage contains all this information, these sources collectively provide the details you're seeking.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6b629328081978da565abef26d51b02d000a273ec68e8",
+            "action": {
+                "query": "museums architecture outdoor adventures food State Fair of Texas views heart",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://www.smithsonianmag.com/sponsored/the-fascinating-and-delicious-history-of-malta-180985976/",
+        "search": {
+            "id": "ws_68a6b631fe7081968aada31aa22767ac0034b7b0696dc0d3",
+            "action": {
+                "query": "Maltese cuisine is in a certain state Seafood sourced from the cobalt waters framing Malta Malta's favorite on-the-go treat",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://masaimara.ke/best-time-to-visit-the-great-migration-in-masai-mara/",
+        "search": {
+            "id": "ws_68a6b63831c881979820148c47184ccf0674066d9019351f",
+            "action": {
+                "query": "animals move along ancient paths through location Masai Mara affected migration reliable month seeing migration in Kenya",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

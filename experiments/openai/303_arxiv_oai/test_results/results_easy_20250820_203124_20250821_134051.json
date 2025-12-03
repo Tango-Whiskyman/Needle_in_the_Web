@@ -1,0 +1,176 @@
+{
+    "item_count": 33,
+    "accuracy": 0.5151515151515151,
+    "correct_count": 17,
+    "ground_truth_match_count": 17,
+    "criteria_match_count": 0,
+    "invalid_source_count": 2,
+    "wrong_webpage_count": 14,
+    "detail": [
+        {
+            "id": 0,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 1,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 2,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 3,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 4,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 5,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 6,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 8,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 9,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 10,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 11,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 12,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 13,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 14,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 15,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 16,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 17,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 18,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 19,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 20,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 21,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 22,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 23,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 24,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 25,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 26,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 27,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 28,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 29,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 30,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 31,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 32,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 33,
+            "correct": true,
+            "reason": "Found original webpage"
+        }
+    ]
+}

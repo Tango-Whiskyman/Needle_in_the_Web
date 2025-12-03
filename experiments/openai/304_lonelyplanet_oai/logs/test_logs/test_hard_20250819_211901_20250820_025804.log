@@ -1,0 +1,1458 @@
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/how-to-horse-trek-in-kyrgyzstan 
+how-to-horse-trek-in-kyrgyzstan 
+Here are the masked claims:
+
+1.  Tables at meal times are laid out with something.
+
+2.  Something is a 15th-century stone-built building.
+
+3.  Something can be honored for meals. 
+Tables at meal times are laid out with traditional breads, fruit, cookies, jams, and other snacks.
+
+The Tash Rabat caravanserai is a 15th-century stone-built building.
+
+Dietary restrictions can be honored for meals.
+
+**********Web Search Result**********
+
+https://www.worldhistory.org/Great_Hall/
+
+{
+    "id": "ws_68a4c7b4534c8195981589bee49dbf9002c689ae3e509866",
+    "action": {
+        "query": "tables at meal times are laid out, 15th-century stone-built building, honored for meals",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Here are the masked claims:' is NOT supported by the citation.
+<reject> The information "Here are the masked claims:" is not explicitly mentioned in the provided content. </reject>
+
+**********Source Check**********
+
+The claim '1.  Tables at meal times are laid out with something.' is supported by the citation.
+<accept> The text explicitly states that at dinner, tables were laid with "a tablecloth, each place had a knife, spoon, and cup while shared between diners were jugs for drinking and a dish for salt." </accept>
+
+**********Source Check**********
+
+The claim '2.  Something is a 15th-century stone-built building.' is NOT supported by the citation.
+<reject> The content mentions "The version of the Great Hall of Durham Castle in the 15th century CE" which confirms a Great Hall existed in the 15th century. It also mentions "expansive stone castles" and "decorative stonework" in relation to Great Halls. However, it does not explicitly state that the "Great Hall of Durham Castle" or any other specific "something" is a 15th-century stone-built building; it requires an inference to connect the 'stone-built' aspect directly to a specific 15th-century example. </reject>
+
+**********Source Check**********
+
+The claim '3.  Something can be honored for meals.' is supported by the citation.
+<accept> The text states, "it did become a mark of prestige if there was space to keep one table permanently in the hall." This permanent table was "set up for mealtimes." A "mark of prestige" implies that the item (the permanent table) was honored or highly regarded in relation to meals. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/florence-on-a-budget 
+florence-on-a-budget 
+The abomasum for lampredotto is prepared in a certain way.
+
+Schiacciata bread is in a certain state.
+
+Lampredotto is made from something. 
+The abomasum for lampredotto is slow-cooked in a broth.
+
+Schiacciata bread has a crispy outer crust and a soft interior.
+
+Lampredotto is made from the abomasum, which is the fourth and final stomach of a cow.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the following information:
+
+- The abomasum for lampredotto is prepared in a certain way.
+- Schiacciata bread is in a certain state.
+- Lampredotto is made from something.
+
+However, I found a webpage that discusses the preparation of lampredotto and the bread used:
+
+([bambitrippaelampredotto.it](https://www.bambitrippaelampredotto.it/en/2025/04/24/what-bread-to-use-for-lampredotto-the-rosetta/?utm_source=openai))
+
+Additionally, another source provides information on lampredotto and its preparation:
+
+([webfoodculture.com](https://webfoodculture.com/lampredotto-history-information-interesting-facts/?utm_source=openai))
+
+Please note that these sources may not cover all the specific details you're seeking.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c7bcf93c8197aeb1a4b9b8eb00650879936d4ca1f5b9",
+    "action": {
+        "query": "abomasum preparation lampredotto schiacciata bread state lampredotto made from",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-venice 
+top-things-to-do-in-venice 
+Residents of the Ghetto were gated in at a certain time.
+
+Sarde in saor consists of something in a certain way.
+
+A Chorus pass is valid for a certain period. 
+Residents of the Ghetto were gated in every night.
+
+Sarde in saor consists of sardines in a sweet-sour marinade with pine nuts and raisins.
+
+A Chorus pass is valid for one year.
+
+**********Web Search Result**********
+
+I was unable to find a single webpage that mentions all of the following information:
+
+- Residents of the Ghetto were gated in at a certain time.
+- Sarde in saor consists of something in a certain way.
+- A Chorus pass is valid for a certain period.
+
+However, I found separate sources that address each of these points:
+
+1. **Residents of the Ghetto were gated in at a certain time**: According to an article on Aish.com, Jewish men in the Venetian Ghetto were not permitted to leave the locked square after dark. ([aish.com](https://aish.com/venetian-jewish-cuisine-a-trip-through-the-canals-of-history/?utm_source=openai))
+
+2. **Sarde in saor consists of something in a certain way**: The VeneziaUnica City Pass website describes Sarde in saor as a classic Venetian dish where sardines are deep-fried and then left to marinate with onions and vinegar. ([veneziaunica.it](https://www.veneziaunica.it/en/content/sarde-saor?utm_source=openai))
+
+3. **A Chorus pass is valid for a certain period**: The Chorus Association's official website states that the Chorus Pass is valid for one year from the date of issue.
+
+Unfortunately, I couldn't locate a single webpage that combines all three pieces of information.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c7c4f788819485254ec8aaa6c75b094d523a1f9ad709",
+    "action": {
+        "query": "residents of the Ghetto gated in time Sarde in saor ingredients Chorus pass validity",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-free-things-to-do-in-algarve 
+top-free-things-to-do-in-algarve 
+These spaces are designed to showcase something in a certain way.
+
+The palace has been converted into something else.
+
+_Bola de Berlim_ are a certain type of food item. 
+These spaces are designed to showcase handicrafts in production.
+
+The palace has been converted into a hotel.
+
+_Bola de Berlim_ are custard-filled doughnuts.
+
+**********Web Search Result**********
+
+I was unable to find a single webpage that mentions all of the following information:
+
+- These spaces are designed to showcase something in a certain way.
+- The palace has been converted into something else.
+- _Bola de Berlim_ are a certain type of food item.
+
+However, I found separate sources that cover each of these topics:
+
+1. **Spaces designed to showcase something in a certain way**: The Berlin Palace has been reconstructed to house the Humboldt Forum, a cultural space designed to showcase art and exhibitions. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Berlin_Palace?utm_source=openai))
+
+2. **Palace converted into something else**: The Great Stables at the Palace of Versailles have been converted into Campus Versailles, a campus dedicated to arts, crafts, and heritage. ([en.chateauversailles.fr](https://en.chateauversailles.fr/discover/estate/great-stables/campus-versailles?utm_source=openai))
+
+3. **_Bola de Berlim_ as a food item**: _Bola de Berlim_ is a traditional Portuguese pastry, similar to a Berliner, typically filled with egg cream. ([lisbon-a-love-affair.com](https://lisbon-a-love-affair.com/2021/05/?utm_source=openai))
+
+Since no single webpage contains all three pieces of information, I cannot provide a single source that encompasses all the details.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c7d05f34819795bc49f65b251681017a8572f89dc284",
+    "action": {
+        "query": "spaces designed to showcase, palace converted, Bola de Berlim",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/best-things-to-do-in-ho-chi-minh-city 
+best-things-to-do-in-ho-chi-minh-city 
+Breadventure offers something.
+
+Mami Cocktails offers a certain offering.
+
+District 4 was formerly associated with certain kinds of people. 
+Breadventure offers pastries.
+
+Mami Cocktails offers cocktails paired with fusion tapas.
+
+District 4 was formerly associated with thugs and gangsters.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c7dcd6388194b7677ac257e454b80aa1992de72bfed3",
+    "action": {
+        "query": "Breadventure offering Mami Cocktails District 4 formerly associated",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-oban-scotland 
+top-things-to-do-oban-scotland 
+A specific venue offers food and drinks in a particular setting.
+
+Another establishment is a type of specialized retail space with various products.
+
+A certain eatery offers a specific meal option. 
+The View offers food and drinks on a waterfront terrace.
+
+Orsay on Stevenson St is a gallery of curated gifts sourced from across the country, including cards, candles, clothing, jewelry, and art.
+
+George Street Fish Restaurant & Chip Shop offers takeaway fish and chips.
+
+**********Web Search Result**********
+
+https://discoveratlanta.com/stories/meetings/local-atlanta-food-halls-with-innovative-event-space/
+
+{
+    "id": "ws_68a4c7e8de508195910e21cbc61a913302e426bfca13399d",
+    "action": {
+        "query": "venue offers food and drinks special setting retail space various products eatery specific meal option",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A specific venue offers food and drinks in a particular setting.' is supported by the citation.
+<accept> The content explicitly mentions multiple specific venues (e.g., Ponce City Market, Politan Row, Lee + White, Halidom Eatery, The Green at Phipps Plaza) and details the food and drinks they offer within their particular settings (e.g., "food hall with seating indoors and outdoors," "full-service restaurant with parlor cocktails," "whiskey tasting room is adorned with barrel tables," "tiki-style outdoor craft beer bar," "South Beach Art Deco," "tropical vibes," "green space for outdoor events, dining and entertainment"). </accept>
+
+**********Source Check**********
+
+The claim 'Another establishment is a type of specialized retail space with various products.' is NOT supported by the citation.
+<reject> The content describes various specific establishments like food halls, markets, breweries, and a shopping, dining, and entertainment mecca (Ponce City Market). While some of these might contain various products (e.g., Municipal Market sells produce, meat, seafood), the content does not provide a general definition of "an establishment" as a "type of specialized retail space with various products." </reject>
+
+**********Source Check**********
+
+The claim 'A certain eatery offers a specific meal option.' is supported by the citation.
+<accept>The text explicitly mentions several eateries and the specific meal options they offer. For example, the food hall at Ponce City Market offers "an Indian street grill, Latin-inspired sandwiches and bold vegan creations." Similarly, Chattahoochee Food Works offers "Colombian street food to bubble tea, Thai comfort food, vegan hibachi cuisine and crunchy tacos." The Food Hall at Phipps Plaza also features specific concepts like "Stackhouse Burgers & Shakes, Pizza Jeans, Mad Dads Philly’s, Wasabi, Cultivate Coffee, Lokma Mediterranean Kitchen, and Deallo’s Seafood + Taco Co."</accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/best-road-trips-in-iceland 
+best-road-trips-in-iceland 
+Gyrfalcons are in a certain state.
+
+Geldingadalir is in a certain state.
+
+Beljandi is named in a certain way. 
+Gyrfalcons are the largest falcons in the world.
+
+Geldingadalir is currently inactive.
+
+Beljandi is named after a waterfall.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c7f1d4e08197bbc8e53748baf6d9098c472a84fac1b7",
+    "action": {
+        "query": "Gyrfalcons state Geldingadalir state Beljandi named",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/shopping-for-groceries-thailand 
+shopping-for-groceries-thailand 
+Butterfly pea is used in a certain way.
+
+Roselle is used for something. 
+Makro requires membership.
+
+Butterfly pea is used for controlling blood sugar.
+
+Roselle is used for blood pressure.
+
+**********Web Search Result**********
+
+https://www.gardensbythebay.com.sg/en/learn-with-us/explore-resources/articles/edible-plants.html
+
+{
+    "id": "ws_68a4c7fe3ca481968808dc155d96b2440205647ee8b8d4e0",
+    "action": {
+        "query": "Butterfly pea uses and Roselle uses",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Butterfly pea is used in a certain way.' is supported by the citation.
+<accept> The content explicitly mentions that Butterfly Pea is "Traditionally used in Malay and Peranakan cuisines" and that "a dye extracted from the flowers of the Butterfly Pea" is used to achieve a "beautiful tint" in "curiously blue-hued 'hipster' coffees and teas." It also states that "Adding acidic elements like lemon juice turns the midnight blue into an equally dreamy purple too!" These statements describe how Butterfly Pea is used. </accept>
+
+**********Source Check**********
+
+The claim 'Roselle is used for something.' is supported by the citation.
+<accept> The text explicitly states that Roselle is used to make a red drink, jams, and for cut-flower arrangements. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Makro requires membership.' is supported by the original webpage.
+<accept> The content explicitly states under the "Supermarkets" section, "...and wholesaler Makro (membership required)." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Butterfly pea is used for controlling blood sugar.' is supported by the original webpage.
+<accept> The content explicitly states under "Unique finds" that "traditional tisanes made from medicinal ingredients, such as butterfly pea (for controlling blood sugar)". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Roselle is used for blood pressure.' is supported by the original webpage.
+<accept> The content explicitly states, "...there are many traditional tisanes made from medicinal ingredients, such as...roselle (for blood pressure)..." directly supporting the claim. </accept>
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-havana 
+top-things-to-do-in-havana 
+The tradition of the cañonazo dates back to a certain time period.
+
+Someone's body was found in a certain state when exhumed at a later time.
+
+Someone died in a certain way. 
+The tradition of the cañonazo dates back to the early 18th century.
+
+Señora Amelia Goyri's body was found uncorrupted when exhumed years later.
+
+Señora Amelia Goyri died in childbirth.
+
+**********Web Search Result**********
+
+https://www.thevintagenews.com/2022/10/19/guanajuato-mummies/
+
+{
+    "id": "ws_68a4c805d9ec8196873a4a7f12b0082402549f2bf53a806f",
+    "action": {
+        "query": "tradition of the ca\u00f1onazo time period body found exhumed someone died",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The tradition of the cañonazo dates back to a certain time period.' is NOT supported by the citation.
+<reject> The provided content does not mention "cañonazo" or any tradition associated with it, therefore it does not state when such a tradition dates back to. The article is about the Guanajuato Mummies. </reject>
+
+**********Source Check**********
+
+The claim 'Someone's body was found in a certain state when exhumed at a later time.' is supported by the citation.
+<accept> The content explicitly mentions several instances where bodies were exhumed and found in specific states. For example, it states, "When cemetery workers in Guanajuato, Mexico, disinterred some corpses in the 1850s, they were shocked by what they saw. Before them were perfectly preserved mummies...the dead all looked as though they were screaming in terror." It also details Ignacia Aguilar being "dug up, she was found face-down in her tomb, biting at her own arm" and Dr. Remigio Leroy whose "corpse had undergone a mummification process that kept him remarkably intact" when exhumed. </accept>
+
+**********Source Check**********
+
+The claim 'Someone died in a certain way.' is supported by the citation.
+<accept> The article explicitly mentions several instances of people dying in a "certain way," such as Ignacia Aguilar being "buried alive," a woman who "died while pregnant," the "Stabbed to death" mummy, and the "Drowned" mummy. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/best-independent-shops-kansas-city 
+best-independent-shops-kansas-city 
+Café Provence is in a certain state.
+
+French Market is owned by someone.
+
+Dear Society was founded at a certain time. 
+Café Provence is an upscale and acclaimed restaurant.
+
+French Market is owned by the Quillec family.
+
+Dear Society was founded in 2015.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c80e93f08195914d9163b713d50407a0a32ec72cbff5",
+    "action": {
+        "query": "Caf\u00e9 Provence state French Market owner Dear Society founded",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-st-augustine 
+top-things-to-do-in-st-augustine 
+San Sebastian Winery has produced vintages since a certain time.
+
+Escaping enslaved Africans at Fort Mose had to declare allegiance to a certain person.
+
+A night market is held four Tuesdays a year for a certain duration. 
+San Sebastian Winery has produced vintages since 1996.
+
+Escaping enslaved Africans at Fort Mose had to declare allegiance to the king of Spain.
+
+A night market is held four Tuesdays a year from 5 pm to 9 pm.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the specified information.
+
+However, I found separate sources that provide details on each topic:
+
+- **San Sebastian Winery**: Established in 1996, San Sebastian Winery is located in St. Augustine, Florida. ([sansebastianwinery.com](https://sansebastianwinery.com/wines.php?utm_source=openai))
+
+- **Fort Mose**: Escaping enslaved Africans at Fort Mose had to declare allegiance to the Spanish Crown.
+
+- **Night Market**: A night market is held four Tuesdays a year for a certain duration.
+
+Unfortunately, I couldn't locate a single webpage that combines all these details.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c81ac9148193b4f5dc38ae6834e70146a1fe4c4e41ad",
+    "action": {
+        "query": "San Sebastian Winery vintages Fort Mose allegiance night market Tuesdays",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/weekend-itinerary-chefchaouen 
+weekend-itinerary-chefchaouen 
+Bilmos is located in a certain place.
+
+Sofia is owned in a certain way by someone.
+
+Cafe Clock serves a certain food item. 
+Bilmos is located on the main square.
+
+Sofia is a female-owned restaurant.
+
+Cafe Clock serves pancakes topped with caramelized bananas.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c8247d008196ad88b2193cb850ee096205fac853a67f",
+    "action": {
+        "query": "Bilmos location Sofia ownership Cafe Clock menu",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/getting-around-madrid 
+getting-around-madrid 
+Cercanias trains have intervals of some duration during weekday peak hours.
+
+A certain anniversary of the Metro marked a certain period of time since its inauguration.
+
+A certain app can be used to find docks. 
+Cercanias trains have intervals of five to 10 minutes during weekday peak hours.
+
+The centennial anniversary of the Metro marked a century since its inauguration.
+
+The Bicimad app can be used to find docks.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the following information:
+
+- Cercanías trains have intervals of some duration during weekday peak hours.
+- A certain anniversary of the Metro marked a certain period of time since its inauguration.
+- A certain app can be used to find docks.
+
+However, I found separate sources that mention each piece of information:
+
+- **Cercanías trains have intervals of some duration during weekday peak hours**:
+
+  The "Cercanías Madrid Tiempo Real" app provides real-time schedules and waiting times for Cercanías trains, which can help users understand train intervals during peak hours. ([apkpure.com](https://apkpure.com/cercan%C3%ADas-madrid-tiempo-real/com.oktransportemadrid.cercanias?utm_source=openai))
+
+- **A certain anniversary of the Metro marked a certain period of time since its inauguration**:
+
+  The "Madrid Metro Bus Cercanias" app includes information about the Metro Madrid, including maps and routes, which may provide historical context about the Metro's anniversaries. ([madrid-cercanias.en.aptoide.com](https://madrid-cercanias.en.aptoide.com/app?utm_source=openai))
+
+- **A certain app can be used to find docks**:
+
+  The "Madrid Metro Bus Cercanias" app also integrates BiciMAD, Madrid's bike-sharing service, allowing users to locate the nearest bike stations (docks). ([madrid-cercanias.en.aptoide.com](https://madrid-cercanias.en.aptoide.com/app?utm_source=openai))
+
+Unfortunately, I couldn't locate a single webpage that combines all three pieces of information.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c832a9f88196b402d985f35f1c5505fa7c545f0a788d",
+    "action": {
+        "query": "Cercanias train intervals peak hours anniversary Metro app to find docks",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/iceland-with-kids 
+iceland-with-kids 
+Laugarvatnshellar on the Golden Circle was in a certain state for a certain period.
+
+These developed forested areas will offer facilities in a certain way.
+
+Lýsulaugar contains something. 
+Laugarvatnshellar on the Golden Circle was inhabited until the early 1900s.
+
+These developed forested areas will offer facilities for lunch breaks during road trips.
+
+Lýsulaugar contains unique green algae.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c8412df08193b34abc48e799edef0e170ac5bf5efbae",
+    "action": {
+        "query": "Laugarvatnshellar Golden Circle period facilities developed forested areas L\u00fdsulaugar contains",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/best-parks-lisbon 
+best-parks-lisbon 
+Something closed in a certain time.
+
+The military coup overthrew something.
+
+A military coup occurred on a certain date. 
+The Miguel Bombarda psychiatric hospital closed in 2011.
+
+The military coup overthrew a five-decade-long conservative dictatorship.
+
+A military coup occurred on April 25, 1974.
+
+**********Web Search Result**********
+
+https://www.aljazeera.com/news/2023/7/27/timeline-a-history-of-coups-in-niger
+
+{
+    "id": "ws_68a4c84963508190be37245cd14564f20997a7ff3fdffbe8",
+    "action": {
+        "query": "military coup closed date",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something closed in a certain time.' is supported by the citation.
+<accept>The content states that "Niger’s borders were closed, a nationwide curfew declared, and all institutions of the republic suspended" on "Wednesday, July 26" during the 2023 coup. This explicitly mentions something (borders, curfew, institutions) being closed or suspended at a certain time (July 26, 2023).</accept>
+
+**********Source Check**********
+
+The claim 'The military coup overthrew something.' is supported by the citation.
+<accept> The content explicitly mentions several military coups that overthrew various entities. For example, the 1974 coup "ending Hamani Diori’s 14-year rule, suspending the country’s constitution and dissolving the National Assembly." The 1996 coup "overthrowing President Mahamane Ousmane and Prime Minister Hama Amadou." The 2010 coup captured "Tandja and his ministers," and "The constitution is suspended and all state bodies dissolved." The 2023 coup "ousted" President Mohamed Bazoum. </accept>
+
+**********Source Check**********
+
+The claim 'A military coup occurred on a certain date.' is supported by the citation.
+<accept> The content explicitly mentions several military coups that occurred on specific dates, such as April 1974, January 1996, April 1999 (specifically April 9, 1999), February 2010, and July 26, 2023. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Miguel Bombarda psychiatric hospital closed in 2011.' is supported by the original webpage.
+<accept> The content explicitly states under the section "Jardins do Bombarda" that the "former psychiatric hospital Miguel Bombarda (closed since 2011)."</accept>
+
+**********Exact Claim Check**********
+
+The claim 'The military coup overthrew a five-decade-long conservative dictatorship.' is supported by the original webpage.
+<accept> The text explicitly states under the "Largo do Carmo" section: "Largo do Carmo... was inundated by a sea of locals on April 25, 1974 when a military coup overthrew the five-decade-long conservative dictatorship, thus becoming the symbolic location of the beginning of Portugal’s democracy." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A military coup occurred on April 25, 1974.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the text under the "Largo do Carmo" section: "Largo do Carmo, a small square in the Chiado quarter, was inundated by a sea of locals on April 25, 1974 when a military coup overthrew the five-decade-long conservative dictatorship, thus becoming the symbolic location of the beginning of Portugal’s democracy." </accept>
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/dubrovnik-itinerary 
+dubrovnik-itinerary 
+The Franciscan monastery has something that operates in a certain way.
+
+Cafe Cele is located by a certain landmark.
+
+The Homeland War Museum is located in a certain building. 
+The Franciscan monastery has a still-operating pharmacy.
+
+Cafe Cele is located by St Blaise's Church.
+
+The Homeland War Museum is located in Fort Imperial.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c853007c8197869b137e626fa3250acface0c20a00ca",
+    "action": {
+        "query": "Franciscan monastery operates Cafe Cele landmark Homeland War Museum building",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-tulum 
+top-things-to-do-in-tulum 
+SFER IK art museum has something.
+
+Hartwood's ingredients are in a certain state.
+
+Meals at Hartwood are prepared in a certain way. 
+SFER IK art museum has circular windows.
+
+Hartwood's ingredients are fresh and locally sourced.
+
+Meals at Hartwood are cooked over a wood fire.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c85c65888195b347de0ad9831c83015dba88b4e396ef",
+    "action": {
+        "query": "SFER IK museum Hartwood ingredients preparation",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/getting-around-argentina 
+getting-around-argentina 
+The Ecobici system has a certain number of stations.
+
+The Seven Lakes Route is a certain length.
+
+The Calchaquíes Valleys feature some kind of constructions. 
+The Ecobici system has 340 stations.
+
+The Seven Lakes Route is 110 kilometers (68 miles) long.
+
+The Calchaquíes Valleys feature mud constructions.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c863a6e0819091326886b1b7082d0c9ee504532aa43b",
+    "action": {
+        "query": "\"Ecobici system\" \"stations\" \"Seven Lakes Route length\" \"Calchaqu\u00edes Valleys constructions\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/spain-on-a-budget 
+spain-on-a-budget 
+Something is a UNESCO World Heritage site.
+
+Something protects Roman ruins under the roof of a 19th-century market.
+
+Something offers bungalows and glamping tents. 
+The Reial Monestir de Santa Maria de Poblet is a UNESCO World Heritage site.
+
+El Born Centre de Cultura i Memòria in Barcelona protects Roman ruins under the roof of a 19th-century market.
+
+WeCamp offers bungalows and glamping tents.
+
+**********Web Search Result**********
+
+https://www.intriqjourney.com/going-off-the-grid-in-yunnan-glamping-world-heritage-sites-ancient-town-and-time-honoured-house-in-yunnan/
+
+{
+    "id": "ws_68a4c86d464481968cdde793f97e6c0f09d097f84abd581c",
+    "action": {
+        "query": "UNESCO World Heritage site Roman ruins market bungalows glamping tents",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something is a UNESCO World Heritage site.' is supported by the citation.
+<accept> The content explicitly mentions "World Heritage Yuanyang Rice Terraces" and "Samaba Terrace ... the first World Cultural Heritage site centered around farming culture in China." It also refers to the "Hani Terrace Cultural Heritage site." </accept>
+
+**********Source Check**********
+
+The claim 'Something protects Roman ruins under the roof of a 19th-century market.' is NOT supported by the citation.
+<reject> The provided content focuses on travel in Yunnan, China, describing rice terraces, ancient villages, and historical towns with Chinese architectural styles. There is no mention of Roman ruins, 19th-century markets, or anything protecting them. </reject>
+
+**********Source Check**********
+
+The claim 'Something offers bungalows and glamping tents.' is NOT supported by the citation.
+<reject> The content explicitly mentions "glamping tents" and "tents" offered by Vinetree Honghegu Tented Resort. However, it does not mention "bungalows" being offered. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/oregon-best-beaches 
+oregon-best-beaches 
+Cape Perpetua is a certain type of natural feature.
+
+The rock arches at Natural Bridge Viewpoint were formed in a certain way.
+
+Florence's Old Town neighborhood is a certain kind of place. 
+Cape Perpetua is a volcanic remnant.
+
+The rock arches at Natural Bridge Viewpoint are remnants of collapsed sea caves.
+
+Florence's Old Town neighborhood is a quaint waterfront district.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c87b8ab881908c8b5dd1777140900770fcc8fab79aae",
+    "action": {
+        "query": "Cape Perpetua natural feature rock arches at Natural Bridge Viewpoint Florence's Old Town neighborhood",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/best-things-to-do-cuba 
+best-things-to-do-cuba 
+Saudade is a place of a certain kind.
+
+The "corpse" is revived with something after a certain speech.
+
+The "dead" man is lowered into a certain place in a certain container during a certain event. 
+Saudade is a jazz and blues venue.
+
+The "corpse" is revived with liquor after the priest's eulogy.
+
+The "dead" man is lowered into a tomb in his partially open coffin during the mock funeral.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c88a58d881958093c8d84c3d4f840b24e3354a6ea80d",
+    "action": {
+        "query": "Saudade place \"corpse\" revived after speech \"dead\" man lowered",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-on-cape-cod 
+top-things-to-do-on-cape-cod 
+Seal mating season occurs primarily in a certain period.
+
+A-House has a certain feature.
+
+Highland Links was founded in a certain year. 
+Seal mating season occurs primarily in September and October.
+
+A-House has a dance floor.
+
+Highland Links was founded in 1892.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c892f704819799a71c02f5be961d0dbed4333f8e3c71",
+    "action": {
+        "query": "Seal mating season A-House feature Highland Links founded year",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-india 
+things-to-know-before-traveling-to-india 
+Something is fatal if untreated.
+
+Something is a viral infection.
+
+_Thalis_ are a certain kind of food. 
+Rabies infection is fatal if untreated.
+
+Dengue fever is a viral infection.
+
+_Thalis_ are plate meals consisting of multiple dishes served together.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c89d7e7c8195a30c478a814de5dc043513e7033a6a51",
+    "action": {
+        "query": "something is fatal if untreated site:* something is a viral infection site:* thalis food site:*",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-free-things-to-do-in-nice 
+top-free-things-to-do-in-nice 
+The fresco on the Adam and Eve House depicts something.
+
+The Adam and Eve House dates from a certain time.
+
+Nice was part of something in 1843. 
+The fresco on the Adam and Eve House depicts Adam and Eve dressed in leaves in the Garden of Eden.
+
+The Adam and Eve House dates from 1584.
+
+Nice was part of the Italian state of Piedmont-Sardinia in 1843.
+
+**********Web Search Result**********
+
+I couldn't locate a single webpage that mentions all of the following information:
+
+- The fresco on the Adam and Eve House depicts something.
+- The Adam and Eve House dates from a certain time.
+- Nice was part of something in 1843.
+
+However, I found separate sources that provide details on each point:
+
+1. **Fresco on the Adam and Eve House**: The fresco is a bas-relief sculpted on the façade of a house in Nice, depicting Adam and Eve in the Garden of Eden. ([fr.wikipedia.org](https://fr.wikipedia.org/wiki/Fresque_de_la_maison_Adam_et_%C3%88ve?utm_source=openai))
+
+2. **Date of the Adam and Eve House**: The house dates back to 1584. ([meet-in-nicecotedazur.com](https://www.meet-in-nicecotedazur.com/en/fiche/maison-d-adam-et-eve-en/?utm_source=openai))
+
+3. **Nice's Status in 1843**: In 1843, Nice was part of the Kingdom of Sardinia.
+
+Unfortunately, I couldn't find a single source that combines all this information.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c8a880bc81909b3696b516e7d225068c5160e100814f",
+    "action": {
+        "query": "fresco Adam and Eve House Nice history 1843",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-italy 
+top-things-to-do-in-italy 
+Syracuse surpassed other places in a certain way during ancient times.
+
+The Grado lagoon contains something.
+
+The Grado lagoon is populated with a certain kind of life. 
+Syracuse surpassed Athens and Corinth in size during ancient times.
+
+The Grado lagoon contains peaceful salt marshes and mudflats.
+
+The Grado lagoon is populated with birdlife.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c8b3c6e081908b0c42c7a412cbd8058e36b4b025e503",
+    "action": {
+        "query": "Syracuse ancient times surpassed other places Grado lagoon contains Grado lagoon life",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/getting-around-paris 
+getting-around-paris 
+The Crit'Air Vignette requirement applies to certain vehicles.
+
+A monthly pass always begins on a certain day.
+
+A one-day pass begins at a certain time. 
+The Crit'Air Vignette requirement applies to foreign-registered vehicles.
+
+A monthly pass always begins on the first day of the month.
+
+A one-day pass begins at 12:01 AM.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c8c23ae48194bb9d51f9e7fb36e20e6a4c81153e5670",
+    "action": {
+        "query": "Crit'Air Vignette requirement monthly pass start date one-day pass start time",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-florida 
+top-things-to-do-in-florida 
+Something features art in a certain way.
+
+Something else at a certain museum has a certain kind of food.
+
+Someone was involved in certain activities and founded something. 
+The Mennello Museum of American Art features a fusion of pop and folk art.
+
+The on-site cafe at the Morikami Museum has a Pan-Asian menu.
+
+Dr. Mary McLeod Bethune was an educator, activist, and founder of Bethune-Cookman University.
+
+**********Web Search Result**********
+
+https://www.saveur.com/rise-experiential-food-museum/
+
+{
+    "id": "ws_68a4c8cc84d48193b1a45e865c67c59c023f010f1bc89bbd",
+    "action": {
+        "query": "features art, museum food, someone activities founded something",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something features art in a certain way.' is supported by the citation.
+<accept> The text describes how both traditional museums (e.g., Metropolitan Museum of Art, Louvre) and "food-art spaces" or "food museums" feature art. It details how traditional museums display "centuries-old cookware, still-life paintings," while food museums feature food "on the art space's pedestal" through "interactive sensory exhibits" that encourage guests to "interact with the exhibits" and engage "through a variety of senses beyond plain sight." It also states that "the food museum represents a growing consumer desire to have more interactive and engaging experiences with art." </accept>
+
+**********Source Check**********
+
+The claim 'Something else at a certain museum has a certain kind of food.' is supported by the citation.
+<accept> The content mentions several examples of museums that feature specific kinds of food. For instance, it states: "Today there is the Currywurst Museum in Berlin, the Shin-Yokohama Ramen Museum in Yokohama, Japan, and the JELL-O Museum, in Le Roy, New York, just to name a few." It also mentions "Museum of Ice Cream" and "The Pizza Museum," as well as MoFAD's "Chow" program which includes "fortune cookie machine" and "authentic Chinese dumplings." </accept>
+
+**********Source Check**********
+
+The claim 'Someone was involved in certain activities and founded something.' is supported by the citation.
+<accept> The text mentions "Dave Arnold's New York Museum of Food and Drink (MoFAD)", indicating that Dave Arnold was involved in the activities related to and is the founder or a key figure behind the Museum of Food and Drink. It also mentions the author, Emma Orlow, having her "own pop-up food and art space, Scratch 'n Sniff Studio," implying her involvement in founding it. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Mennello Museum of American Art features a fusion of pop and folk art.' is supported by the original webpage.
+<accept> The content explicitly states, "you’ll find the Mennello Museum of American Art, a small but excellent lakeside art museum featuring a fusion of pop and folk art," which directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The on-site cafe at the Morikami Museum has a Pan-Asian menu.' is supported by the original webpage.
+<accept> The text explicitly states, "The museum houses over 7000 Japanese art objects and artifacts, and the on-site cafe has a Pan-Asian menu that allows visitors to indulge in tasty Japanese treats." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Dr. Mary McLeod Bethune was an educator, activist, and founder of Bethune-Cookman University.' is supported by the original webpage.
+<accept> The content explicitly states under section "9. Learn about Florida's Black History" that "The Mary McLeod Bethune Home in Daytona Beach is a testament to the life and legacy of educator, activist and founder of Bethune­-Cookman University, Dr. Mary McLeod Bethune." This confirms all parts of the claim. </accept>
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/first-time-wales-discover 
+first-time-wales-discover 
+Bara brith is something served in a certain way.
+
+The prickly relationship manifests in a certain way.
+
+Faggots are a certain type of food. 
+Bara brith is a dark, fruity tea loaf served sliced and buttered.
+
+The prickly relationship mostly manifests as gentle rivalry.
+
+Faggots are minced offal meatballs with herbs.
+
+**********Web Search Result**********
+
+https://diginsider.com/2012/12/24/eating-ones-way-through-the-british-isles/
+
+{
+    "id": "ws_68a4c8d991fc8193a349fa9ca67bd162050b8f6affd2bbdc",
+    "action": {
+        "query": "Bara brith is something served in a certain way 'The prickly relationship' Faggots food",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Bara brith is something served in a certain way.' is NOT supported by the citation.
+<reject> The information about Bara brith, and how it is served, is not mentioned in the provided content. </reject>
+
+**********Source Check**********
+
+The claim 'The prickly relationship manifests in a certain way.' is NOT supported by the citation.
+<reject> The text is a review of a book about British food and travel. It describes various dishes, culinary terms, and places in the UK. There is no mention of a "prickly relationship" or how such a relationship might manifest in any context within the provided content. </reject>
+
+**********Source Check**********
+
+The claim 'Faggots are a certain type of food.' is supported by the citation.
+<accept> The content explicitly defines "faggot" by asking "What’s a faggot?" and then answering, "It’s a meatball, heavy on the liver." This clearly states that faggots are a type of food. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-bozeman 
+things-to-know-before-traveling-to-bozeman 
+Something is a local dessert option.
+
+Someone is an ice cream maker based in a certain place.
+
+A certain area still houses some certain establishments. 
+Flathead cherry pie is a local dessert option.
+
+Wilcoxson is an ice cream maker based in Livingston.
+
+The old brewery industrial district still houses some microbreweries.
+
+**********Web Search Result**********
+
+https://www.visitmaryland.org/article/ice-cream-lovers-guide-to-maryland
+
+{
+    "id": "ws_68a4c8e4e394819496aa5c27aac2c01c0e1b73880bc16120",
+    "action": {
+        "query": "local dessert option ice cream maker certain place establishments area houses",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something is a local dessert option.' is supported by the citation.
+<accept> The article explicitly states that Taharka Brothers serves "delicious local treats," and that ice cream from Brown Cow Creamery and Moo Cow Creamery are "local products," indicating that ice cream, a dessert, is a local dessert option. </accept>
+
+**********Source Check**********
+
+The claim 'Someone is an ice cream maker based in a certain place.' is supported by the citation.
+<accept> The content explicitly mentions Victor Barlow, who "learned the secret family recipes" and "offers 600 flavors" at Scottish Highland Creamery in Oxford (Talbot County), indicating he is an ice cream maker based in that location. </accept>
+
+**********Source Check**********
+
+The claim 'A certain area still houses some certain establishments.' is supported by the citation.
+<accept> The document lists numerous ice cream shops and creameries across different regions of Maryland, implying that these establishments are currently located within those areas. For example, it lists "Deliteful Dairy, Williamsport (Washington County)", "Lakeside Creamery, Oakland (Garrett County)", and many more, indicating specific areas housing certain establishments. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Flathead cherry pie is a local dessert option.' is supported by the original webpage.
+<accept> The text explicitly mentions "Top things off with a slice of Flathead cherry pie" under the section "7. Try the best local foods," indicating it is a local dessert option. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Wilcoxson is an ice cream maker based in Livingston.' is supported by the original webpage.
+<accept> The content explicitly states under section "7. Try the best local foods": "Top things off with a slice of Flathead cherry pie, with ice cream from Livingston-based maker Wilcoxson." This confirms that Wilcoxson is an ice cream maker based in Livingston. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The old brewery industrial district still houses some microbreweries.' is supported by the original webpage.
+<accept> The text states under point 5, "Get to know the neighborhoods": "North is the old brewery industrial district, still home to a couple of hip microbreweries." </accept>
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/guide-to-red-rocks-colorado 
+guide-to-red-rocks-colorado 
+Dakota Ridge Trail is a route of a certain length.
+
+Trading Post Trail begins at a certain building.
+
+The Trading Post building is in a certain state. 
+Dakota Ridge Trail is a 4-mile out-and-back route.
+
+Trading Post Trail begins at the Trading Post building.
+
+The Trading Post building is a historic structure.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the following information:
+
+- Dakota Ridge Trail is a route of a certain length.
+- Trading Post Trail begins at a certain building.
+- The Trading Post building is in a certain state.
+
+However, I found separate sources that provide this information:
+
+- The Dakota Ridge Trail is approximately 2.4 miles long. ([hikingproject.com](https://www.hikingproject.com/trail/7001692/dakota-ridge-trail?utm_source=openai))
+- The Trading Post Trail is a 1.6-mile loop that starts near the Trading Post building. ([alltrails.com](https://www.alltrails.com/trail/us/colorado/red-rocks-trading-post-trail?utm_source=openai))
+- The Trading Post building is located in Morrison, Colorado. ([alltrails.com](https://www.alltrails.com/trail/us/colorado/red-rocks-trading-post-trail?utm_source=openai))
+
+Unfortunately, I couldn't locate a single webpage that consolidates all this information.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4c8f0051c8193a23a42b6fe3dfeea012df5dc213236ae",
+    "action": {
+        "query": "Dakota Ridge Trail length Trading Post Trail starts at building Trading Post building location state",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-malibu 
+top-things-to-do-in-malibu 
+The lobster roll at Broad Street Oyster Company is made with something.
+
+Broad Street Oyster Company serves certain dishes.
+
+Zuma Jay's real name is someone. 
+The lobster roll at Broad Street Oyster Company is made with Maine lobster.
+
+Broad Street Oyster Company serves oysters, caviar, shrimp cocktails, and ceviche.
+
+Zuma Jay's real name is Jefferson Wagner.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c8fc4c188193b4b7a4b52251493d09a2b582a06527b0",
+    "action": {
+        "query": "lobster roll at Broad Street Oyster Company made with site:*.com Broad Street Oyster Company serves dishes Zuma Jay's real name",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/last-minute-labor-day-weekend-getaways 
+last-minute-labor-day-weekend-getaways 
+The Lachine Canal is located in a certain proximity to something else.
+
+Most people in Montréal communicate in a certain way.
+
+The primary language spoken in Montréal is a certain language. 
+The Lachine Canal is located near downtown Montréal.
+
+Most people in Montréal speak some English.
+
+The primary language spoken in Montréal is French.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c909d4c8819591a6aa68268b5ba809a035c4431d7575",
+    "action": {
+        "query": "Lachine Canal proximity Montreal communication language",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/top-things-to-do-in-texas 
+top-things-to-do-in-texas 
+The USS Lexington participated in something.
+
+The USS Lexington is a certain kind of something.
+
+Investigators made a certain determination about something. 
+The USS Lexington fought in WWII.
+
+The USS Lexington is an Essex-class carrier.
+
+Investigators found no evidence of a second assassin.
+
+**********Web Search Result**********
+
+https://www.navsea.navy.mil/Media/News/Article/2490603/carderocks-unique-capabilities-help-assess-damage-to-sunken-lexington/
+
+{
+    "id": "ws_68a4c919e4048197a595c893d501719c0282ec9e97f56da0",
+    "action": {
+        "query": "USS Lexington participation type investigators determination",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The USS Lexington participated in something.' is supported by the citation.
+<accept> The text explicitly states, "In 1942, she participated in the Battle of the Coral Sea." This confirms that the USS Lexington participated in something, specifically the Battle of the Coral Sea. </accept>
+
+**********Source Check**********
+
+The claim 'The USS Lexington is a certain kind of something.' is supported by the citation.
+<accept> The text explicitly states that the USS Lexington (CV-2) "was the second aircraft carrier to be commissioned by the United States Navy," identifying it as a specific kind of ship. </accept>
+
+**********Source Check**********
+
+The claim 'Investigators made a certain determination about something.' is supported by the citation.
+<accept> The text states, "Due to his data collecting and research, Michaud found that what was originally thought to be the cause of the separation of the ship might not be the case." It then details Michaud's determination about the cause of the damage and separation of the USS Lexington, attributing it to "large successive explosions that occurred following the scuttling" rather than the initial internal explosion. Kervin Michaud, as a structural engineer performing "data collecting and research," acts as an investigator making this determination. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The USS Lexington fought in WWII.' is supported by the original webpage.
+<accept> The content explicitly states under section 7, "Explore WWII naval history aboard the USS Lexington," that "the USS Lexington is an Essex-class carrier that fought in WWII." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The USS Lexington is an Essex-class carrier.' is supported by the original webpage.
+<accept> The content explicitly states under section "7. Explore WWII naval history aboard the USS Lexington": "Docked in the bay at Corpus Christi, the USS Lexington is an Essex-class carrier that fought in WWII and was the oldest working carrier in the US Navy before it was decommissioned in 1991." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Investigators found no evidence of a second assassin.' is supported by the original webpage.
+<accept> The content explicitly states, "Some witnesses claim they heard shots coming from this area, but investigators found no evidence of a second assassin." </accept>
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-malta 
+what-to-eat-and-drink-in-malta 
+The name aljotta is derived from a certain word.
+
+Is-Serkin has been serving someone in a certain place for more than 80 years.
+
+Legligin is recognized by a certain entity. 
+The name aljotta is derived from the Italian word for garlic (aglio).
+
+Is-Serkin has been serving the taxi drivers of Rabat for more than 80 years.
+
+Legligin is recognized by Michelin.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c929a98081909be73f04979a09f7012896e172479377",
+    "action": {
+        "query": "aljotta name derived Is-Serkin 80 years Legligin recognized",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://www.lonelyplanet.com/articles/guide-to-great-migration 
+guide-to-great-migration 
+There are few accommodations in a certain part of something.
+
+The conditions described for a certain period often apply to another period.
+
+A certain natural event adds new life to the herd. 
+There are few accommodations in these interim phase areas of the park.
+
+The conditions described for November often apply to December.
+
+Mass calving adds new life to the herd.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4c93598c08197b672805bd3c9c25d0ce9c5fd94af161e",
+    "action": {
+        "query": "\"few accommodations\" \"conditions often apply\" \"event adds new life to the herd\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+

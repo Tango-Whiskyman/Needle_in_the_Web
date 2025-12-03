@@ -1,0 +1,444 @@
+[
+    {
+        "id": 0,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4d027c6248194afddf02fcd4a4a8c0f5be0fc468e09e6",
+            "action": {
+                "query": "\"derived from\" \"does not expect to be able to stock\" \"have been introduced\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://amateurphotographer.com/review/vivo-x200fe-review/",
+        "search": {
+            "id": "ws_68a4d02efb308195950f04bea4c1aaf6020f4ee1505e3ad7",
+            "action": {
+                "query": "Vivo X200 FE camera app modes withstand conditions charger outcome",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://petapixel.com/2025/07/28/sony-rx1r-iii-review-was-this-worth-waiting-for-nearly-10-years/",
+        "search": {
+            "id": "ws_68a4d036a3448194907686500464042d084eeb19b5320b46",
+            "action": {
+                "query": "Sony RX1R III lens bokeh lacks feature site:crediblephotographyreviews.com",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "I couldn't locate a single webpage that mentions all of the following information:\n\n- Backgrounds are in a certain state by the Samyang 85mm lens.\n- The Samyang 85mm lens has a certain feature.\n- The Samyang 85mm f/1.8 lens has a certain type of threads.\n\nHowever, I found individual sources that address each point:\n\n1. **Backgrounds are in a certain state by the Samyang 85mm lens:**\n   - The Samyang 85mm f/1.4 lens produces a smooth background blur, effectively separating the subject from the background. ([samyangus.com](https://samyangus.com/products/85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e?utm_source=openai))\n\n2. **The Samyang 85mm lens has a certain feature:**\n   - The Samyang 85mm f/1.4 lens features weather-sealing to protect against dust and water. ([photographyblog.com](https://www.photographyblog.com/reviews/samyang_af_85mm_f1_4_fe_review?utm_source=openai))\n\n3. **The Samyang 85mm f/1.8 lens has a certain type of threads:**\n   - The Samyang 85mm f/1.8 lens has a 62mm filter thread. ([samyangus.com](https://samyangus.com/products/85mm-f1-8-high-speed?utm_source=openai))\n\nUnfortunately, I couldn't find a single webpage that mentions all three pieces of information together.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d048c7c48193a26598a0a8203b450a8d06f25f546356",
+            "action": {
+                "query": "Samyang 85mm lens background feature threads",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4d053827081959c258954f335b38007f4800133431b3b",
+            "action": {
+                "query": "Phone 3 display operates resolution size Honor 400 Pro component",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://www.analog.cafe/r/reto-pano-reusable-35mm-film-camera-review-j7eh",
+        "search": {
+            "id": "ws_68a4d06105cc8194af9416fe57f0959f0143cb6e8288bf34",
+            "action": {
+                "query": "Reto Pano panoramic mode result flash state product page not specify",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://www.freepatentsonline.com/y2020/0093266.html",
+        "search": {
+            "id": "ws_68a4d06ae77081958788dcee8b0750ef064f6c814431cad2",
+            "action": {
+                "query": "item designed to accommodate other items retains specific design includes particular features",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "I couldn't locate a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses the use of Nikon lenses on Sony E-mount cameras via adapters, which may partially address your query:\n\n([tomsguide.com](https://www.tomsguide.com/cameras-photography/mirrorless-cameras/dont-throw-away-your-old-dslr-lenses-heres-how-i-use-my-nikon-lenses-on-my-mirrorless-fujifilm?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0730180819093dab57d9b7c9c0c029223d79e9f13d3",
+            "action": {
+                "query": "Nikon camera bodies lens mount Sony E-mount lenses focus adapter ring all brands",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://petapixel.com/2025/07/18/harman-phoenix-ii-film-review-crunchy-pastels/",
+        "search": {
+            "id": "ws_68a4d07b6ca881958dff57365416a4250593826d0be138ca",
+            "action": {
+                "query": "\"Harman Phoenix II was developed\" \"color rendition of Fujifilm 200\" \"Harman Phoenix II renders highlights\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://www.prints4sure.com/blogs/news/understanding-camera-lens-markings-a-complete-guide",
+        "search": {
+            "id": "ws_68a4d089c0ac81978302bfaae6b984af05a2b0dae7f2e94c",
+            "action": {
+                "query": "certain version of the lens branded in a certain way parts of frame quality aperture lens state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://petapixel.com/2025/07/12/laowa-8-15mm-f-2-8-ff-ii-zoom-fisheye-review-sharp-but-niche/",
+        "search": {
+            "id": "ws_68a4d09438188197abeda61d9d55bf150d6b92da0c2d746d",
+            "action": {
+                "query": "Someone fisheye zoom lenses older designs DSLR Laowa 8-15mm bokeh specular highlights resists",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://www.tamron.com/global/consumer/news/detail/a064_20250701.html",
+        "search": {
+            "id": "ws_68a4d09c4c6c8197807ed2f8133fd5100018335863209335",
+            "action": {
+                "query": "Tamron 16-30mm lens improvement powerful upgrade G2 lenses",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "I couldn't locate a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- The front pouch of the Gura Gear Kiboko City Sling 6L includes two stretchy mesh interior pockets, pen holder sleeves, and a tethered key clip. ([shuttermuse.com](https://shuttermuse.com/gura-gear-kiboko-city-sling-6l-review/?utm_source=openai))\n\n- The Bellroy Venture Sling 6L is mentioned as an alternative sling bag. ([rambletravelers.com](https://rambletravelers.com/best-edc-sling-bag/?utm_source=openai))\n\n- The Gura Gear Kiboko City Sling 6L features an RFID-shielded pocket located behind the rear slip pocket. ([shuttermuse.com](https://shuttermuse.com/gura-gear-kiboko-city-sling-6l-review/?utm_source=openai))\n\nWhile these sources cover the individual points, none combine all the information on a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0a5ebdc819490da0d77c379c9b905a5fc11f4e2fa48",
+            "action": {
+                "query": "Sling 6L front pouch features alternative sling bag Gura Gear Kiboko City Sling 6L pocket inside another pocket",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://en.wikipedia.org/wiki/QNAP_Systems",
+        "search": {
+            "id": "ws_68a4d0b5e6a481979cd9c0a040170edb09451d7ef6311321",
+            "action": {
+                "query": "QNAP NAS market state software period of time",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "The webpage at ([dxomark.com](https://www.dxomark.com/zeiss-loxia-2-8-21-review-compact-yet-outstanding-optical-performance?utm_source=openai)) discusses the Zeiss Loxia 2.8/21 lens, highlighting its performance at wide apertures, testing results, and sharpness characteristics.\n\nAt its widest aperture of f/2.8, the lens exhibits outstanding sharpness with excellent field flatness. Stopping down improves sharpness slightly, mainly in the outer field, with peak performance achieved at f/4. The lens has some mild astigmatism and lateral chromatic aberration but is extremely well-corrected overall. Distortion is very well-controlled, measuring just 0.4%, and the lens is free of complex distortion types. However, vignetting is relatively high, close to three stops in the extreme corners at its peak, wide-open.\n\nIn testing, the lens achieved a DxOMark score of 35 points on the full-frame 36-Mpix Sony A7R, indicating excellent overall image quality. It has high sharpness and good flatness of field even at the maximum aperture, making the f/2.8 maximum a useful aperture when light levels are challenging.\n\nThe lens provides good sharpness across the frame, with stopping down improving sharpness mostly in the outer field. This makes the f/2.8 maximum a useful aperture when light levels are challenging.\n\nFor more detailed information, you can visit the full review at ([dxomark.com](https://www.dxomark.com/zeiss-loxia-2-8-21-review-compact-yet-outstanding-optical-performance?utm_source=openai)).  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0bfd3308197ad8dd282d5a86b840908330737b4968a",
+            "action": {
+                "query": "Z21 exhibits widest apertures testing lens functions sharpness review",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses the Genki Moonbase and Moonlink+ Smart Cable:\n\n([biztechweekly.com](https://biztechweekly.com/genki-moonbase-240w-power-strip-charges-7-devices-available-for-preorder/?utm_source=openai))\n\nAdditionally, I found a webpage that discusses issues related to adding a third device:\n\n([github.com](https://github.com/aarons22/homebridge-bond/issues/97?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0d065508190b7df9d76a784552c0aa9d809e3bc1aaf",
+            "action": {
+                "query": "third device added certain part remains in state Moonlink+ Smart Cable Genki Moonbase",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.macworld.com/article/2869026/ugreen-nexode-65w-charger-retractable-usb-c-cable-review.html",
+        "search": {
+            "id": "ws_68a4d0dc2ed08194bda00076fcc7af6a096a099cc843a118",
+            "action": {
+                "query": "UGreen Nexode charging base power cable protection review",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4d0e66bf88197b3fdc77906c2ee2908f232ac530c5f5c",
+            "action": {
+                "query": "Honor 400 AI mode display resolution AI suite state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **Stopping down the Thypoch Simera 28mm f/1.4 improves corner sharpness.**\n\n  According to Dustin Abbott's review, \"Corner Performance peaks around F8. You can see that F5.6 (bottom left) looks good, but F8 (bottom right) looks fantastic.\" ([dustinabbott.net](https://dustinabbott.net/2024/01/thypoch-simera-28mm-f1-4-review/?utm_source=openai))\n\n- **Only clamp-on filters are an option for the Thypoch Eureka 50mm f/2.**\n\n  As noted in the review on phillipreeve.net, \"The lens also ships with a clamp-on UV/Protection filter and a clamp-on lens hood. Both can be used separately or at the same time. I did not see a way to attach normal screw on filters.\" ([phillipreeve.net](https://phillipreeve.net/blog/review-thypoch-eureka-50mm-2-0-collapsible/?utm_source=openai))\n\n- **The Thypoch Simera 28mm f/1.4 has noticeable coma in the corners when wide open.**\n\n  The review on phillipreeve.net states, \"The Thypoch Simera 28mm 1.4 shows noticeable Coma at f/1.4, but the artefacts are comparably small.\" ([phillipreeve.net](https://phillipreeve.net/blog/review-thypoch-simera-28mm-1-4/?utm_source=openai))\n\nWhile these sources individually address each point, there isn't a single webpage that combines all three pieces of information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0f1c91c8193a834357c315291d4026ffac29767c8bf",
+            "action": {
+                "query": "Thypoch Simera 28mm f/1.4 stopping down improves - Thypoch Eureka 50mm f/2 only option - Thypoch Simera 28mm f/1.4 wide open state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "I couldn't find a single webpage that mentions all of the following information about the Sirui Aurora 85mm f/1.4 lens:\n\n- The bokeh shows no sign of something.\n- The lens is in a certain state.\n- The lens can be purchased for something.\n\nHowever, I found a webpage that discusses the lens's bokeh and purchasing information:\n\n([sonyaddict.com](https://sonyaddict.com/2025/07/14/pp-sirui-aurora-85mm-f-1-4-review-clean-creamy-bokeh/?utm_source=openai))\n\nAdditionally, another webpage provides details about the lens's state and purchasing options:\n\n([bhphotovideo.com](https://www.bhphotovideo.com/c/product/1859979-REG/sirui_au85_e_aurora_85mm_f_1_4_autofocus.html?utm_source=openai))\n\nWhile these sources cover parts of the information you're seeking, they don't encompass all three aspects in a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d0ff3d648194b1b05c11a5cde9ca0bc2af999a60790a",
+            "action": {
+                "query": "Sirui Aurora 85mm f/1.4 lens bokeh no sign state purchased for",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "https://amateurphotographer.com/review/panasonic-lumix-dmc-gm5/",
+        "search": {
+            "id": "ws_68a4d108935c819694adc054b9a47f740667b85d8c1cc98b",
+            "action": {
+                "query": "GM-5 EVF state allows certain way provides access certain kinds",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "The Sigma 300-600mm F4 DG OS | Sports lens is a revolutionary large-aperture ultra-telephoto zoom lens that delivers all the convenience and versatility of a zoom lens with the superior optical performance of an ultra-telephoto prime lens. With the Sigma 300-600mm F4 DG OS | Sports, photographers can move freely between focal lengths of 300mm and 600mm without changing lenses. The fast and precise AF performance of its High-response Linear Actuator (HLA) and 5.5 stops* of optical stabilization at 600mm make the Sigma 300-600mm F4 DG OS | Sports a powerful choice for the challenges of sports, action and wildlife photography, where situations change quickly and the opportunity for the perfect photo lasts only a few moments. Featuring a magnesium alloy body, thermal insulation paint and a number of additional features such as the newly added function ring, the Sigma 300-600mm F4 DG OS | Sports has been designed to support professionals achieve their best shots.\n\n* Based on CIPA guidelines. (Measured at a focal length of 600mm with a 35mm full-frame camera)\n\nThe Sigma 300-600mm F4 DG OS | Sports features 28 lens elements in 21 groups, including 6 FLD and 1 SLD glass elements, anomalous dispersion glass, and high refractive index glass. Its optical design provides excellent correction of various optical aberrations, such as chromatic aberration, throughout the entire zoom range. Although a zoom lens, the Sigma 300-600mm F4 DG OS | Sports delivers the unparalleled optical performance of a prime lens.\n\nDespite its large aperture of F4, the Sigma 300-600mm F4 DG OS | Sports features a lightweight focus lens group thanks to the use of a high-thrust HLA (High-response Linear Actuator) motor, optimized optical power arrangement and state-of-the-art glass materials. The result is a high-speed autofocus functionality with outstanding accuracy.\n\nThe Sigma 300-600mm F4 DG OS | Sports delivers exceptional optical stabilization of 5.5 stops* at 600mm. Powered by Sigma\u2019s sophisticated OS2 algorithm and featuring a drive unit with a specially designed actuator and high-precision sensor, this lens effortlessly meets the demands of a large-aperture ultra-telephoto.\n\nAdditionally, photographers have the choice between two OS modes: Mode 1 is suitable for most still photography and video situations, while Mode 2 was specially designed for panning shots. Driven by Sigma\u2019s Intelligent OS algorithm, this mode stabilizes the image during horizontal, vertical, or diagonal movements, regardless of the camera\u2019s orientation, enabling photographers to capture moving subjects with professional precision.\n\n* Based on CIPA guidelines. (Measured at a focal length of 600mm with a 35mm full-frame camera)\n\nThe lens barrel is made of magnesium alloy for the main parts and the hood is made of carbon, achieving both high robustness and light weight. In addition, the optical design with the center of gravity toward the camera greatly improves the weight balance, which tends to be front-heavy.\n\nThe exterior of the lens body is coated with a thermal insulation paint that effectively suppresses heat absorption from sunlight. This prevents the lens from heating up, even during long outdoor shoots in sunny weather, such as nature or motorsports photography.\n\nThe Sigma 300-600mm F4 DG OS | Sports features a newly added function ring that further expands the options of the lens. The focus ring offers two different modes, selected via its setting switch:\n\nFocus Preset Mode:\n\nBy turning the function ring to the left or right, the focus can be instantly shifted to a pre-registered focus position. This is useful when frequently shooting at a fixed focus position.\n\nPower Focus Mode:\n\nFocusing at a constant speed is possible by operating the function ring. This allows for smooth focus shift during movie shooting as well as for focusing with minimal movement when shooting hand-held. Focusing speed can be changed in two steps depending on the angle at which the function ring is operated.\n\nThe tripod socket's rotating mechanism uses bearings for both high durability and smooth rotation with an optional click/declick mechanism for each 90\u00b0 angle to assist in accuracy. The tripod socket foot is compatible with Arca-Swiss type clamps, but can be easily removed and replaced with different interchangeable tripod sockets (available separately) to suit a variety of situations and preferences.\n\nThe Sigma 300-600mm F4 DG OS | Sports features a drop-in filter holder for standard \u00f840.5mm filters. In addition, Sigma has developed a new drop-in circular polarizing filter and a variable ND filter (available separately) that can be adjusted by approximately 7-stops while dropped into the lens.\n\nThe mount joints, manual focus ring, zoom ring, custom switches and other control switches, and exterior joints are all protected from dust and splash by a dust- and splash-resistant structure*. Further, the frontmost surface of the lens is coated with a water- and oil-repellent coating to facilitate maintenance when water droplets or dust adhere to the lens.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\nThe lens features a variety of buttons and switches to accommodate individual preferences and the demands of different shooting situations, including AFL buttons in four different locations, a focus mode switch, a focus limiter switch, an OS mode switch (Mode 1 or Mode 2), and a custom mode switch. The L-Mount version of the lens is also compatible with Tele Converters (TC-1411/TC-2011) for AF-enabled shooting at a maximum focal length of 1,200mm.\n\n* Based on CIPA guidelines. (Measured at a focal length of 600mm with a 35mm full-frame camera)\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof. Be careful not to bring the lens in contact with a large amount of water. Water inside the lens may cause major damage and even render the lens unrepairable.\n\n* The figures below are for the L-Mount version.\n\n* The structure is designed to be dust- and splash-resistant, but not waterproof.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4d11225a0819081063e05f0ff40310941f611697f3408",
+            "action": {
+                "query": "Sigma 300-600mm f/4 includes something Sigma 300-600mm f/4 DG DN OS Sports Sigma 300-600mm f/4 has something",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://viltrox.com/products/af-85mm-f-1-4-fe",
+        "search": {
+            "id": "ws_68a4d148f87c819599ec42346be57356035c2139a1d0b31c",
+            "action": {
+                "query": "Viltrox 85mm f/1.4 Pro specular highlights weight review",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://petapixel.com/2025/06/20/sigma-17-40mm-f-1-8-dc-art-review-a-legend-reborn/",
+        "search": {
+            "id": "ws_68a4d15170b481959025df9937672b320309c0e14f98c682",
+            "action": {
+                "query": "Sigma 17-40mm f/1.8 DC Art review stopping down ghosting",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4d15b9ff88197a45885deb2eb14a106092f401c4659dd",
+            "action": {
+                "query": "feature prevents component operating way product legs material quality cost",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://petapixel.com/2025/06/16/om-system-om-5-mark-ii-review-i-think-ive-reviewed-this-camera-before/",
+        "search": {
+            "id": "ws_68a4d16460648197bbdd2660c21d04d50d3f763b9bda6fce",
+            "action": {
+                "query": "OM-5 Mark II card slot sealing OM System cameras body design",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://apotelyt.com/compare-camera/fujifilm-x-e5-vs-sony-a6700",
+        "search": {
+            "id": "ws_68a4d179a6e48190b681cf295c9164b808d4e598b65ed937",
+            "action": {
+                "query": "X-E5 features something Sony a6700 body certain state X-E5's something functions in a certain way",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://www.bhphotovideo.com/c/product/1887887-REG/insta360_cinsaaha_x501_x5_360_camera.html",
+        "search": {
+            "id": "ws_68a4d184174881939d2cbf9bd4b0ee830f4158b898dea0df",
+            "action": {
+                "query": "Insta360 X5 measurements features waterproof",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://kyu-core.com/en/product/",
+        "search": {
+            "id": "ws_68a4d18c91b88197b2c9d70c4d45c83102f93888bae63189",
+            "action": {
+                "query": "Kyu camera back features screen certain type of camera",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://patents.google.com/patent/WO2024177803A1/en",
+        "search": {
+            "id": "ws_68a4d196a1208190adf7bc77ff8343910963a1ede35e03d6",
+            "action": {
+                "query": "setting not alterable visual element photo system emulates visual properties lenses",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://www.photographyblog.com/reviews/panasonic_lumix_s_24_60mm_f2_8_review",
+        "search": {
+            "id": "ws_68a4d1ad352881908c2bfaf91815110f0069ac60284c406a",
+            "action": {
+                "query": "24-60mm lens review corners at 24mm macro performance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://petapixel.com/2025/06/02/shimoda-sidecountry-backpack-review-comfortable-for-all-adventurous-photographers/",
+        "search": {
+            "id": "ws_68a4d1d80bd881908a4c8c89f43940df0f8645063e148f94",
+            "action": {
+                "query": "Shimoda Sidecountry bag interior customization sustainability both sizes state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://www.cloudynights.com/articles/cat/astro-gear-today/reviews/a-wide-and-fast-lens-for-mirrorless-cameras-laowa-15mm-f2-review-r4545",
+        "search": {
+            "id": "ws_68a4d1e42f108197ae161b6b182eccf508190cbc8633b7a0",
+            "action": {
+                "query": "Laowa lenses description corners images Laowa 15mm f/4.5 behavior",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://wordpress.lensrentals.com/blog/2017/03/testing-of-battery-life-and-recording-times-of-all-video-cameras/",
+        "search": {
+            "id": "ws_68a4d1f292f48196aea7099fcd6c4dab05164cbd74b258e6",
+            "action": {
+                "query": "camera model recording capability naming convention feature battery type duration usage",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

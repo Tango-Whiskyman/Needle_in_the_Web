@@ -1,0 +1,1940 @@
+[
+    {
+        "id": 0,
+        "source": "https://github.com/yfzhang114/Thyme",
+        "search": [
+            {
+                "title": "Enhancing Perception Capabilities of Multimodal LLMs with Training ...",
+                "url": "https://openreview.net/forum?id=2jEiFTLRwX",
+                "date": "2024-11-14",
+                "last_updated": "2024-11-19"
+            },
+            {
+                "title": "thyme geographical differentiation and marker identification as a ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11249438/",
+                "date": "2024-05-28",
+                "last_updated": "2025-06-07"
+            },
+            {
+                "title": "Multimodal LLMs: Architecture, Techniques, and Use Cases",
+                "url": "https://blog.premai.io/multimodal-llms-architecture-techniques-and-use-cases/",
+                "date": "2024-12-06",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "[PDF] Understanding the Effects of Dataset Characteristics on Offline ...",
+                "url": "https://offline-rl-neurips.github.io/2021/pdf/12.pdf",
+                "date": null,
+                "last_updated": "2025-03-27"
+            },
+            {
+                "title": "63. How multimodal LLMs (MLLM) work under the hood?",
+                "url": "https://machinelearningatscale.substack.com/p/63-how-multimodal-llms-mllm-work",
+                "date": "2024-11-17",
+                "last_updated": "2025-06-18"
+            },
+            {
+                "title": "Population diversity analyses provide insights into key horticultural ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907056/",
+                "date": "2022-08-02",
+                "last_updated": "2025-02-21"
+            },
+            {
+                "title": "Multimodal Inputs - vLLM",
+                "url": "https://docs.vllm.ai/en/latest/features/multimodal_inputs.html",
+                "date": "2015-01-01",
+                "last_updated": "2025-07-28"
+            },
+            {
+                "title": "yfzhang114/Thyme: Think Beyond Images - GitHub",
+                "url": "https://github.com/yfzhang114/Thyme",
+                "date": "2025-08-17",
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "eRAM-V: From Interaction to Integration in Efficient Multimodal...",
+                "url": "https://openreview.net/forum?id=GtlV6o1yUy",
+                "date": "2024-11-21",
+                "last_updated": "2025-02-10"
+            },
+            {
+                "title": "Thyme: Think Beyond Images | AI Research Paper Details",
+                "url": "https://www.aimodels.fyi/papers/arxiv/thyme-think-beyond-images",
+                "date": "2025-08-17",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "source": "https://arxiv.org/html/2508.11628v1",
+        "search": [
+            {
+                "title": "Is ChatGPT-5 Ready for Mammogram VQA?",
+                "url": "https://arxiv.org/html/2508.11628v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Future of Medical Imaging in 2025",
+                "url": "https://blog.medicai.io/en/future-of-medical-imaging/",
+                "date": "2025-02-22",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Is ChatGPT-5 Ready for Mammogram VQA? - Paper Detail",
+                "url": "https://deeplearn.org/arxiv/629808/is-chatgpt-5-ready-for-mammogram-vqa",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "2025 Medical Imaging Trends: AI, Access & Innovation in Radiology",
+                "url": "https://gcgglobalhealthcare.com/key-medical-imaging-trends-to-watch-in-2025/",
+                "date": "2025-04-01",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[2508.11628] Is ChatGPT-5 Ready for Mammogram VQA?",
+                "url": "https://arxiv.org/abs/2508.11628",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Medical imaging trends to watch in 2025 - Radiology Business",
+                "url": "https://radiologybusiness.com/topics/healthcare-management/business-intelligence/medical-imaging-trends-watch-2025",
+                "date": "2025-01-30",
+                "last_updated": "2025-07-23"
+            },
+            {
+                "title": "GPT-5 Demonstrates Mammography VQA Performance On ...",
+                "url": "https://quantumzeitgeist.com/gpt-5-demonstrates-mammography-vqa-performance-on-bi-rads-assessment-and-malignancy-classification/",
+                "date": "2025-08-18",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "AI's Transformative Power: A Revolution in Medical Imaging",
+                "url": "https://netchoice.org/ais-transformative-power-a-revolution-in-medical-imaging/",
+                "date": "2025-05-20",
+                "last_updated": "2025-05-20"
+            },
+            {
+                "title": "Is ChatGPT-5 Ready for Mammogram VQA",
+                "url": "https://www.youtube.com/watch?v=EZXdwtqbmJw",
+                "date": "2025-08-19",
+                "last_updated": null
+            },
+            {
+                "title": "AI Diagnostic Imaging: The Future of Medical Precision",
+                "url": "https://centellahealthtech.com/2025/03/ai-diagnostic-imaging-future/",
+                "date": "2025-03-21",
+                "last_updated": "2025-06-16"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Low Rank Adaptation (Lora)",
+                "url": "https://training.continuumlabs.ai/training/the-fine-tuning-process/parameter-efficient-fine-tuning/low-rank-adaptation-lora",
+                "date": "2024-05-16",
+                "last_updated": "2025-06-26"
+            },
+            {
+                "title": "LoRA Fine-tuning & Hyperparameters Explained (in Plain ...",
+                "url": "https://www.entrypointai.com/blog/lora-fine-tuning/",
+                "date": "2023-11-24",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "LoRA",
+                "url": "https://huggingface.co/docs/peft/main/en/conceptual_guides/lora",
+                "date": null,
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Improving LoRA: Implementing Weight-Decomposed Low ...",
+                "url": "https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch",
+                "date": "2024-02-18",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Lora: Low-rank adaptation of large lan",
+                "url": "http://arxiv.org/pdf/2106.09685",
+                "date": "2021-10-16",
+                "last_updated": "2025-04-21"
+            },
+            {
+                "title": "Low Rank Adaptation and its Variations - Yuchen's Blog",
+                "url": "https://yuchen20.github.io/posts/low-rank-adaptation/",
+                "date": "2024-03-08",
+                "last_updated": "2024-09-16"
+            },
+            {
+                "title": "Low-Rank Adaptation (LoRA) Explained",
+                "url": "https://apxml.com/courses/meta-learning-foundation-models/chapter-5-few-shot-adaptation-foundation-models/low-rank-adaptation-lora",
+                "date": "2025-04-11",
+                "last_updated": "2025-07-18"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "source": "https://arxiv.org/html/2508.11620v1",
+        "search": [
+            {
+                "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+                "url": "https://arxiv.org/html/2508.11620v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+                "url": "https://ecommons.cornell.edu/items/2af01cc7-1f1d-4484-95f0-0927ead37f7c",
+                "date": "2025-08-04",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+                "url": "https://arxiv.org/abs/2508.11620",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Custom Hand Gesture Recognition with Hand Landmarks Using ...",
+                "url": "https://www.youtube.com/watch?v=a99p_fAr6e4",
+                "date": "2022-03-14",
+                "last_updated": "2025-06-30"
+            },
+            {
+                "title": "[PDF] Hand Detection For Grab-and-Go Groceries - CS231n",
+                "url": "https://cs231n.stanford.edu/reports/2017/pdfs/225.pdf",
+                "date": null,
+                "last_updated": "2024-06-07"
+            },
+            {
+                "title": "[PDF] Micro-gesture Online Recognition using Learnable Query Points",
+                "url": "https://ceur-ws.org/Vol-3848/paper_6.pdf",
+                "date": null,
+                "last_updated": "2025-06-25"
+            },
+            {
+                "title": "[PDF] GRAB: A Dataset of Whole-Body Human Grasping of Objects",
+                "url": "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf",
+                "date": null,
+                "last_updated": "2024-02-27"
+            },
+            {
+                "title": "Deep learning at the edge enables real-time streaming ... - Nature",
+                "url": "https://www.nature.com/articles/s41467-023-41496-z",
+                "date": "2023-11-03",
+                "last_updated": "2024-10-21"
+            },
+            {
+                "title": "Grab-and-Release Spelling in XR: A Feasibility Study for ...",
+                "url": "https://dl.acm.org/doi/10.1145/3715336.3735719",
+                "date": "2025-07-04",
+                "last_updated": null
+            },
+            {
+                "title": "Why GPUs Are Great for AI - NVIDIA Blog",
+                "url": "https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai/",
+                "date": "2023-12-04",
+                "last_updated": "2025-06-16"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "source": "https://arxiv.org/abs/2508.11620",
+        "search": [
+            {
+                "title": "On-the-Go Microgesture Recognition with Objects in Hand",
+                "url": "https://arxiv.org/abs/2508.11620",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+                "url": "https://arxiv.org/html/2508.11620v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "An Investigation of the Effects of Holographic Wristbands ...",
+                "url": "https://www.jstage.jst.go.jp/article/jpts/24/7/24_577/_pdf",
+                "date": null,
+                "last_updated": "2025-02-01"
+            },
+            {
+                "title": "Top 8 Benefits of RFID Wristbands for Festivals and Live Events",
+                "url": "https://www.ftgo.com/benefits-of-rfid-wristbands.html",
+                "date": "2025-03-17",
+                "last_updated": "2025-03-24"
+            },
+            {
+                "title": "AI-Enabled Smart Wristband Providing Real-Time Vital ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10007366/",
+                "date": "2023-03-04",
+                "last_updated": "2025-07-13"
+            },
+            {
+                "title": "The Top Benefits of NFC Wristbands for Smart Event Networking",
+                "url": "https://www.crowdpass.co/blog-post/the-top-benefits-of-nfc-wristbands-for-smart-event-networking",
+                "date": "2025-01-13",
+                "last_updated": "2025-01-26"
+            },
+            {
+                "title": "Meta researchers are developing a gesture-controlled ...",
+                "url": "https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/",
+                "date": "2025-07-23",
+                "last_updated": "2025-07-23"
+            },
+            {
+                "title": "Festival and Event Food Courts: Boosting Sales with RFID Wristbands",
+                "url": "https://godreamcast.com/blog/cashless/rfid-estival-event-food-courts/",
+                "date": "2025-05-28",
+                "last_updated": "2025-05-30"
+            },
+            {
+                "title": "OSU-invented silicone wristbands improve detection of ...",
+                "url": "https://news.oregonstate.edu/news/osu-invented-silicone-wristbands-improve-detection-environmental-pollutants-0",
+                "date": "2018-05-21",
+                "last_updated": "2024-11-13"
+            },
+            {
+                "title": "10 Interesting Uses of RFID Wristbands - EnCStore.com",
+                "url": "https://www.encstore.com/blog/5789-10-interesting-uses-of-rfid-wristbands",
+                "date": "2024-03-08",
+                "last_updated": "2025-08-07"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "source": "https://sccs.stanford.edu/sites/g/files/sbiybj17761/files/media/file/callas_et_al_0.pdf",
+        "search": [
+            {
+                "title": "Assessment of oil and gas fields in California as potential ...",
+                "url": "https://www.osti.gov/servlets/purl/1977182",
+                "date": null,
+                "last_updated": "2025-03-04"
+            },
+            {
+                "title": "Geology and Mineral Resources - Carbon Sequestration",
+                "url": "https://energy.virginia.gov/geology/CarbonStorage.shtml",
+                "date": null,
+                "last_updated": "2025-08-04"
+            },
+            {
+                "title": "Criteria and workflow for selecting depleted hydrocarbon ...",
+                "url": "https://sccs.stanford.edu/sites/g/files/sbiybj17761/files/media/file/callas_et_al_0.pdf",
+                "date": null,
+                "last_updated": "2024-02-02"
+            },
+            {
+                "title": "Carbon Storage FAQs | netl.doe.gov - Department of Energy",
+                "url": "https://www.netl.doe.gov/carbon-management/carbon-storage/faqs/carbon-storage-faqs",
+                "date": null,
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "CO2 Storage Formations",
+                "url": "https://www.netl.doe.gov/node/5964",
+                "date": "2015-01-01",
+                "last_updated": "2024-09-15"
+            },
+            {
+                "title": "Using Petroleum Reservoirs to Store Carbon",
+                "url": "https://www.usgs.gov/news/featured-story/using-petroleum-reservoirs-store-carbon",
+                "date": "2023-09-27",
+                "last_updated": "2025-02-20"
+            },
+            {
+                "title": "CO\u2082 Storage Site Catalogue",
+                "url": "https://ieaghg.org/publications/co2-storage-site-catalogue/",
+                "date": "2024-08-08",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "CO2 Storage Resource Catalogue \u2013 CCUS projects",
+                "url": "https://www.ogci.com/ccus/co2-storage-catalogue/",
+                "date": "2024-02-29",
+                "last_updated": "2025-06-17"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "source": "https://arxiv.org/html/2508.11616v1",
+        "search": [
+            {
+                "title": "Controlling Multimodal LLMs via Reward-guided Decoding - arXiv",
+                "url": "https://arxiv.org/html/2508.11616v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Customizing LLM Output: Post-Processing Techniques",
+                "url": "https://neptune.ai/blog/customizing-llm-output-post-processing-techniques",
+                "date": "2024-09-25",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "[PDF] Exploring the Trade-off Between Model Performance and ...",
+                "url": "https://aclanthology.org/2024.findings-naacl.262.pdf",
+                "date": "2024-06-16",
+                "last_updated": "2025-04-13"
+            },
+            {
+                "title": "Taming LLMs: strategies and tools for controlling responses",
+                "url": "https://tryolabs.com/blog/strategies-and-tools-for-controlling-responses",
+                "date": "2024-01-10",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Towards Effective MLLM Jailbreaking Through Balanced On ... - arXiv",
+                "url": "https://www.arxiv.org/abs/2508.09218",
+                "date": "2025-08-11",
+                "last_updated": "2025-08-14"
+            },
+            {
+                "title": "When MLLM-Crafted Narratives Exploit Manipulated Visual ...",
+                "url": "https://arxiv.org/html/2505.17476v1",
+                "date": "2025-05-23",
+                "last_updated": "2025-05-26"
+            },
+            {
+                "title": "Unleashing Region Understanding in Intermediate Layers for MLLM ...",
+                "url": "https://nips.cc/virtual/2024/poster/96885",
+                "date": "2025-01-31",
+                "last_updated": "2025-02-17"
+            },
+            {
+                "title": "Reward-Guided Decoding Improves Precision And Recall ...",
+                "url": "https://quantumzeitgeist.com/reward-guided-decoding-improves-precision-and-recall-in-multimodal-large-language-models/",
+                "date": "2025-08-18",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Learn from Downstream and Be Yourself in Multimodal Large ...",
+                "url": "https://openreview.net/forum?id=FKqmIAnkrb&noteId=4BaS5eNtmX",
+                "date": "2025-06-18",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Training-Free Visual Prompt Learning for Multimodal Large ...",
+                "url": "https://neurips.cc/virtual/2024/poster/95574",
+                "date": "2025-01-31",
+                "last_updated": "2025-07-23"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "source": "https://thehealthinsider.ca/unlocking-health-steps-active-minutes-and-beyond/",
+        "search": [
+            {
+                "title": "Active Zone Minutes \u2013 Using Fitness Data for Smarter Results",
+                "url": "https://www.thryve.health/blog/active-zone-minutes-using-fitness-data-for-smarter-results",
+                "date": "2025-01-01",
+                "last_updated": "2025-06-14"
+            },
+            {
+                "title": "Cardiovascular Reactivity to Mental Stress and Adverse ...",
+                "url": "https://www.ahajournals.org/doi/full/10.1161/JAHA.124.034683",
+                "date": "2025-01-23",
+                "last_updated": "2025-02-15"
+            },
+            {
+                "title": "The Ultimate Guide to Fitbit Zone Minutes",
+                "url": "https://fitstraps.co.uk/blogs/news/the-ultimate-guide-to-fitbit-zone-minutes",
+                "date": "2023-12-21",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Heart rate response to cognitive load as a marker of depression and ...",
+                "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1355846/full",
+                "date": "2024-07-10",
+                "last_updated": "2025-08-17"
+            },
+            {
+                "title": "Unlocking Health: Steps, Active Minutes, and Beyond",
+                "url": "https://thehealthinsider.ca/unlocking-health-steps-active-minutes-and-beyond/",
+                "date": "2024-07-12",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Cardiorespiratory Dynamic Response to Mental Stress",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3872389/",
+                "date": "2013-12-10",
+                "last_updated": "2025-07-30"
+            },
+            {
+                "title": "Fitbit Technology | Active Zone Minutes",
+                "url": "https://store.google.com/magazine/fitbit_active_zone_minutes?hl=en-US",
+                "date": "2025-07-01",
+                "last_updated": "2025-07-03"
+            },
+            {
+                "title": "Mental Workload Alters Heart Rate Variability, Lowering Non-linear ...",
+                "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.00565/full",
+                "date": "2019-05-13",
+                "last_updated": "2025-07-10"
+            },
+            {
+                "title": "does my fitbit device track active zone minutes or ...",
+                "url": "https://support.google.com/fitbit/answer/14236509?hl=en",
+                "date": "2025-06-02",
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "Adaptive Cardio Load Targets for Improving Fitness and Performance",
+                "url": "https://arxiv.org/html/2508.11613v1",
+                "date": "2010-01-01",
+                "last_updated": "2025-08-18"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "source": "https://arxiv.org/pdf/2212.14147",
+        "search": [
+            {
+                "title": "Jacobi field",
+                "url": "https://en.wikipedia.org/wiki/Jacobi_field",
+                "date": "2004-08-03",
+                "last_updated": "2025-06-20"
+            },
+            {
+                "title": "[PDF] The Jacobi metric approach for dynamical wormholes - arXiv",
+                "url": "https://arxiv.org/pdf/2212.14147",
+                "date": "2022-12-29",
+                "last_updated": "2024-08-15"
+            },
+            {
+                "title": "On the Jacobi metric for a general Lagrangian system",
+                "url": "https://pubs.aip.org/aip/jmp/article/60/11/112901/233532/On-the-Jacobi-metric-for-a-general-Lagrangian",
+                "date": "2019-11-26",
+                "last_updated": "2025-05-16"
+            },
+            {
+                "title": "Convexity preserving properties for Hamilton-Jacobi equations in ...",
+                "url": "https://www.aimsciences.org/article/doi/10.3934/dcds.2019007",
+                "date": null,
+                "last_updated": "2024-08-20"
+            },
+            {
+                "title": "Jacobi-Maupertuis-Eisenhart metric and geodesic flows",
+                "url": "https://arxiv.org/pdf/1612.00375",
+                "date": null,
+                "last_updated": "2025-05-02"
+            },
+            {
+                "title": "Kerr-Newman-Jacobi geometry and the deflection of charged ...",
+                "url": "https://link.aps.org/doi/10.1103/PhysRevD.104.044061",
+                "date": "2021-08-24",
+                "last_updated": "2025-03-26"
+            },
+            {
+                "title": "Closed geodesics for the Jacobi metric",
+                "url": "https://ems.press/content/serial-article-files/17116",
+                "date": null,
+                "last_updated": "2025-05-09"
+            },
+            {
+                "title": "Jacobi Fields and Conjugate Points | Metric Differential Geometry ...",
+                "url": "https://library.fiveable.me/metric-differential-geometry/unit-10",
+                "date": null,
+                "last_updated": null
+            },
+            {
+                "title": "JACOBI-MAUPERTUIS METRIC OF LI\u00c9NARD TYPE ...",
+                "url": "https://ejde.math.txstate.edu/Volumes/2018/120/chanda.pdf",
+                "date": null,
+                "last_updated": "2025-05-02"
+            },
+            {
+                "title": "[PDF] The Jacobi-metric for timelike geodesics in static spacetimes - arXiv",
+                "url": "https://arxiv.org/pdf/1508.06755",
+                "date": "2015-09-09",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "source": "https://arxiv.org/pdf/2506.21086",
+        "search": [
+            {
+                "title": "Audio Fingerprinting: Combining Computer Vision & Data ...",
+                "url": "https://research.google.com/pubs/archive/33031.pdf",
+                "date": null,
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "PeakNetFP: Peak-based Neural Audio Fingerprinting Robust ... - arXiv",
+                "url": "https://arxiv.org/html/2506.21086v1",
+                "date": "2025-06-26",
+                "last_updated": "2025-06-27"
+            },
+            {
+                "title": "Application of Audio Fingerprinting Techniques for Real ...",
+                "url": "https://arxiv.org/html/2410.21876v1",
+                "date": "2002-01-01",
+                "last_updated": "2025-05-26"
+            },
+            {
+                "title": "[PDF] PeakNetFP: Peak-based Neural Audio Fingerprinting Robust ... - arXiv",
+                "url": "https://arxiv.org/pdf/2506.21086",
+                "date": "2025-06-26",
+                "last_updated": "2025-06-27"
+            },
+            {
+                "title": "Using MPEG-7 Audio Fingerprinting in Real-World ...",
+                "url": "https://www.iis.fraunhofer.de/content/dam/iis/de/doc/ame/conference/AES-115-Convention_MPEG-7_AudioFingerprintinginReal-WorldApplications_AES5961.pdf",
+                "date": null,
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "Peak-based Neural Audio Fingerprinting Robust to Extreme Time ...",
+                "url": "https://www.themoonlight.io/en/review/peaknetfp-peak-based-neural-audio-fingerprinting-robust-to-extreme-time-stretching",
+                "date": "2025-06-25",
+                "last_updated": "2025-07-01"
+            },
+            {
+                "title": "Application of Audio Fingerprinting Techniques for Real ...",
+                "url": "https://arxiv.org/abs/2410.21876",
+                "date": "2024-10-29",
+                "last_updated": "2025-06-21"
+            },
+            {
+                "title": "[PDF] Audio Fingerprinting with Holographic Reduced Representations",
+                "url": "https://www.isca-archive.org/interspeech_2024/fujita24_interspeech.pdf",
+                "date": "2024-09-01",
+                "last_updated": "2025-05-11"
+            },
+            {
+                "title": "What is Audio Fingerprinting: A Comprehensive Guide",
+                "url": "https://www.scrapeless.com/en/blog/audio-fingerprinting",
+                "date": "2024-11-15",
+                "last_updated": "2025-07-17"
+            },
+            {
+                "title": "SpectroMap: Peak detection algorithm for audio fingerprinting",
+                "url": "https://www.semanticscholar.org/paper/5fd2d34bf1ce6f4f43464e7989f3ee30b255bb2d",
+                "date": "2022-11-02",
+                "last_updated": "2025-02-10"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "source": "https://arxiv.org/html/2508.11608v1",
+        "search": [
+            {
+                "title": "[PDF] PARALLEL IMPLEMENTATIONS OF THE JACOBI LINEAR ... - arXiv",
+                "url": "https://arxiv.org/pdf/1403.5805",
+                "date": null,
+                "last_updated": "2025-04-04"
+            },
+            {
+                "title": "Block-asynchronous and Jacobi smoothers for a multigrid ...",
+                "url": "https://journals.ub.uni-heidelberg.de/index.php/emcl-pp/article/download/23465/17197/64427",
+                "date": null,
+                "last_updated": "2025-05-14"
+            },
+            {
+                "title": "[PDF] A Jacobi smoother - Case study - FAU Blogs",
+                "url": "https://blogs.fau.de/hager/files/2021/10/sc21-09_stencils.pdf",
+                "date": null,
+                "last_updated": "2024-12-16"
+            },
+            {
+                "title": "A multigrid method for CutFEM and its implementation on ...",
+                "url": "https://arxiv.org/html/2508.11608v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[PDF] Performance Comparison of GPU-Based Jacobi Solvers Using ...",
+                "url": "https://aura.abdn.ac.uk/bitstream/2164/23293/1/Aslam_etal_IA_Performance_Comparison_of_VoR.pdf",
+                "date": null,
+                "last_updated": "2025-04-15"
+            },
+            {
+                "title": "A PARALLEL CARTESIAN APPROACH FOR EXTERNAL ...",
+                "url": "https://ntrs.nasa.gov/api/citations/20020050405/downloads/20020050405.pdf",
+                "date": null,
+                "last_updated": "2025-07-09"
+            },
+            {
+                "title": "[PDF] C H A P T E R 1 2 PARALLEL PRECONDITIONERS This chapter ...",
+                "url": "https://www.cs.cmu.edu/afs/cs/user/glmiller/public/Scientific-Computing/F-05/RelatedWork/Saad-Book/chapters-12-index.pdf",
+                "date": null,
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "Iterative Methods for Sparse Linear Systems Second Edition",
+                "url": "https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf",
+                "date": null,
+                "last_updated": "2025-02-15"
+            },
+            {
+                "title": "[PDF] Optimal Polynomial Smoothers for Multigrid V-cycles - arXiv",
+                "url": "https://arxiv.org/pdf/2202.08830",
+                "date": "2023-05-09",
+                "last_updated": "2025-05-02"
+            },
+            {
+                "title": "[PDF] Parallel Implementation of an Adaptive, Multigrid Solver for the ...",
+                "url": "https://eprints.whiterose.ac.uk/id/eprint/85355/8/YGHJ15.pdf",
+                "date": null,
+                "last_updated": "2025-05-14"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "The Link Between Creativity, Cognition, and Creative Drives and ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6440443/",
+                "date": "2019-03-22",
+                "last_updated": "2025-07-25"
+            },
+            {
+                "title": "Neural, genetic, and cognitive signatures of creativity",
+                "url": "https://www.nature.com/articles/s42003-024-07007-6",
+                "date": "2024-10-15",
+                "last_updated": "2024-10-15"
+            },
+            {
+                "title": "A Neurocognitive Framework for Human Creative Thought - PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5222865/",
+                "date": "2017-01-10",
+                "last_updated": "2025-07-10"
+            },
+            {
+                "title": "Creativity, brain, and art: biological and neurological considerations",
+                "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00389/full",
+                "date": "2014-06-01",
+                "last_updated": "2025-07-26"
+            },
+            {
+                "title": "Editorial: \u201cThe cognitive, emotional and neural correlates of creativity\u201d",
+                "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00275/full",
+                "date": "2015-05-19",
+                "last_updated": "2025-04-30"
+            },
+            {
+                "title": "Conceptual Design of a Creative Artificial Intelligence System Based ...",
+                "url": "https://www.tandfonline.com/doi/abs/10.1080/10400419.2021.2005309",
+                "date": "2021-12-30",
+                "last_updated": "2025-03-04"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "source": "https://arxiv.org/abs/2508.11605",
+        "search": [
+            {
+                "title": "Dataset Creation for Visual Entailment using Generative AI - arXiv",
+                "url": "https://arxiv.org/abs/2508.11605",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "[PDF] Visual Entailment Task for Visually-Grounded Language Learning",
+                "url": "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1511&context=cse",
+                "date": null,
+                "last_updated": "2025-02-18"
+            },
+            {
+                "title": "[PDF] Master Computer Science - LIACS Leiden University",
+                "url": "https://theses.liacs.nl/pdf/2023-2024-ReijtenbachRRob.pdf",
+                "date": "2024-11-06",
+                "last_updated": "2025-06-08"
+            },
+            {
+                "title": "Probing Vision-Language Understanding through the Visual ... - arXiv",
+                "url": "https://arxiv.org/html/2507.17467v1",
+                "date": "2025-07-23",
+                "last_updated": "2025-07-24"
+            },
+            {
+                "title": "Dataset Creation for Visual Entailment using Generative AI",
+                "url": "https://chatpaper.com/fr/chatpaper/paper/180927",
+                "date": "2025-07-23",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "[PDF] Visually-Verifiable Textual Entailment: A Challenge Task for ...",
+                "url": "https://aclanthology.org/W15-2801.pdf",
+                "date": null,
+                "last_updated": "2025-07-04"
+            },
+            {
+                "title": "Visual Entailment: A Novel Task for Fine-Grained Image ...",
+                "url": "https://www.nec-labs.com/blog/visual-entailment-a-novel-task-for-fine-grained-image-understanding/",
+                "date": "2019-02-15",
+                "last_updated": "2025-08-09"
+            },
+            {
+                "title": "[PDF] Visual-Textual Entailment with Quantities Using Model Checking ...",
+                "url": "https://aclanthology.org/2024.lrec-main.1512.pdf",
+                "date": "2024-05-20",
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "[PDF] What You See is What You Read? Improving Text-Image Alignment ...",
+                "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/056e8e9c8ca9929cb6cf198952bf1dbb-Paper-Conference.pdf",
+                "date": null,
+                "last_updated": "2025-04-14"
+            },
+            {
+                "title": "[PDF] Fine-Grained Visual Entailment",
+                "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960393.pdf",
+                "date": null,
+                "last_updated": "2025-04-22"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "source": "https://arxiv.org/html/2508.11603v1",
+        "search": [
+            {
+                "title": "CoreEditor: Consistent 3D Editing via Correspondence- ...",
+                "url": "https://arxiv.org/html/2508.11603v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "View-consistent Object Removal in Radiance Fields",
+                "url": "https://arxiv.org/html/2408.02100v1",
+                "date": "2024-08-04",
+                "last_updated": "2025-01-26"
+            },
+            {
+                "title": "Learning Multi-View Consistent Inpainting to Bridge 2D ...",
+                "url": "https://neurips.cc/virtual/2024/poster/94779",
+                "date": "2025-01-31",
+                "last_updated": "2025-07-23"
+            },
+            {
+                "title": "View-Consistent 3D Editing with Gaussian Splatting",
+                "url": "https://dl.acm.org/doi/abs/10.1007/978-3-031-72761-0_23",
+                "date": null,
+                "last_updated": null
+            },
+            {
+                "title": "Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D ...",
+                "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Edelstein_Sharp-It_A_Multi-view_to_Multi-view_Diffusion_Model_for_3D_Synthesis_CVPR_2025_paper.pdf",
+                "date": null,
+                "last_updated": null
+            },
+            {
+                "title": "CMD: Controllable Multiview Diffusion for 3D Editing and ...",
+                "url": "https://dl.acm.org/doi/10.1145/3721238.3730722",
+                "date": "2025-07-27",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "source": "https://arxiv.org/html/2508.11598v1",
+        "search": [
+            {
+                "title": "AAudio - NDK - Android Developers",
+                "url": "https://developer.android.com/ndk/guides/audio/aaudio/aaudio",
+                "date": "2025-03-27",
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "Android Audio Architecture Overview - eInfochips",
+                "url": "https://www.einfochips.com/blog/android-audio-architecture-overview/",
+                "date": "2024-02-06",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Representing Speech Through Autoregressive Prediction of ... - arXiv",
+                "url": "https://arxiv.org/html/2508.11598v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "AGL Advanced Audio Architecture (4a)",
+                "url": "https://agl-gsod-2020-demo-mkdocs.readthedocs.io/en/latest/flounder/apis_services/reference/audio/4a-framework/",
+                "date": "2020-01-01",
+                "last_updated": "2025-03-03"
+            },
+            {
+                "title": "Android Audio Framework Architecture - Bits & Qubits",
+                "url": "http://gopinaths.gitlab.io/post/android-audio-framework-architecture/",
+                "date": "2017-03-01",
+                "last_updated": "2024-04-16"
+            },
+            {
+                "title": "Audio | Android Open Source Project",
+                "url": "https://source.android.com/docs/core/audio",
+                "date": "2025-06-18",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Advanced Linux Sound Architecture - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture",
+                "date": "2003-01-05",
+                "last_updated": "2025-06-04"
+            },
+            {
+                "title": "Audio \u2014 Ameba IoT Docs documentation",
+                "url": "https://aiot.realmcu.com/docs/en/latest/rst_multimedia/rtos/0_multimedia_index.html",
+                "date": null,
+                "last_updated": null
+            },
+            {
+                "title": "Open-source audio development for Qualcomm SoCs: AudioReach",
+                "url": "https://www.qualcomm.com/developer/blog/2024/10/qualcomm-open-sourcing-audio-reach-end-to-end-audio-software",
+                "date": "2024-10-09",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "source": "https://portal.nifa.usda.gov/web/crisprojectpages/1022503-cps-small-learning-to-pick-fruit-using-closed-loop-control-and-in.html",
+        "search": [
+            {
+                "title": "Learning-Based Slip Detection for Robotic Fruit Grasping and ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9332724/",
+                "date": "2022-07-22",
+                "last_updated": "2025-07-24"
+            },
+            {
+                "title": "CPS: Small: Learning to Pick Fruit Using Closed Loop Control and In",
+                "url": "https://portal.nifa.usda.gov/web/crisprojectpages/1022503-cps-small-learning-to-pick-fruit-using-closed-loop-control-and-in.html",
+                "date": "2024-05-31",
+                "last_updated": "2024-12-10"
+            },
+            {
+                "title": "Experimental Evaluation of Tactile Sensors for Compliant Robotic ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8544026/",
+                "date": "2021-10-11",
+                "last_updated": "2025-07-12"
+            },
+            {
+                "title": "Advancement and Field Evaluation of a Dual-arm Apple Harvesting ...",
+                "url": "https://arxiv.org/html/2506.05714v1",
+                "date": "2025-06-06",
+                "last_updated": "2025-06-09"
+            },
+            {
+                "title": "Modular autonomous strawberry picking robotic system - Parsa - 2024",
+                "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22229",
+                "date": "2023-07-26",
+                "last_updated": "2025-01-12"
+            },
+            {
+                "title": "Recognition and Localization Methods for Vision-Based Fruit ...",
+                "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00510/full",
+                "date": "2020-05-19",
+                "last_updated": "2025-04-23"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Robust Learning-Based Incipient Slip Detection using the ... - arXiv",
+                "url": "https://arxiv.org/html/2307.04011",
+                "date": "2022-08-09",
+                "last_updated": "2025-05-21"
+            },
+            {
+                "title": "The Future of Robotics in Unstructured Environments - SK Godelius",
+                "url": "https://godelius.com/en/the-future-of-robotics-in-unstructured-environments/",
+                "date": "2023-01-16",
+                "last_updated": "2025-08-13"
+            },
+            {
+                "title": "Intelligent robotics harvesting system process for fruits grasping ...",
+                "url": "https://www.nature.com/articles/s41598-024-52743-8",
+                "date": "2024-02-03",
+                "last_updated": "2024-10-31"
+            },
+            {
+                "title": "Universal slip detection of robotic hand with tactile sensing - PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11843555/",
+                "date": "2025-02-05",
+                "last_updated": "2025-07-23"
+            },
+            {
+                "title": "The Rise of Autonomous Industrial Robotics: From Structured ... - Inbolt",
+                "url": "https://www.inbolt.com/resources/the-rise-of-autonomous-industrial-robotics-from-structured-to-unstructured-environments",
+                "date": "2023-05-17",
+                "last_updated": "2025-08-11"
+            },
+            {
+                "title": "Gripping Success Metric for Robotic Fruit Harvesting - PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11723232/",
+                "date": "2024-12-31",
+                "last_updated": "2025-07-17"
+            },
+            {
+                "title": "Universal slip detection of robotic hand with tactile sensing - Frontiers",
+                "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1478758/full",
+                "date": "2025-02-04",
+                "last_updated": "2025-07-10"
+            },
+            {
+                "title": "Foundation Models for Autonomous Robots in Unstructured ... - arXiv",
+                "url": "https://arxiv.org/abs/2407.14296",
+                "date": "2024-07-19",
+                "last_updated": "2025-06-25"
+            },
+            {
+                "title": "The Rise of Precision Agricultural Robots Paving the Way for ...",
+                "url": "https://en.reset.org/the-rise-of-precision-agricultural-robots-paving-the-way-for-delicate-crop-handling/",
+                "date": "2024-02-06",
+                "last_updated": "2025-08-16"
+            },
+            {
+                "title": "Bioinspired trajectory modulation for effective slip control in robot ...",
+                "url": "https://www.nature.com/articles/s42256-025-01062-2",
+                "date": "2025-07-22",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Visual programming language",
+                "url": "https://en.wikipedia.org/wiki/Visual_programming_language",
+                "date": "2004-03-02",
+                "last_updated": "2025-08-16"
+            },
+            {
+                "title": "Programming languages & frameworks",
+                "url": "https://developers.redhat.com/topics/programming-languages-frameworks",
+                "date": "2025-03-19",
+                "last_updated": "2025-08-05"
+            },
+            {
+                "title": "Demystifying Programming Frameworks: A Comprehensive ...",
+                "url": "https://www.netsolutions.com/insights/what-is-a-framework-in-programming/",
+                "date": "2023-06-30",
+                "last_updated": "2025-07-18"
+            },
+            {
+                "title": "vlang/awesome-v",
+                "url": "https://github.com/vlang/awesome-v",
+                "date": "2019-07-03",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "List of Top Programming Languages and Frameworks for ...",
+                "url": "https://www.softermii.com/blog/top-programming-languages-and-frameworks-for-software-development",
+                "date": "2024-01-05",
+                "last_updated": "2025-01-16"
+            },
+            {
+                "title": "Frameworks | Languages",
+                "url": "https://replit.com/templates/languages",
+                "date": "2009-01-01",
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "The Best Frameworks For Game Development",
+                "url": "https://www.youtube.com/watch?v=Bszp1eYMb4s",
+                "date": "2024-10-24",
+                "last_updated": "2025-07-01"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "The effects of slope-adaptive prosthetic feet on sloped gait ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11271739/",
+                "date": "2003-09-01",
+                "last_updated": "2025-06-01"
+            },
+            {
+                "title": "A method for compressing AIS trajectory based on the adaptive core ...",
+                "url": "https://www.nature.com/articles/s41598-024-71779-4",
+                "date": "2024-09-13",
+                "last_updated": "2024-09-13"
+            },
+            {
+                "title": "Exploring the role of leaders in enabling adaptive capacity in ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9281060/",
+                "date": "2022-07-13",
+                "last_updated": "2025-07-26"
+            },
+            {
+                "title": "Quality assurance for on\u2010table adaptive magnetic resonance guided ...",
+                "url": "https://aapm.onlinelibrary.wiley.com/doi/10.1002/acm2.13523",
+                "date": "2022-01-12",
+                "last_updated": null
+            },
+            {
+                "title": "Error Management Training and Adaptive Expertise in Learning ...",
+                "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823185",
+                "date": "2024-09-09",
+                "last_updated": "2025-03-26"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "source": "https://www.weforum.org/stories/2025/07/why-detecting-dangerous-ai-is-key-to-keeping-trust-alive/",
+        "search": [
+            {
+                "title": "Understanding Intergenerational Transmission of Physical and ...",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/10926771.2025.2491767?src=",
+                "date": "2025-05-04",
+                "last_updated": "2025-08-09"
+            },
+            {
+                "title": "Deepfake Attacks & AI-Generated Phishing: 2025 Statistics",
+                "url": "https://zerothreat.ai/blog/deepfake-and-ai-phishing-statistics",
+                "date": "2025-06-27",
+                "last_updated": "2025-07-11"
+            },
+            {
+                "title": "The intergenerational and collective trauma of gender-based violence",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/26904586.2024.2443843",
+                "date": "2025-04-03",
+                "last_updated": "2025-07-31"
+            },
+            {
+                "title": "Detecting dangerous AI is essential in the deepfake era",
+                "url": "https://www.weforum.org/stories/2025/07/why-detecting-dangerous-ai-is-key-to-keeping-trust-alive/",
+                "date": "2025-07-07",
+                "last_updated": "2025-08-14"
+            },
+            {
+                "title": "[PDF] Intergenerational Continuity Of Sexual Violence Victimization",
+                "url": "https://commons.und.edu/cgi/viewcontent.cgi?article=6305&context=theses",
+                "date": "2023-09-25",
+                "last_updated": "2025-05-25"
+            },
+            {
+                "title": "What are Deepfakes and How Do They Impact Fraud?",
+                "url": "https://www.feedzai.com/blog/deepfake-fraud/",
+                "date": "2025-04-01",
+                "last_updated": "2025-08-09"
+            },
+            {
+                "title": "[PDF] The Intergenerational Transmission of Intimate Partner Violence",
+                "url": "https://dev.cjcenter.org/_files/cvi/CVI_Intergenerational.pdf",
+                "date": null,
+                "last_updated": "2024-04-28"
+            },
+            {
+                "title": "Cyber Insurance & the Risk of Deepfakes in 2025",
+                "url": "https://ksa-insurance.com/blog/cyber-insurance-deepfakes-2025/",
+                "date": "2025-08-18",
+                "last_updated": null
+            },
+            {
+                "title": "Intergenerational effects of childhood maltreatment: A systematic ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7476782/",
+                "date": "2020-07-23",
+                "last_updated": "2025-07-19"
+            },
+            {
+                "title": "AI Scams, Deep Fakes, Impersonations \u2026 Oh My!",
+                "url": "https://www.jpmorgan.com/insights/fraud/fraud-protection/ai-scams-deep-fakes-impersonations-oh-my",
+                "date": "2025-07-10",
+                "last_updated": "2025-07-10"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "source": "https://arxiv.org/html/2508.11576v1",
+        "search": [
+            {
+                "title": "How Temporal Information Emerges in Video Language Models",
+                "url": "https://arxiv.org/html/2508.11576v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Causality Matters: How Temporal Information Emerges in ...",
+                "url": "https://arxiv.org/pdf/2508.11576",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Rotary Position Embedding for Video Large Language Models - arXiv",
+                "url": "https://arxiv.org/html/2502.11664v1",
+                "date": "2025-02-17",
+                "last_updated": "2025-05-29"
+            },
+            {
+                "title": "A Motion-aware Spatio-temporal Graph for Video Salient ...",
+                "url": "https://openreview.net/forum?id=VUBtAcQN44",
+                "date": "2024-09-25",
+                "last_updated": "2024-12-23"
+            },
+            {
+                "title": "VideoRoPE: What Makes for Good Video Rotary Position Embedding?",
+                "url": "https://openreview.net/forum?id=tO7OVZkCo1",
+                "date": "2025-06-18",
+                "last_updated": "2025-06-21"
+            },
+            {
+                "title": "Stand-Alone Inter-Frame Attention in Video Models",
+                "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.pdf",
+                "date": null,
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[PDF] Track Targets by Dense Spatio-Temporal Position Encoding",
+                "url": "https://bmvc2022.mpi-inf.mpg.de/0311.pdf",
+                "date": null,
+                "last_updated": "2024-06-09"
+            },
+            {
+                "title": "Multi-Task Learning From Videos via Efficient Inter-Frame ...",
+                "url": "https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Kim_MILA_Multi-Task_Learning_From_Videos_via_Efficient_Inter-Frame_Attention_ICCVW_2021_paper.pdf",
+                "date": null,
+                "last_updated": "2025-04-07"
+            },
+            {
+                "title": "Efficient Video Transformers via Spatial-temporal Token Merging for ...",
+                "url": "https://dl.acm.org/doi/10.1145/3633781",
+                "date": null,
+                "last_updated": "2025-04-12"
+            },
+            {
+                "title": "Learning Motion and Temporal Cues for Unsupervised ...",
+                "url": "https://arxiv.org/html/2501.07806v1",
+                "date": "2025-01-14",
+                "last_updated": "2025-07-28"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "source": "https://arxiv.org/html/2508.11575v1",
+        "search": [
+            {
+                "title": "SpyKing\u2014Privacy-preserving framework for Spiking Neural ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12162590/",
+                "date": "2025-05-30",
+                "last_updated": "2025-07-13"
+            },
+            {
+                "title": "Security and Privacy in Machine Learning for Health Systems",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10751106/",
+                "date": "2023-12-26",
+                "last_updated": "2025-07-11"
+            },
+            {
+                "title": "Designing Efficient Activation Functions for Privacy ...",
+                "url": "https://arxiv.org/html/2508.11575v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Security and privacy in machine learning: A survey",
+                "url": "https://iacis.org/iis/2021/3_iis_2021_242-258.pdf",
+                "date": null,
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "Designing Efficient Activation Functions for Privacy- ...",
+                "url": "https://arxiv.org/pdf/2508.11575",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Exploring privacy issues in the age of AI",
+                "url": "https://www.ibm.com/think/insights/ai-privacy",
+                "date": "2024-09-30",
+                "last_updated": "2025-07-30"
+            },
+            {
+                "title": "Differential Privacy in Machine Learning",
+                "url": "https://www.mindspore.cn/tutorial/en/r0.5/advanced_use/differential_privacy.html",
+                "date": null,
+                "last_updated": "2025-08-20"
+            },
+            {
+                "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+                "url": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+                "date": "2020-09-12",
+                "last_updated": "2025-08-15"
+            },
+            {
+                "title": "Convolutional Neural Network Protection Method of Lenet- ...",
+                "url": "https://dl.acm.org/doi/10.1145/3297156.3297224",
+                "date": null,
+                "last_updated": "2025-03-14"
+            },
+            {
+                "title": "OWASP AI Security and Privacy Guide",
+                "url": "https://owasp.org/www-project-ai-security-and-privacy-guide/",
+                "date": "2023-02-15",
+                "last_updated": "2025-07-16"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Latency-Aware Task Offloading Mechanism for Mobile ...",
+                "url": "https://www.thinkmind.org/articles/cloud_computing_2025_2_50_20029.pdf",
+                "date": null,
+                "last_updated": "2025-04-24"
+            },
+            {
+                "title": "How to master Predictive Analytics using Composable Digital Twins",
+                "url": "https://xmpro.com/how-to-master-predictive-analytics-using-composable-digital-twins/",
+                "date": "2023-01-18",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Retrieval-Augmented Generation for Mobile Edge ...",
+                "url": "https://arxiv.org/abs/2412.20820",
+                "date": "2024-12-30",
+                "last_updated": "2025-05-21"
+            },
+            {
+                "title": "A Comprehensive Guide to Digital Twin Simulation for Beginners",
+                "url": "https://www.simio.com/a-comprehensive-guide-to-digital-twin-simulation-for-beginners/",
+                "date": "2025-06-27",
+                "last_updated": "2025-06-27"
+            },
+            {
+                "title": "Advancements in Mobile Edge Computing and Open RAN",
+                "url": "https://arxiv.org/html/2502.02886v3",
+                "date": "2025-07-28",
+                "last_updated": "2025-07-29"
+            },
+            {
+                "title": "Digital Twins on AWS: Predicting \u201cbehavior\u201d with L3 Predictive ...",
+                "url": "https://aws.amazon.com/blogs/iot/l3-predictive-digital-twins/",
+                "date": "2022-06-17",
+                "last_updated": "2025-07-24"
+            },
+            {
+                "title": "[PDF] Modeling Behavior and Simulating Realities with Digital Twins - SSRN",
+                "url": "https://papers.ssrn.com/sol3/Delivery.cfm/03318eab-c9dc-4535-adf6-3319a5731127-MECA.pdf?abstractid=4967616&mirid=1",
+                "date": "2024-09-25",
+                "last_updated": "2025-03-15"
+            },
+            {
+                "title": "Understanding Digital Twin Platforms: Transforming Data into ...",
+                "url": "https://www.dataparc.com/blog/understanding-digital-twin-platforms-actionable-insights-2/",
+                "date": "2025-06-06",
+                "last_updated": "2025-07-06"
+            },
+            {
+                "title": "Decoding digital twins: Exploring 6 main applications and their ...",
+                "url": "https://iot-analytics.com/6-main-digital-twin-applications-and-their-benefits/",
+                "date": "2023-03-07",
+                "last_updated": "2025-05-16"
+            },
+            {
+                "title": "Overview of predictive maintenance based on digital twin technology",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10070392/",
+                "date": "2023-03-13",
+                "last_updated": "2025-06-15"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "source": "https://arxiv.org/html/2508.11573v1",
+        "search": [
+            {
+                "title": "or Two-Sections Alternative With Predictive Spray Switching - arXiv",
+                "url": "https://arxiv.org/html/2508.11573v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[PDF] Field Pesticide Application Techniques in Wisconsin - Extension",
+                "url": "https://fyi.extension.wisc.edu/pat/files/2017/09/sprayer_tech.pdf",
+                "date": null,
+                "last_updated": "2025-05-06"
+            },
+            {
+                "title": "How Automation and Precision Can Help Challenges in the Field ...",
+                "url": "https://www.fieldbee.com/blog/challenges-in-the-field-during-spraying-how-automation-and-precision-can-help",
+                "date": "2024-10-24",
+                "last_updated": "2024-11-05"
+            },
+            {
+                "title": "How to Spray a Field to Prevent Overlap and Reduce Drift Injury",
+                "url": "https://extensionpublications.unl.edu/assets/html/g1570/build/g1570.htm",
+                "date": null,
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "How Precision Spray Saves Pesticides? - FJDynamics",
+                "url": "https://www.fjdynamics.com/blog/technology-52/how-precision-spray-saves-pesticides-263",
+                "date": "2025-03-05",
+                "last_updated": "2025-03-06"
+            },
+            {
+                "title": "Real Ag 1102 - Air Spraying - YouTube",
+                "url": "https://www.youtube.com/watch?v=E-TVAWDiMnU",
+                "date": "2022-11-11",
+                "last_updated": "2025-07-03"
+            },
+            {
+                "title": "Reduction of pesticide application via real-time precision spraying",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8980047/",
+                "date": "2022-04-04",
+                "last_updated": "2025-06-21"
+            },
+            {
+                "title": "Agras Tutorial: Spray Multiple Fields with One Flight - YouTube",
+                "url": "https://www.youtube.com/watch?v=pH8qJFSEqy4",
+                "date": "2025-06-03",
+                "last_updated": "2025-08-08"
+            },
+            {
+                "title": "Precision Spraying Agriculture | Boost Yields & Cut Costs | AllyNav",
+                "url": "https://www.allynav.com/precision-agriculture-solutions/precision-spraying-agriculture/",
+                "date": "2025-07-08",
+                "last_updated": "2025-08-06"
+            },
+            {
+                "title": "Alternate Row Spraying - Sprayers 101",
+                "url": "https://sprayers101.com/arm-spraying/",
+                "date": "2025-05-20",
+                "last_updated": "2025-06-30"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "source": "https://arxiv.org/html/2508.11571v1",
+        "search": [
+            {
+                "title": "Temporal Network Analysis of Microservice Architectural Degradation",
+                "url": "https://arxiv.org/html/2508.11571v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "What are temporal networks? \u2014 teneto 0.5.3 documentation",
+                "url": "https://teneto.readthedocs.io/en/latest/what_is_tnt.html",
+                "date": null,
+                "last_updated": "2025-07-29"
+            },
+            {
+                "title": "Temporal Network Analysis of Microservice Architectural Degradation",
+                "url": "https://arxiv.org/abs/2508.11571",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "Temporal Network Pattern Identification by Community Modelling",
+                "url": "https://www.nature.com/articles/s41598-019-57123-1",
+                "date": "2020-01-14",
+                "last_updated": "2024-11-21"
+            },
+            {
+                "title": "Temporal network embedding framework with causal anonymous ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802774/",
+                "date": "2022-01-20",
+                "last_updated": "2025-07-14"
+            },
+            {
+                "title": "Integrating System State into Spatio Temporal Graph Neural ...",
+                "url": "https://dl.acm.org/doi/10.1145/3637528.3671508",
+                "date": "2024-08-24",
+                "last_updated": null
+            },
+            {
+                "title": "Network Analysis of Microservices: A Case Study on Alibaba ...",
+                "url": "https://dl.acm.org/doi/10.1145/3629527.3651842",
+                "date": "2024-05-07",
+                "last_updated": "2024-06-22"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "source": "https://arxiv.org/html/2508.11570v1",
+        "search": [
+            {
+                "title": "ASP-Completeness Proofs of Puzzles Using the T-Metacell ...",
+                "url": "https://arxiv.org/html/2508.11570v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "P-complete",
+                "url": "https://en.wikipedia.org/wiki/%E2%99%AFP-complete",
+                "date": "2001-08-25",
+                "last_updated": "2025-06-08"
+            },
+            {
+                "title": "complexity and completeness of finding another solution ...",
+                "url": "http://www.cs.umd.edu/users/gasarch/BLOGPAPERS/msasp.pdf",
+                "date": null,
+                "last_updated": "2025-06-07"
+            },
+            {
+                "title": "15. #P and ASP",
+                "url": "https://www.youtube.com/watch?v=XROTP1RiNaA",
+                "date": "2015-07-14",
+                "last_updated": "2025-04-01"
+            },
+            {
+                "title": "ASP-Completeness of Hamiltonicity in Grid Graphs, with ...",
+                "url": "https://arxiv.org/pdf/2405.08377",
+                "date": null,
+                "last_updated": "2024-11-04"
+            },
+            {
+                "title": "Packing Trominoes is NP-Complete, #P-Complete and ASP ...",
+                "url": "https://2012.cccg.ca/papers/paper67.pdf",
+                "date": null,
+                "last_updated": "2025-04-20"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "source": "https://arxiv.org/html/2508.11569v1",
+        "search": [
+            {
+                "title": "TrajSV: A Trajectory-based Model for Sports Video ...",
+                "url": "https://arxiv.org/html/2508.11569v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[PDF] Actions As Compositions of Spatio-Temporal Scene Graphs",
+                "url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf",
+                "date": null,
+                "last_updated": "2025-03-29"
+            },
+            {
+                "title": "Video action recognition collaborative learning with ...",
+                "url": "https://www.nature.com/articles/s41598-023-39744-9",
+                "date": "2023-09-05",
+                "last_updated": "2024-12-16"
+            },
+            {
+                "title": "TrajSV: A Trajectory-based Model for Sports Video Representations ...",
+                "url": "https://arxiv.org/abs/2508.11569",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-19"
+            },
+            {
+                "title": "State-of-the-art video recognition of human action under ...",
+                "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12506/125063A/State-of-the-art-video-recognition-of-human-action-under/10.1117/12.2662221.full",
+                "date": "2022-12-28",
+                "last_updated": "2024-12-27"
+            },
+            {
+                "title": "[PDF] Action Recognition by Time Series of Retinotopic Appearance and ...",
+                "url": "https://engineering.purdue.edu/~qobi/papers/tcsvt2016.pdf",
+                "date": "2016-12-02",
+                "last_updated": "2025-01-08"
+            },
+            {
+                "title": "SVM directed machine learning classifier for human action ...",
+                "url": "https://www.nature.com/articles/s41598-024-83529-7",
+                "date": "2025-01-03",
+                "last_updated": "2025-01-03"
+            },
+            {
+                "title": "[PDF] Multi-Label Action Anticipation for Real-World Videos with Scene ...",
+                "url": "https://xiucheng.org/assets/pdfs/tip24-action-anticipation.pdf",
+                "date": null,
+                "last_updated": "2024-06-24"
+            },
+            {
+                "title": "Video Activity Recognition: State-of-the-Art - PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679256/",
+                "date": "2019-07-18",
+                "last_updated": "2025-07-14"
+            },
+            {
+                "title": "[PDF] Image Retrieval using Scene Graphs - Stanford HCI Group",
+                "url": "https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf",
+                "date": null,
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "source": "https://arxiv.org/html/2508.11567v1",
+        "search": [
+            {
+                "title": "GPT-4 shows potential for identifying social anxiety from clinical ...",
+                "url": "https://www.nature.com/articles/s41598-024-82192-2",
+                "date": "2024-12-16",
+                "last_updated": "2024-12-18"
+            },
+            {
+                "title": "Validating the use of large language models for ...",
+                "url": "https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full",
+                "date": "2025-02-21",
+                "last_updated": "2025-07-28"
+            },
+            {
+                "title": "GPT-4 shows potential for identifying social anxiety from clinical ...",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39681627",
+                "date": "2024-12-16",
+                "last_updated": "2025-03-14"
+            },
+            {
+                "title": "From Static Benchmarks to Adaptive Testing",
+                "url": "https://arxiv.org/html/2306.10512v3",
+                "date": "2024-08-06",
+                "last_updated": "2025-05-21"
+            },
+            {
+                "title": "Assessing and alleviating state anxiety in large language models",
+                "url": "https://www.nature.com/articles/s41746-025-01512-6",
+                "date": "2025-03-03",
+                "last_updated": "2025-03-03"
+            },
+            {
+                "title": "AgentMental: An Interactive Multi-Agent Framework for ...",
+                "url": "https://arxiv.org/html/2508.11567v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "[PDF] MAGI: Multi-Agent Guided Interview for Psychiatric Assessment",
+                "url": "https://aclanthology.org/2025.findings-acl.1278.pdf",
+                "date": "2025-07-27",
+                "last_updated": "2025-07-23"
+            },
+            {
+                "title": "Automated text analysis in psychology: methods ...",
+                "url": "https://www.cambridge.org/core/journals/language-and-cognition/article/automated-text-analysis-in-psychology-methods-applications-and-future-developments/97F60083638BD8E956958084BE1E049A",
+                "date": "2015-06-18",
+                "last_updated": "2025-04-10"
+            },
+            {
+                "title": "A New Custom GPT for Psychological Distress Assessment - arXiv",
+                "url": "https://arxiv.org/html/2408.01614v1",
+                "date": "2024-08-03",
+                "last_updated": "2025-06-15"
+            },
+            {
+                "title": "Natural language analyzed with AI-based transformers ...",
+                "url": "https://www.nature.com/articles/s41598-022-07520-w",
+                "date": "2022-03-10",
+                "last_updated": "2024-10-16"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "source": "https://arxiv.org/pdf/2508.11565",
+        "search": [
+            {
+                "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+                "url": "https://arxiv.org/pdf/2508.11565",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Strip-MLP: Efficient Token Interaction for Vision MLP",
+                "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Strip-MLP_Efficient_Token_Interaction_for_Vision_MLP_ICCV_2023_paper.pdf",
+                "date": null,
+                "last_updated": "2025-03-29"
+            },
+            {
+                "title": "XR Socket Interactor and XR Interaction Layer Masks - YouTube",
+                "url": "https://www.youtube.com/watch?v=0IgktLZS7HA",
+                "date": "2024-05-10",
+                "last_updated": "2025-08-01"
+            },
+            {
+                "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+                "url": "https://arxiv.org/html/2508.11565",
+                "date": "2025-08-15",
+                "last_updated": null
+            },
+            {
+                "title": "IVTP: Instruction-guided Visual Token Pruning for Large ...",
+                "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf",
+                "date": null,
+                "last_updated": "2024-11-04"
+            },
+            {
+                "title": "Interaction layers | XR Interaction Toolkit | 2.0.4 - Unity - Manual",
+                "url": "https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/interaction-layers.html",
+                "date": null,
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "Proxy Anchor Loss for Deep Metric Learning",
+                "url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Proxy_Anchor_Loss_for_Deep_Metric_Learning_CVPR_2020_paper.pdf",
+                "date": null,
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "Accelerating Long-Context LLMs with 1000x Input Token ...",
+                "url": "https://openreview.net/forum?id=9iN8p1Xwtg",
+                "date": "2025-02-05",
+                "last_updated": "2025-07-09"
+            },
+            {
+                "title": "UNITY XR! INTERACTION LAYER MASK - YouTube",
+                "url": "https://www.youtube.com/watch?v=ZS7CJX4V7qQ",
+                "date": "2021-03-05",
+                "last_updated": "2025-08-01"
+            },
+            {
+                "title": "Proxy Anchor Loss for Deep Metric Learning",
+                "url": "https://github.com/tjddus9597/Proxy-Anchor-CVPR2020",
+                "date": "2020-04-07",
+                "last_updated": "2025-06-10"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "source": "https://arxiv.org/html/2508.11563v1",
+        "search": [
+            {
+                "title": "Pushing the Limits of Frequency Analysis in Leakage ...",
+                "url": "https://arxiv.org/html/2508.11563v1",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Exploiting Update Leakage in Searchable Symmetric ...",
+                "url": "https://vtechworks.lib.vt.edu/bitstreams/c737a239-6a45-435a-8dd1-8f5d1becdb31/download",
+                "date": null,
+                "last_updated": "2025-05-30"
+            },
+            {
+                "title": "Pushing the Limits of Frequency Analysis in Leakage ...",
+                "url": "https://arxiv.org/abs/2508.11563",
+                "date": "2025-08-15",
+                "last_updated": "2025-08-18"
+            },
+            {
+                "title": "Attacks on Encrypted Response-Hiding Range Search ...",
+                "url": "https://petsymposium.org/popets/2023/popets-2023-0106.pdf",
+                "date": null,
+                "last_updated": "2025-06-01"
+            },
+            {
+                "title": "Exploiting Update Leakage in Searchable Symmetric ...",
+                "url": "https://par.nsf.gov/servlets/purl/10595300",
+                "date": null,
+                "last_updated": "2025-06-23"
+            },
+            {
+                "title": "Exploiting Search Pattern Leakage in Searchable Encryption",
+                "url": "https://www.usenix.org/system/files/sec21summer_oya.pdf",
+                "date": null,
+                "last_updated": "2025-01-20"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "source": "https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/1618/files/2022/08/J68.pdf",
+        "search": [
+            {
+                "title": "Mitigating sub-synchronous oscillation using intelligent damping ...",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11208430/",
+                "date": "2024-06-26",
+                "last_updated": "2025-08-05"
+            },
+            {
+                "title": "[PDF] On Mitigation of Sub-Synchronous Control Interactions in Hybrid ...",
+                "url": "https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/1618/files/2022/08/J68.pdf",
+                "date": null,
+                "last_updated": "2025-01-24"
+            },
+            {
+                "title": "Study and Mitigation of Subsynchronous Oscillations with SSC ...",
+                "url": "https://www.scirp.org/journal/paperinformation?paperid=60030",
+                "date": "2015-09-10",
+                "last_updated": "2025-08-16"
+            },
+            {
+                "title": "[PDF] Frequency Scan\u2013Based Mitigation Approach of Subsynchronous ...",
+                "url": "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e4f29721-4af6-469d-b656-426a882dc17c/content",
+                "date": "2021-07-30",
+                "last_updated": "2025-03-24"
+            },
+            {
+                "title": "[PDF] analysis and mitigating of subsynchronous resonance in power",
+                "url": "https://soar.wichita.edu/bitstreams/21cf7f3b-fac9-431e-9e79-a62a19acb2b8/download",
+                "date": null,
+                "last_updated": "2025-08-13"
+            },
+            {
+                "title": "Characteristic analysis and mitigation strategy for SSCI in series ...",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38763785/",
+                "date": "2024-05-16",
+                "last_updated": "2025-08-12"
+            },
+            {
+                "title": "[PDF] Sub-synchronous oscillations in GB",
+                "url": "https://www.neso.energy/document/319056/download",
+                "date": "2024-05-01",
+                "last_updated": "2025-08-10"
+            },
+            {
+                "title": "Mitigating subsynchronous control interaction in wind power ...",
+                "url": "https://ui.adsabs.harvard.edu/abs/2019RSERv.108..330S/abstract",
+                "date": "1999-01-01",
+                "last_updated": "2024-10-15"
+            },
+            {
+                "title": "[PDF] Mitigation Sub synchronous Resonance and Improvement Low",
+                "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-3631d89f-86af-4248-b007-3090eca420b6/c/47_ememi_mitigation_5_2024.pdf",
+                "date": null,
+                "last_updated": "2025-04-07"
+            },
+            {
+                "title": "Sub\u2010synchronous oscillations in wind farms \u2013 an overview study of ...",
+                "url": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-rpg.2020.0479",
+                "date": "2021-02-16",
+                "last_updated": null
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Intelligent Scheduling For Seamless Integration - Meegle",
+                "url": "https://www.meegle.com/en_us/topics/intelligent-scheduling/intelligent-scheduling-for-seamless-integration",
+                "date": "2025-06-17",
+                "last_updated": "2025-06-29"
+            },
+            {
+                "title": "[PDF] Tags: A Framework for Distributed Event Ordering - Stanford University",
+                "url": "https://ppl.stanford.edu/papers/plarch23_tags.pdf",
+                "date": null,
+                "last_updated": "2024-09-19"
+            },
+            {
+                "title": "Design and Evaluation of a Rack-Scale Disaggregated ...",
+                "url": "https://arxiv.org/pdf/2303.06420",
+                "date": null,
+                "last_updated": "2025-04-29"
+            },
+            {
+                "title": "[PDF] A Queue-oriented Transaction Processing Paradigm - arXiv",
+                "url": "https://arxiv.org/pdf/1910.10350",
+                "date": "2019-10-23",
+                "last_updated": "2025-05-11"
+            },
+            {
+                "title": "[PDF] a unifying scheduling framework for scalable support of guaranteed se",
+                "url": "https://www.cs.fsu.edu/~duan/publications/vtrs.pdf",
+                "date": null,
+                "last_updated": "2025-07-26"
+            },
+            {
+                "title": "Graham: Synchronizing Clocks by Leveraging Local ...",
+                "url": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+                "date": null,
+                "last_updated": "2024-11-06"
+            },
+            {
+                "title": "The Salesforce Platform - Transformed for Tomorrow",
+                "url": "https://architect.salesforce.com/fundamentals/platform-transformation",
+                "date": "2024-01-01",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "[PDF] Parallel Unification Scheduling in Prolog - DTIC",
+                "url": "https://apps.dtic.mil/sti/tr/pdf/ADA173122.pdf",
+                "date": null,
+                "last_updated": "2024-08-15"
+            },
+            {
+                "title": "Clio: A Hardware-Software Co-Designed Disaggregated ...",
+                "url": "https://cseweb.ucsd.edu/~yiying/clio-asplos22.pdf",
+                "date": null,
+                "last_updated": "2025-04-11"
+            },
+            {
+                "title": "The Event-Driven Paradigm for Next-Generation AI Agents",
+                "url": "https://gettectonic.com/the-event-driven-paradigm-for-next-generation-ai-agents/",
+                "date": "2025-02-24",
+                "last_updated": "2025-04-14"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "source": "No source found.",
+        "search": [
+            {
+                "title": "Reinforcing Consistent Reasoning in Industrial Anomaly Detection",
+                "url": "https://arxiv.org/html/2508.09178v2",
+                "date": "2025-08-14",
+                "last_updated": "2025-08-15"
+            },
+            {
+                "title": "Industrial anomaly detection: using only defect-free images to train ...",
+                "url": "https://ethon.ai/industrial-anomaly-detection-using-only-defect-free-images-to-train-your-model/",
+                "date": "2024-08-06",
+                "last_updated": "2025-04-16"
+            },
+            {
+                "title": "[PDF] Supervised Anomaly Detection for Complex Industrial Images",
+                "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Baitieva_Supervised_Anomaly_Detection_for_Complex_Industrial_Images_CVPR_2024_paper.pdf",
+                "date": null,
+                "last_updated": "2024-06-28"
+            },
+            {
+                "title": "MVTec Anomaly Detection Dataset",
+                "url": "https://www.mvtec.com/company/research/datasets/mvtec-ad",
+                "date": "2023-07-01",
+                "last_updated": "2025-06-16"
+            },
+            {
+                "title": "SSRheart/industrial-anomaly-detection-dataset - GitHub",
+                "url": "https://github.com/SSRheart/industrial-anomaly-detection-dataset",
+                "date": "2024-04-28",
+                "last_updated": "2025-06-14"
+            },
+            {
+                "title": "[PDF] Test Time Training for Industrial Anomaly Segmentation",
+                "url": "https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Costanzino_Test_Time_Training_for_Industrial_Anomaly_Segmentation_CVPRW_2024_paper.pdf",
+                "date": null,
+                "last_updated": "2025-04-14"
+            },
+            {
+                "title": "M-3LAB/awesome-industrial-anomaly-detection - GitHub",
+                "url": "https://github.com/M-3LAB/awesome-industrial-anomaly-detection",
+                "date": "2022-12-02",
+                "last_updated": "2025-08-20"
+            }
+        ]
+    }
+]

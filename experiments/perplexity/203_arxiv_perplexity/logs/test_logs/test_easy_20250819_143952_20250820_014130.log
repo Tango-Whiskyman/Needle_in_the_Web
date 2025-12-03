@@ -1,0 +1,3487 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+Thyme achieves this by doing something in a particular way.
+
+Thyme enables certain systems to overcome existing methods.
+
+Thyme's comprehensive set of image manipulation capabilities enables better results in certain tasks. 
+Thyme achieves this by autonomously generating and executing diverse image processing and computational operations via executable code.
+
+Thyme enables multimodal large language models to transcend existing "think with images" approaches.
+
+Thyme's comprehensive set of image manipulation capabilities enables significant improvements over baselines in perception tasks.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11630v1
+
+[
+    {
+        "title": "Thyme: Think Beyond Images",
+        "url": "https://arxiv.org/html/2508.11630v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Thyme: Think Beyond Images",
+        "url": "https://chatpaper.com/paper/180966",
+        "date": "2025-08-17",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[2508.11630] Thyme: Think Beyond Images",
+        "url": "https://arxiv.org/abs/2508.11630",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "yfzhang114/Thyme: Think Beyond Images",
+        "url": "https://github.com/yfzhang114/Thyme",
+        "date": "2025-08-17",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Google's FREE AI Image Editor is WILD! ...",
+        "url": "https://www.youtube.com/watch?v=YxrpN5b1_KY",
+        "date": "2025-03-22",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "Thyme: Think Beyond Images | AI Research Paper Details",
+        "url": "https://www.aimodels.fyi/papers/arxiv/thyme-think-beyond-images",
+        "date": "2025-08-17",
+        "last_updated": null
+    },
+    {
+        "title": "11 Best AI Photo Editors Actually Worth Using in 2025 - Meitu",
+        "url": "https://www.meituxiuxiu.com/academy/11-best-ai-photo-editors-actually-worth-using-in-2025",
+        "date": "2025-04-10",
+        "last_updated": "2025-08-04"
+    },
+    {
+        "title": "10 AI Photo Editors to Transform Your Images in 2025",
+        "url": "https://www.digitalocean.com/resources/articles/ai-photo-editors",
+        "date": "2024-11-14",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Thyme",
+        "url": "https://meetthyme.com",
+        "date": "2025-06-10",
+        "last_updated": "2025-06-18"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Thyme achieves this by doing something in a particular way.' is supported by the citation.
+<accept> The document explicitly states how Thyme achieves its capabilities, such as "by autonomously generating and executing diverse image processing and computational operations via executable code," and through a "two-stage training strategy: an initial Supervised Fine-Tuning (SFT) on a curated dataset... followed by a Reinforcement Learning (RL) phase to refine decision-making," including the use of "GRPO-ATS (Group Relative Policy Optimization with Adaptive Temperature Sampling), an algorithm that applies distinct temperatures to text and code generation." These are all "particular ways" Thyme achieves its goals. </accept>
+
+**********Source Check**********
+
+The claim 'Thyme enables certain systems to overcome existing methods.' is supported by the citation.
+<accept> The abstract explicitly states that "Thyme (Think Beyond Images), a novel paradigm for enabling multimodal large language models to transcend existing “think with images” approaches by autonomously generating and executing diverse image processing and computational operations via executable code". "Transcending existing approaches" implies overcoming existing methods. </accept>
+
+**********Source Check**********
+
+The claim 'Thyme's comprehensive set of image manipulation capabilities enables better results in certain tasks.' is supported by the citation.
+<accept> The content explicitly states that "The comprehensive set of image manipulation capabilities enables Thyme to achieve significant improvements over the baseline in perception tasks" and that "Thyme yields significant and consistent performance gains, particularly in challenging high-resolution perception and complex reasoning tasks." These statements confirm that Thyme's image manipulation capabilities lead to better results in specific tasks.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'Thyme achieves this by autonomously generating and executing diverse image processing and computational operations via executable code.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the abstract: "In this paper, we make a preliminary attempt in this direction by introducing Thyme (Think Beyond Images), a novel paradigm for enabling multimodal large language models to transcend existing “think with images” approaches by autonomously generating and executing diverse image processing and computational operations via executable code (Figure 2)." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Thyme enables multimodal large language models to transcend existing "think with images" approaches.' is supported by the original webpage.
+<accept> The abstract explicitly states: "In this paper, we make a preliminary attempt in this direction by introducing Thyme (Think Beyond Images), a novel paradigm for enabling multimodal large language models to transcend existing “think with images” approaches by autonomously generating and executing diverse image processing and computational operations via executable code". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Thyme's comprehensive set of image manipulation capabilities enables significant improvements over baselines in perception tasks.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the caption of Figure 1, which states: "The comprehensive set of image manipulation capabilities enables Thyme to achieve significant improvements over the baseline in perception tasks." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+Here are the claims with their central parts masked:
+
+1.  HTML conversions behave in a certain way.
+
+2.  This paper uses a specific kind of component.
+
+3.  GPT-5 performed to a certain extent.
+
+4.  Compared with someone's estimations, GPT-5 exhibited a certain value.
+
+5.  The evaluation was conducted on a certain model's ability to perform certain tasks in a certain manner. 
+The zero-shot performance of ChatGPT-5 with multimodal capabilities on mammogram interpretation tasks was evaluated.
+
+The paradigm of Medical VQA offers a practical framework to test whether general-purpose multimodal models can interpret mammograms in ways that align with clinical decision-making.
+
+Improvements in performance from GPT-4o to GPT-5 show a promising trend for general large language models (LLMs) to assist with mammography VQA tasks.
+
+**********Web Search Result**********
+
+https://eval.16x.engineer/blog/gpt-5-coding-evaluation-underwhelming-performance
+
+[
+    {
+        "title": "GPT-5 Coding Evaluation: Underwhelming Performance ...",
+        "url": "https://eval.16x.engineer/blog/gpt-5-coding-evaluation-underwhelming-performance",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Introducing GPT\u20115 for developers",
+        "url": "https://openai.com/index/introducing-gpt-5-for-developers/",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Introducing GPT-5",
+        "url": "https://openai.com/index/introducing-gpt-5/",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Capabilities of GPT-5 on Multimodal Medical Reasoning",
+        "url": "https://arxiv.org/html/2508.08224v2",
+        "date": "2025-08-13",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Performance of GPT-5 in Brain Tumor MRI Reasoning",
+        "url": "https://arxiv.org/html/2508.10865v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Is GPT-5 any good?",
+        "url": "https://ai.plainenglish.io/is-gpt-5-any-good-4da3d2df0300",
+        "date": "2025-08-09",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'Here are the claims with their central parts masked:' is NOT supported by the citation.
+<reject> The information "Here are the claims with their central parts masked" is not explicitly mentioned in the content. The text discusses various claims made about GPT-5, but it never states that any of these claims have their central parts masked. </reject>
+
+**********Source Check**********
+
+The claim '1.  HTML conversions behave in a certain way.' is NOT supported by the citation.
+<reject> The provided content focuses on the evaluation of GPT-5's coding performance across various programming tasks (e.g., TypeScript, JavaScript, MDX) and discusses prompt engineering. It does not mention HTML conversions or how they behave. </reject>
+
+**********Source Check**********
+
+The claim '2.  This paper uses a specific kind of component.' is NOT supported by the citation.
+<reject> The content describes the evaluation of AI models and the methodology used, but it does not state that the paper "uses a specific kind of component." While "component" appears once in the phrase "Prompt engineering is a key component," this refers to prompt engineering as an essential element, not a specific type of hardware or software component utilized by the paper's setup or methodology. </reject>
+
+**********Source Check**********
+
+The claim '3.  GPT-5 performed to a certain extent.' is supported by the citation.
+<accept> The content explicitly details GPT-5's performance across various coding tasks and real-world scenarios, providing specific scores and comparisons. For example, it states "The GPT-5 evaluation results did not meet our expectations, achieving an average rating of 7.46 out of 10," and gives task-specific scores like "GPT-5's worst performance was for the TypeScript narrowing task, where it scored just 1 out of 10," and "GPT-5 did well on the simple Next.js TODO task... GPT-5 scored 9.5." It also notes "GPT-5 showed much better performance in real-world testing." These statements directly confirm that GPT-5 performed, to varying extents.</accept>
+
+**********Source Check**********
+
+The claim '4.  Compared with someone's estimations, GPT-5 exhibited a certain value.' is supported by the citation.
+<accept> The content states, "The GPT-5 evaluation results did not meet our expectations, achieving an average rating of 7.46 out of 10." This explicitly mentions that GPT-5 exhibited a certain value (7.46 out of 10) and that this value was compared to "our expectations" (someone's estimations), which it did not meet. </accept>
+
+**********Source Check**********
+
+The claim '5.  The evaluation was conducted on a certain model's ability to perform certain tasks in a certain manner.' is supported by the citation.
+<accept> The content explicitly states that "The evaluation was conducted on a certain model's ability to perform certain tasks in a certain manner." Specifically, it details that "We tested GPT-5 against our evaluation set of six coding tasks," and describes the methodology, including how attempts were given, parameters used, and how outputs were rated by a human evaluator. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+Trainable methods in skill composition have focused on something.
+
+LoRAtorio achieves a certain performance level in a certain evaluation.
+
+The dynamic module selection formulation in LoRAtorio reflects a certain type of scenario in a certain way. 
+Trainable methods in skill composition have focused on either trainable mixture-of-experts or training a hyper-network that generates LoRA weights of the combined task.
+
+LoRAtorio achieves state-of-the-art performance on the ComposLoRA benchmark in terms of both automated metrics and human preference.
+
+The dynamic module selection formulation in LoRAtorio more realistically reflects real-world skill composition scenarios, where the set of required capabilities is not known a priori.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "[PDF] laboratory skills performance assessments in chemistry - Scholarworks",
+        "url": "https://scholarworks.montana.edu/bitstreams/72a649ea-9645-4163-bae6-d1a330b4abb4/download",
+        "date": null,
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "REST API v3 - Jira Cloud platform",
+        "url": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-dynamic-modules/",
+        "date": "2023-01-18",
+        "last_updated": "2025-05-27"
+    },
+    {
+        "title": "Assessment of Work Performance - Shirley Ryan AbilityLab",
+        "url": "https://www.sralab.org/rehabilitation-measures/assessment-work-performance",
+        "date": "2019-05-22",
+        "last_updated": "2025-05-28"
+    },
+    {
+        "title": "Universidad de La Coru\u00f1a - Laboratorio de Ingenier\u00eda Mec\u00e1nica",
+        "url": "http://lim.ii.udc.es/MBSLIM/MBSLIM.en.html",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[PDF] PARKLAND COLLEGE Faculty Performance Evaluation Procedures ...",
+        "url": "https://www.parkland.edu/Portals/3/Global/Documents/PoliciesProcedures/Faculty%20Performance%20Evaluation.pdf",
+        "date": null,
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Utilising novel sample preparation techniques to enhance ...",
+        "url": "https://www.youtube.com/watch?v=d7uLrfDgt5g",
+        "date": null,
+        "last_updated": "2024-06-16"
+    },
+    {
+        "title": "Laboratory supervisor performance appraisal | DOCX - SlideShare",
+        "url": "https://www.slideshare.net/slideshow/laboratory-supervisor-performance-appraisal/49297284",
+        "date": "2015-06-12",
+        "last_updated": "2025-05-06"
+    },
+    {
+        "title": "Dynamic Study Modules - Pearson Support",
+        "url": "https://support.pearson.com/getsupport/s/document-item?bundleId=xl-instructor&topicId=Content%2Fdynamic_study_modules.htm&_LANG=enus",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "16 Types Of Performance Appraisal And How To Use Them",
+        "url": "https://peoplemanagingpeople.com/performance-management/types-performance-appraisal/",
+        "date": "2025-06-03",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "Crafting The Ctd Quality Module For Pharmaceuticals",
+        "url": "https://enkrisi.com/2023/10/03/crafting-the-ctd-quality-module-for-pharmaceuticals-from-investigational-phases-to-marketing-approval-the-introduction/",
+        "date": "2023-10-03",
+        "last_updated": "2025-08-18"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+Active acoustic sensing on a wristband can perform a certain type of recognition in a specific scenario.
+
+Air-borne active acoustic sensing can gather different kinds of data at once through a single wearable.
+
+Grab-n-Go obtains data on hand and object interactions through a certain wrist-worn device. 
+Active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects.
+
+Air-borne active acoustic sensing can simultaneously capture information about hand-grasping poses, object geometries, and microgestures using a single wristband.
+
+Grab-n-Go captures information about hand microgestures, grasping poses, and object geometries using a single wristband.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11620v1
+
+[
+    {
+        "title": "WristSonic: Enabling Fine-grained Hand-Face Interactions on ... - arXiv",
+        "url": "https://arxiv.org/html/2411.08217v1",
+        "date": "2024-11-12",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Robotic hand moves objects with human-like grasp - ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2025/05/250513112155.htm",
+        "date": "2025-05-13",
+        "last_updated": "2025-05-13"
+    },
+    {
+        "title": "EchoForce: Continuous Grip Force Estimation from Skin ... - arXiv",
+        "url": "https://arxiv.org/html/2507.20437v1",
+        "date": "2025-07-27",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/abs/2508.11620",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Distance Hand Grab Interactions | Meta Horizon OS Developers",
+        "url": "https://developers.meta.com/horizon/documentation/unity/unity-isdk-distance-hand-grab-interaction/",
+        "date": "2025-01-01",
+        "last_updated": "2025-02-10"
+    },
+    {
+        "title": "Wristband uses echoes and AI to track hand positions for VR and more",
+        "url": "https://techxplore.com/news/2024-04-wristband-echoes-ai-track-positions.html",
+        "date": "2024-04-02",
+        "last_updated": "2025-07-15"
+    },
+    {
+        "title": "Hand Grab Interactions | Meta Horizon OS Developers",
+        "url": "https://developers.meta.com/horizon/documentation/unity/unity-isdk-hand-grab-interaction/",
+        "date": "2024-08-07",
+        "last_updated": "2025-02-09"
+    },
+    {
+        "title": "Advances in Portable and Wearable Acoustic Sensing Devices for ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11359461/",
+        "date": "2024-08-19",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "[PDF] GEARS: Local Geometry-aware Hand-object Interaction Synthesis",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_GEARS_Local_Geometry-aware_Hand-object_Interaction_Synthesis_CVPR_2024_paper.pdf",
+        "date": null,
+        "last_updated": "2025-04-15"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Active acoustic sensing on a wristband can perform a certain type of recognition in a specific scenario.' is supported by the citation.
+<accept> The text explicitly states multiple times that "Grab-n-Go," a wristband-based wearable device, "leverages active acoustic sensing to recognize subtle hand microgestures while holding various objects" (Abstract) or "recognize 30 hand microgestures while holding various objects" (Section 1 and Conclusion). This directly confirms that active acoustic sensing on a wristband can perform a certain type of recognition (microgesture recognition) in a specific scenario (while holding objects). </accept>
+
+**********Source Check**********
+
+The claim 'Air-borne active acoustic sensing can gather different kinds of data at once through a single wearable.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that "air-borne active acoustic sensing can simultaneously capture information about hand microgestures, grasping poses, and object geometries using a single wristband," which directly supports that it can "gather different kinds of data at once through a single wearable." </accept>
+
+**********Source Check**********
+
+The claim 'Grab-n-Go obtains data on hand and object interactions through a certain wrist-worn device.' is supported by the citation.
+<accept> The content explicitly states that "Grab-n-Go" is a "wearable device" that "leverages active acoustic sensing to recognize subtle hand microgestures while holding various objects" and "simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband." This confirms that it obtains data on hand and object interactions through a wrist-worn device using active acoustic sensing. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Contributions" section of the paper, under the first bullet point: "We show that active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Air-borne active acoustic sensing can simultaneously capture information about hand-grasping poses, object geometries, and microgestures using a single wristband.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the 'Introduction' section: "Despite these challenges, we hypothesize that air-borne active acoustic sensing can simultaneously capture information about hand-grasping poses, object geometries, and microgestures using a single wristband." It is also mentioned in the Abstract: "Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband," and the paragraph preceding it states that Grab-n-Go "leverages active acoustic sensing." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Grab-n-Go captures information about hand microgestures, grasping poses, and object geometries using a single wristband.' is supported by the original webpage.
+<accept> The abstract explicitly states: "Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband". </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+Something can effectively recognize hand microgestures even when users are holding various objects.
+
+Grab-n-Go leverages active acoustic sensing to recognize something while users hold various objects.
+
+Grab-n-Go simultaneously captures a certain kind of information using a certain device. 
+Active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects.
+
+Grab-n-Go leverages active acoustic sensing to recognize subtle hand microgestures while users hold various objects.
+
+Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11620v1
+
+[
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Advances in Portable and Wearable Acoustic Sensing ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11359461/",
+        "date": "2024-08-19",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Custom Hand Gesture Recognition with Hand Landmarks Using ...",
+        "url": "https://www.youtube.com/watch?v=a99p_fAr6e4",
+        "date": "2022-03-13",
+        "last_updated": "2025-06-30"
+    },
+    {
+        "title": "Acoustic Sensing & Environmental Monitoring with ...",
+        "url": "https://www.youtube.com/watch?v=GHBCPhfRx38",
+        "date": "2021-10-25",
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "[PDF] Hand Detection For Grab-and-Go Groceries - CS231n",
+        "url": "https://cs231n.stanford.edu/reports/2017/pdfs/225.pdf",
+        "date": null,
+        "last_updated": "2024-06-07"
+    },
+    {
+        "title": "What is Distributed Acoustic Sensing and how does it ...",
+        "url": "https://www.youtube.com/watch?v=9YVzMXQTFcs",
+        "date": "2020-12-22",
+        "last_updated": "2025-07-04"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://ecommons.cornell.edu/items/2af01cc7-1f1d-4484-95f0-0927ead37f7c",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Touch & activate: adding interactivity to existing objects ...",
+        "url": "https://dl.acm.org/doi/10.1145/2501988.2501989",
+        "date": "2013-10-08",
+        "last_updated": "2024-10-16"
+    },
+    {
+        "title": "Hand Grab Interactions | Meta Horizon OS Developers",
+        "url": "https://developers.meta.com/horizon/documentation/unity/unity-isdk-hand-grab-interaction/",
+        "date": "2024-08-07",
+        "last_updated": "2025-02-09"
+    },
+    {
+        "title": "RUIDONG ZHANG",
+        "url": "https://ruidongzhang.com/files/CV_Ruidong_Zhang_public_202507.pdf",
+        "date": null,
+        "last_updated": "2025-08-03"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something can effectively recognize hand microgestures even when users are holding various objects.' is supported by the citation.
+<accept> The abstract, introduction, and the list of contributions explicitly state that "Grab-n-Go," a wearable device, can effectively recognize subtle hand microgestures even when users are holding various objects. For instance, one contribution states: "We show that active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects." </accept>
+
+**********Source Check**********
+
+The claim 'Grab-n-Go leverages active acoustic sensing to recognize something while users hold various objects.' is supported by the citation.
+<accept> The abstract explicitly states: "In this paper, we introduce Grab-n-Go, the first wearable device that leverages active acoustic sensing to recognize subtle hand microgestures while holding various objects." This directly confirms that Grab-n-Go uses active acoustic sensing to recognize subtle hand microgestures while users are holding various objects. </accept>
+
+**********Source Check**********
+
+The claim 'Grab-n-Go simultaneously captures a certain kind of information using a certain device.' is supported by the citation.
+<accept> The abstract explicitly states that "Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects.' is supported by the original webpage.
+<accept> The "Contributions" section of the paper explicitly states: "We show that active acoustic sensing on a wristband can effectively recognize hand microgestures even when users are holding various objects." This sentence directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Grab-n-Go leverages active acoustic sensing to recognize subtle hand microgestures while users hold various objects.' is supported by the original webpage.
+<accept> The abstract explicitly states: "In this paper, we introduce Grab-n-Go, the first wearable device that leverages active acoustic sensing to recognize subtle hand microgestures while holding various objects." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband.' is supported by the original webpage.
+<accept> The abstract explicitly states: "Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband". </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11618v1 
+Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective 
+A certain kind of technical system has been developed tailored for complex issues involving various parties and locations.
+
+Someone proposed a distinct conceptual model that enables specific interaction plans for resources among a set of participants within a defined scope of work.
+
+Results demonstrate the utility of the proposed framework in addressing the handling of a specific resource in an improved way when several groups with differing purposes are involved. 
+A safe multi-agent reinforcement learning framework tailored for multi-stakeholder, multi-site CO2 storage problems has been developed.
+
+Pettersson et al. (2024, 2025) proposed a multi-objective optimization framework that enables coordinated CO2 injection strategies among multiple agents in basin-scale carbon storage projects.
+
+Results demonstrate the effectiveness of the proposed framework in addressing optimal management of CO2 storage when multiple stakeholders with various objectives and goals are involved.
+
+**********Web Search Result**********
+
+https://ecologyandsociety.org/vol27/iss2/art2/
+
+[
+    {
+        "title": "Multistakeholder platforms for natural resource governance: lessons ...",
+        "url": "https://ecologyandsociety.org/vol27/iss2/art2/",
+        "date": "2022-04-26",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Discovering optimal resource allocations for what-if ...",
+        "url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1279800/full",
+        "date": "2023-11-02",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Stakeholder Management Guide: Definitions, Processes & More",
+        "url": "https://simplystakeholders.com/resources/guides/stakeholder-management/",
+        "date": "2025-02-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Conceptual framework for resource management planning",
+        "url": "https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=2901&context=etd",
+        "date": null,
+        "last_updated": "2025-05-22"
+    },
+    {
+        "title": "How to Manage a Project with Multiple Stakeholders and Diverse ...",
+        "url": "https://zistemo.com/blog/how-to-manage-a-project-with-multiple-stakeholders-and-diverse-teams/",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "A Conceptual Framework for Resource Analysis in Process ...",
+        "url": "https://conferences.big.tuwien.ac.at/biweek2024/pdfs/biweek2024_paper_88.pdf",
+        "date": null,
+        "last_updated": "2024-10-04"
+    },
+    {
+        "title": "[PDF] Six-Step Stakeholder Engagement Framework - Learn - Cochrane",
+        "url": "https://training.cochrane.org/sites/training.cochrane.org/files/public/uploads/Six%20Step%20Stakeholder%20Engagement%20Framework.pdf",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Development of Conceptual Models to Guide Public Health ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869957/",
+        "date": "2020-01-07",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Best Stakeholder Mapping Methods: Choose the Right Strategy",
+        "url": "https://simplystakeholders.com/stakeholder-mapping/",
+        "date": "2025-02-11",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "A multi\u2010stakeholder engagement framework for knowledge ...",
+        "url": "https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24703",
+        "date": "2022-08-04",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'A certain kind of technical system has been developed tailored for complex issues involving various parties and locations.' is NOT supported by the citation.
+<reject> The text describes "Multistakeholder platforms (MSPs)" as "sustained, intentionally created, long-term spaces" or "organizational tools" for natural resource governance, which address complex issues involving various parties (stakeholders) and locations (landscape-level cases spanning multiple countries). However, the text does not refer to MSPs as a "technical system." </reject>
+
+**********Source Check**********
+
+The claim 'Someone proposed a distinct conceptual model that enables specific interaction plans for resources among a set of participants within a defined scope of work.' is supported by the citation.
+<accept> The content explicitly mentions that the authors "present a comparative case study application of a conceptual framework developed for analyzing MSPs that address natural resource governance." This framework is an "adapted institutional analysis and development framework." The text further explains that this framework helps explore "stakeholder dynamics" and focuses on "designing for context, designing and implementing processes for inclusion, and using adaptive learning to support improvements in dialogue processes." Multi-stakeholder platforms (MSPs), which are the subject of the framework, are defined as "sustained, intentionally created, long-term spaces to promote dialogue, deliberation, and collaborative action among social groups and organizations ('stakeholders') who stand to be meaningfully affected... by decisions of public importance within a defined domain," which relates to "resources" and "defined scope of work." The framework's utility in "designing" and "implementing processes for inclusion" and "improving dialogue processes" directly implies that it enables or informs the creation and improvement of "specific interaction plans" among participants. </accept>
+
+**********Source Check**********
+
+The claim 'Results demonstrate the utility of the proposed framework in addressing the handling of a specific resource in an improved way when several groups with differing purposes are involved.' is supported by the citation.
+<accept> The abstract, introduction, and discussion sections explicitly state that the research applies a modified institutional analysis and development framework to analyze multistakeholder platforms (MSPs) in natural resource governance. The text details how the results demonstrate the "practical value" and "utility" of this framework in understanding the influence of MSPs on "patterns of stakeholder interaction" and improving "natural resource governance," including "collective action for conservation" and "conflict management." MSPs are defined as involving "social groups and organizations ('stakeholders')" with differing purposes, and the text describes how these platforms lead to "improvements in communication, collaboration, and trust" and resolve "conflicts" among these diverse groups. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11616v1 
+Controlling Multimodal LLMs via Reward-guided Decoding 
+1. The proposed method, called something, demonstrates application in a certain way.
+
+2. The paper introduces a certain kind of something for a certain process for certain things.
+
+3. A certain process has been shown to be in a certain state for other things. 
+The proposed method, called multimodal reward-guided decoding (MRGD), demonstrates application in improving MLLMs' visual grounding.
+
+The paper introduces a novel method for reward-guided decoding for MLLMs.
+
+Reward-guided decoding has been shown to be an effective way of obtaining fine-grained controllability for text-only LLMs.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "[PDF] demonstrations.pdf - LSU AgCenter",
+        "url": "https://www.lsuagcenter.com/~/media/system/b/6/b/a/b6ba50f06f66eb1a2457f4464713ae37/demonstrations.pdf",
+        "date": null,
+        "last_updated": "2025-03-01"
+    },
+    {
+        "title": "[PDF] RESULT DEMONSTRATION MANUAL - GovInfo",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A-PURL-gpo19386/pdf/GOVPUB-A-PURL-gpo19386.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[PDF] Conducting Effective Agricultural Demonstrations",
+        "url": "https://publications.ca.uky.edu/files/id111.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "[PDF] Designing In-field Demonstrations: - Northeastern IPM Center",
+        "url": "https://www.northeastipm.org/saremod/demos.pdf",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[PDF] CONDUCTING METHOD DEMONSTRATION AND RESULT ...",
+        "url": "https://sau.edu.bd/uploads/pdf/dept/class_lecture/2023-03-12_640d71ff12260.pdf",
+        "date": null,
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] 4-H Public Presentation Guide Method Demonstrations & Illustrated ...",
+        "url": "https://menard.agrilife.org/files/2011/08/4hDemonstrationGuide.pdf",
+        "date": null,
+        "last_updated": "2025-04-09"
+    },
+    {
+        "title": "[PDF] Ideas for Demonstrations & Illustrated Talks",
+        "url": "https://gunnison.extension.colostate.edu/wp-content/uploads/sites/21/2019/04/Demonstration-Ideas.pdf",
+        "date": null,
+        "last_updated": "2025-03-26"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11613v1 
+Adaptive Cardio Load Targets for Improving Fitness and Performance 
+Cardio Load provides a certain benefit to certain individuals for a certain type of effort.
+
+Cardio Load provides a certain kind of measurement than something else.
+
+Cardio Load is designed in a specific way another established metric. 
+Cardio Load provides a quantitative reward to users of its fitness ecosystem for incremental intensity levels beyond the moderate-to-vigorous threshold.
+
+Cardio Load provides a more precise measurement than Active Zone Minutes.
+
+Cardio Load is designed to complement Active Zone Minutes (AZMs).
+
+**********Web Search Result**********
+
+https://community.fitbit.com/t5/The-Pulse-Fitbit-Community-Blog/Daily-Readiness-Cardio-Load-and-Target-Load/ba-p/5660192
+
+[
+    {
+        "title": "Adaptive Cardio Load Targets for Improving Fitness and Performance",
+        "url": "https://arxiv.org/html/2508.11613v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Daily Readiness, Cardio Load, and Target Load",
+        "url": "https://community.fitbit.com/t5/The-Pulse-Fitbit-Community-Blog/Daily-Readiness-Cardio-Load-and-Target-Load/ba-p/5660192",
+        "date": "2024-09-11",
+        "last_updated": "2025-04-17"
+    },
+    {
+        "title": "Cardio Load: Finding the Sweet Spot Between Effort and Recovery",
+        "url": "https://www.sonarhealth.co/blog/cardio-load-ratio/",
+        "date": "2025-04-04",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "How we built 3 key fitness metrics for Pixel Watch 3",
+        "url": "https://blog.google/products/fitbit/pixel-watch-3-daily-readiness-update-cardio-target-load/",
+        "date": "2024-09-11",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "The Basics: Cardio Load - Bevel",
+        "url": "https://www.bevel.health/blog/the-basics-cardio-load",
+        "date": "2025-01-01",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Fitbit Cardio and Target Load rolling out to more watches ...",
+        "url": "https://9to5google.com/2024/12/17/fitbit-cardio-target-load/",
+        "date": "2024-12-17",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What are cardio load and target load? - Fitbit Help Center",
+        "url": "https://support.google.com/fitbit/answer/15402655?hl=en",
+        "date": "2010-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Readiness vs cardio load - Fitbit Community",
+        "url": "https://community.fitbit.com/t5/Inspire-3/Readiness-vs-cardio-load/td-p/5710931",
+        "date": "2025-02-23",
+        "last_updated": "2025-03-02"
+    },
+    {
+        "title": "CARDIO LOAD STATUS - Support - CASIO",
+        "url": "https://support.casio.com/global/en/wat/app/gbd-h2000/polar/cardio-load-status/",
+        "date": "2000-01-01",
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "What is my cardio fitness score? - Fitbit Help Center",
+        "url": "https://support.google.com/fitbit/answer/14237924?hl=en",
+        "date": "2010-01-01",
+        "last_updated": "2025-06-15"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Cardio Load provides a certain benefit to certain individuals for a certain type of effort.' is supported by the citation.
+<accept> The text states that "Cardio Load, and Training Status are personalized to you, your training, and your recovery. They assist in achieving fitness goals by providing guidance on your cardio exercise, recovery, and preventing overtraining symptoms like fatigue or injury." This indicates that Cardio Load provides benefits ("assists in achieving fitness goals", "prevents overtraining") to individuals ("personalized to you") for a type of effort ("guidance on your cardio exercise"). The description of Cardio Load also mentions it "measures the overall stress on your cardiovascular system throughout the day, taking into account activities ranging from light tasks to peak effort." </accept>
+
+**********Source Check**********
+
+The claim 'Cardio Load provides a certain kind of measurement than something else.' is NOT supported by the citation.
+<reject> The text explains what Cardio Load measures (overall stress on your cardiovascular system, training load) but does not state that it provides a "certain kind of measurement than something else" in a comparative sense. It describes Cardio Load's function without explicitly contrasting its type of measurement with other metrics mentioned in the document. </reject>
+
+**********Source Check**********
+
+The claim 'Cardio Load is designed in a specific way another established metric.' is supported by the citation.
+<accept> The content states that "The Cardio Load metric is a modified Banister’s TRaining IMPulse (TRIMP) model", indicating it is designed based on an established metric (TRIMP). </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+The work introduces a certain approach for a specific purpose.
+
+The method designs something in a particular way by leveraging certain principles.
+
+The approach is demonstrated on a specific type of problem in a certain domain. 
+The work introduces a new method for generating impulsive trajectories in restricted two-body systems.
+
+The method designs impulsive spacecraft trajectories that minimize a performance index by utilizing the connection between geometry and dynamically feasible trajectories.
+
+The approach is demonstrated on the minimum-ΔV two-impulse phase-free orbit transfer problem.
+
+**********Web Search Result**********
+
+https://www.interaction-design.org/literature/topics/design-thinking
+
+[
+    {
+        "title": "What is Design Thinking? \u2014 updated 2025 | IxDF",
+        "url": "https://www.interaction-design.org/literature/topics/design-thinking",
+        "date": "2025-05-02",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "Cynefin Framework Explained - The 5 Domains with ...",
+        "url": "https://txm.com/making-sense-problems-cynefin-framework/",
+        "date": "2025-04-10",
+        "last_updated": "2025-04-11"
+    },
+    {
+        "title": "The 5 Stages in the Design Thinking Process | IxDF",
+        "url": "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process",
+        "date": "2025-03-13",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "The Cynefin Framework: Defining Its 5 Domains",
+        "url": "https://whatfix.com/blog/cynefin-framework/",
+        "date": "2025-07-15",
+        "last_updated": "2025-07-15"
+    },
+    {
+        "title": "How to solve problems using the design thinking process",
+        "url": "https://asana.com/resources/design-thinking-process",
+        "date": "2025-01-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Problem-Solving: Domains, Causes and Actions",
+        "url": "https://libraryofprofessionalcoaching.com/wp-app/wp-content/uploads/2024/05/Problem-Solving.Domains-Causes-and-Actions.final-3.051324.pdf",
+        "date": null,
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "How design thinking is used to solve problems",
+        "url": "https://www.canva.com/learn/design-thinking/",
+        "date": "2025-03-05",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Domain-specific knowledge and domain-general abilities ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38061789/",
+        "date": "2024-06-01",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "What Is Design Thinking & Why Is It Important?",
+        "url": "https://online.hbs.edu/blog/post/what-is-design-thinking",
+        "date": "2022-01-18",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Problem solving in the mathematics curriculum: From domain ...",
+        "url": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/curj.213",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'The work introduces a certain approach for a specific purpose.' is supported by the citation.
+<accept> The content explicitly states that "Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test," which directly describes an approach and its specific purpose. </accept>
+
+**********Source Check**********
+
+The claim 'The method designs something in a particular way by leveraging certain principles.' is supported by the citation.
+<accept> The text explicitly states that all variants of design thinking "embody the same principles". It also details specific frameworks, such as the Double Diamond, which "emphasizes four design principles", directly linking the method of design with the leveraging of certain principles. Additionally, the "Common Elements of Design Thinking Frameworks" section lists several elements that function as underlying principles for the method's operation. </accept>
+
+**********Source Check**********
+
+The claim 'The approach is demonstrated on a specific type of problem in a certain domain.' is supported by the citation.
+<accept> The content explicitly mentions specific examples of how design thinking has been applied to solve problems in certain domains, such as Airbnb creating a platform for home rentals, PillPack developing a prescription home-delivery system for people taking multiple medications, and Google Creative Lab using it to create Project Bloks for kids' learning and play. These serve as demonstrations of the approach on specific types of problems in certain domains. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The work introduces a new method for generating impulsive trajectories in restricted two-body systems.' is supported by the original webpage.
+<accept> The abstract explicitly states, "This work presents a new method for generating impulsive trajectories in restricted two-body systems by leveraging Riemannian geometry." The introduction further elaborates, "This work develops a new impulsive trajectory design framework..." and "The main contribution of this paper is a new geometric framework for computing minimum-Δ​V\\Delta V two-impulse phase-free orbital transfers..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The method designs impulsive spacecraft trajectories that minimize a performance index by utilizing the connection between geometry and dynamically feasible trajectories.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Introduction" section: "This work will utilize this connection between geometry and dynamically feasible trajectories to design impulsive spacecraft trajectories that minimize a performance index." The abstract also supports this by mentioning the method generates "impulsive trajectories" by "leveraging Riemannian geometry" and finds the "fuel-optimal transfer trajectory" which implies minimizing a performance index. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The approach is demonstrated on the minimum-ΔV two-impulse phase-free orbit transfer problem.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the abstract: "The approach is demonstrated on the minimum-Δ​V\\Delta V two-impulse phase-free orbit transfer problem, first on a Keplerian system and second on a system with a modeled J2J\_{2} perturbation." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+The paper proposes a specific type of architecture for a certain technical process.
+
+A type of system is a suitable choice for a kind of application.
+
+Certain components are capable of generating specific data representations for certain audio pieces. 
+The paper proposes the first conformer-based architecture for neural audio fingerprinting.
+
+Conformers are a suitable choice for audio fingerprinting tasks.
+
+The conformer-based encoders are capable of generating unique embeddings for small segments of audio.
+
+**********Web Search Result**********
+
+https://assemblyai.com/blog/recent-developments-in-generative-ai-for-audio
+
+[
+    {
+        "title": "Building a High-Performance Multi-Threaded Audio ...",
+        "url": "https://acestudio.ai/blog/multi-threaded-audio-processing/",
+        "date": "2024-10-28",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "A survey of deep learning audio generation methods",
+        "url": "https://arxiv.org/pdf/2406.00146",
+        "date": null,
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "the main components of an audio processing system",
+        "url": "https://www.danacoidedu.com/blog/what-are-the-main-components-of-an-audio-processing-system",
+        "date": "2024-12-05",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Digital audio concepts - Media - MDN Web Docs - Mozilla",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Audio_concepts",
+        "date": "2025-03-13",
+        "last_updated": "2025-06-07"
+    },
+    {
+        "title": "A COMPONENT-BASED SOFTWARE ARCHITECTURE ...",
+        "url": "https://www.scitepress.org/papers/2006/15730/15730.pdf",
+        "date": null,
+        "last_updated": "2025-05-13"
+    },
+    {
+        "title": "Representing Audio \u2014 Open-Source Tools & Data for Music ...",
+        "url": "https://source-separation.github.io/tutorial/basics/representations.html",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "System architecture for audio signal processing in headsets",
+        "url": "https://www.onsemi.cn/site/pdf/GSPx2005_1770.pdf",
+        "date": null,
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "Recent developments in Generative AI for Audio",
+        "url": "https://assemblyai.com/blog/recent-developments-in-generative-ai-for-audio",
+        "date": "2023-07-27",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Basics of Embedded Audio Processing",
+        "url": "https://www.analog.com/media/en/dsp-documentation/embedded-media-processing/embedded-media-processing-chapter5.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Understand Audio data",
+        "url": "https://www.geeksforgeeks.org/nlp/understand-audio-data/",
+        "date": "2025-07-23",
+        "last_updated": "2025-07-25"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The paper proposes a specific type of architecture for a certain technical process.' is NOT supported by the citation.
+<reject> The article is an overview of recent developments in generative AI for audio, describing how existing models like AudioLM, MusicLM, VALL-E, NaturalSpeech 2, and Voicebox work and their architectures. It does not mention any specific paper that *proposes* a new or specific type of architecture; instead, it describes the architectures of already developed and implemented models. </reject>
+
+**********Source Check**********
+
+The claim 'A type of system is a suitable choice for a kind of application.' is supported by the citation.
+<accept> The content explicitly states that "Deep Neural Networks (DNNs) have proven to be exceptionally adept at processing highly complicated modalities like these... This shift has led to dramatic improvements in speech recognition and several other applications of discriminative AI," indicating that DNNs (a type of system) are a suitable choice for speech recognition and other discriminative AI applications. </accept>
+
+**********Source Check**********
+
+The claim 'Certain components are capable of generating specific data representations for certain audio pieces.' is supported by the citation.
+<accept> The text explicitly states that "AudioLM puts together two components, each dedicated to performing distinct tasks: Audio Embedding - A first component, w2v-BERT, ... generates semantic tokens..." and "Audio Quantization - A second component, based on SoundStream, generates acoustic tokens..." It further elaborates on MusicLM's components, stating that "The MuLan component generates sequences of 12 audio-text tokens..." and again mentions w2v-BERT generating semantic tokens and SoundStream generating acoustic tokens for audio clips. These tokens are "specific data representations" for "certain audio pieces". </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11608v1 
+A multigrid method for CutFEM and its implementation on GPU 
+A geometric multigrid technique based on `a specific kind of smoothers` is established to obtain `a certain type of preconditioners` for `some kind of discretizations`.
+
+A geometric multigrid technique based on `a particular type of smoothers` is established to obtain `another type of solvers` for `a different kind of discretizations`.
+
+The realization of `certain elements` in this work is by `a specific method`. 
+A geometric multigrid technique based on vertex-patch smoothers is established to obtain efficient preconditioners for unfitted discretizations.
+
+A geometric multigrid technique based on vertex-patch smoothers is established to obtain fast solvers for unfitted discretizations.
+
+The realization of unfitted finite elements in this work is by the CutFEM method.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/2506.12899
+
+[
+    {
+        "title": "Multigrid method - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Multigrid_method",
+        "date": "2005-04-16",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Solve Differential Equation Using Multigrid Preconditioner on ...",
+        "url": "https://www.mathworks.com/help/parallel-computing/solve-differential-equation-using-multigrid-preconditioner-on-distributed-discretization.html",
+        "date": "2025-01-01",
+        "last_updated": "2025-05-16"
+    },
+    {
+        "title": "Numerical Evaluation of P-multigrid Method for the Solution ...",
+        "url": "https://ntrs.nasa.gov/api/citations/20050215560/downloads/20050215560.pdf",
+        "date": null,
+        "last_updated": "2024-03-15"
+    },
+    {
+        "title": "A Geometric Multigrid Preconditioner for Discontinuous Galerkin ...",
+        "url": "https://www.arxiv.org/abs/2506.12899",
+        "date": "2025-06-15",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "Multigrid methods for isogeometric discretization - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3916810/",
+        "date": "2013-01-01",
+        "last_updated": "2024-12-19"
+    },
+    {
+        "title": "Basics of Geometric Multigrid",
+        "url": "https://julianroth.org/documentation/multigrid/basics.html",
+        "date": null,
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "[PDF] Multigrid and Multilevel Preconditioners for Computational ...",
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2011/12/Krishanan-SGA11.pdf",
+        "date": null,
+        "last_updated": "2024-10-12"
+    },
+    {
+        "title": "Monolithic Multigrid Preconditioners for High-Order Discretizations ...",
+        "url": "https://arxiv.org/html/2407.07253v1",
+        "date": "2024-07-09",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "Optimizing Geometric Multigrid Methods with Evolutionary ...",
+        "url": "https://arxiv.org/abs/1910.02749",
+        "date": "2019-10-07",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "2.1.1 Preconditioners in NGSolve - NGS-Py",
+        "url": "https://docu.ngsolve.org/nightly/i-tutorials/unit-2.1.1-preconditioners/preconditioner.html",
+        "date": null,
+        "last_updated": "2025-01-17"
+    }
+]
+
+**********Source Check**********
+
+The claim 'A geometric multigrid technique based on `a specific kind of smoothers` is established to obtain `a certain type of preconditioners` for `some kind of discretizations`.' is supported by the citation.
+<accept> The content explicitly states: "This paper introduces a geometric multigrid preconditioner..." which establishes a "geometric multigrid technique" and "a certain type of preconditioners". It also mentions "a Discontinuous Galerkin (DG) formulation for SBM that enables the design of a cell-wise multiplicative smoother", identifying the "specific kind of smoothers" (cell-wise multiplicative smoother) and the "some kind of discretizations" (Discontinuous Galerkin Shifted Boundary Method/formulation).</accept>
+
+**********Source Check**********
+
+The claim 'A geometric multigrid technique based on `a particular type of smoothers` is established to obtain `another type of solvers` for `a different kind of discretizations`.' is supported by the citation.
+<accept> The abstract explicitly states: "This paper introduces a geometric multigrid preconditioner" (a geometric multigrid technique to obtain a type of solver) "for the Shifted Boundary Method (SBM) designed to solve PDEs on complex geometries." It then specifies the discretization: "we introduce a Discontinuous Galerkin (DG) formulation for SBM". Finally, it details the smoother: "that enables the design of a cell-wise multiplicative smoother within an $hp$-multigrid framework." This covers all aspects of the provided information. </accept>
+
+**********Source Check**********
+
+The claim 'The realization of `certain elements` in this work is by `a specific method`.' is supported by the citation.
+<accept> The paper explicitly states that a Discontinuous Galerkin (DG) formulation is introduced, which enables the design of a cell-wise multiplicative smoother within an $hp$-multigrid framework. It then discusses numerical results for "linear ($p=1$) and quadratic ($p=2$) elements" and "cubic ($p=3$) elements", implying these elements are realized or handled using this DG formulation and associated smoother. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A geometric multigrid technique based on vertex-patch smoothers is established to obtain efficient preconditioners for unfitted discretizations.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section: "In this work, we establish a geometric multigrid technique based on vertex-patch smoothers to obtain fast solvers and efficient preconditioners for such discretizations." The phrase "such discretizations" refers to the "unfitted finite element discretizations" mentioned in the preceding sentence. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A geometric multigrid technique based on vertex-patch smoothers is established to obtain fast solvers for unfitted discretizations.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the first paragraph of the "1 Introduction" section: "In this work, we establish a geometric multigrid technique based on vertex-patch smoothers to obtain fast solvers and efficient preconditioners for such discretizations." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The realization of unfitted finite elements in this work is by the CutFEM method.' is supported by the original webpage.
+<accept> The text explicitly states in the "1 Introduction" section: "We focus on the realization of unfitted finite elements by the CutFEM method, going back to the article by Hansbo and Hansbo [ 17]." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+Something was made into a language model in a certain way on a specific literary work.
+
+Certain models are processed in a certain way on a specific piece of text.
+
+Its output characteristics are in a certain state. 
+A divergent generative process was engineered into a language model by fine-tuning it exclusively on James Joyce’s ‘Finnegans Wake’.
+
+TinyTim models are fine-tuned on James Joyce’s ‘Finnegans Wake’.
+
+TinyTim V1's generative profile is characterized by high lexical diversity.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2407.20046v1
+
+[
+    {
+        "title": "Exploring large language models to generate Easy to ...",
+        "url": "https://arxiv.org/html/2407.20046v1",
+        "date": "2024-07-29",
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "What Is NLP (Natural Language Processing)? - IBM",
+        "url": "https://www.ibm.com/think/topics/natural-language-processing",
+        "date": "2024-08-11",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "A Comprehensive Analysis of Large Language Model Outputs - arXiv",
+        "url": "https://arxiv.org/html/2505.09056v1",
+        "date": "2025-05-14",
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "Large language model",
+        "url": "https://en.wikipedia.org/wiki/Large_language_model",
+        "date": "2023-03-09",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Natural Language Processing (NLP) [A Complete Guide]",
+        "url": "https://www.deeplearning.ai/resources/natural-language-processing/",
+        "date": "2023-01-11",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Evaluating Structured Output Robustness of Small Language ... - arXiv",
+        "url": "https://arxiv.org/html/2507.01810v1",
+        "date": "2025-07-02",
+        "last_updated": "2025-07-03"
+    },
+    {
+        "title": "Language models can only write poetry - Allison Posts",
+        "url": "https://posts.decontextualize.com/language-models-poetry/",
+        "date": "2021-08-13",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "8 advanced natural language processing techniques - Lumenalta",
+        "url": "https://lumenalta.com/insights/8-advanced-natural-language-processing-techniques",
+        "date": "2025-01-19",
+        "last_updated": "2025-02-12"
+    },
+    {
+        "title": "How to Get Better Outputs from Your Large Language Model",
+        "url": "https://developer.nvidia.com/blog/how-to-get-better-outputs-from-your-large-language-model/",
+        "date": "2023-06-14",
+        "last_updated": "2025-06-17"
+    },
+    {
+        "title": "AI Demystified: Introduction to large language models",
+        "url": "https://uit.stanford.edu/service/techtraining/ai-demystified/llm",
+        "date": "2024-12-13",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something was made into a language model in a certain way on a specific literary work.' is NOT supported by the citation.
+<reject> The information states that "Something was made into a language model in a certain way on a specific literary work." The text confirms that a Llama2 model (a type of language model) was fine-tuned (a certain way) using a parallel corpus of Easy to Read Spanish documents. However, this corpus is described as "various sets of general domain documents" including "sports guides, literature, competitive examinations, and exhibitions," rather than "a specific literary work." While it included "literature texts," it was a diverse collection of documents, not a single, specific literary work.</reject>
+
+**********Source Check**********
+
+The claim 'Certain models are processed in a certain way on a specific piece of text.' is supported by the citation.
+<accept> The content explicitly states that a Llama2 model (a specific type of model) is fine-tuned (a certain way of processing) using a collected parallel corpus of Spanish texts (a specific piece of text) to generate Easy to Read content. For example, the abstract mentions "fine-tuning and testing a Llama2 model to generate Easy to Read content," and Section 4 states, "The Llama2 7B model is fine tuned with the entire corpus dataset, a total of 1941 sentences." </accept>
+
+**********Source Check**********
+
+The claim 'Its output characteristics are in a certain state.' is NOT supported by the citation.
+<reject> The provided text describes the output of Large Language Models (LLMs) in detail, including its quality, adherence to specific guidelines (Easy to Read), and types of errors observed under various experimental conditions. However, it does not contain the generic statement that "Its output characteristics are in a certain state." Instead, it provides specific descriptions and evaluations of these characteristics, which vary depending on the model and experimental setup. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+A new synthetic dataset for training visual entailment models is done in a certain way in this paper.
+
+The new dataset something is publicly available at https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE.
+
+The synthetic dataset is based on a certain type of dataset. 
+A new synthetic dataset for training visual entailment models is presented and validated in this paper.
+
+The new dataset Synthetic-NLI-VE is publicly available at https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE.
+
+The synthetic dataset is based on the SNLI dataset for textual entailment.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11605v1
+
+[
+    {
+        "title": "Dataset Creation for Visual Entailment using Generative AI",
+        "url": "https://arxiv.org/html/2508.11605v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Leveraging NLI for Zero-Shot Text Classification | by Okan Yenig\u00fcn",
+        "url": "https://ai.plainenglish.io/leveraging-nli-for-zero-shot-text-classification-4631332b6748",
+        "date": "2024-10-18",
+        "last_updated": "2025-03-24"
+    },
+    {
+        "title": "Dataset Creation for Visual Entailment using Generative AI",
+        "url": "https://arxiv.org/abs/2508.11605",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "More NLI datasets - Hugging Face nlp library - Kaggle",
+        "url": "https://www.kaggle.com/code/yihdarshieh/more-nli-datasets-hugging-face-nlp-library",
+        "date": null,
+        "last_updated": "2024-01-28"
+    },
+    {
+        "title": "A synthetic dataset primer for the biobehavioural sciences ...",
+        "url": "https://elifesciences.org/articles/53275",
+        "date": "2020-03-11",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "A Synthetic Data Approach for Domain Generalization of ...",
+        "url": "https://aclanthology.org/2024.acl-long.120.pdf",
+        "date": null,
+        "last_updated": "2025-04-15"
+    },
+    {
+        "title": "Synthetic data generation: a privacy-preserving approach ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11958975/",
+        "date": "2025-03-18",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Synthetic Dataset for Evaluating Complex Compositional ...",
+        "url": "https://aclanthology.org/2023.nlrse-1.12.pdf",
+        "date": null,
+        "last_updated": "2025-07-25"
+    },
+    {
+        "title": "Synthesize, if you do not have: Effective Synthetic Dataset...",
+        "url": "https://openreview.net/forum?id=9GxP2Kw8IC",
+        "date": null,
+        "last_updated": "2025-04-15"
+    }
+]
+
+**********Source Check**********
+
+The claim 'A new synthetic dataset for training visual entailment models is done in a certain way in this paper.' is supported by the citation.
+<accept> The abstract explicitly states, "In this paper we present and validate a new synthetic dataset for training visual entailment models." It then describes how it's done: "We base our synthetic dataset on the SNLI dataset for textual entailment. We take the premise text from SNLI as input prompts in a generative image model, Stable Diffusion, creating an image to replace each textual premise." Section 4.1 "Image Generation" further details this process. </accept>
+
+**********Source Check**********
+
+The claim 'The new dataset something is publicly available at https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE.' is supported by the citation.
+<accept> The content explicitly states: "we present the new dataset Synthetic-NLI-VE111 https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE;". This confirms the name of the dataset and its public availability at the specified URL. </accept>
+
+**********Source Check**********
+
+The claim 'The synthetic dataset is based on a certain type of dataset.' is supported by the citation.
+<accept> The abstract explicitly states, "We base our synthetic dataset on the SNLI dataset for textual entailment." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A new synthetic dataset for training visual entailment models is presented and validated in this paper.' is supported by the original webpage.
+<accept> The abstract explicitly states: "In this paper we present and validate a new synthetic dataset for training visual entailment models." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The new dataset Synthetic-NLI-VE is publicly available at https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE.' is supported by the original webpage.
+<accept> The paper explicitly states in the "1 Introduction" section, under its contributions: "we present the new dataset Synthetic-NLI-VE111 [https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE](https://huggingface.co/datasets/robreijtenbach/Synthetic-NLI-VE "");", which matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The synthetic dataset is based on the SNLI dataset for textual entailment.' is supported by the original webpage.
+<accept> The abstract explicitly states: "We base our synthetic dataset on the SNLI dataset for textual entailment." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11603v1 
+CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion 
+1. Some researchers are affiliated with a particular academic institution.
+
+2. Another individual is associated with a different university department.
+
+3. A specific system is a new method for adapting 3D scenes based on text.
+
+4. Its core advancement involves a unique interaction mechanism for maintaining visual stability.
+
+5. The method also integrates information about conceptual likeness determined during processing, leading to improved correspondence and robust editing.
+
+6. Furthermore, a specific workflow is established to permit user selection among various options, enhancing adaptability and influence.
+
+7. Evaluations indicate that this system generates improved visual outcomes with finer textures, surpassing earlier techniques.
+
+8. It attains spatial coherence by incorporating detailed multi-perspective limitations into a pre-trained generative model.
+
+9. Its broad approach to relating elements allows its main mechanism to produce more credible multi-perspective modifications.
+
+10. The software is capable of creating varied but accurate spatial alterations through the provision of choosing distinct viewing patterns. 
+CoreEditor achieves 3D consistency by integrating precise multi-view constraints into a pre-trained Text-to-Image (T2I) diffusion model.
+
+This comprehensive correspondence approach enables CoreEditor's CCA to generate more plausible multi-view edits.
+
+CoreEditor can generate diverse yet faithful 3D edits by allowing the selection of different per-view editing patterns.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2505.02836v1
+
+[
+    {
+        "title": "Scenethesis: A Language and Vision Agentic Framework ...",
+        "url": "https://arxiv.org/html/2505.02836v1",
+        "date": "2025-05-05",
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "Towards Text-guided 3D Scene Composition",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Towards_Text-guided_3D_Scene_Composition_CVPR_2024_paper.pdf",
+        "date": null,
+        "last_updated": "2024-08-15"
+    },
+    {
+        "title": "TEXT TO 3D SCENE GENERATION A DISSERTATION ...",
+        "url": "https://nlp.stanford.edu/~manning/dissertations/Chang-Angel-thesis-augmented.pdf",
+        "date": null,
+        "last_updated": "2024-02-07"
+    },
+    {
+        "title": "Text-Driven 3D-Consistent Scene Generation",
+        "url": "http://www.cad.zju.edu.cn/home/weiweixu/wwxu2024.files/CVPR_1.pdf",
+        "date": null,
+        "last_updated": "2024-10-14"
+    },
+    {
+        "title": "3D Gaussian-based Text-to-3D Scene Generation via ...",
+        "url": "https://arxiv.org/html/2404.03575v1",
+        "date": "2024-05-02",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "Task-oriented Sequential Grounding in 3D Scenes",
+        "url": "https://openreview.net/forum?id=LvgOm9Rmih",
+        "date": "2025-02-05",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "NeRFiller: Completing Scenes via Generative 3D Inpainting",
+        "url": "https://ethanweber.me/nerfiller/",
+        "date": "2024-01-01",
+        "last_updated": "2024-09-23"
+    }
+]
+
+**********Source Check**********
+
+The claim '1. Some researchers are affiliated with a particular academic institution.' is supported by the citation.
+<accept> The author affiliations section explicitly states that "Aniket Bera" is affiliated with "2Purdue University", and Purdue University is an academic institution. </accept>
+
+**********Source Check**********
+
+The claim '2. Another individual is associated with a different university department.' is NOT supported by the citation.
+<reject> The content lists "Purdue University" as an affiliation for Lu Ling and Aniket Bera, but it does not specify any university departments, nor does it mention any other university besides Purdue University. Therefore, it does not state that another individual is associated with a *different university department* (implying a department distinct from Purdue University, or a specific department within Purdue University that is different from another's). </reject>
+
+**********Source Check**********
+
+The claim '3. A specific system is a new method for adapting 3D scenes based on text.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that "Scenethesis" is a "training-free agentic framework" for "text to interactive 3D scene generation" and "synthesizing interactive 3D scenes from text," which is a new method for adapting 3D scenes based on text prompts. </accept>
+
+**********Source Check**********
+
+The claim '4. Its core advancement involves a unique interaction mechanism for maintaining visual stability.' is supported by the citation.
+<accept> The document states that "Scenethesis" proposes a "novel optimization process that iteratively aligns objects using semantic correspondence matching and SDF-based physical constraints, enforcing collision-free, stable, and semantically correct placements." (Section 1, Contributions point 3). This "novel optimization process," particularly the use of Signed Distance Fields (SDFs) for "Stability Constraints" (Section 3.3.2), constitutes a "unique interaction mechanism" that directly contributes to ensuring objects "remain stable on contact surfaces," thereby "maintaining visual stability." The ablation study further highlights the significant impact of this stability constraint on the overall performance. While the entire framework is a core advancement, this specific optimization process is presented as a crucial and novel technical contribution, fitting the description of a "core advancement." </accept>
+
+**********Source Check**********
+
+The claim '5. The method also integrates information about conceptual likeness determined during processing, leading to improved correspondence and robust editing.' is NOT supported by the citation.
+<reject> The content states that the method uses "semantic spatial features" and "high-level semantics" for "dense correspondence matching," which implies "improved correspondence" and "robustness to occlusions and partial views." However, the content does not explicitly state that this integration of conceptual likeness information directly leads to "robust editing." It mentions that the generated layouts are valuable for "editing" as a downstream task, but does not link the conceptual likeness specifically to the *robustness* of this editing process. </reject>
+
+**********Source Check**********
+
+The claim '6. Furthermore, a specific workflow is established to permit user selection among various options, enhancing adaptability and influence.' is supported by the citation.
+<accept> The document explicitly mentions a specific workflow in Section 3.1 "Coarse Scene Planning" and Section 6.3 "Experiment Details" under "Prompts", where Scenethesis supports "either a simple prompt... for flexible scene generation or a detailed prompt for controllable scene generation." This allows for user selection among various options (simple vs. detailed prompts), thereby enhancing adaptability and user influence over the generated 3D scenes. </accept>
+
+**********Source Check**********
+
+The claim '7. Evaluations indicate that this system generates improved visual outcomes with finer textures, surpassing earlier techniques.' is NOT supported by the citation.
+<reject> The content mentions that evaluations show the system achieves improved visual outcomes and surpasses earlier techniques in terms of layout realism and spatial plausibility. It also talks about "finer-grained positioning" and "precisely placing small objects." However, the statement "with finer textures" is not explicitly mentioned as a characteristic of the generated visual outcomes. The text discusses "geometric fidelity" and "editability" of *retrieved assets*, but not that the system *generates* finer textures in its output. </reject>
+
+**********Source Check**********
+
+The claim '8. It attains spatial coherence by incorporating detailed multi-perspective limitations into a pre-trained generative model.' is NOT supported by the citation.
+<reject> The text states that "limited perspectives" and "occlusions" are challenges that lead to errors in initial object placement (3.2 Scene Graph Generation, 3.3 Physics-aware Optimization). Scenethesis then uses "physics-aware optimization" (3.3) and a "scene judge module" (3.4) to *overcome* these issues and ensure "spatial coherence" and "physical plausibility". It does not say that "detailed multi-perspective limitations" are "incorporated into a pre-trained generative model" to attain spatial coherence. Instead, the pre-trained generative model (image generation model) is used for "vision-guided layout refinement" (3.2) which helps with spatial relationships, and the subsequent optimization addresses the problems arising from limited visual information. </reject>
+
+**********Source Check**********
+
+The claim '9. Its broad approach to relating elements allows its main mechanism to produce more credible multi-perspective modifications.' is NOT supported by the citation.
+<reject> The content mentions that Scenethesis integrates LLM-based scene planning with vision-guided layout refinement to effectively capture realistic inter-object relations, which aligns with "broad approach to relating elements" and "more credible" (realistic/plausible) results. However, the specific phrase "multi-perspective modifications" as an outcome produced by its main mechanism is not explicitly stated. The text refers to rendering scenes from "different camera viewpoints" for visualization and evaluation, but not "modifications" in a multi-perspective way by its core generation process. </reject>
+
+**********Source Check**********
+
+The claim '10. The software is capable of creating varied but accurate spatial alterations through the provision of choosing distinct viewing patterns.' is NOT supported by the citation.
+<reject> The document mentions that Scenethesis generates diverse, realistic, and physically plausible 3D interactive scenes with accurate pose alignment (varied but accurate spatial alterations). It also shows visualizations of scenes from "different camera viewpoints" or "two perspectives." However, the document does not state that the software creates these spatial alterations *through the provision of choosing distinct viewing patterns*. The viewing patterns are used for rendering and evaluation, not as an input mechanism to control or create the spatial alterations themselves. The spatial alterations are achieved through LLM planning, vision-guided layout refinement, and physics-aware optimization. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11599v1 
+CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection 
+CryptoScope is `a specific type of framework` for detecting `vulnerabilities related to a certain kind of logic`.
+
+`Something` is `a certain kind of system` for detecting `vulnerabilities of a certain kind in an automated way`.
+
+`A system` performs `the identification of certain flaws` `in a particular manner`. 
+CryptoScope is the first LLM-based framework for detecting cryptographic logic vulnerabilities.
+
+CryptoScope is a novel framework for automated cryptographic vulnerability detection.
+
+CryptoScope performs cryptographic logic vulnerability detection without code execution.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11599v1
+
+[
+    {
+        "title": "CryptoScope: Utilizing Large Language Models for ...",
+        "url": "https://arxiv.org/html/2508.11599v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Automated Vulnerability Management: An Easy Guide 101",
+        "url": "https://www.sentinelone.com/cybersecurity-101/cybersecurity/automated-vulnerability-management/",
+        "date": "2025-06-02",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "CryptoScope: Utilizing Large Language Models ...",
+        "url": "https://deeplearn.org/arxiv/629820/cryptoscope:-utilizing-large-language-models-for-automated-cryptographic-logic-vulnerability-detection",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "How To Automate Vulnerability Management",
+        "url": "https://purplesec.us/learn/vulnerability-management-automation/",
+        "date": "2024-08-17",
+        "last_updated": "2024-11-05"
+    },
+    {
+        "title": "CryptoScope: Utilizing Large Language Models for ...",
+        "url": "https://arxiv.org/abs/2508.11599",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Vulnerability Management Tool - VMDR",
+        "url": "https://www.qualys.com/apps/vulnerability-management-detection-response/",
+        "date": "2023-11-08",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Deep learning-based solution for smart contract ...",
+        "url": "https://www.nature.com/articles/s41598-023-47219-0",
+        "date": "2023-11-16",
+        "last_updated": "2024-10-17"
+    },
+    {
+        "title": "Challenges & Automation for Remote Vulnerability Detection",
+        "url": "https://www.bitsight.com/blog/challenges-automating-and-scaling-remote-vulnerability-detection",
+        "date": "2024-08-20",
+        "last_updated": "2025-04-04"
+    },
+    {
+        "title": "CLFuzz: Vulnerability Detection of Cryptographic Algorithm ...",
+        "url": "https://dl.acm.org/doi/10.1145/3628160",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "Intruder | Stop Breaches Before They Start",
+        "url": "https://www.intruder.io",
+        "date": "2024-01-01",
+        "last_updated": "2025-06-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'CryptoScope is `a specific type of framework` for detecting `vulnerabilities related to a certain kind of logic`.' is supported by the citation.
+<accept> The text explicitly states in the abstract and introduction that "CryptoScope" is a "novel framework" and "LLM-based framework" for "automated cryptographic vulnerability detection" and "detecting cryptographic logic vulnerabilities," confirming it is a framework for detecting vulnerabilities related to cryptographic logic. </accept>
+
+**********Source Check**********
+
+The claim '`Something` is `a certain kind of system` for detecting `vulnerabilities of a certain kind in an automated way`.' is supported by the citation.
+<accept> The text explicitly states that "CryptoScope" is "a novel framework for automated cryptographic vulnerability detection powered by Large Language Models (LLMs)" and "the first LLM-based framework for detecting cryptographic logic vulnerabilities." This directly matches `Something` (CryptoScope) as `a certain kind of system` (a novel/LLM-based framework) for `detecting` `vulnerabilities of a certain kind` (cryptographic logic vulnerabilities/subtle logic flaws) `in an automated way` (automated detection). </accept>
+
+**********Source Check**********
+
+The claim '`A system` performs `the identification of certain flaws` `in a particular manner`.' is supported by the citation.
+<accept> The content explicitly introduces "CryptoScope" as a novel framework (a system) for "automated cryptographic logic vulnerability detection" (identification of certain flaws). It details the "particular manner" in which this is performed, specifying that CryptoScope "combines Chain-of-Thought (CoT) prompting with Retrieval-Augmented Generation (RAG), guided by a curated cryptographic knowledge base," and further elaborates on its three phases: diversified cryptographic knowledge base construction, pre-detection and knowledge retrieval, and knowledge-augmented vulnerability detection, including components like semantic summary, compliance verification, and CoT-based reasoning. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'CryptoScope is the first LLM-based framework for detecting cryptographic logic vulnerabilities.' is supported by the original webpage.
+<accept> The "1 Introduction" section explicitly states, "To address this gap, we propose CryptoScope, the first LLM-based framework for detecting cryptographic logic vulnerabilities." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'CryptoScope is a novel framework for automated cryptographic vulnerability detection.' is supported by the original webpage.
+<accept> The abstract explicitly states: "We introduce CryptoScope, a novel framework for automated cryptographic vulnerability detection powered by Large Language Models (LLMs)." The introduction also mentions: "we propose CryptoScope, the first LLM-based framework for detecting cryptographic logic vulnerabilities." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'CryptoScope performs cryptographic logic vulnerability detection without code execution.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section under the "Contributions" bullet points: "Framework:CryptoScope, a language-agnostic LLM-based system leveraging CoT and RAG for cryptographic logic vulnerability detection without code execution." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+AuriStream learns **a certain kind of data** **through a certain method**.
+
+AuriStream is **a model of a specific type** for **converting auditory input**.
+
+Learned representations from AuriStream serve as **an essential element** for **diverse audio-related tasks**. 
+AuriStream learns speech representations through a simple and scalable autoregressive prediction objective.
+
+AuriStream is a biologically inspired model for encoding speech.
+
+Learned representations from AuriStream serve as a powerful backbone for various downstream SUPERB speech tasks.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11598v1
+
+[
+    {
+        "title": "Representing Speech Through Autoregressive Prediction of ... - arXiv",
+        "url": "https://arxiv.org/html/2508.11598v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Representing Speech Through Autoregressive Prediction ...",
+        "url": "https://arxiv.org/abs/2508.11598",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "A self-supervised domain-general learning framework for human ...",
+        "url": "https://www.nature.com/articles/s41467-022-28091-4",
+        "date": "2022-01-25",
+        "last_updated": "2025-04-02"
+    },
+    {
+        "title": "Aligning Audio-Visual Joint Representations with an ...",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/6c0ff499edc529c7d8c9f05c7c0ccb82-Paper-Conference.pdf",
+        "date": null,
+        "last_updated": "2025-06-27"
+    },
+    {
+        "title": "Two-Stream Deep Learning Architecture-Based Human Action ...",
+        "url": "https://www.techscience.com/cmc/v74n3/50865/html",
+        "date": "2022-12-28",
+        "last_updated": "2025-02-01"
+    },
+    {
+        "title": "Learning State-Aware Visual Representations from Audible ...",
+        "url": "https://openreview.net/pdf?id=AhbTKBlM7X",
+        "date": null,
+        "last_updated": "2025-04-01"
+    },
+    {
+        "title": "How to Train and Operate Streaming Machine Learning Models",
+        "url": "https://datalere.com/articles/machine-learning-and-streaming-data-pipelines-part-ii-training-and-operating-streaming-ml-models",
+        "date": "2022-01-13",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Audio-Visual State-Aware Representation Learning from ...",
+        "url": "https://www.ri.cmu.edu/app/uploads/2023/05/Himangi_mittal_thesis_RI_upload.pdf",
+        "date": null,
+        "last_updated": "2024-09-09"
+    },
+    {
+        "title": "8 Deep Learning Architectures Data Scientists Must Master",
+        "url": "https://www.projectpro.io/article/deep-learning-architectures/996",
+        "date": "2024-10-28",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Representing Speech Through Autoregressive Prediction ...",
+        "url": "https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'AuriStream learns **a certain kind of data** **through a certain method**.' is supported by the citation.
+<accept> The text explicitly states that "AuriStream learns meaningful phoneme and word representations, and state-of-the-art lexical semantics" and that it learns these "through a simple and scalable autoregressive prediction objective on a time-frequency representation inspired by the human cochlea." More specifically, it is "trained to predict the upcoming cochlear tokens" using an "autoregressive sequence model." </accept>
+
+**********Source Check**********
+
+The claim 'AuriStream is **a model of a specific type** for **converting auditory input**.' is supported by the citation.
+<accept>The text explicitly states that AuriStream is an "autoregressive sequence model" (Section 1.2, Section 2.2), a "GPT-style autoregressive Transformer" (Section 2.2), and a "self-supervised speech representation model" (Section 4). It also mentions its purpose as "encoding speech" (Abstract) and learning "versatile speech representations" (Section 1.2), which involves converting auditory input.</accept>
+
+**********Source Check**********
+
+The claim 'Learned representations from AuriStream serve as **an essential element** for **diverse audio-related tasks**.' is supported by the citation.
+<accept> The content explicitly states that "The learned representations also serve as a powerful backbone for various downstream SUPERB speech tasks" in Section 1.2, and the title of Section 3.2 is "AuriStream Serves as a Strong Backbone for Downstream Audio Tasks." It also mentions in Section 3.2 that AuriStream "learns versatile representations for diverse downstream audio tasks." The terms "powerful backbone" and "strong backbone" imply that the representations are an essential element for these diverse audio tasks. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'AuriStream learns speech representations through a simple and scalable autoregressive prediction objective.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1 Introduction" section, which states: "To bridge this gap, we introduce AuriStream, a biologically-inspired model that learns versatile speech representations through a simple and scalable autoregressive prediction objective on a time-frequency representation inspired by the human cochlea." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'AuriStream is a biologically inspired model for encoding speech.' is supported by the original webpage.
+<accept> The abstract explicitly states: "We introduce AuriStream, a biologically inspired model for encoding speech via a two-stage framework inspired by the human auditory processing hierarchy." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Learned representations from AuriStream serve as a powerful backbone for various downstream SUPERB speech tasks.' is supported by the original webpage.
+<accept> The content explicitly states, "The learned representations also serve as a powerful backbone for various downstream SUPERB speech tasks [ 1] (Section [3.2](https://arxiv.org/html/2508.11598v1#S3.SS2 "3.2 AuriStream Serves as a Strong Backbone for Downstream Audio Tasks ‣ 3 Results ‣ Representing Speech Through Autoregressive Prediction of Cochlear Tokens"))." This directly supports the claim. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring 
+Something capable of performing grasp state classification tailored to the agricultural setting was developed.
+
+Something is sought for grasp state classification in agricultural manipulation.
+
+Something in agricultural grasp state classification were investigated. 
+An improved model and sensor suite capable of performing grasp state classification tailored to the agricultural setting was developed.
+
+An inexpensive and computationally light solution is sought for grasp state classification in agricultural manipulation.
+
+The roles that sensors play in agricultural grasp state classification were investigated.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11588v1
+
+[
+    {
+        "title": "Investigating Sensors and Methods in Grasp State Classification in ...",
+        "url": "https://arxiv.org/html/2508.11588v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Investigating Sensors and Methods in Grasp State Classification in ...",
+        "url": "https://deeplearn.org/arxiv/629825/investigating-sensors-and-methods-in-grasp-state-classification-in-agricultural-manipulation",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[2508.11588] Investigating Sensors and Methods in Grasp State ...",
+        "url": "https://arxiv.org/abs/2508.11588",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Robotics | Cool Papers - Immersive Paper Discovery",
+        "url": "https://papers.cool/arxiv/cs.RO",
+        "date": "2025-08-18",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Fruit Classification Utilizing a Robotic Gripper with Integrated ...",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/7157763",
+        "date": "2021-09-06",
+        "last_updated": "2025-01-10"
+    },
+    {
+        "title": "Learning-Based Slip Detection for Robotic Fruit Grasping and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9332724/",
+        "date": "2022-07-22",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Intelligent robotics harvesting system process for fruits grasping ...",
+        "url": "https://www.nature.com/articles/s41598-024-52743-8",
+        "date": "2024-02-03",
+        "last_updated": "2024-10-31"
+    },
+    {
+        "title": "A Review of Research on Fruit and Vegetable Picking Robots Based ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12197199/",
+        "date": "2025-06-12",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Intelligent Soft Robotic Grippers for Agricultural and Food Product ...",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300233",
+        "date": "2023-10-06",
+        "last_updated": "2025-01-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something capable of performing grasp state classification tailored to the agricultural setting was developed.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that an improved model and sensor suite capable of performing grasp state classification tailored to the agricultural setting was developed as a contribution of this work. </accept>
+
+**********Source Check**********
+
+The claim 'Something is sought for grasp state classification in agricultural manipulation.' is supported by the citation.
+<accept> The title of the paper is "Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation," which directly states that methods and sensors are being investigated (sought) for grasp state classification in agricultural manipulation. The abstract also mentions that "Selecting appropriate sensors and modeling techniques is critical for obtaining reliable feedback and correctly identifying grasp states" and that the work "investigates a set of key sensors... to classify grasp states." </accept>
+
+**********Source Check**********
+
+The claim 'Something in agricultural grasp state classification were investigated.' is supported by the citation.
+<accept> The title of the paper is "Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation", which explicitly states that grasp state classification in agricultural manipulation was investigated. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An improved model and sensor suite capable of performing grasp state classification tailored to the agricultural setting was developed.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "Contributions" section of the abstract, which states: "An improved model and sensor suite that can perform grasp state classification tailored to the agricultural setting and addresses failings seen in earlier works". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An inexpensive and computationally light solution is sought for grasp state classification in agricultural manipulation.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1 Introduction" section, where the text states: "In this work, we seek an inexpensive and computationally light solution." The overall context of the paper, as indicated by its title and abstract, confirms that this solution is for grasp state classification in agricultural manipulation. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The roles that sensors play in agricultural grasp state classification were investigated.' is supported by the original webpage.
+<accept> The abstract states, "This work investigates a set of key sensors... to classify grasp states. We evaluate the individual contribution of each sensor..." Additionally, under "1.0.2 Classification and Modeling," one of the listed contributions is "An understanding of the roles that sensors play in agricultural grasp state classification." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation 
+The work introduces something.
+
+The work provides something in a certain way.
+
+The research focuses on a certain task. 
+The work introduces an improved model and sensor suite that can perform grasp state classification tailored to the agricultural setting.
+
+The work provides an understanding of the roles that sensors play in agricultural grasp state classification.
+
+The research focuses on identifying the minimum suite of sensors and associated machine learning classification algorithms that can robustly classify all grasp states.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "4. The Introduction - Organizing Your Social Sciences Research Paper",
+        "url": "https://libguides.usc.edu/writingguide/introduction",
+        "date": "2009-11-19",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "[PDF] Introduction Section for Research Papers - San Jose State University",
+        "url": "https://www.sjsu.edu/writingcenter/docs/handouts/Introduction%20of%20Research%20Papers.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "The importance of crafting a good introduction to scholarly research",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10693955/",
+        "date": "2023-06-29",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Introductions for Research Papers - UTEP",
+        "url": "https://www.utep.edu/uwc/writing%20help%20online/researchpaper-intro.html",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Writing a Research Paper Introduction | Step-by-Step Guide - Scribbr",
+        "url": "https://www.scribbr.com/research-paper/research-paper-introduction/",
+        "date": "2022-09-24",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Organizing Academic Research Papers: 4. The Introduction",
+        "url": "https://library.sacredheart.edu/c.php?g=29803&p=185916",
+        "date": "2013-12-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What Is a Research Methodology? | Steps & Tips - Scribbr",
+        "url": "https://www.scribbr.com/dissertation/methodology/",
+        "date": "2022-08-25",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "What is Research Methodology? Definition, Types, and Examples",
+        "url": "https://pp-blog.paperpal.com/academic-writing-guides/what-is-research-methodology",
+        "date": "2023-08-28",
+        "last_updated": "2025-06-26"
+    },
+    {
+        "title": "10 tips for writing an effective introduction to original research papers",
+        "url": "https://thinkscience.co.jp/en/articles/effective-introductions-to-original-research",
+        "date": null,
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11584v1 
+Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks 
+Image representations in VPEngine are efficiently shared across multiple specialized task-specific model heads running in parallel in a certain way.
+
+Visual Perception Engine (VPEngine) is a framework in a certain state.
+
+The example VPEngine implementation includes multiple task heads for something. 
+Image representations in VPEngine are efficiently shared across multiple specialized task-specific model heads running in parallel without unnecessary GPU-CPU memory transfers.
+
+Visual Perception Engine (VPEngine) is a modular framework.
+
+The example VPEngine implementation includes multiple task heads for depth, object detection, and semantic segmentation.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11584v2
+
+[
+    {
+        "title": "Fast and Flexible Multi-Head Inference for Robotic Vision ...",
+        "url": "https://arxiv.org/html/2508.11584v2",
+        "date": "2025-08-19",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Fast and Flexible Multi-Head Inference for Robotic Vision Tasks",
+        "url": "https://deeplearn.org/arxiv/629827/visual-perception-engine:-fast-and-flexible-multi-head-inference-for-robotic-vision-tasks",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Engine Arguments \u2014 vLLM",
+        "url": "https://docs.vllm.ai/en/v0.8.4/serving/engine_args.html",
+        "date": null,
+        "last_updated": "2025-05-15"
+    },
+    {
+        "title": "Robotics | Cool Papers - Immersive Paper Discovery",
+        "url": "https://papers.cool/arxiv/cs.RO",
+        "date": "2025-08-18",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Implement Model Parallelism in LLMs - tsmatz - WordPress.com",
+        "url": "https://tsmatz.wordpress.com/2023/09/21/model-parallelism/",
+        "date": "2023-09-21",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "vLLM's V1 Engine Architecture \u00b7 Issue #8779 \u00b7 vllm-project ... - GitHub",
+        "url": "https://github.com/vllm-project/vllm/issues/8779",
+        "date": "2024-09-24",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "VPEngine Enables Efficient GPU Sharing For Parallel ...",
+        "url": "https://quantumzeitgeist.com/vpengine-enables-efficient-gpu-sharing-for-parallel-robotic-visual-perception-tasks/",
+        "date": "2025-08-18",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Fast and Flexible Multi-Head Inference for Robotic Vision Tasks - arXiv",
+        "url": "https://arxiv.org/abs/2508.11584v1/",
+        "date": "2025-08-15",
+        "last_updated": null
+    },
+    {
+        "title": "Tutorial 6: Transformers and Multi-Head Attention",
+        "url": "https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html",
+        "date": "2000-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Fast and Flexible Multi-Head Inference for Robotic Vision ...",
+        "url": "https://arxiv.org/abs/2508.11584",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Image representations in VPEngine are efficiently shared across multiple specialized task-specific model heads running in parallel in a certain way.' is supported by the citation.
+<accept> The abstract explicitly states: "Our framework architecture leverages a shared foundation model backbone that extracts image representations, which are efficiently shared, without any unnecessary GPU-CPU memory transfers, across multiple specialized task-specific model heads running in parallel." This directly confirms that image representations are efficiently shared across multiple specialized task-specific model heads running in parallel, and explains the "certain way" as being "without any unnecessary GPU-CPU memory transfers." </accept>
+
+**********Source Check**********
+
+The claim 'Visual Perception Engine (VPEngine) is a framework in a certain state.' is supported by the citation.
+<accept> The content explicitly states that "Visual Perception Engine (VPEngine) is a modular framework designed to enable efficient GPU usage for visual multitasking" in the abstract, and later in the introduction, it's described as "a framework specifically designed to harness the power of visual foundation models for robotic multitasking efficiently." </accept>
+
+**********Source Check**********
+
+The claim 'The example VPEngine implementation includes multiple task heads for something.' is supported by the citation.
+<accept> The abstract and section IV "Example implementation" explicitly state that the example VPEngine implementation uses multiple task heads for depth, object detection, and semantic segmentation. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Image representations in VPEngine are efficiently shared across multiple specialized task-specific model heads running in parallel without unnecessary GPU-CPU memory transfers.' is supported by the original webpage.
+<accept> The abstract explicitly states: "Our framework architecture leverages a shared foundation model backbone that extracts image representations, which are efficiently shared, without any unnecessary GPU-CPU memory transfers, across multiple specialized task-specific model heads running in parallel." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Visual Perception Engine (VPEngine) is a modular framework.' is supported by the original webpage.
+<accept> The abstract explicitly states: "this work presents Visual Perception Engine (VPEngine), a modular framework designed to enable efficient GPU usage for visual multitasking while maintaining extensibility and developer accessibility." Additionally, the introduction mentions: "The framework is written in Python, heavily leverages abstract classes and is highly modularized which enables fast prototyping and fosters extendability." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The example VPEngine implementation includes multiple task heads for depth, object detection, and semantic segmentation.' is supported by the original webpage.
+<accept> The abstract explicitly states: "We demonstrate our framework’s capabilities through an example implementation using DINOv2 as the foundation model with multiple task (depth, object detection and semantic segmentation) heads". This directly confirms that the example VPEngine implementation includes multiple task heads for depth, object detection, and semantic segmentation. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+The Dynamic Reasoning-Boundary Self-Awareness Framework (DR. SAF) enables models to perform a certain action.
+
+The components of DR. SAF allow models to achieve a specific result.
+
+DR. SAF enables models to manage a particular aspect in a certain manner. 
+The Dynamic Reasoning-Boundary Self-Awareness Framework (DR. SAF) enables models to dynamically assess and adjust their reasoning depth in response to problem complexity.
+
+The components of DR. SAF allow models to optimize their reasoning processes, balancing efficiency and accuracy without compromising performance.
+
+DR. SAF enables real-time control of reasoning depth without degrading performance.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The Path to Medical Superintelligence - Microsoft AI",
+        "url": "https://microsoft.ai/new/the-path-to-medical-superintelligence/",
+        "date": "2025-06-30",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "Industry Adaptations and Benefits of SAF Technology",
+        "url": "https://resources.cadimensions.com/cadimensions-resources/industry-adaptations-and-benefits-of-saf-technology",
+        "date": "2024-04-15",
+        "last_updated": "2024-10-10"
+    },
+    {
+        "title": "Frontiers in Artificial Intelligence for Science, Security and ...",
+        "url": "https://www.energy.gov/fasst",
+        "date": "2024-07-01",
+        "last_updated": "2025-05-02"
+    },
+    {
+        "title": "SAF\u2122 | Powder Bed Fusion Additive Manufacturing",
+        "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/saf-technology/",
+        "date": "2021-03-23",
+        "last_updated": "2025-02-26"
+    },
+    {
+        "title": "Foundation models for generalist medical artificial intelligence - Nature",
+        "url": "https://www.nature.com/articles/s41586-023-05881-4",
+        "date": "2023-04-12",
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "The SAF Framework for Startups: How to make the best ...",
+        "url": "https://blog.foreworth.com/saf-framework",
+        "date": "2021-09-07",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Google's Secure AI Framework (SAIF)",
+        "url": "https://safety.google/cybersecurity-advancements/saif/",
+        "date": "2023-07-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Using The SAF Strategy Model to Evaluate Strategic Options",
+        "url": "https://blog.oxfordcollegeofmarketing.com/2018/02/25/evaluating-strategic-options-using-saf-strategy-model/",
+        "date": "2018-02-25",
+        "last_updated": "2024-07-30"
+    },
+    {
+        "title": "How Stanford Medicine is capturing the AI moment",
+        "url": "https://stanmed.stanford.edu/translating-ai-concepts-into-innovations/",
+        "date": "2023-11-10",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "SFA Matrix",
+        "url": "https://gustdebacker.com/downloads/sfa-matrix/",
+        "date": "2023-11-13",
+        "last_updated": "2025-04-12"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+Focus groups were conducted with a certain group of individuals to examine their understanding of a specific type of issue and the value of a certain kind of assistance.
+
+A certain demographic is subject to a particular action within a specific type of fraudulent activity.
+
+When a certain type of fraudulent event occurs, the affected individual experiences a particular negative outcome. 
+Focus groups were conducted with 37 older adults (ages 65+) to examine their understanding of deepfake impersonation scams and the value of intergenerational technology support.
+
+Older adults are specifically targeted in the context of deepfake impersonation scams.
+
+In a successful deepfake impersonation attack, the targeted older adult experiences a monetary loss.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "[PDF] FOCUS GROUPS REPORT - nasfaa",
+        "url": "https://www.nasfaa.org/uploads/documents/NASFAA_2016_Advocacy_Focus_Groups_Findings_Report.pdf",
+        "date": null,
+        "last_updated": "2024-08-15"
+    },
+    {
+        "title": "[PDF] Focus Groups, Program Evaluation, and the Poor",
+        "url": "https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2059&context=jssw",
+        "date": null,
+        "last_updated": "2025-06-03"
+    },
+    {
+        "title": "Focus Group for Money: Tips and Insights - Trymata",
+        "url": "https://trymata.com/blog/focus-group-for-money/",
+        "date": "2025-03-04",
+        "last_updated": "2025-03-05"
+    },
+    {
+        "title": "[PDF] Financial Health Discussion Guide - About CCSSE",
+        "url": "https://www.ccsse.org/sr2017/Discussion_Guide_Financial_Health.pdf",
+        "date": null,
+        "last_updated": "2025-02-12"
+    },
+    {
+        "title": "Can You Handle the Truth? What Focus Groups Can Teach Banks",
+        "url": "https://thefinancialbrand.com/news/customer-experience-banking/can-you-handle-the-truth-the-big-lessons-focus-groups-are-teaching-banks-156625",
+        "date": "2022-12-14",
+        "last_updated": "2025-05-12"
+    },
+    {
+        "title": "Focus groups identify economic hardships",
+        "url": "https://www.kansascityfed.org/community/community-connections/focus-groups-identify-economic-hardships/",
+        "date": "2021-01-08",
+        "last_updated": "2024-09-13"
+    },
+    {
+        "title": "Methodological Aspects of Focus Groups in Health Research",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5342644/",
+        "date": "2016-03-14",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Focus Groups: The Definitive Guide - Qualtrics",
+        "url": "https://www.qualtrics.com/experience-management/research/focus-groups/",
+        "date": "2024-11-04",
+        "last_updated": "2024-11-06"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11576v1 
+Causality Matters: How Temporal Information Emerges in Video Language Models 
+Many studies have focused on something.
+
+This work is the first to investigate something.
+
+Video language models (VideoLMs) have achieved in a certain way in something. 
+Many studies have focused on positional encodings (PEs) as the most direct method for modeling temporal structures in VideoLMs.
+
+This work is the first to systematically investigate video temporal understanding in VideoLMs.
+
+Video language models (VideoLMs) have achieved significant progress in a wide range of video understanding tasks, including captioning, question answering, and temporal reasoning.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "VideoLLM-online: Online Video Large Language Model for ... - arXiv",
+        "url": "https://arxiv.org/html/2406.11816v1",
+        "date": "2024-06-17",
+        "last_updated": "2025-05-30"
+    },
+    {
+        "title": "Video Understanding with Large Language Models: A Survey - arXiv",
+        "url": "https://arxiv.org/html/2312.17432v5",
+        "date": "2022-12-01",
+        "last_updated": "2025-06-17"
+    },
+    {
+        "title": "[PDF] Scaling Up Video Summarization Pretraining with Large Language ...",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Argaw_Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models_CVPR_2024_paper.pdf",
+        "date": null,
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "Workshop on Video-Language Models - NeurIPS 2025",
+        "url": "https://neurips.cc/virtual/2024/workshop/84735",
+        "date": "2024-01-01",
+        "last_updated": "2025-07-19"
+    },
+    {
+        "title": "Large language models surpass human experts in predicting ...",
+        "url": "https://www.nature.com/articles/s41562-024-02046-9",
+        "date": "2024-11-27",
+        "last_updated": "2025-02-26"
+    },
+    {
+        "title": "Workshop on Video Large Language Models - CVPR",
+        "url": "https://cvpr.thecvf.com/virtual/2025/workshop/32337",
+        "date": "2025-01-01",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "Lights, Camera, AI-ction: Twelve Labs Brings Video-Language ...",
+        "url": "https://www.twelvelabs.io/blog/neurips-2024-workshop-announcement",
+        "date": "2024-09-01",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Toward a Healthy Research Ecosystem for Large Language Models",
+        "url": "https://www.youtube.com/watch?v=0jhg87SOSYE",
+        "date": "2022-12-15",
+        "last_updated": "2025-07-28"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+Activation functions for FHE-based ML models, specifically certain activation functions, have been designed and implemented.
+
+This work focuses on a certain task.
+
+This study performs certain actions regarding activation functions optimized for FHE-based machine learning applications. 
+Activation functions for FHE-based ML models, specifically the square and ReLU activation functions, have been designed and implemented.
+
+This work focuses on the design and implementation of activation functions tailored for FHE-based ML models.
+
+This study designs, implements, and evaluates activation functions optimized for FHE-based machine learning applications.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11575v1
+
+[
+    {
+        "title": "Designing Efficient Activation Functions for Privacy ...",
+        "url": "https://arxiv.org/html/2508.11575v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Designing Efficient Activation Functions for Privacy ...",
+        "url": "https://arxiv.org/abs/2508.11575",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Self-learning activation functions to increase accuracy of ...",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306420",
+        "date": "2024-07-22",
+        "last_updated": "2025-03-08"
+    },
+    {
+        "title": "Quantization of Neural Networks for Fully Homomorphic ...",
+        "url": "https://www.zama.ai/post/quantization-of-neural-networks-for-fully-homomorphic-encryption",
+        "date": "2022-01-26",
+        "last_updated": "2025-06-26"
+    },
+    {
+        "title": "Effective Activation Functions for Homomorphic Evaluation of ...",
+        "url": "https://repository.rit.edu/cgi/viewcontent.cgi?article=11739&context=theses",
+        "date": null,
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "Self-learning activation functions to increase accuracy of ...",
+        "url": "https://api.semanticscholar.org/CorpusID:271329712",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'Activation functions for FHE-based ML models, specifically certain activation functions, have been designed and implemented.' is supported by the citation.
+<accept> The content explicitly states multiple times, including in the title, abstract, introduction, and conclusion, that the study designs and implements "activation functions optimized for FHE-based machine learning applications," specifically mentioning "the Square function and the Rectified Linear Unit (ReLU)." It also details the design and implementation of these functions in Section IV, titled "FHE-based Activation Functions." </accept>
+
+**********Source Check**********
+
+The claim 'This work focuses on a certain task.' is supported by the citation.
+<accept> The abstract and introduction explicitly state the focus of this work: "we design, implement, and evaluate activation functions optimized for FHE-based machine learning applications" and "this work is focused on the design and implementation of activation functions tailored for FHE-based ML models." </accept>
+
+**********Source Check**********
+
+The claim 'This study performs certain actions regarding activation functions optimized for FHE-based machine learning applications.' is supported by the citation.
+<accept> The abstract explicitly states: "In this study, we design, implement, and evaluate activation functions optimized for FHE-based machine learning applications." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Activation functions for FHE-based ML models, specifically the square and ReLU activation functions, have been designed and implemented.' is supported by the original webpage.
+<accept> The content explicitly states under "Our main contributions": "Design and Implementation of Activation Functions for FHE-based ML models namely, the square and ReLU activation functions." The abstract also mentions: "In this study, we design, implement, and evaluate activation functions optimized for FHE-based machine learning applications. We focus on two widely used functions: the Square function and the Rectified Linear Unit (ReLU)." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This work focuses on the design and implementation of activation functions tailored for FHE-based ML models.' is supported by the original webpage.
+<accept> The text explicitly states: "In contrast, this work is focused on the design and implementation of activation functions tailored for FHE-based ML models." in the "I Introduction" section. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This study designs, implements, and evaluates activation functions optimized for FHE-based machine learning applications.' is supported by the original webpage.
+<accept> The abstract explicitly states, "In this study, we design, implement, and evaluate activation functions optimized for FHE-based machine learning applications." This statement is also reiterated in the introduction and summarized in the contributions section. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+The introduced architecture integrates certain technologies within a certain framework.
+
+Digital Twins, when integrated with certain sources, provide a powerful platform for enabling a certain process.
+
+Digital Twins offer an efficient means of improving something in certain scenarios. 
+The introduced architecture integrates Digital Twins (DTs) and Mobile Edge Computing (MEC) within a software-defined vehicular networking framework.
+
+Digital Twins, when integrated with data-intensive and large-scale sensor sources from autonomous vehicles, provide a powerful platform for facilitating cooperative decision-making between vehicles and infrastructure.
+
+Digital Twins offer an efficient means of optimizing system performance in scenarios such as the Internet of Vehicles (IoV).
+
+**********Web Search Result**********
+
+https://aws.amazon.com/blogs/hpc/building-your-digital-twin-solution-using-the-digital-twin-framework-on-aws/
+
+[
+    {
+        "title": "Building your digital twin solution using the Digital Twin Framework ...",
+        "url": "https://aws.amazon.com/blogs/hpc/building-your-digital-twin-solution-using-the-digital-twin-framework-on-aws/",
+        "date": "2024-11-11",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "How Digital Twins Improve Efficiency in Manufacturing.",
+        "url": "https://thehumankind.co/2024/09/11/how-digital-twins-improve-efficiency-in-manufacturing/",
+        "date": "2024-09-11",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "[PDF] Platform Stack Architectural Framework: An Introductory Guide",
+        "url": "https://www.digitaltwinconsortium.org/wp-content/uploads/sites/3/2023/07/Platform-Stack-Architectural-Framework-2023-07-11.pdf",
+        "date": "2023-07-11",
+        "last_updated": "2024-02-26"
+    },
+    {
+        "title": "7 ways a digital twin can improve data centre operations ...",
+        "url": "https://blog.se.com/datacenter/2025/03/05/7-ways-a-digital-twin-can-improve-data-centre-operations-and-efficiency/",
+        "date": "2025-03-05",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Understanding DTC's Digital Twin Platform Stack Architectural ...",
+        "url": "https://www.digitaltwinconsortium.org/2023/11/understanding-dtcs-digital-twin-platform-stack-architectural-framework/",
+        "date": "2023-11-09",
+        "last_updated": "2025-02-14"
+    },
+    {
+        "title": "Digital twins: The next frontier of factory optimization",
+        "url": "https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization",
+        "date": "2024-01-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Platform Architecture Framework for Digital Twin Systems - VSOptima",
+        "url": "https://vsoptima.com/platform-architecture-framework-for-digital-twin-systems/",
+        "date": "2024-01-30",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "A Comprehensive Guide to Digital Twin Simulation for ...",
+        "url": "https://www.simio.com/a-comprehensive-guide-to-digital-twin-simulation-for-beginners/",
+        "date": "2025-06-27",
+        "last_updated": "2025-06-27"
+    },
+    {
+        "title": "Integration Architecture Pattern and Principles - Digital Twin Hub",
+        "url": "https://digitaltwinhub.co.uk/download/integration-architecture-pattern-and-principles/",
+        "date": null,
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "15 Digital Twin Applications/ Use Cases by Industry in 2025",
+        "url": "https://research.aimultiple.com/digital-twin-applications/",
+        "date": "2025-08-12",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The introduced architecture integrates certain technologies within a certain framework.' is NOT supported by the citation.
+<reject> The provided content is empty, so the information about the introduced architecture integrating technologies within a framework cannot be found or explicitly mentioned. </reject>
+
+**********Source Check**********
+
+The claim 'Digital Twins, when integrated with certain sources, provide a powerful platform for enabling a certain process.' is NOT supported by the citation.
+<reject> The provided content is empty, therefore the information about Digital Twins, their integration, and what they enable is not present. </reject>
+
+**********Source Check**********
+
+The claim 'Digital Twins offer an efficient means of improving something in certain scenarios.' is NOT supported by the citation.
+<reject> The provided content is empty, so the information about Digital Twins cannot be explicitly mentioned. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+A certain method is compared to a different alternative that operates in a certain way.
+
+A specific system aims to achieve a certain goal.
+
+Something is in a certain state in a particular field. 
+An Automatic Multi-Sections Control method is compared to a simpler one- or two-sections alternative that utilizes predictive spray switching.
+
+Automatic Section Control (ASC) aims to minimize spray overlap areas.
+
+Automatic Section Control (ASC) is a trend for spraying in agriculture.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Comparison and Evaluation of Alternative System Designs",
+        "url": "https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2012_SS/L_19540_Modeling_and_Performance_Analysis_with_Simulation/12.pdf",
+        "date": null,
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "Comparing Alternative Systems",
+        "url": "https://www.promodel.com/onlinehelp/promodel/80/C-03%20-%20Comparing%20Alternative%20Systems.htm",
+        "date": null,
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "Comparing Alternative System Configurations",
+        "url": "https://www.cyut.edu.tw/~hchorng/downdata/1st/SS10_Statistical%20Comparison.pdf",
+        "date": null,
+        "last_updated": "2025-06-28"
+    },
+    {
+        "title": "Pairwise comparison method & pairwise ranking",
+        "url": "https://www.1000minds.com/decision-making/pairwise-comparison",
+        "date": "2015-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "The Three Methods Of Comparing Alternatives",
+        "url": "https://fastercapital.com/topics/the-three-methods-of-comparing-alternatives.html/1",
+        "date": "2000-01-01",
+        "last_updated": "2025-06-07"
+    },
+    {
+        "title": "Systematic comparison between methods for the detection ...",
+        "url": "https://www.nature.com/articles/s41598-019-51209-6",
+        "date": "2019-10-22",
+        "last_updated": "2024-11-02"
+    },
+    {
+        "title": "Method comparison / Agreement",
+        "url": "https://analyse-it.com/docs/user-guide/method-comparison/method-comparison",
+        "date": "2025-01-01",
+        "last_updated": "2025-04-22"
+    },
+    {
+        "title": "Identifying, Comparing, and Implementing Alternatives",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK253951/",
+        "date": "2015-05-18",
+        "last_updated": "2025-06-11"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+In microservice systems, temporal networks can arise in a certain way.
+
+In microservice systems, temporal networks can arise by a certain process.
+
+This certain phenomenon is known as something. 
+In microservice systems, temporal networks can arise from examining system architecture across releases.
+
+In microservice systems, temporal networks can arise from monitoring a deployed system using tracing.
+
+This phenomenon of architectural decay in microservice systems is known as microservice architectural degradation.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11571v1
+
+[
+    {
+        "title": "Temporal Network Analysis of Microservice Architectural ...",
+        "url": "https://arxiv.org/html/2508.11571v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Temporal Workflow and Microservices",
+        "url": "https://spiralscout.com/blog/temporal-workflow-and-microservices",
+        "date": "2021-02-25",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Ensuring Transactions between Microservices with Temporal",
+        "url": "https://pintu.blog/ensuring-transactions-between-microservices-with-temporal-ec839b65a6a6",
+        "date": "2023-06-14",
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Temporal Microservices Orchestration Platform",
+        "url": "https://spiralscout.com/glossary/temporal-microservices-orchestration-platform",
+        "date": "2025-03-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Simplifying Distributed Transactions with Microservices",
+        "url": "https://temporal.io/blog/simplifying-distributed-transactions-microservices",
+        "date": "2025-01-28",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Saga Pattern in Microservices: A Mastery Guide",
+        "url": "https://temporal.io/blog/mastering-saga-patterns-for-distributed-transactions-in-microservices",
+        "date": "2025-01-31",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "Applying Temporal to Request-Response Microservices",
+        "url": "https://blog.corneliadavis.com/applying-temporal-to-request-response-microservices-4312ad59b165",
+        "date": "2024-11-07",
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "Temporal.io for Java Microservices Workflows",
+        "url": "https://www.javacodegeeks.com/2025/04/temporal-io-for-java-microservices-workflows.html",
+        "date": "2025-04-07",
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Microservices",
+        "url": "https://martinfowler.com/articles/microservices.html",
+        "date": "2014-03-25",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'In microservice systems, temporal networks can arise in a certain way.' is supported by the citation.
+<accept> The abstract and introduction sections of the paper explicitly state that "In microservice systems, temporal networks can arise if we examine the architecture of the system across releases or monitor a deployed system using tracing." The introduction further elaborates that they arise "when considering either a network of a microservice system taken for each release or commit in the project history... or a real-time network of monitoring traces collected from a running system." </accept>
+
+**********Source Check**********
+
+The claim 'In microservice systems, temporal networks can arise by a certain process.' is supported by the citation.
+<accept> The abstract states: "In microservice systems, temporal networks can arise if we examine the architecture of the system across releases or monitor a deployed system using tracing." This explicitly describes processes by which temporal networks can arise in microservice systems. </accept>
+
+**********Source Check**********
+
+The claim 'This certain phenomenon is known as something.' is supported by the citation.
+<accept> The text states, "Over time, the architecture of a microservice system can decay. Such a phenomenon is known as microservice architectural degradation." This explicitly identifies a phenomenon ("decay of architecture") and states what it is known as ("microservice architectural degradation"). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'In microservice systems, temporal networks can arise from examining system architecture across releases.' is supported by the original webpage.
+<accept> The content explicitly states in the abstract: "In microservice systems, temporal networks can arise if we examine the architecture of the system across releases or monitor a deployed system using tracing." It is also mentioned in the introduction: "In the context of microservice systems, temporal networks arise when considering either a network of a microservice system taken for each release or commit in the project history." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'In microservice systems, temporal networks can arise from monitoring a deployed system using tracing.' is supported by the original webpage.
+<accept> The content states in the abstract: "In microservice systems, temporal networks can arise if we examine the architecture of the system across releases or monitor a deployed system using tracing." This explicitly mentions that monitoring a deployed system using tracing is a way for temporal networks to arise in microservice systems. The introduction also reiterates this point. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This phenomenon of architectural decay in microservice systems is known as microservice architectural degradation.' is supported by the original webpage.
+<accept> The text explicitly states in section 1 Introduction: "Over time, the architecture of a microservice system can decay. Such a phenomenon is known as microservice architectural degradation." This matches the claim directly. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+The T-metacell framework is utilized to prove the ASP-completeness of a certain number of specific puzzles.
+
+The T-metacell framework uses a certain type of graph property to prove a certain type of computational complexity of puzzles.
+
+The puzzles whose a certain computational property is established in the paper include various puzzles. 
+The T-metacell framework is utilized to prove the ASP-completeness of four pencil puzzles: Grand Tour, Entry Exit, Yagit, and Zahlenschlange.
+
+The T-metacell framework uses grid graph Hamiltonicity to prove NP-hardness of puzzles.
+
+The puzzles whose ASP-completeness is established in the paper include Grand Tour, Entry Exit, Yagit, and Zahlenschlange.
+
+**********Web Search Result**********
+
+https://drops.dagstuhl.de/storage/00lipics/lipics-vol291-fun2024/LIPIcs.FUN.2024.23/LIPIcs.FUN.2024.23.pdf
+
+[
+    {
+        "title": "ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework",
+        "url": "https://arxiv.org/html/2508.11570v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework",
+        "url": "https://arxiv.org/pdf/2508.11570",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework",
+        "url": "https://arxiv.org/abs/2508.11570",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "a divide-and-conquer metacell algorithm for scalable scRNA-seq ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9019975/",
+        "date": "2022-04-19",
+        "last_updated": "2025-06-01"
+    },
+    {
+        "title": "[PDF] ASP-Completeness of Hamiltonicity in Grid Graphs, with ... - DROPS",
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol291-fun2024/LIPIcs.FUN.2024.23/LIPIcs.FUN.2024.23.pdf",
+        "date": null,
+        "last_updated": "2025-04-28"
+    },
+    {
+        "title": "Building and analyzing metacells in single-cell genomics data - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11220014/",
+        "date": "2024-05-29",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "ASP-Completeness of Hamiltonicity in Grid Graphs, with ... - DROPS",
+        "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2024.23",
+        "date": "2024-05-29",
+        "last_updated": "2025-05-31"
+    },
+    {
+        "title": "MetaQ: fast, scalable and accurate metacell inference via single-cell ...",
+        "url": "https://www.nature.com/articles/s41467-025-56424-6",
+        "date": "2025-01-31",
+        "last_updated": "2025-03-19"
+    },
+    {
+        "title": "Paper by Erik D. Demaine",
+        "url": "https://erikdemaine.org/papers/GridGraphs_FUN2024/",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[Literature Review] ASP-Completeness of Hamiltonicity in Grid ...",
+        "url": "https://www.themoonlight.io/en/review/asp-completeness-of-hamiltonicity-in-grid-graphs-with-applications-to-loop-puzzles",
+        "date": "2025-03-25",
+        "last_updated": "2025-04-07"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The T-metacell framework is utilized to prove the ASP-completeness of a certain number of specific puzzles.' is supported by the citation.
+<accept> The abstract states: "These results enable us to develop a stronger “T-metacell” framework for proving ASP-completeness of rectangular puzzles... We apply this general theory to prove ASP-completeness of 37 pencil-and-paper puzzles where the goal is to draw a loop subject to given constraints". Section 5 further confirms: "We apply our results from Section 4 to show that solving T-metacell problems is ASP-complete... Finally, in Section 6, we apply this framework to prove ASP-completeness of 37 pencil-and-paper puzzles". </accept>
+
+**********Source Check**********
+
+The claim 'The T-metacell framework uses a certain type of graph property to prove a certain type of computational complexity of puzzles.' is supported by the citation.
+<accept> The T-metacell framework is explicitly mentioned as being used for "proving ASP-completeness of rectangular puzzles" and "proving NP-hardness of these puzzles." The framework achieves this by using "grid graph Hamiltonicity," which is a graph property, and reducing from problems like "finding Hamiltonian cycles on max-degree-3 spanning subgraphs of rectangular grid graphs." </accept>
+
+**********Source Check**********
+
+The claim 'The puzzles whose a certain computational property is established in the paper include various puzzles.' is supported by the citation.
+<accept> The abstract and Section 6 explicitly state that the paper proves ASP-completeness (a computational property) for 37 specific "pencil-and-paper puzzles" (various puzzles), listing them by name. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The T-metacell framework is utilized to prove the ASP-completeness of four pencil puzzles: Grand Tour, Entry Exit, Yagit, and Zahlenschlange.' is supported by the original webpage.
+<accept> The abstract explicitly states: "In this paper, we utilize the “T-metacell” framework developed by Tang \[ 17\] and the MIT Hardness Group \[ 6\] to prove the ASP-completeness of four new pencil puzzles: Grand Tour, Entry Exit, Yagit, and Zahlenschlange." Section 1.2, "Our Contribution", also reiterates this, stating: "Building on the methods of \[ 6\], which developed the existing T-metacell framework to be sufficient proof of ASP-completeness, we create a series of reductions that establish the ASP-completeness of four new diverse puzzles along with some variants: Grand Tour, Entry Exit, Yagit, and Zahlenschlange." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The T-metacell framework uses grid graph Hamiltonicity to prove NP-hardness of puzzles.' is supported by the original webpage.
+<accept> The text explicitly states in section 1.1: "In 2022, Tang \[ 17\] proposed a “T-metacell” framework which uses grid graph Hamiltonicity to prove NP-hardness of puzzles." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The puzzles whose ASP-completeness is established in the paper include Grand Tour, Entry Exit, Yagit, and Zahlenschlange.' is supported by the original webpage.
+<accept> The abstract and section 1.2 "Our Contribution" explicitly state that the paper proves the ASP-completeness of Grand Tour, Entry Exit, Yagit, and Zahlenschlange. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11569v1 
+TrajSV: A Trajectory-based Model for Sports Video Representations and Applications 
+TrajSV focuses on a certain type of representation.
+
+TrajSV is a certain kind of framework.
+
+TrajSV focuses on representations for various tasks. 
+TrajSV focuses on trajectory-based representations in sports videos.
+
+TrajSV is a trajectory-based framework for sports video representations.
+
+TrajSV focuses on task-agnostic representations for various sports analytic tasks that rely on trajectories.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11569v1
+
+[
+    {
+        "title": "TrajSV: A Trajectory-based Model for Sports Video Representations ...",
+        "url": "https://arxiv.org/html/2508.11569v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "What is Requirements Traceability Matrix (RTM) - Requiment",
+        "url": "https://www.requiment.com/requirements-traceability-matrix-rtm-guide/",
+        "date": "2024-01-22",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "What is a trusted execution environment (TEE)? Definition from ...",
+        "url": "https://www.techtarget.com/searchitoperations/definition/trusted-execution-environment-TEE",
+        "date": "2023-03-28",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What Is a Framework? (Definition and Types of Frameworks) - Indeed",
+        "url": "https://www.indeed.com/career-advice/career-development/what-is-a-framework",
+        "date": "2025-06-06",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "What is a framework? | Definition from TechTarget",
+        "url": "https://www.techtarget.com/whatis/definition/framework",
+        "date": "2024-11-22",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What is a Framework? - Principle to Practice",
+        "url": "https://www.principletopractice.org/wordpress/from-principle-to-practice/what-is-a-framework/",
+        "date": "2014-05-27",
+        "last_updated": "2025-04-09"
+    },
+    {
+        "title": "What Is A JavaScript Framework? | Code Institute",
+        "url": "https://codeinstitute.net/global/blog/javascript-framework/",
+        "date": null,
+        "last_updated": "2024-07-30"
+    }
+]
+
+**********Source Check**********
+
+The claim 'TrajSV focuses on a certain type of representation.' is supported by the citation.
+<accept> The text explicitly states multiple times that TrajSV is a "trajectory-based framework" for "sports video representations" and "focuses on trajectory-based representations". </accept>
+
+**********Source Check**********
+
+The claim 'TrajSV is a certain kind of framework.' is supported by the citation.
+<accept> The abstract, the summary of the solution, the contributions section, and the introduction to section IV all explicitly state that "TrajSV is a trajectory-based framework." </accept>
+
+**********Source Check**********
+
+The claim 'TrajSV focuses on representations for various tasks.' is supported by the citation.
+<accept> The abstract explicitly states that TrajSV is a framework for "sports video representations and applications" and its effectiveness is verified for "three downstream applications (i.e., sports video retrieval, action spotting, and video captioning)". The "Summary of our solution" section also mentions, "TrajSV focuses on task-agnostic representations for various sports analytic tasks". The "Novelty" section reiterates, "TrajSV focuses on trajectory-based representations in sports videos, allowing their versatile use in various sports analytic tasks". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TrajSV focuses on trajectory-based representations in sports videos.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned multiple times in the text. For example, the title of the paper is "TrajSV: A Trajectory-based Model for Sports Video Representations and Applications". The abstract states, "In this paper, we present TrajSV, a trajectory-based framework that addresses various issues in existing studies." Under "Summary of our solution", it says, "In this paper, we develop a trajectory-based framework for sports video representations, called TrajSV". Finally, under "Novelty", point 2 explicitly states, "TrajSV focuses on trajectory-based representations in sports videos". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TrajSV is a trajectory-based framework for sports video representations.' is supported by the original webpage.
+<accept> The claim is explicitly stated multiple times in the text. For example, in the Abstract, it says, "In this paper, we present TrajSV, a trajectory-based framework that addresses various issues in existing studies." Furthermore, in the "Summary of our solution" section, it states, "In this paper, we develop a trajectory-based framework for sports video representations, called TrajSV." The "Our contributions" section also reiterates this: "We propose TrajSV, a trajectory-based framework for learning sports video representations." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TrajSV focuses on task-agnostic representations for various sports analytic tasks that rely on trajectories.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Summary of our solution" section under point (2), which says: "For (2), TrajSV focuses on task-agnostic representations for various sports analytic tasks that rely on trajectories, which provides new insight for continued research in this line of studies." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+The proposed AgentMental framework performs in a certain way for mental health evaluation.
+
+AgentMental is something.
+
+Something is done in the AgentMental framework. 
+The proposed AgentMental framework simulates clinical doctor-patient dialogues for mental health evaluation.
+
+AgentMental is an interactive multi-agent framework designed for explainable and adaptive mental health assessment.
+
+An adaptive questioning mechanism is introduced in the AgentMental framework.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11567v1
+
+[
+    {
+        "title": "AgentMental: An Interactive Multi-Agent Framework for ...",
+        "url": "https://arxiv.org/html/2508.11567v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] Performance Indicators for Evaluating the Mental Health System",
+        "url": "https://calduals.org/wp-content/uploads/2012/07/Performance-Indicator-Proposal-final.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[2508.11567] AgentMental: An Interactive Multi-Agent ...",
+        "url": "https://arxiv.org/abs/2508.11567",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Understanding Mental Health Functional Assessments & Evaluation",
+        "url": "https://mindrxgroup.com/what-is-a-functional-assessment-for-mental-health/",
+        "date": "2024-06-20",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "An Interactive Multi-Agent Framework for Explainable and ...",
+        "url": "https://deeplearn.org/arxiv/629831/agentmental:-an-interactive-multi-agent-framework-for-explainable-and-adaptive-mental-health-assessment",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] department of mental health policy/procedure - Lacounty",
+        "url": "http://file.lacounty.gov/SDSInter/dmh/1041854_606_01.pdf",
+        "date": "2011-05-03",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "The App Evaluation Model",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/the-app-evaluation-model",
+        "date": null,
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "Conversational Agent Interventions for Mental Health Problems",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10182468/",
+        "date": "2025-06-16",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Actionable health app evaluation: translating expert ...",
+        "url": "https://www.nature.com/articles/s41746-020-00312-4",
+        "date": "2020-07-30",
+        "last_updated": "2025-02-22"
+    },
+    {
+        "title": "How Mental Health Evaluations Are Used in Fitness-for-Duty ...",
+        "url": "https://www.wzclawfirm.com/how-mental-health-evaluations-are-used-in-fitness-for-duty-determinations/",
+        "date": "2025-07-11",
+        "last_updated": "2025-08-04"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The proposed AgentMental framework performs in a certain way for mental health evaluation.' is supported by the citation.
+<accept> The content explicitly states how the AgentMental framework performs for mental health evaluation, describing its methodology (simulating doctor-patient dialogues, using adaptive questioning, tree-structured memory, specialized agents for questioning, evaluation, scoring, and updating) and its performance results ("achieves better performance than existing approaches," "consistently outperforms existing studies," and "achieves the best performance in most evaluation metrics" as shown in Table 1). </accept>
+
+**********Source Check**********
+
+The claim 'AgentMental is something.' is supported by the citation.
+<accept> The text explicitly states what AgentMental is in the title, abstract, and introduction. For example, the title is "AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment", and the introduction states, "we propose a multi-agent-based interactive framework to simulate clinical interview scenarios for mental health assessment (AgentMental)". </accept>
+
+**********Source Check**********
+
+The claim 'Something is done in the AgentMental framework.' is supported by the citation.
+<accept> The document's title is "AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment". The abstract and introduction explicitly state that the paper proposes "a multi-agent framework for mental health evaluation that simulates clinical doctor-patient dialogues, with specialized agents assigned to questioning, adequacy evaluation, scoring, and updating" (in the abstract) and "a multi-agent-based interactive framework to simulate clinical interview scenarios for mental health assessment (AgentMental), wherein dedicated agents are responsible for distinct roles such as question generation, response evaluation, score assignment, and updating" (in the introduction). This clearly indicates that mental health assessment, dialogue simulation, and various agent roles are "done in the AgentMental framework". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The proposed AgentMental framework simulates clinical doctor-patient dialogues for mental health evaluation.' is supported by the original webpage.
+<accept> The abstract explicitly states, "Therefore, in this paper, we propose a multi-agent framework for mental health evaluation that simulates clinical doctor-patient dialogues..." and the introduction further clarifies, "...we propose a multi-agent-based interactive framework to simulate clinical interview scenarios for mental health assessment (AgentMental)..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'AgentMental is an interactive multi-agent framework designed for explainable and adaptive mental health assessment.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the title of the paper: "AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment". It is also reiterated in the abstract and introduction, describing AgentMental as an interactive multi-agent framework for mental health assessment. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An adaptive questioning mechanism is introduced in the AgentMental framework.' is supported by the original webpage.
+<accept> The abstract explicitly states, "We introduce an adaptive questioning mechanism in which an evaluation agent assesses the adequacy of user responses to determine the necessity of generating targeted follow-up queries to address ambiguity and missing information." The title of the paper identifies the framework as "AgentMental". </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+INFNet is a task-aware information flow architecture that unifies something.
+
+The unified, structured information flow in INFNet ensures something else.
+
+INFNet introduces something in a certain way. 
+INFNet is a task-aware information flow architecture that unifies categorical, sequence, and task tokens in a single interaction space.
+
+The unified, structured information flow in INFNet ensures that the target objective influences heterogeneous feature interactions from the very beginning of the pipeline.
+
+INFNet introduces task proxy tokens to inject task-awareness directly into the feature interaction stage.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11565v1
+
+[
+    {
+        "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+        "url": "https://arxiv.org/html/2508.11565v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Unified Namespace: What is UNS? (Examples and Tips) - Clarify.io",
+        "url": "https://www.clarify.io/learn/unified-namespace-uns",
+        "date": "2023-03-28",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+        "url": "https://arxiv.org/pdf/2508.11565",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Foundations of the Unified Namespace Architecture for IIoT - HiveMQ",
+        "url": "https://www.hivemq.com/blog/foundations-of-unified-namespace-architecture-iiot/",
+        "date": "2025-03-19",
+        "last_updated": "2025-06-30"
+    },
+    {
+        "title": "InfluxDB 3: System Architecture",
+        "url": "https://www.influxdata.com/blog/influxdb-3-0-system-architecture/",
+        "date": "2023-06-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Create a Modern Analytics Architecture by Using Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture",
+        "date": "2025-01-30",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "What Is Data Flow Architecture: Behind-the-Scenes & ...",
+        "url": "https://airbyte.com/data-engineering-resources/data-flow-architecture",
+        "date": "2024-11-28",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Why Are Unified Data Products the Next Evolution of Data ... - Dremio",
+        "url": "https://www.dremio.com/blog/unified-data-products/",
+        "date": "2025-02-28",
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "Information Flow Architect",
+        "url": "https://www.infotech.com/research/information-flow-architect",
+        "date": null,
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "The Unified Data Platform \u2013 Connecting Everything That Matters",
+        "url": "https://blog.erwin.com/blog/unified-data-platform/",
+        "date": null,
+        "last_updated": "2025-08-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'INFNet is a task-aware information flow architecture that unifies something.' is supported by the citation.
+<accept> The text explicitly states that "INFNet, a task-aware information flow architecture that unifies categorical, sequence, and task tokens in a single interaction space" in the Contributions section, first bullet point. </accept>
+
+**********Source Check**********
+
+The claim 'The unified, structured information flow in INFNet ensures something else.' is supported by the citation.
+<accept> The content explicitly states: "This unified, structured information flow ensures that the target objective influences heterogeneous feature interactions from the very beginning of the pipeline." It also lists other benefits that this design "yields" or "ensures" later in the same paragraph and in the "Contributions" section. </accept>
+
+**********Source Check**********
+
+The claim 'INFNet introduces something in a certain way.' is supported by the citation.
+<accept> The content explicitly states multiple times that INFNet "introduces" specific components and designs, such as a "novel dual-flow design" and "task proxy tokens". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'INFNet is a task-aware information flow architecture that unifies categorical, sequence, and task tokens in a single interaction space.' is supported by the original webpage.
+<accept> The text explicitly states in the Contributions section: "We introduce INFNet, a task-aware information flow architecture that unifies categorical, sequence, and task tokens in a single interaction space, enabling downstream objectives to guide feature interactions from the earliest stage rather than only after feature fusion." The abstract and introduction also support these points. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The unified, structured information flow in INFNet ensures that the target objective influences heterogeneous feature interactions from the very beginning of the pipeline.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Introduction" section of the document: "This unified, structured information flow ensures that the target objective influences heterogeneous feature interactions from the very beginning of the pipeline." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'INFNet introduces task proxy tokens to inject task-awareness directly into the feature interaction stage.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Introduction" section: "To address these challenges, we propose a Task-Aware Information Flow Network (INFNet) that introduces task proxy tokens to inject task-awareness directly into the feature interaction stage." It is also reaffirmed in the "Contributions" section. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+The paper identifies **a certain type of distribution**.
+
+The paper generalizes **a certain technique**.
+
+Frequency analysis can effectively reconstruct data when the query distribution is known, **in a certain context**. 
+The paper identifies query distributions that make frequency analysis challenging for an attacker.
+
+The paper generalizes the cryptanalytic technique of frequency analysis.
+
+Frequency analysis can effectively reconstruct data when the query distribution is known, even in high dimensions and with only access-pattern leakage.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11563v1
+
+[
+    {
+        "title": "Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks",
+        "url": "https://arxiv.org/html/2508.11563v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "4.3 Frequency distribution - Statistique Canada",
+        "url": "https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214814-eng.htm",
+        "date": "2021-09-02",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks",
+        "url": "https://arxiv.org/abs/2508.11563",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] LEARNING-BASED FREQUENCY ESTIMATION ALGORITHMS",
+        "url": "https://openreview.net/pdf?id=r1lohoCqY7",
+        "date": null,
+        "last_updated": "2025-03-25"
+    },
+    {
+        "title": "Time-frequency analysis and autoencoder approach for network ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11914985/",
+        "date": "2025-02-17",
+        "last_updated": "2025-06-01"
+    },
+    {
+        "title": "Frequency (Analysis)\u2014ArcGIS Pro | Documentation",
+        "url": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/frequency.htm",
+        "date": null,
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The paper identifies **a certain type of distribution**.' is supported by the citation.
+<accept> The paper explicitly identifies "query distribution," "response distribution," and later defines "expressive query distributions" and constructs a "Flattened distribution" through Algorithm 2. These are all specific types of distributions mentioned in the text. </accept>
+
+**********Source Check**********
+
+The claim 'The paper generalizes **a certain technique**.' is supported by the citation.
+<accept> The abstract explicitly states, "We generalize this underexplored cryptanalytic technique and introduce a generic attack framework called LAMa". The 'Our Contributions' section also mentions, "We formalize the basic ideas of frequency analysis (in section3) and generalize prior attempts". This directly confirms that the paper generalizes a certain technique (frequency analysis).</accept>
+
+**********Source Check**********
+
+The claim 'Frequency analysis can effectively reconstruct data when the query distribution is known, **in a certain context**.' is supported by the citation.
+<accept> The text explicitly states in the "Our Contributions" section that "For attackers, we show that frequency analysis can effectively reconstruct data when the query distribution is known, even in high dimensions and with only access-pattern leakage." This confirms that frequency analysis can reconstruct data when the query distribution is known, and specifies the context of "high dimensions." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The paper identifies query distributions that make frequency analysis challenging for an attacker.' is supported by the original webpage.
+<accept> The paper explicitly states in the abstract: "Given the above result, we identify query distributions that make frequency analysis challenging for the attacker and, thus, can act as a mitigation mechanism." This is reiterated in the "Our Contributions" section under the point "Thwarting Frequency Analysis by Adjusting the Query Distribution." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The paper generalizes the cryptanalytic technique of frequency analysis.' is supported by the original webpage.
+<accept> The abstract explicitly states, "We generalize this underexplored cryptanalytic technique and introduce a generic attack framework called LAMa," where "this underexplored cryptanalytic technique" refers to frequency analysis. Additionally, in the "Our Contributions" section, it says the paper "generalize prior attempts" of frequency analysis and formalizes its basic ideas. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Frequency analysis can effectively reconstruct data when the query distribution is known, even in high dimensions and with only access-pattern leakage.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Our Contributions" section: "For attackers, we show that frequency analysis can effectively reconstruct data when the query distribution is known, even in high dimensions and with only access-pattern leakage." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+The paper extends the Dissipative Energy Flow (DEF) method to identify **certain interactions** across **various frequencies** using **particular measurements**.
+
+**A specific method** can provide **a useful tool in a certain way** for **a certain diagnosis in a certain context**.
+
+**Tracing certain paths in a certain way** can provide **useful insight** into how **adjustments may mitigate something**. 
+The paper extends the Dissipative Energy Flow (DEF) method to identify SSCI sources and dynamic interaction paths across multiple frequencies using three-phase voltage and current measurements.
+
+Dissipative Energy Flow (DEF) can provide a physics-based and automation-friendly tool for SSCI diagnosis in IBR-rich grids.
+
+Tracing the paths of oscillatory energy exchange between components can provide valuable insight into how targeted control adjustments may mitigate SSCIs.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/2508.11561
+
+[
+    {
+        "title": "Identification of Sub/Super-Synchronous Control ...",
+        "url": "https://arxiv.org/abs/2508.11561",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "The Dissipating Energy Flow method for analysing ...",
+        "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8971910&fileOId=8971958",
+        "date": null,
+        "last_updated": "2025-03-29"
+    },
+    {
+        "title": "Regional Oscillation Source Localization",
+        "url": "https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-29612.pdf",
+        "date": null,
+        "last_updated": "2025-04-17"
+    },
+    {
+        "title": "Oscillation Source Detection for Inverter-Based Resources ...",
+        "url": "https://www.techrxiv.org/users/688718/articles/680851-oscillation-source-detection-for-inverter-based-resources-via-dissipative-energy-flow",
+        "date": null,
+        "last_updated": "2024-03-18"
+    },
+    {
+        "title": "Oscillation Source Location and Mitigation Measures in ...",
+        "url": "https://web.eecs.utk.edu/~kaisun/FOTF/Panel_2018IEEEPESGM/8-Slava_OscillationSourceLocationAndMitigationMeasures_ISONE.pdf",
+        "date": null,
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "Unified Dissipation Energy Flow",
+        "url": "https://www.techrxiv.org/users/693819/articles/1213909/master/file/data/oscillation_tracing_new%20(2)/oscillation_tracing_new%20(2).pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'The paper extends the Dissipative Energy Flow (DEF) method to identify **certain interactions** across **various frequencies** using **particular measurements**.' is supported by the citation.
+<accept> The abstract explicitly states: "This paper extends the Dissipative Energy Flow (DEF) method... to identify SSCI sources and dynamic interaction paths across multiple frequencies using three-phase voltage and current measurements." Here, "SSCI sources and dynamic interaction paths" specify the "certain interactions," "across multiple frequencies" covers "various frequencies," and "three-phase voltage and current measurements" specifies "particular measurements." </accept>
+
+**********Source Check**********
+
+The claim '**A specific method** can provide **a useful tool in a certain way** for **a certain diagnosis in a certain context**.' is supported by the citation.
+<accept> The abstract explicitly states: "The results show DEF can provide a physics-based and automation-friendly tool for SSCI diagnosis in IBR-rich grids." This sentence directly matches all components of the provided information: "DEF" (Dissipative Energy Flow method) is the specific method, it provides a "physics-based and automation-friendly tool" (useful tool in a certain way) for "SSCI diagnosis" (a certain diagnosis) in "IBR-rich grids" (a certain context). </accept>
+
+**********Source Check**********
+
+The claim '**Tracing certain paths in a certain way** can provide **useful insight** into how **adjustments may mitigate something**.' is supported by the citation.
+<accept> The abstract states that the paper extends the Dissipative Energy Flow (DEF) method to "identify SSCI sources and dynamic interaction paths" (tracing certain paths) and that this method "can provide a physics-based and automation-friendly tool for SSCI diagnosis" (useful insight). The "certain way" is described by the DEF method, operating in the dq frame using dynamic phasors. The purpose of diagnosing "oscillations arising from adverse interactions" (SSCIs) is implicitly to understand how to mitigate them through adjustments, even if the word "mitigate" is not explicitly used. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The paper extends the Dissipative Energy Flow (DEF) method to identify SSCI sources and dynamic interaction paths across multiple frequencies using three-phase voltage and current measurements.' is supported by the original webpage.
+<accept> The abstract explicitly states: "This paper extends the Dissipative Energy Flow (DEF) method, originally developed for low-frequency electromechanical oscillations, to identify SSCI sources and dynamic interaction paths across multiple frequencies using three-phase voltage and current measurements." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Dissipative Energy Flow (DEF) can provide a physics-based and automation-friendly tool for SSCI diagnosis in IBR-rich grids.' is supported by the original webpage.
+<accept> The abstract explicitly states: "The results show DEF can provide a physics-based and automation-friendly tool for SSCI diagnosis in IBR-rich grids." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Tracing the paths of oscillatory energy exchange between components can provide valuable insight into how targeted control adjustments may mitigate SSCIs.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "I Introduction" section of the document: "Tracing the paths of oscillatory energy exchange between components can provide valuable insight into how targeted control adjustments may mitigate SSCIs." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11555v1 
+A Tight Lower Bound for Doubling Spanners 
+For doubling metrics, the framework of **someone** provides **something** with **a certain numerical bound**.
+
+For any 2≤d=O(1), there exists an n-point set in **a certain space** for which any (1+ε)-spanner has **a particular bound value**.
+
+**Under certain dimensional constraints**, there exists **a specific collection of points** in R^d for which **a certain kind of spanner** has **a certain lightness property**. 
+For doubling metrics, the framework of Le and Solomon provides a pruned spanner with a lightness bound of O~(ε^(-(d+1))).
+
+For any 2≤d=O(1), there exists an n-point set in R^d for which any (1+ε)-spanner has lightness ~Ω(ε^(-d)).
+
+For any 2≤d=O(1), there exists an n-point set in R^d for which any (1+ε)-spanner has Ω(ε^(-d)) lightness.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11555v1
+
+[
+    {
+        "title": "A Tight Lower Bound for Doubling Spanners - arXiv",
+        "url": "https://arxiv.org/html/2508.11555v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Light Euclidean Steiner Spanners in the Plane - DROPS",
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol189-socg2021/LIPIcs.SoCG.2021.15/LIPIcs.SoCG.2021.15.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "On Euclidean Steiner (1 + \u03b5)-Spanners - DROPS",
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol187-stacs2021/LIPIcs.STACS.2021.13/LIPIcs.STACS.2021.13.pdf",
+        "date": null,
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "[PDF] Approximation Algorithms for Bounded Dimensional Metric Spaces",
+        "url": "https://i.cs.hku.hk/~hubert/thesis/thesis.pdf",
+        "date": null,
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "A Unified Framework for Light Spanners",
+        "url": "https://par.nsf.gov/servlets/purl/10507311",
+        "date": null,
+        "last_updated": "2025-05-12"
+    },
+    {
+        "title": "A Unified Framework of Light Spanners II",
+        "url": "https://arxiv.org/pdf/2111.13748",
+        "date": null,
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "[PDF] proximity algorithms for nearly doubling spaces",
+        "url": "https://www.wisdom.weizmann.ac.il/~/robi/papers/GK-NearlyDoubling-SIDMA13.pdf",
+        "date": null,
+        "last_updated": "2025-06-09"
+    },
+    {
+        "title": "Light Spanners for High Dimensional Norms via Stochastic ...",
+        "url": "https://arnold.filtser.com/papers/FN22-LightSpannersFromDecompositions.pdf",
+        "date": null,
+        "last_updated": "2025-06-09"
+    },
+    {
+        "title": "Euclidean Steiner Spanners: Light and Sparse",
+        "url": "https://epubs.siam.org/doi/10.1137/22M1502707",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[PDF] New Doubling Spanners: Better and Simpler - HKU",
+        "url": "https://i.cs.hku.hk/~hubert/icalp2013.pdf",
+        "date": null,
+        "last_updated": "2025-07-14"
+    }
+]
+
+**********Source Check**********
+
+The claim 'For doubling metrics, the framework of **someone** provides **something** with **a certain numerical bound**.' is supported by the citation.
+<accept> The text states: "In particular, for doubling metrics, the framework of [35] provides a pruned spanner, with a lightness bound of O~()−(d+1)\\tilde{O}({}^{-(d+1)}), which is the state-of-the-art lightness bound for doubling metrics." This directly matches the requested information, identifying "[35]" (H. Le and S. Solomon) as "someone", "a pruned spanner, with a lightness bound" as "something", and "O~()−(d+1)\\tilde{O}({}^{-(d+1)})" as "a certain numerical bound". </accept>
+
+**********Source Check**********
+
+The claim 'For any 2≤d=O(1), there exists an n-point set in **a certain space** for which any (1+ε)-spanner has **a particular bound value**.' is supported by the citation.
+<accept> The information is explicitly mentioned in the Abstract, where it states: "For any 2≤d=O(1), there exists an nn-point set in Rd\\mdmathbb{R}^{d}, for which any (1+)(1+\\varepsilon)-spanner has ~(n⋅)−d+1\\tilde{\\Omega}(n\\cdot{}^{-d+1}) edges and lightness ~(n⋅)−d\\tilde{\\Omega}({}^{-d})." This covers the specified conditions for the 'certain space' (Euclidean space Rd) and 'particular bound value' (edges and lightness bounds). Additionally, Theorem 1.2 also provides similar bounds for an ultrametric space. </accept>
+
+**********Source Check**********
+
+The claim '**Under certain dimensional constraints**, there exists **a specific collection of points** in R^d for which **a certain kind of spanner** has **a certain lightness property**.' is supported by the citation.
+<accept> The information is explicitly mentioned. The text specifies "certain dimensional constraints" like `d=O(1)` or `d>=1` for the doubling dimension. It defines "a specific collection of points" as an "n-point set in R^d" or, more specifically for the lower bound, an "n-point ultrametric space (X,dX)". The "certain kind of spanner" refers to a `(1+\\varepsilon)`-spanner. Finally, "a certain lightness property" is detailed as "lightness O~()−d" as an upper bound, and "lightness ~()−(d+1)" as a tight lower bound for this specific construction, implying that *any* such spanner must satisfy this lightness property. This is all summarized in the Abstract and Theorem 1.2. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'For doubling metrics, the framework of Le and Solomon provides a pruned spanner with a lightness bound of O~(ε^(-(d+1))).' is supported by the original webpage.
+<accept> The text states: "Le and Solomon [35] presented a unified framework for transforming sparse spanners into light spanners by carefully pruning redundant edges. In particular, for doubling metrics, the framework of [35] provides a pruned spanner, with a lightness bound of O~()−(d+1)\\tilde{O}({}^{-(d+1)}), which is the state-of-the-art lightness bound for doubling metrics." This directly supports the claim that the framework of Le and Solomon provides a pruned spanner with a lightness bound of O~(ε^(-(d+1))) for doubling metrics. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'For any 2≤d=O(1), there exists an n-point set in R^d for which any (1+ε)-spanner has lightness ~Ω(ε^(-d)).' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Light spanners" section under "1.1 Euclidean Spanners": "For any 2≤d=O​(1), there exists an nn-point set in Rd, for which any (1+)-spanner has lightness ()−d." The text also clarifies that the ~Ω notation hides polylog terms, making ()−d equivalent to ~Ω()−d in this context. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'For any 2≤d=O(1), there exists an n-point set in R^d for which any (1+ε)-spanner has Ω(ε^(-d)) lightness.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Light spanners" subsection under "1.1 Euclidean Spanners". It says: "For any 2≤d=O(1), there exists an nn-point set in Rd\\mdmathbb{R}^{d} (the aforementioned set of evenly spaced points on the dd-dimensional sphere), for which any (1+)(1+\\varepsilon)-spanner has lightness ()−d\\Omega({}^{-d})." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+SeamlessFlow addresses a certain number of challenges in a specific domain.
+
+The SeamlessFlow data plane decouples a particular component from some other complex components.
+
+SeamlessFlow decouples a different process from a particular type of flow. 
+SeamlessFlow addresses two core challenges in industrial-scale RL.
+
+The SeamlessFlow data plane decouples the RL trainer from diverse, complex agent implementations.
+
+SeamlessFlow decouples RL training from the complex execution flow of agents.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/1702.07489
+
+[
+    {
+        "title": "LiveRamp Clean Room Architecture Deep Dive",
+        "url": "https://liveramp.com/blog/liveramp-clean-room-architecture/",
+        "date": "2025-02-14",
+        "last_updated": "2025-02-14"
+    },
+    {
+        "title": "Control Plane vs. Data Plane: Key Differences Explained",
+        "url": "https://estuary.dev/blog/control-plane-vs-data-plane/",
+        "date": "2025-05-29",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Data Plane Design for AI-Native 6G Networks",
+        "url": "https://www.huawei.com/en/huaweitech/future-technologies/data-plane-design-ai-native-6g-networks",
+        "date": "2025-02-19",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Control Plane and Data Plane Architecture",
+        "url": "https://danieldonbavand.com/2022/03/08/what-is-a-control-and-data-plane-architecture/",
+        "date": "2022-03-08",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Data Plane vs. Control Plane: What's the Difference?",
+        "url": "https://www.snaplogic.com/blog/data-plane-vs-control-plane-whats-the-difference",
+        "date": "2024-08-06",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Control Plane vs. Data Plane in Modern ZTNA Platforms",
+        "url": "https://terrazone.io/control-plane-data-plane/",
+        "date": "2025-05-18",
+        "last_updated": "2025-05-19"
+    },
+    {
+        "title": "SIFM: A network architecture for seamless flow mobility ...",
+        "url": "https://arxiv.org/abs/1702.07489",
+        "date": "2017-02-24",
+        "last_updated": "2025-05-22"
+    },
+    {
+        "title": "Multi-data plane architecture for seamless upgrades",
+        "url": "https://patents.justia.com/patent/12348484",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Multi-data plane architecture for seamless upgrades",
+        "url": "https://patents.google.com/patent/US12348484B2",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'SeamlessFlow addresses a certain number of challenges in a specific domain.' is NOT supported by the citation.
+<reject> The information states "SeamlessFlow" addresses challenges. The provided content discusses "Seamless Internetwork Flow Mobility (SIFM) architecture" and its purpose, but the specific term "SeamlessFlow" is not explicitly mentioned anywhere in the text. </reject>
+
+**********Source Check**********
+
+The claim 'The SeamlessFlow data plane decouples a particular component from some other complex components.' is NOT supported by the citation.
+<reject> The text mentions that the SDN paradigm decouples the control and data plane, but it does not mention a "SeamlessFlow data plane" or that it decouples any components. The information is not explicitly present. </reject>
+
+**********Source Check**********
+
+The claim 'SeamlessFlow decouples a different process from a particular type of flow.' is NOT supported by the citation.
+<reject> The term "SeamlessFlow" is not mentioned in the provided content. The content discusses "SIFM: A network architecture for seamless flow mobility" and states that "The SDN paradigm decouples the control and data plane", but it does not state that "SeamlessFlow" (or SIFM) decouples a different process from a particular type of flow. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+Anomaly images generated by AAG can `in a certain way`.
+
+AAG is `something` `in a certain state`.
+
+AAG is `in a certain way`. 
+Anomaly images generated by AAG can bolster the performance of various downstream anomaly inspection tasks.
+
+AAG is a training-free anomaly generation framework.
+
+AAG is designed for effective anomaly image generation.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11550v1
+
+[
+    {
+        "title": "Training-Free Anomaly Generation via Dual-Attention Enhancement ...",
+        "url": "https://arxiv.org/html/2508.11550v1",
+        "date": "2015-01-01",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "ImageRAG: Dynamic Image Retrieval for Reference ...",
+        "url": "https://arxiv.org/html/2502.09411v1",
+        "date": "2025-02-13",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "[2508.11550] Training-Free Anomaly Generation via Dual-Attention ...",
+        "url": "https://arxiv.org/abs/2508.11550",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Amazon Titan Image Generator G1 models overview",
+        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/titan-image-models.html",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "[PDF] Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image ...",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.pdf",
+        "date": null,
+        "last_updated": "2025-06-13"
+    },
+    {
+        "title": "[2502.09411] ImageRAG: Dynamic Image Retrieval for ...",
+        "url": "https://arxiv.org/abs/2502.09411",
+        "date": "2025-02-13",
+        "last_updated": "2025-05-20"
+    },
+    {
+        "title": "[PDF] A Domain-agnostic Generative Framework for General Anomaly ...",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Image generation - OpenAI API",
+        "url": "https://platform.openai.com/docs/guides/image-generation",
+        "date": null,
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Few-shot Industrial Anomaly Image Generation with Separation and ...",
+        "url": "https://openreview.net/forum?id=VzZTHukfCB",
+        "date": "2025-02-05",
+        "last_updated": "2025-02-07"
+    },
+    {
+        "title": "7 AI Image Generation Tools Compared: Pros, Cons & ...",
+        "url": "https://www.acorn.io/resources/learning-center/ai-image-generation-tools/",
+        "date": "2024-09-19",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Anomaly images generated by AAG can `in a certain way`.' is supported by the citation.
+<accept> The content explicitly mentions that "anomaly images generated by AAG can bolster performance of various downstream anomaly inspection tasks." This phrase describes a specific "way" that the images generated by AAG can function or be utilized. </accept>
+
+**********Source Check**********
+
+The claim 'AAG is `something` `in a certain state`.' is supported by the citation.
+<accept> The document explicitly states that "AAG" is "a training-free anomaly generation framework" and that it "gets rid of anomaly training samples and types of anomalies," implying its state of being anomaly-agnostic and not requiring specific training data. </accept>
+
+**********Source Check**********
+
+The claim 'AAG is `in a certain way`.' is NOT supported by the citation.
+<reject> The information "AAG is `in a certain way`" is too vague and general to be explicitly found in the text. While the text describes AAG and its characteristics in detail (e.g., "training-free," "simple yet effective," "anomaly type-agnostic"), it never uses the exact phrase "in a certain way." </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+

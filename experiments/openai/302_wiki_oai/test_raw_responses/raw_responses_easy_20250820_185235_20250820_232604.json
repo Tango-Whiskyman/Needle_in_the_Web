@@ -1,0 +1,379 @@
+[
+    {
+        "id": 0,
+        "source": "https://en.wikipedia.org/wiki/The_Last_Judgment_%28Bosch%2C_Vienna%29",
+        "search": {
+            "id": "ws_68a5e75acb8c819591c2b0654537d807040926f01aa0f711",
+            "action": {
+                "query": "The Last Judgment Hieronymus Bosch Vienna not to be confused Early Netherlandish artist",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://en.wikipedia.org/wiki/John_Rooney_(footballer)",
+        "search": {
+            "id": "ws_68a5e76824ac81949580f702f6e94c4f023d107bdc99c651",
+            "action": {
+                "query": "English professional manager John Rooney cousin Macclesfield Town 2004\u201305 Football League Two season John Richard Rooney",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://en.wikipedia.org/wiki/The_Rough_Guide_to_the_Music_of_Afghanistan",
+        "search": {
+            "id": "ws_68a5e7776d5881978fa5c79473c29aa40b1f5167d895a65f",
+            "action": {
+                "query": "\"The Rough Guide To The Music Of Afghanistan\" is a **something** \"The Rough Guide To The Music Of Afghanistan\" is part of a **certain series** \"The Rough Guide To The Music Of Afghanistan\" was released **at a certain time**",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://en.wikipedia.org/wiki/Manj%C5%AB",
+        "search": {
+            "id": "ws_68a5e780f75c8194b426efc337ad01600ddb312e8e187c83",
+            "action": {
+                "query": "Manj\u016b confection changes pastry made",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks",
+        "search": {
+            "id": "ws_68a5e7965a348195add116986970940c08c0c9051d2883c2",
+            "action": {
+                "query": "Stephen Malkmus and the Jicks studio albums state current members",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://en.wikipedia.org/wiki/Air_raids_on_Semarang%E2%80%93Salatiga%E2%80%93Ambarawa",
+        "search": {
+            "id": "ws_68a5e7a5cbf88195a75640a79b68c1160943b92f54e87eea",
+            "action": {
+                "query": "29 July 1947 air raids commemoration Yogyakarta Dakota incident film dramatized",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://en.wikipedia.org/wiki/One_True_King",
+        "search": {
+            "id": "ws_68a5e7b1db7881969885a162f7ee8c6c04a8a12f694de3f1",
+            "action": {
+                "query": "One True King business OTK Parasocial November 9, 2021 December 2020 partnership",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://en.wikipedia.org/wiki/Torsion_siege_engine",
+        "search": {
+            "id": "ws_68a5e7be18d48194bce0c7e02c2aa0440e8d8969d865bd19",
+            "action": {
+                "query": "torsion siege engines development origin time period Ballista Onager use in the West",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m",
+        "search": {
+            "id": "ws_68a5e7cbfc2c8190a00533eda9fe550f0603b3522356750f",
+            "action": {
+                "query": "Daniel Lindstr\u00f6m singer country contest occupation",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://en.wikipedia.org/wiki/Norway_during_the_Great_Northern_War",
+        "search": {
+            "id": "ws_68a5e7d59d8c8195ba228c1caeb010bf00bc9df448b9f9be",
+            "action": {
+                "query": "Great Northern War coalition against Sweden Norwegians tired 1716 weakened withdrawal Denmark troops",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "Jacob Bekenstein was a theoretical physicist who served as the Polak Professor of Theoretical Physics at the Hebrew University of Jerusalem until his death. In 2012, he was awarded the Wolf Prize in Physics. ([wolffund.org.il](https://wolffund.org.il/jacob-bekenstein/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a5e7e504f881939ed66ab58406a4a909ec6c812ed8ef64",
+            "action": {
+                "query": "Jacob Bekenstein profession position university death received 2012",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://en.wikipedia.org/wiki/Tennessee_Volunteers_football",
+        "search": {
+            "id": "ws_68a5e7ee7fd8819582b52b3dee20d5310832ceb70d422c67",
+            "action": {
+                "query": "Tennessee Volunteers football program names, represents, started in 1891",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "The 1971\u201372 Ranji Trophy was the 38th season of the Ranji Trophy. Bombay won their 14th title in a row defeating Bengal in the final. ([en.wikipedia.org](https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy?utm_source=openai))\n\nThis victory marked Bombay's 14th consecutive Ranji Trophy title. ([en.wikipedia.org](https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy?utm_source=openai))\n\nBengal was captained in the final by former Indian football captain Chuni Goswami. ([en.wikipedia.org](https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy?utm_source=openai))\n\nThe 1971\u201372 Ranji Trophy was the 38th season of the Ranji Trophy. Bombay won their 14th title in a row defeating Bengal in the final. This victory marked Bombay's 14th consecutive Ranji Trophy title. Bengal was captained in the final by former Indian football captain Chuni Goswami. ([en.wikipedia.org](https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a5e7fc59b48190b5823daf0e0a408a060db365e5d714de",
+            "action": {
+                "query": "1971\u201372 Ranji Trophy",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_2%3A_A_New_Menace",
+        "search": {
+            "id": "ws_68a5e80b1054819091930f7d5f7abf3f0dad9081a9f47b49",
+            "action": {
+                "query": "Cyber Citizen Shockman 2: A New Menace release information",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_%28TV_series%29",
+        "search": {
+            "id": "ws_68a5e81a162c8194a417ef3f0282fa5f0749aa49df2d1b09",
+            "action": {
+                "query": "\"The Witches and the Grinnygog\" television series country network re-broadcast",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://en.wikipedia.org/wiki/Panulirus_echinatus",
+        "search": {
+            "id": "ws_68a5e82a09288197b3a2d28fc7ed6aa3079fc931086d1298",
+            "action": {
+                "query": "Panulirus echinatus species crustaceans part of diet common name",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://en.wikipedia.org/wiki/Daniel_Brennan,_Baron_Brennan",
+        "search": {
+            "id": "ws_68a5e838c8448193bea73d676522ba1d0de5ca1685a57cb7",
+            "action": {
+                "query": "Daniel Joseph Brennan British profession Baron Brennan of Bibury",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm62e0501a1.htm",
+        "search": {
+            "id": "ws_68a5e853bfc4819484ec38456c1f591106f116fd9692e16a",
+            "action": {
+                "query": "March 2013 A/H7N9 outbreak 18 humans severe influenza bird populations",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://en.wikipedia.org/wiki/Irish_National_War_Memorial_Gardens",
+        "search": {
+            "id": "ws_68a5e865c90c8194b53c59305bc184fd0517939a2f57798f",
+            "action": {
+                "query": "Irish National War Memorial Gardens location management illuminated volumes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://en.wikipedia.org/wiki/Little_Blue_Book",
+        "search": {
+            "id": "ws_68a5e87e9cb4819484945e35eae0458109d46d2d2f707959",
+            "action": {
+                "query": "Little Blue Books series publisher history",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+        "search": {
+            "id": "ws_68a5e8960b08819093f1eab008f95abb001e756b664c657d",
+            "action": {
+                "query": "Adela of Normandy March 8 1137 died 69 70 role 1089 1102 born year Duchy of Normandy",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://en.wikipedia.org/wiki/Umberto_Blasi",
+        "search": {
+            "id": "ws_68a5e8a228dc819680e4d1896be7890a070292bcb63deebf",
+            "action": {
+                "query": "Umberto Blasi men's marathon ten professional competitors",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://www.morasha.com.br/en/interviews/eli-beer-founder-of-united-hatzala.html",
+        "search": {
+            "id": "ws_68a5e8aeb8d48193b90b7c43e6d7c95700e61641054d2ef4",
+            "action": {
+                "query": "Eli Beer founder United Hatzalah interviews expansion",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://en.wikipedia.org/wiki/80th_Birthday_Stadium",
+        "search": {
+            "id": "ws_68a5e8b8cba4819491c9440ce9cf71dd004e2c192b37f5e0",
+            "action": {
+                "query": "80th Birthday Stadium formerly known as Thailand",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://en.wikipedia.org/wiki/IEEE_Rebooting_Computing",
+        "search": {
+            "id": "ws_68a5e8c6130c8195a7dfda858b2400d40f13b6085f52f860",
+            "action": {
+                "query": "IEEE Rebooting Computing initiative influence renewed mandate 2017 founded by IEEE Future Directions Committee",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://en.wikipedia.org/wiki/Marcus_Adams_(footballer)",
+        "search": {
+            "id": "ws_68a5e8d6d75c8197be4d17a0177d36220bdb7d627669e28f",
+            "action": {
+                "query": "Marcus Adams AFL played for Brisbane Lions",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://en.wikipedia.org/wiki/Christian_Wolkersdorfer",
+        "search": {
+            "id": "ws_68a5e8e8ccc881949230280414edfb9f0bb7a9f648e0d2b4",
+            "action": {
+                "query": "German hydrogeologist mining hydrogeologist Board of Directors \"Forum Bergbau and Wasser\" since 2017 expert",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://en.wikipedia.org/wiki/MV_Liberty_Star",
+        "search": {
+            "id": "ws_68a5e8f88c808196ba6e50adb9966cb502e03dc8e46fd954",
+            "action": {
+                "query": "MV Liberty Star transferred out of service by NASA MV Liberty Star performed MV Liberty Star towing since 1998",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://en.wikipedia.org/wiki/Born_to_Win",
+        "search": {
+            "id": "ws_68a5e905d73c81968bf3af6ced264bd90e093fa2df7006dc",
+            "action": {
+                "query": "Born to Win Ivan Passer film",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

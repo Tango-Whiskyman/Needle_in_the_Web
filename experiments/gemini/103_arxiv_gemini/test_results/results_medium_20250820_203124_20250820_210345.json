@@ -1,0 +1,176 @@
+{
+    "item_count": 33,
+    "accuracy": 0.30303030303030304,
+    "correct_count": 10,
+    "ground_truth_match_count": 10,
+    "criteria_match_count": 0,
+    "invalid_source_count": 17,
+    "wrong_webpage_count": 6,
+    "detail": [
+        {
+            "id": 0,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 1,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 2,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 3,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 4,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 5,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 6,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 7,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 8,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 9,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 10,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 11,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 12,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 13,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 15,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 16,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 17,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 18,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 19,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 20,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 21,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 22,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 23,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 24,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 25,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 26,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 27,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 28,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 29,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 30,
+            "correct": true,
+            "reason": "Found original webpage"
+        },
+        {
+            "id": 31,
+            "correct": false,
+            "reason": "No source provided"
+        },
+        {
+            "id": 33,
+            "correct": false,
+            "reason": "The source is incorrect"
+        },
+        {
+            "id": 34,
+            "correct": false,
+            "reason": "No source provided"
+        }
+    ]
+}

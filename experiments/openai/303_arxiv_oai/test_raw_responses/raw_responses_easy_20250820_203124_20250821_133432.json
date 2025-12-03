@@ -1,0 +1,431 @@
+[
+    {
+        "id": 0,
+        "source": "https://arxiv.org/abs/2508.11630",
+        "search": {
+            "id": "ws_68a6ae3f89388193a14902d0346547c708f9d63f36e9151b",
+            "action": {
+                "query": "Something enables multimodal large language models to autonomously generate and execute diverse image processing and computational operations via executable code. Thyme (Think Beyond Images) is a novel paradigm for enabling multimodal large language models. Thyme's image manipulation capabilities enable over baselines in perception tasks.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://arxiv.org/abs/2508.11628",
+        "search": {
+            "id": "ws_68a6ae47ab7081958259e913fab4a6aa0aba98b70bc48557",
+            "action": {
+                "query": "zero-shot performance mammogram interpretation medical VQA paradigm framework large language models LLMs mammography VQA tasks",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://arxiv.org/abs/2508.11624",
+        "search": {
+            "id": "ws_68a6ae4d004481968cb05ceac5e462bb0f8e021cb01a6bf3",
+            "action": {
+                "query": "LoRAtorio train-free method for multi-LoRA skill composition automated metrics human preference",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://arxiv.org/abs/2508.11620",
+        "search": {
+            "id": "ws_68a6ae530e548197ae3a6ea2d194c9960a6c18299372d737",
+            "action": {
+                "query": "first wearable device active acoustic sensing hand microgestures Grab-n-Go",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://arxiv.org/abs/2508.11620",
+        "search": {
+            "id": "ws_68a6ae5a277081948d448ce369ba74810a7a426f3d68d79d",
+            "action": {
+                "query": "first wearable device active acoustic sensing recognize subtle hand microgestures Grab-n-Go dataset",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://arxiv.org/abs/2508.11618",
+        "search": {
+            "id": "ws_68a6ae6004d88193b03b567897da59b40b9358b92e057a77",
+            "action": {
+                "query": "safe multi-agent reinforcement learning framework CO2 storage multi-stakeholder multi-site multi-objective optimization",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://arxiv.org/abs/2508.11616",
+        "search": {
+            "id": "ws_68a6ae6550908190b6f09f068091c25e0662b4fd266b2f2f",
+            "action": {
+                "query": "method for reward-guided decoding introduced fine-grained controllability",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://arxiv.org/abs/2508.11612",
+        "search": {
+            "id": "ws_68a6ae6c7f908194874fd05a96b1c12d09b0ffe293b7b790",
+            "action": {
+                "query": "new method for generating impulsive trajectories main contribution paper approach demonstrated",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://arxiv.org/abs/2508.11609",
+        "search": {
+            "id": "ws_68a6ae73714c8194bdac2f333fba09e407e06fcea5f9cb5b",
+            "action": {
+                "query": "\"Conformers are in a certain state for audio fingerprinting tasks\" \"first conformer-based architecture for\" \"achieves in a certain state for audio retrieval tasks\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://link.springer.com/article/10.1007/s11831-023-09913-0",
+        "search": {
+            "id": "ws_68a6ae7a33388194a9009da1d1e465490b4e165633f54a23",
+            "action": {
+                "query": "unfitted finite element discretizations Dirichlet boundary value problem advantages",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://arxiv.org/abs/2508.11607",
+        "search": {
+            "id": "ws_68a6ae7effa08197865beb06f1bfbfe105fec6efa810258c",
+            "action": {
+                "query": "fine-tuned on James Joyce\u2019s \u2018Finnegans Wake\u2019 engineering of a divergent generative process generative profile of TinyTim V1",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://arxiv.org/abs/2508.11605",
+        "search": {
+            "id": "ws_68a6ae859e0c8196bb1af47680ab847c02915a9f5478dfb2",
+            "action": {
+                "query": "\"training visual entailment models\" \"validated\" \"generative AI for visual entailment dataset creation\" \"evaluates\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://arxiv.org/abs/2508.11603",
+        "search": {
+            "id": "ws_68a6ae8bc5008195aa21e4e9334acce50beca59a2ba876f8",
+            "action": {
+                "query": "3D consistency precise multi-view constraints T2I diffusion model CoreEditor multi-view consistency 3D edits",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://arxiv.org/abs/2508.11599",
+        "search": {
+            "id": "ws_68a6ae9339d88197b1c06d69702fa5c80e6086d2990ee7bd",
+            "action": {
+                "query": "CryptoScope framework detecting cryptographic logic vulnerabilities automated cryptographic vulnerability detection without code execution",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://arxiv.org/abs/2508.11598",
+        "search": {
+            "id": "ws_68a6ae997f4c81968a9f92903fd5c4f30702708dcffe2524",
+            "action": {
+                "query": "\"AuriStream learns through a simple and scalable autoregressive prediction objective\" \"AuriStream is for encoding speech\" \"The second stage of AuriStream applies over the cochlear tokens\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://arxiv.org/abs/2508.11588",
+        "search": {
+            "id": "ws_68a6ae9fde3c8197bfaf654c7acd29f106b0bc35aa3062d2",
+            "action": {
+                "query": "\"improved model and sensor suite\" \"grasp state classification\" \"agricultural grasp state classification\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://arxiv.org/abs/2508.11588",
+        "search": {
+            "id": "ws_68a6aea4d3888195bc6da359dea957db0abe0ea146bae395",
+            "action": {
+                "query": "Inertial Measurement Units IMUs infrared IR reflectance sensor classify grasp states agriculture Effective efficient agricultural manipulation harvesting sensor roles",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://arxiv.org/abs/2508.11584",
+        "search": {
+            "id": "ws_68a6aeac1d048193b940ee27f6f64e400347cf5abf051015",
+            "action": {
+                "query": "Visual Perception Engine VPEngine framework image representations shared specialized task-specific model heads visual multitasking",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://arxiv.org/abs/2508.11582",
+        "search": {
+            "id": "ws_68a6aeb1d4cc8196ac533645d7880c1808ad9985e0f12ddf",
+            "action": {
+                "query": "Dynamic Reasoning-Boundary Self-Awareness Framework DR. SAF",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://arxiv.org/abs/2508.11579",
+        "search": {
+            "id": "ws_68a6aeb9475c8197ab5f1703e216fdb80cb45f6c1d83a017",
+            "action": {
+                "query": "focus groups examined older adults\u2019 understanding of deepfake impersonation scams",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "https://arxiv.org/abs/2508.11576",
+        "search": {
+            "id": "ws_68a6aebf1ec481968ff3d44384c7f633009ff5d003b765e3",
+            "action": {
+                "query": "\"The presented work systematically investigates\" \"Temporal understanding remains a core challenge\" \"Temporal understanding plays a vital role\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://arxiv.org/abs/2508.11575",
+        "search": {
+            "id": "ws_68a6aec55940819595733b45dfb07d500a8027c00f29627d",
+            "action": {
+                "query": "Nges Brian Njungle Michel A. Kinsy Fully Homomorphic Encryption ResNet-20 ReLU polynomial approximation square function",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://arxiv.org/abs/2508.11574",
+        "search": {
+            "id": "ws_68a6aecaa3c481969798a979d3f6cd7c0fafb60c258bfe15",
+            "action": {
+                "query": "distributed computing architecture Digital Twins Mobile Edge Computing software-defined vehicular networking framework research challenge integrating technologies",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://arxiv.org/abs/2508.11573",
+        "search": {
+            "id": "ws_68a6aecf52cc819398bf3fcf7ad9f8b80ba68d421aa394f8",
+            "action": {
+                "query": "\"Something\" is motivated by the observed complexity of the spraying process and Automatic Section Control (ASC) in open-space agriculture. \"Automatic Section Control (ASC)\" \"in a certain way\" spray overlap areas. \"Something\" is a long-standing trend for spraying in agriculture.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "The paper titled \"Temporal Network Analysis of Microservice Architectural Degradation\" discusses how temporal networks arise in microservice systems when analyzing the architecture across different releases or monitoring a deployed system using tracing. It also explores the study of networks as evolving over time and the challenges in obtaining and analyzing temporal networks from microservice systems. ([arxiv.org](https://arxiv.org/abs/2508.11571?utm_source=openai))\n\nAdditionally, the paper \"System States Forecasting of Microservices with Dynamic Spatio-Temporal Data\" addresses the dynamic and complex spatio-temporal relationships among microservice instances, highlighting the importance of considering both spatial and temporal dimensions in system state prediction. ([arxiv.org](https://arxiv.org/abs/2408.07894?utm_source=openai))\n\nThese sources collectively cover the mentioned information in the context of microservice systems and temporal networks.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6aed73dbc81969fe3a420789f118903449c13b86023e7",
+            "action": {
+                "query": "microservice systems temporal networks evolving over time certain kind of data",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://arxiv.org/abs/2405.08377",
+        "search": {
+            "id": "ws_68a6aede9354819789157c7f3a4348de0bf03a26d4900469",
+            "action": {
+                "query": "\"T-metacell\" framework ASP-completeness Hamiltonicity Tang NP-completeness puzzles",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://arxiv.org/abs/2508.11569",
+        "search": {
+            "id": "ws_68a6aee5889881948d51bda2908b0e58069ce746093ad774",
+            "action": {
+                "query": "TrajSV sports video representations effectiveness task-agnostic",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://arxiv.org/abs/2508.11567",
+        "search": {
+            "id": "ws_68a6aeea25a48194b4a068950dde92fc0249e85c7ee2447e",
+            "action": {
+                "query": "multi-agent-based interactive framework for mental health assessment adaptive questioning mechanism in AgentMental alleviate evaluations conducted on",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://arxiv.org/abs/2508.11565",
+        "search": {
+            "id": "ws_68a6aef025d48194a544e2370415ca460f890ac8062cfd31",
+            "action": {
+                "query": "The Information Flow Network (INFNet) architecture task-awareness",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://arxiv.org/abs/2508.11563",
+        "search": {
+            "id": "ws_68a6aef64a188190be31ecf2e1314c500d1731c25b99c5e4",
+            "action": {
+                "query": "Frequency analysis cryptanalytic technique leakage-abuse attacks challenging attacker first to focus current work",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://arxiv.org/abs/2508.11561",
+        "search": {
+            "id": "ws_68a6aefc53648196a25e3f4e0fb425530305444d15050216",
+            "action": {
+                "query": "\"Dissipative Energy Flow (DEF)\" method SSCI diagnosis \"automation-friendly tool\" \"IBR-rich grids\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "The paper titled \"A Tight Lower Bound for Doubling Spanners\" discusses the transformation of the net-tree spanner into a spanner with lightness \\(\\tilde{O}(\\epsilon^{-(d+1)})\\) in doubling metrics. ([arxiv.org](https://arxiv.org/abs/2508.11555?utm_source=openai))\n\nIt also establishes that in doubling metrics, any \\((1+\\epsilon)\\)-spanner must have lightness \\(\\tilde{\\Omega}(\\epsilon^{-(d+1)})\\). ([arxiv.org](https://arxiv.org/abs/2508.11555?utm_source=openai))\n\nAdditionally, the paper presents a construction of a \\((1+\\epsilon)\\)-spanner with \\(\\tilde{O}(n \\cdot \\epsilon^{-d})\\) edges in doubling metrics. ([arxiv.org](https://arxiv.org/abs/2508.11555?utm_source=openai))\n\nThese results are detailed in the paper \"A Tight Lower Bound for Doubling Spanners\" by An La, Hung Le, Shay Solomon, Cuong Than, Vinayak, Shuang Yang, and Tianyi Zhang, published on August 15, 2025. ([arxiv.org](https://arxiv.org/abs/2508.11555?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6af02d360819796af012e7ba2ad590360df2489ddd4bd",
+            "action": {
+                "query": "\"doubling metrics\" \"net-tree spanner\" \"O~\" \"(1+)-spanner\" \"X must have ~()\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://arxiv.org/abs/2508.11553",
+        "search": {
+            "id": "ws_68a6af22fcbc81968c57267e718f3c7d0c37cc116ae3c03f",
+            "action": {
+                "query": "\"SeamlessFlow data plane fully decouples the RL trainer\" \"SeamlessFlow addresses\" \"SeamlessFlow data plane in a certain way\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

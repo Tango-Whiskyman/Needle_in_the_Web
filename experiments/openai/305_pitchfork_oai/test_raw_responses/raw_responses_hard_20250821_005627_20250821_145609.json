@@ -1,0 +1,405 @@
+[
+    {
+        "id": 0,
+        "source": "https://elsevier-elibrary.com/contents/fullcontent/76486/epubcontent_v2/OEBPS/xhtml/B9780323081351000127.htm",
+        "search": {
+            "id": "ws_68a6c20d93808195978e2205ef1c3b070878becd3e5ab73b",
+            "action": {
+                "query": "All silver halide crystals are sensitive to; Silver halide crystals can be formed using; can be changed to alter performance for given crystal density",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://manualzz.com/doc/6854033/newtek-aura-software-user-manual",
+        "search": {
+            "id": "ws_68a6c2157c4481969830707321310ba00f4d5cfc1028b2f4",
+            "action": {
+                "query": "Aura Light color temperature adjustment editing suite",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found separate sources that cover each topic:\n\n1. **Background noise categories for Audio Eraser**: The Audio Magic Eraser feature on Google Pixel 8 and Pixel 8 Pro categorizes sounds into types such as speech, crowd noise, wind, music, and background noise (e.g., nature sounds). ([techsolutions.support.com](https://www.techsolutions.support.com/how-to/use-audio-magic-eraser-a-complete-guide-for-pixel-users?utm_source=openai))\n\n2. **Adjustment of hue, saturation, and luminance for a specific color in an image**: The Noise Reduction tool in Aperty allows users to adjust luminance and color noise reduction separately, helping to reduce unwanted grain or noise in images. ([userguide.skylum.com](https://userguide.skylum.com/hc/en-us/articles/22431622565650-Working-with-the-Essential-Tools?utm_source=openai))\n\n3. **Queries to Gemini**: The InterviewGemini platform provides interview questions related to image-enabled processing, including topics on image filtering and enhancement. ([skills.interviewgemini.com](https://skills.interviewgemini.com/interviews/interview-questions-for-image-enabled-processing/?utm_source=openai))\n\nUnfortunately, I couldn't locate a single webpage that encompasses all three topics.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c21d38908193bb4d3abda4284ccd0655c408b8885abc",
+            "action": {
+                "query": "Background noise categories for Audio Eraser include 'certain things' 'Something' allows adjustment of hue, saturation, and luminance for a specific color in an image Queries can be made 'in a certain way' to Gemini",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://petapixel.com/2025/07/26/samyang-85mm-f-1-8-prima-fe-review-affordable-sharp-and-small/",
+        "search": {
+            "id": "ws_68a6c2276dd08195b2f03354f2b0d4c40b87dd8e82727a10",
+            "action": {
+                "query": "Samyang 85mm f/1.8 P FE rubber gasket Omatsuri festival",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c22f42bc819494d85ea31e5d766e0cb16e2cce6714c3",
+            "action": {
+                "query": "This issue can create `in a certain way`. `Something` functions almost as an independent system. A rule can be set for a Glyph Interface animation to pop up `in a certain way`.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c23589548194b8e7d4b4c1ae78ee01cc2060d20dd1ca",
+            "action": {
+                "query": "flash switch closed position shutter positions top switch right",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://patents.google.com/patent/US8839464B2/en",
+        "search": {
+            "id": "ws_68a6c23bccf08194b541301cbb8af1320a2a7c311a4c84df",
+            "action": {
+                "query": "hidden pocket exterior material state contributes",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses Phoenix II's performance in bright sun conditions and its handling of transitions between highlights and darks:\n\n([bluemooncameracodex.com](https://bluemooncameracodex.com/film-fridays/harman-phoenix-ii?utm_source=openai))\n\nAdditionally, another webpage provides insights into Fujifilm 200's characteristics:\n\n([bluemooncameracodex.com](https://bluemooncameracodex.com/film-fridays/harman-phoenix-200?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c243f7c08196a13acb37866b6bc60a719676c766dc69",
+            "action": {
+                "query": "Phoenix II bright sun conditions Fujifilm 200 highlights and darks",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses the visibility of filter edges when using magnetic holders:\n\n([fredmiranda.com](https://www.fredmiranda.com/forum/topic/1731459/0%26year%3D2021?utm_source=openai))\n\nAdditionally, another webpage mentions a lens with a USB-C port for firmware updates:\n\n([dustinabbott.net](https://dustinabbott.net/tag/sharpness/?utm_source=openai))\n\nRegarding specular highlights exhibiting a certain visual characteristic, I found a webpage discussing how some lenses produce specular highlights with a teardrop or comet shape, known as comatic aberration:\n\n([explora90.rssing.com](https://explora90.rssing.com/chan-39369102/all_p23.html?utm_source=openai))\n\nUnfortunately, I couldn't locate a single source that combines all three pieces of information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c24b48dc8196ac6d9af0d9fd6971098b0a922ffa5933",
+            "action": {
+                "query": "lens certain filters edges visible single filter magnetic holder port firmware updates specular highlights messy",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://fstoppers.com/reviews/laowas-new-8-15mm-fisheye-lens-world-creativity-awaits-703248",
+        "search": {
+            "id": "ws_68a6c25581288196bae7a072a6886d7205bb2baf9671b50d",
+            "action": {
+                "query": "Laowa 8-15mm lens does not operate protruding front element does not have",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses the performance of the Nikon Z 14-30mm f/4 S lens, including its sharpness at various focal lengths and apertures. The review notes that at 14mm, the center sharpness is excellent wide open, but the corners are fair to good due to field curvature and some coma smearing. Stopping down improves corner sharpness, but the extreme corners never quite match the center performance. At 30mm, the center sharpness is very good at f/4 and reaches excellence at f/5.6, while the corners require stopping down to f/11 to improve, though diffraction may affect overall sharpness at that aperture. ([zsystemuser.com](https://www.zsystemuser.com/z-mount-lenses/nikkor-lenses/nikon-z-mount-lens-reviews/nikon-14-30mm-f4-s-lens.html?utm_source=openai))\n\nAdditionally, another review of the same lens mentions that at 14mm, stopping down from f/4 to f/5.6 and f/8 improves corner sharpness, with f/5.6 yielding pleasing results on close inspection. At 30mm, there is a perceptible drop in sharpness when used wide open, and stopping down to f/5.6 helps locate the lens's sweet spot. ([amateurphotographer.com](https://amateurphotographer.com/review/nikkor-z-14-30mm-f-4-s/?utm_source=openai))\n\nThese reviews provide insights into the lens's performance at different focal lengths and apertures, highlighting the need to stop down for improved corner sharpness, particularly at 30mm.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c25d3b4481949873879a5c15632f0d631555906f0b23",
+            "action": {
+                "query": "Nikon Z-mount does not allow for something Stopping down the lens at 16mm provides only in a certain state in sharpness The corners at the 30mm range suffer from softness and require stopping down in a certain way",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://www.dimension-polyant.com/x-pac/",
+        "search": {
+            "id": "ws_68a6c269b3a08197958e8d0bfe98bae308f0f645d3c3b6ad",
+            "action": {
+                "query": "X-Pac material properties uses",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://www.techradar.com/pro/terramaster-f4-424-pro-nas-review",
+        "search": {
+            "id": "ws_68a6c273f18481978099af9df9835fea02806f492bb152c4",
+            "action": {
+                "query": "TerraMaster F4-424 RAM expandable PCIe slot missing feature",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c27ba1d88197abbdceb9c409c3180e0bc868d42b8b64",
+            "action": {
+                "query": "Z21 camera backgrounds render Flare state weight",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c2839cc88197a48c298caa5cb13107aa5d0b771c9ac3",
+            "action": {
+                "query": "Commercial-grade surge protectors typically lack something Genki technology six years 30W charging suitable devices",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.genkithings.com/products/moonbase",
+        "search": {
+            "id": "ws_68a6c28adca881978c8c4951c954b4ef04d3e7bed57b19d5",
+            "action": {
+                "query": "Genki Moonbase power ports price",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://pictory.ai/picture-to-video",
+        "search": {
+            "id": "ws_68a6c290a00481958ad704ebb0fe9e640d50b9d0a474d72b",
+            "action": {
+                "query": "image-to-video generator max clips single picture Extract Text includes Create section",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the following sources provide relevant details:\n\n- **Detent helps users discern state**:\n  - The Thypoch Eureka 50mm f/2 lens features an infinity lock mechanism, which serves as a detent to help users identify when the lens is set to infinity focus. ([bhphotovideo.com](https://www.bhphotovideo.com/explora/photography/hands-on-review/hands-on-review-thypochs-tiny-collapsible-eureka-50mm-f2-rangefinder?utm_source=openai))\n\n- **Aluminum cap for the Eureka 50mm f/2**:\n  - The lens comes with a matching lens hood and UV filter, both constructed from metal, ensuring they stay securely in place. ([jonasraskphotography.com](https://jonasraskphotography.com/2024/11/11/retrolicious-modernism-the-thypoch-eureka-50mm-f-2/?utm_source=openai))\n\n- **Distinct lack of something available on the market**:\n  - The Eureka 50mm f/2 lens stands out due to its unique collapsible design, a feature not commonly found in modern lenses, offering photographers a compact and portable option reminiscent of vintage lenses. ([bhphotovideo.com](https://www.bhphotovideo.com/explora/photography/hands-on-review/hands-on-review-thypochs-tiny-collapsible-eureka-50mm-f2-rangefinder?utm_source=openai))\n\nWhile no single webpage encompasses all these details, the above sources collectively provide the information sought.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c29961708196928a70239ec3793105ae1b6e94161a05",
+            "action": {
+                "query": "detent helps users discern state aluminum cap Eureka 50mm f/2 lack of market",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- The lens hood of the Sirui Aurora 85mm f/1.4 features something.\n- Longitudinal chromatic aberration (LoCA) is in a certain state on the Sirui Aurora 85mm f/1.4.\n- The Sony G Master 85mm f/1.4 II weighs a certain amount.\n\nHowever, I found separate sources that provide information on each of these points:\n\n1. **Sirui Aurora 85mm f/1.4 Lens Hood Features**: The lens hood is included to reduce lens flare and act as a form of protection from accidental impacts. ([bhphotovideo.com](https://www.bhphotovideo.com/c/product/1859979-REG/sirui_au85_e_aurora_85mm_f_1_4_autofocus.html/overview?utm_source=openai))\n\n2. **Longitudinal Chromatic Aberration (LoCA) in Sirui Aurora 85mm f/1.4**: The lens incorporates advanced optical elements, including an aspherical lens, ED glass, and HRI glass, which work together to enhance image quality while minimizing weight. These components ensure outstanding optical performance by effectively controlling flare and ghosting, even in challenging backlit conditions. ([adorama.com](https://www.adorama.com/srau85.html?utm_source=openai))\n\n3. **Weight of Sony FE 85mm f/1.4 GM II**: The Sony FE 85mm f/1.4 GM II weighs 642g. ([cameradecision.com](https://cameradecision.com/lenses/compare/Sirui-Aurora-85mm-F1.4-AF-X-vs-Sony-FE-85mm-F1.4-GM-II?utm_source=openai))\n\nUnfortunately, I couldn't locate a single webpage that consolidates all this information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c2a4fc008196b1d30bc19f95bc460e4d7eb712331481",
+            "action": {
+                "query": "Sirui Aurora 85mm f/1.4 lens hood and LoCA, Sony G Master 85mm f/1.4 II weight",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c2aef398819097d53716330019bc0410a7299786e9dd",
+            "action": {
+                "query": "Pushing the control dial cycles between settings older technology Jogging the control dial adjusts selected setting",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://www.amazon.com/Haoge-Protection-Integrated-LUV-XVIS-Multi-Waterproof/dp/B0D97TLPBH",
+        "search": {
+            "id": "ws_68a6c2b657d88197a2106ab9d2e14b9007bd724a4de4636f",
+            "action": {
+                "query": "something reduces ghosting and flare fabric cover protects during storage attachment involves",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **USB-C Port on Viltrox 85mm f/1.4 Pro**: The USB-C port is used for firmware updates. By connecting the lens to a USB charger, you can update the firmware via Bluetooth using the Viltrox app. ([digitalcameraworld.com](https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-85mm-f-1-4-pro-review-ready-for-your-close-up-its-portrait-prime-time?utm_source=openai))\n\n- **Minimal Optical Phenomenon in Video Work**: The lens exhibits some focus breathing, but at regular portrait distances, this effect is minimal and unlikely to be noticeable when pulling focus from one subject to another. ([petapixel.com](https://petapixel.com/2025/06/21/viltrox-fe-85mm-f-1-4-pro-review-sharpness-and-character-at-a-low-cost/?utm_source=openai))\n\n- **Optical Issue Causing Color Fringing**: The lens shows a bit of longitudinal chromatic aberration (LoCA) at wider apertures, leading to color fringing in out-of-focus foreground and background areas. ([petapixel.com](https://petapixel.com/2025/06/21/viltrox-fe-85mm-f-1-4-pro-review-sharpness-and-character-at-a-low-cost/?utm_source=openai))\n\nWhile these sources cover the individual points, they do not all appear on a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c2be5a608197b5260674fe350d580e23b5d113ae2b69",
+            "action": {
+                "query": "Viltrox 85mm f/1.4 Pro USB-C purpose optical phenomenon minimal video portrait focus optical issue color fringing",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh/bi/4271/kbid",
+        "search": {
+            "id": "ws_68a6c2c83d9c8190b367e5fb7cbaaff9028792631405447e",
+            "action": {
+                "query": "LoCA out-of-focus areas soap-bubble effect backgrounds after capture",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://www.pointworks.de/software/custommenu-3/",
+        "search": {
+            "id": "ws_68a6c2cf656c8196868b9f47497187a80f49daa9ffe8048d",
+            "action": {
+                "query": "customizable functions custom menu system takes up little space",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://nisiopticsusa.com/the-essential-nisi-filter-accessories-for-the-fujifilm-x100-series/",
+        "search": {
+            "id": "ws_68a6c2d43d848196b49bfdac893f942b0929f5ef7749ae07",
+            "action": {
+                "query": "Fujifilm X100 cameras filter adapter lower price very compact very sharp resistant to flare",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c2dbf2e481938bdda3827756b5150f04ffd59d39c928",
+            "action": {
+                "query": "\"Kyu has no something\" \"something is central to Kyu's philosophy\" \"the spherical design symbolizes something\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c2e31ed48190a11c89db3fe93ab00ae84c97118afa7f",
+            "action": {
+                "query": "The two-tap process for mode switching Greg Williams Look Suggest & vote on features",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://www.panasonic.com/sg/consumer/camera-camcorder/lumix-s-series-camera-learn/technology/this-is-the-optical-design-department-seventh-edition.html",
+        "search": {
+            "id": "ws_68a6c2e9e4fc819486730bf824330fcf0d2ae0eadba12aca",
+            "action": {
+                "query": "Panasonic core strength minimum focusing distance 24-60mm lens lens breathing",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c2f1ca948196b97527abb31c0e7d0a23793bdc33bf25",
+            "action": {
+                "query": "\"The removable belt plays in a certain way\" \"The removable belt offers in a certain state\" \"keeps the belt neatly out of the way when not needed\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://phillipreeve.net/blog/review-laowa-15mm-4-5-zero-d-shift/",
+        "search": {
+            "id": "ws_68a6c2fa1e7c8194aa3a8ebb47d5f69909eee4342024e31a",
+            "action": {
+                "query": "Laowa 15mm f/4.5 lens ghosting distortion firmware update",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://petapixel.com/2025/05/28/sony-fx2-review-slow-and-steady-might-win-this-race/",
+        "search": {
+            "id": "ws_68a6c301bcc481979e81e060f77a814a097e96b89dd73f41",
+            "action": {
+                "query": "Something largely eliminates rolling shutter artifacts in photos, HDMI USB ports FX2, Something crop factor",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

@@ -1,0 +1,934 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+A high-quality SFT dataset of approximately 500K samples is curated from **something** for Thyme.
+
+Existing approaches for MLLMs to incorporate visual inputs generally fall into **something**.
+
+Thyme's RL dataset primarily consists of **something**. 
+A high-quality SFT dataset of approximately 500K samples is curated from over 4 million raw data sources for Thyme.
+
+Existing approaches for MLLMs to incorporate visual inputs generally fall into two categories: "thinking with generated images" and "thinking with cropping."
+
+Thyme's RL dataset primarily consists of two parts.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+On the CMMD dataset, GPT-5 reached a certain percentage abnormality detection.
+
+Performance in mammogram interpretation can vary significantly even among certain people.
+
+Certain models further extend advances in AI for medical imaging. 
+On the CMMD dataset, GPT-5 reached 32.3% abnormality detection.
+
+Performance in mammogram interpretation can vary significantly even among expert radiologists.
+
+Large vision-language models further extend advances in AI for medical imaging.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+Performance deteriorates when `something` are loaded simultaneously into a single model instance.
+
+Similarities are used to construct a spatially-aware weight matrix in `something`.
+
+The distribution of a LoRA-adapted model `in a certain way` from that of the base model. 
+Performance deteriorates when multiple LoRA adapters are loaded simultaneously into a single model instance.
+
+Similarities are used to construct a spatially-aware weight matrix in LoRAtorio.
+
+The distribution of a LoRA-adapted model diverges from that of the base model.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+Grab-n-Go achieved an average recognition accuracy to a certain extent in an initial user study.
+
+The two user studies validated Grab-n-Go's in a certain state.
+
+A customized deep learning model infers microgestures from something. 
+Grab-n-Go achieved an average recognition accuracy of 92.0% in an initial user study.
+
+The two user studies validated Grab-n-Go's robustness.
+
+A customized deep learning model infers microgestures from echo profiles.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+The user study included something.
+
+The Grab-n-Go wristband uses something.
+
+Diverse object geometries lead to something. 
+The user study included 5 diverse objects per grasping pose, totaling 25 objects.
+
+The Grab-n-Go wristband uses two speaker-microphone pairs.
+
+Diverse object geometries lead to different grasping poses and signal variations.
+
+**********Web Search Result**********
+
+https://www.researchgate.net/publication/394524770_Grab-n-Go_On-the-Go_Microgesture_Recognition_with_Objects_in_Hand
+
+**********Source Check**********
+
+The claim 'The user study included something.' is supported by the citation.
+<accept> The content explicitly states multiple times that "a user study with 10 participants and 25 everyday objects" was conducted, and also mentions a "follow-up study with 8 additional participants" and "10 more challenging, deformable objects". This directly confirms that the user study "included something" (participants and objects). </accept>
+
+**********Source Check**********
+
+The claim 'The Grab-n-Go wristband uses something.' is supported by the citation.
+<accept> The text explicitly states that "Grab-n-Go, a wristband embedded with active acoustic sensing" and "Grab-n-Go employs active acoustic sensing". </accept>
+
+**********Source Check**********
+
+The claim 'Diverse object geometries lead to something.' is supported by the citation.
+<accept> The content explicitly states under "1 Introduction" and "The presence of objects in hand introduces unique challenges for active acoustic sensing:" that "(1) Diverse Object Geometries: Varying object shapes lead to different grasping poses and signal variations." This directly answers the prompt. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The user study included 5 diverse objects per grasping pose, totaling 25 objects.' is supported by the original webpage.
+<accept> The content explicitly states: "To ensure generalizability, we included 5 diverse objects per grasping pose, totaling 25 objects." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Grab-n-Go wristband uses two speaker-microphone pairs.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the caption for Figure 1: "With two speaker-microphone pairs on each side of the wrist emitting and receiving the acoustic waves..." Additionally, the "1. Introduction" section mentions: "Grab-n-Go employs active acoustic sensing by using two embedded speakers to emit inaudible acoustic waves... Two microphones on the wristband capture the reflected waves..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Diverse object geometries lead to different grasping poses and signal variations.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1. Introduction" section under the sub-heading "The presence of objects in hand introduces unique challenges for active acoustic sensing", specifically in point (1): "Diverse Object Geometries: Varying object shapes lead to different grasping poses and signal variations." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11618v1 
+Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective 
+CO2 storage sites are often located in certain types of basins that previously served as sites for hydrocarbon extraction or wastewater disposal.
+
+Large-scale GCS deployments often involve a certain number of sites, complex monitoring and regulatory requirements, and diverse stakeholder participation.
+
+Optimization of a GCS system requires multiple forward evaluations of certain types of models. 
+CO2 storage sites are often located in geologically mature basins that previously served as sites for hydrocarbon extraction or wastewater disposal.
+
+Large-scale GCS deployments often involve multiple injection sites, complex monitoring and regulatory requirements, and diverse stakeholder participation.
+
+Optimization of a GCS system requires multiple forward evaluations of high fidelity models.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11616v1 
+Controlling Multimodal LLMs via Reward-guided Decoding 
+Extensive experiments show that an inherent trade-off exists between something in MLLMs.
+
+The method allows something of an MLLM’s outputs.
+
+MRGD employs something. 
+Extensive experiments show that an inherent trade-off exists between object precision and recall in MLLMs.
+
+The method allows test-time controllability of an MLLM’s outputs.
+
+MRGD employs two reward functions.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11613v1 
+Adaptive Cardio Load Targets for Improving Fitness and Performance 
+Active Zone Minutes (AZMs) are in a certain state in health guidelines.
+
+Heart rate elevation from psychological stress is in a certain way for Cardio Load calculation.
+
+One simple calculation of intensity is something. 
+Active Zone Minutes (AZMs) are well publicized in health guidelines.
+
+Heart rate elevation from psychological stress is discarded for Cardio Load calculation.
+
+One simple calculation of intensity is the percentage heart rate reserve (%HRR).
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+Something with an accompanying Jacobi metric are relevant to this work.
+
+The approach is demonstrated on something.
+
+Any geodesic of such a metric is also something. 
+Lagrangian systems with an accompanying Jacobi metric are relevant to this work.
+
+The approach is demonstrated on a Keplerian system.
+
+Any geodesic of such a metric is also a dynamically feasible trajectory.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+Transformers have achieved state-of-the-art results for `something`.
+
+In telecommunications, audio fingerprinting has been employed `in a certain way`.
+
+Recent advances, such as `something`, combine peak extraction techniques with contrastive learning. 
+Transformers have achieved state-of-the-art results in speech recognition.
+
+In telecommunications, audio fingerprinting has been employed to search for duplicate audio when identifying unsolicited phone calls or to improve network performance by quickly identifying announcements played during session initiation.
+
+Recent advances, such as PeakNetFP, combine peak extraction techniques with contrastive learning.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11608v1 
+A multigrid method for CutFEM and its implementation on GPU 
+The smoother is a parallel implementation of something.
+
+In the related method, something for all cut cells is combined with a Jacobi method on uncut cells.
+
+In prior work, something is used inside two subdomains. 
+The smoother is a parallel implementation of the multiplicative vertex-patch smoother.
+
+In the related method, a cell-based additive Schwarz method for all cut cells is combined with a Jacobi method on uncut cells.
+
+In prior work, a Gauss-Seidel smoother is used inside two subdomains.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+Specialized models can do something in diverse settings.
+
+Ambiguity and creative extrapolation are inherent in something.
+
+The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s something. 
+Ambiguity and creative extrapolation are inherent in human cognition.
+
+Specialized models can power automated discovery mechanisms in diverse settings.
+
+The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s Default Mode Network (DMN).
+
+**********Web Search Result**********
+
+https://www.researchgate.net/publication/232426610_Implicit_Theories_of_Intelligence_Creativity_and_Wisdom
+
+**********Source Check**********
+
+The claim 'Specialized models can do something in diverse settings.' is supported by the citation.
+<accept> The article "TinyTim: A Family of Language Models for Divergent Generation" explicitly states that "such specialized models can function as divergent knowledge sources within more extensive creative architectures, powering automated discovery mechanisms in diverse settings." </accept>
+
+**********Source Check**********
+
+The claim 'Ambiguity and creative extrapolation are inherent in something.' is supported by the citation.
+<accept> The text explicitly states, "...This issue reflects long-standing critiques of artificial reason, where formal systems struggle with the ambiguity and creative extrapolation inherent in human cognition..." This sentence directly supports the claim that ambiguity and creative extrapolation are inherent in something (specifically, human cognition). </accept>
+
+**********Source Check**********
+
+The claim 'The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s something.' is supported by the citation.
+<accept> The content explicitly states: "Human creativity is often described by dual-process theories that posit an interplay between focused, convergent thinking for evaluation and associative, divergent thinking for ideation. This cognitive duality is linked neuroscientifically to the dynamic coupling of the brain's Executive Control Network (ECN) and Default Mode Network (DMN)." This directly confirms the provided information. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Ambiguity and creative extrapolation are inherent in human cognition.' is supported by the original webpage.
+<accept> The content explicitly states: "This issue reflects long-standing critiques of artificial reason, where formal systems struggle with the ambiguity and creative extrapolation inherent in human cognition ( dreyfus1992,); piantadosi2022meaning,))." This directly mentions that ambiguity and creative extrapolation are inherent in human cognition. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Specialized models can power automated discovery mechanisms in diverse settings.' is supported by the original webpage.
+<accept> The abstract explicitly states that "such specialized models can function as divergent knowledge sources within more extensive creative architectures, powering automated discovery mechanisms in diverse settings." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s Default Mode Network (DMN).' is supported by the original webpage.
+<accept> The text explicitly states: "Human creativity is often described by dual-process theories that posit an interplay between focused, convergent thinking for evaluation and associative, divergent thinking for ideation... This cognitive duality is linked neuroscientifically to the dynamic coupling of the brain’s Executive Control Network (ECN) and Default Mode Network (DMN)". This directly supports the claim that the cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s Default Mode Network (DMN). </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on something.
+
+Synthetic training data results in a slight quality drop on something, yielding an F-score of 0.686 compared to 0.703 for real data training.
+
+In visual entailment (VE) tasks, in a certain way, while the hypothesis remains in text form. 
+For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on CLIP feature vectors.
+
+Synthetic training data results in a slight quality drop on SNLI-VE, yielding an F-score of 0.686 compared to 0.703 for real data training.
+
+In visual entailment (VE) tasks, an image substitutes the premise, while the hypothesis remains in text form.
+
+**********Web Search Result**********
+
+https://chatpaper.com/paper/180927
+
+**********Source Check**********
+
+The claim 'For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on something.' is supported by the citation.
+<accept> The content explicitly states: "For extrinsic evaluation, we evaluate the validity of the generated images by using them as training data for a visual entailment classifier based on CLIP feature vectors." This directly matches the information provided, specifying "CLIP feature vectors" as the basis. </accept>
+
+**********Source Check**********
+
+The claim 'Synthetic training data results in a slight quality drop on something, yielding an F-score of 0.686 compared to 0.703 for real data training.' is supported by the citation.
+<accept> The content explicitly states: "We find that synthetic training data only leads to a slight drop in quality on SNLI-VE, with an F-score 0.686 compared to 0.703 when trained on real data." This directly matches the information provided. </accept>
+
+**********Source Check**********
+
+The claim 'In visual entailment (VE) tasks, in a certain way, while the hypothesis remains in text form.' is NOT supported by the citation.
+<reject> The content explains how they create an image to replace the textual premise in their dataset for visual entailment. However, it does not explicitly state that the hypothesis remains in text form in visual entailment tasks, only that the premise is converted to an image. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11603v1 
+CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion 
+Existing approaches often fail to maintain cross-view consistency without something.
+
+This approach ensures something.
+
+When significant disparity exists among per-view editing results, CCA tends to act in a certain way. 
+Existing approaches often fail to maintain cross-view consistency without explicit control over multi-view information exchange.
+
+This approach ensures preliminary alignment of the global editing style.
+
+When significant disparity exists among per-view editing results, CCA tends to "average" these edits.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2508.11603?
+
+**********Source Check**********
+
+The claim 'Existing approaches often fail to maintain cross-view consistency without something.' is NOT supported by the citation.
+<reject> The provided content is empty, so the information cannot be explicitly mentioned. </reject>
+
+**********Source Check**********
+
+The claim 'This approach ensures something.' is NOT supported by the citation.
+<reject> The provided content is empty, so the information "This approach ensures something" cannot be explicitly mentioned. </reject>
+
+**********Source Check**********
+
+The claim 'When significant disparity exists among per-view editing results, CCA tends to act in a certain way.' is NOT supported by the citation.
+<reject> The provided content is empty, so no information, including the one in question, can be found or explicitly mentioned within it. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+AuriStream's framework does not rely on something.
+
+Human speech perception mechanisms learn something over the audio signal.
+
+Someone learns compressed representations by retaining essential information for audio reconstruction. 
+AuriStream's framework does not rely on signal-reconstruction objectives.
+
+Human speech perception mechanisms learn robust invariances over the audio signal.
+
+Neural audio codecs learn compressed representations by retaining essential information for audio reconstruction.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring 
+As **something** increases, the fruit may slip in the grasp and enter a slip state.
+
+**Something** faced challenges in identifying other critical transitions, such as from slip to a successful pick.
+
+The work evaluates the **something** of each sensor. 
+As tension increases, the fruit may slip in the grasp and enter a slip state.
+
+The baseline study faced challenges in identifying other critical transitions, such as from slip to a successful pick.
+
+The work evaluates the individual contribution of each sensor.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation 
+A certain study demonstrated notable success in detecting slip events.
+
+Unstructured settings, such as something, remain challenging for robots.
+
+Fruit is in a certain state to the plant, requiring precise separation during harvesting. 
+The previous study by Walt and Krishnan (2023) demonstrated notable success in detecting slip events.
+
+Unstructured settings, such as polycultures and urban high tunnels, remain challenging for robots.
+
+Fruit is physically attached to the plant, requiring precise separation during harvesting.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11584v1 
+Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks 
+`something` enables mobile machines to interpret complex environments.
+
+`something` fosters extendability.
+
+The VPEngine framework is written in `something`. 
+Visual perception enables mobile machines to interpret complex environments.
+
+VPEngine's modularization fosters extendability.
+
+The VPEngine framework is written in Python.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+Adaptive Length Management encourages in a certain way.
+
+DR. SAF enforces something.
+
+Experimental results demonstrate that DR. SAF achieves in a certain state. 
+Adaptive Length Management encourages longer exploration beyond the Completely Infeasible Reasoning Boundary (CIRB).
+
+DR. SAF enforces boundary-driven length adaptation.
+
+Experimental results demonstrate that DR. SAF achieves a 49.27% reduction in total response tokens with minimal loss in accuracy.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+The study contributes something.
+
+Intergenerational support strategies are especially relevant when certain people are victimized.
+
+Deepfake impersonation scams have recently prompted something. 
+The study contributes a greater understanding of older adults’ reliance on interpersonal networks for scam response.
+
+Intergenerational support strategies are especially relevant when two parties, older adults and youth, are victimized.
+
+Deepfake impersonation scams have recently prompted media coverage.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11576v1 
+Causality Matters: How Temporal Information Emerges in Video Language Models 
+It is commonly assumed that using a more sophisticated positional encoding function leads directly to in a certain state.
+
+Temporal cues are in a certain way through inter-frame attention.
+
+Something is aggregated in the final video frame. 
+It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness.
+
+Temporal cues are progressively synthesized through inter-frame attention.
+
+Temporal information is aggregated in the final video frame.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2508.11576
+
+**********Source Check**********
+
+The claim 'It is commonly assumed that using a more sophisticated positional encoding function leads directly to in a certain state.' is supported by the citation.
+<accept> The text explicitly states in the "1 Introduction" section: "It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness." This directly matches the provided information, with "improved temporal awareness" being the specific state mentioned. </accept>
+
+**********Source Check**********
+
+The claim 'Temporal cues are in a certain way through inter-frame attention.' is supported by the citation.
+<accept> The abstract explicitly states: "We uncover a causal information pathway: temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." This directly mentions that temporal cues are synthesized through inter-frame attention. </accept>
+
+**********Source Check**********
+
+The claim 'Something is aggregated in the final video frame.' is supported by the citation.
+<accept> The abstract states, "temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." Section 5.3 also mentions, "This suggests that temporal information accumulates across frames, with the final frame serving as an aggregation point." The conclusion reiterates this, saying "temporal information is constructed through a causal pathway: it is causally aggregated across frames, integrated into the final frame, and subsequently refined within the query." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness.' is supported by the original webpage.
+<accept> The text explicitly states: "It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness." This appears in the "1 Introduction" section, directly supporting the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Temporal cues are progressively synthesized through inter-frame attention.' is supported by the original webpage.
+<accept> The abstract explicitly states: "temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Temporal information is aggregated in the final video frame.' is supported by the original webpage.
+<accept> The abstract explicitly states: "temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." Additionally, in the key takeaways section, it is mentioned: "Temporal information is progressively constructed via a multi-stage causal pathway: it emerges from long-range inter-video interactions, flows into the query through the final video frame where it is aggregated..." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+The square function achieves in a certain state in LeNet-5 models.
+
+Machine learning integration into applications in something raises privacy and security concerns.
+
+The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both in a certain way. 
+The square function achieves 99.4% accuracy in LeNet-5 models.
+
+Machine learning integration into applications in sensitive domains like healthcare and defense raises privacy and security concerns.
+
+The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both training and inference.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+Mobile Edge Computing (MEC) minimizes delays caused by `in a certain way`.
+
+Digital Twins (DTs) enable the analysis and prediction of system behavior without interfering with `something`.
+
+The developed algorithm is evaluated using `a certain tool`. 
+Mobile Edge Computing (MEC) minimizes delays caused by communication with distant cloud servers.
+
+Digital Twins (DTs) enable the analysis and prediction of system behavior without interfering with the physical environment.
+
+The developed algorithm is evaluated using a realistic connected autonomous vehicle (CAV) traffic simulation.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+Something is controlled across all three section control cases (1, 2, or multiple sections).
+
+The spraying process is affected by something.
+
+Multiple field runs are required throughout a crop cycle in a certain way. 
+The same total number of nozzles is controlled across all three section control cases (1, 2, or multiple sections).
+
+The spraying process is affected by a remarkable number of parameters.
+
+Multiple field runs are required throughout a crop cycle to apply different sprays.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11573v1
+
+**********Source Check**********
+
+The claim 'Something is controlled across all three section control cases (1, 2, or multiple sections).' is supported by the citation.
+<accept> The document states in the Introduction section, when discussing the three different setups for the number of sections (1, 2 or multiple sections), that "in all three cases always the same number of nozzles is controlled." It clarifies that the nozzles are then controlled either individually or uniformly depending on the section setup. </accept>
+
+**********Source Check**********
+
+The claim 'The spraying process is affected by something.' is supported by the citation.
+<accept> The abstract explicitly states, "many uncertainty factors have an effect such as cross wind drift, boom height, nozzle clogging in open-field conditions, and so forth." The introduction further elaborates, "The spraying process is affected by a remarkable amount of parameters." Section 2.1, titled "Complexity of the Spraying Process," begins by noting that "Table 1 lists factors that influence uncertainty of the spraying process... with 20 factors that all affect the spraying result." These statements clearly indicate that the spraying process is affected by various factors.</accept>
+
+**********Source Check**********
+
+The claim 'Multiple field runs are required throughout a crop cycle in a certain way.' is supported by the citation.
+<accept> The text explicitly states: "Throughout a crop cycle, multiple field runs are required to apply different sprays." This directly confirms that multiple field runs are required throughout a crop cycle and specifies the purpose ("to apply different sprays"), which can be interpreted as "in a certain way". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The same total number of nozzles is controlled across all three section control cases (1, 2, or multiple sections).' is supported by the original webpage.
+<accept> The text explicitly states, "Second, three different setups for the _number of sections_ are considered: 1, 2 or multiple sections... It is noted that in all three cases always the same number of nozzles is controlled." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The spraying process is affected by a remarkable number of parameters.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section, which says: "The spraying process is affected by a remarkable amount of parameters. These include nozzle type, spray fan angle, spray pressure, boom height, nozzle spray overlap, nozzle spacing, nozzle clogging, machinery traveling speed changes, cross wind for spray drift and more." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Multiple field runs are required throughout a crop cycle to apply different sprays.' is supported by the original webpage.
+<accept> The content explicitly states: "Throughout a crop cycle, multiple field runs are required to apply different sprays." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+Something can be modeled as a network of microservices making calls to each other.
+
+Temporal network analysis analyzes networks in a certain way.
+
+Networks representing microservice composition can be studied in a certain way. 
+Networks representing microservice composition can be studied as static networks.
+
+Temporal network analysis analyzes networks evolving with time.
+
+Microservice architecture can be modeled as a network of microservices making calls to each other.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+A certain version of an ASP-complete problem is #P-complete.
+
+All applicable puzzles follow the common rule of solving them in a certain way.
+
+A certain problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0. 
+The counting version of an ASP-complete problem is #P-complete.
+
+All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells.
+
+The k-ASP P problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2508.11570
+
+**********Source Check**********
+
+The claim 'A certain version of an ASP-complete problem is #P-complete.' is supported by the citation.
+<accept> The content explicitly states in section 1.1: "The decision version of a ASP-complete problem is NP-complete, the counting version is #P-complete". This directly mentions that the counting version of an ASP-complete problem is #P-complete. </accept>
+
+**********Source Check**********
+
+The claim 'All applicable puzzles follow the common rule of solving them in a certain way.' is supported by the citation.
+<accept> The document explicitly states: "All applicable puzzles follow the common rule of only traversing through orthogonally ad jacent cells." This sentence directly supports the claim that applicable puzzles follow a common rule of solving them in a certain way (i.e., by traversing through orthogonally adjacent cells). </accept>
+
+**********Source Check**********
+
+The claim 'A certain problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.' is supported by the citation.
+<accept> The information is explicitly mentioned in Section 1.1 under "ASP-Completeness and T-Metacell Framework". The text states: "the $k$ -ASP P problem — given an instance of $P$ and $k$ solutions, find another solution — is NP-complete for any $k \\geq 0$ \[18]." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The counting version of an ASP-complete problem is #P-complete.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1.1 ASP-Completeness and T-Metacell Framework" section, which states: "The decision version of a ASP-complete problem is NP-complete, the counting version is #P-complete, and the kk-ASP P problem — given an instance of PP and kk solutions, find another solution — is NP-complete for any k≥0k\\geq 0." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the provided content as a standalone sentence, following point 2 in section 1.1 and preceding section 1.2. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The k-ASP P problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.' is supported by the original webpage.
+<accept> The content explicitly states: "the kk-ASP P problem — given an instance of PP and kk solutions, find another solution — is NP-complete for any k≥0k\\geq 0." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11569v1 
+TrajSV: A Trajectory-based Model for Sports Video Representations and Applications 
+TrajSV utilizes something.
+
+TrajSV achieves state-of-the-art results in 9 out of 17 action categories for a certain application.
+
+Trajectories of a certain object can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns. 
+TrajSV utilizes raw broadcast videos available on the Web.
+
+TrajSV achieves state-of-the-art results in 9 out of 17 action categories for action spotting.
+
+Trajectories of a ball or player can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+Reliance on a certain process limits the ability of most existing automated psychological assessment approaches to capture deeper insights.
+
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture certain insights.
+
+Someone investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data. 
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture deeper insights.
+
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture more informative insights.
+
+Ohse et al. (2024) investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+Proxies in INFNet condense something into compact anchors.
+
+INFNet's design yields something.
+
+Directly feeding extremely large token sets into deep interaction layers is in a certain state. 
+Proxies in INFNet condense large token sets into compact anchors.
+
+INFNet's design yields a compact yet expressive backbone.
+
+Directly feeding extremely large token sets into deep interaction layers incurs prohibitive costs.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+Achieving something is the optimal outcome achievable through frequency analysis.
+
+A certain attack also relies on the assumption of search-pattern leakage.
+
+The aforementioned works overcome something by relying on additional leakage. 
+Outputting databases with the same response distribution is the optimal outcome achievable through frequency analysis.
+
+The attack in DBLP:journals/popets/MarkatouFET23 also relies on the assumption of search-pattern leakage.
+
+The aforementioned works overcome the uniformity assumption by relying on additional leakage.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+SSCIs may involve something at more than one frequency.
+
+SSCIs have been observed in grids in a certain state.
+
+SSCI mitigation can be achieved through something. 
+SSCIs may involve multiple components at more than one frequency.
+
+SSCIs have been observed in uncompensated grids.
+
+SSCI mitigation can be achieved through supplemental damping controls.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+1. SeamlessFlow introduces something.
+
+2. The tag-driven scheduling paradigm unifies something.
+
+3. Something significantly jeopardizes throughput in disaggregated designs when wall times drift. 
+SeamlessFlow introduces a tagging system.
+
+The tag-driven scheduling paradigm unifies colocated and disaggregated architectures.
+
+Pipeline bubbles significantly jeopardize throughput in disaggregated designs when wall times drift.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+Someone uses anomaly data from a testing dataset for training.
+
+Insufficient anomaly data poses something for industrial anomaly detection.
+
+AAG works in a certain way given a normal image, a mask, and a simple text prompt. 
+AnomalyControl uses anomaly data from a testing dataset for training.
+
+Insufficient anomaly data poses a dilemma for industrial anomaly detection.
+
+AAG operates given a normal image, a mask, and a simple text prompt.
+
+**********Web Search Result**********
+
+https://www.researchgate.net/publication/349812447_PaDiM_A_Patch_Distribution_Modeling_Framework_for_Anomaly_Detection_and_Localization
+
+**********Source Check**********
+
+The claim 'Someone uses anomaly data from a testing dataset for training.' is NOT supported by the citation.
+<reject> The content explicitly states that the MVTec AD dataset contains "normal, i.e., defect-free, images intended for training and images with anomalies intended for testing." This directly contradicts the idea of using anomaly data from a testing dataset for training. While some methods mention synthesizing anomalous data for training, none refer to using pre-existing anomaly data *from a testing dataset* for training. </reject>
+
+**********Source Check**********
+
+The claim 'Insufficient anomaly data poses something for industrial anomaly detection.' is supported by the citation.
+<accept> The content explicitly states that "Anomaly detection is a classical problem in computer vision... due to the insufficient sample size of the other class (abnormal)." This directly mentions that insufficient anomaly data (referred to as "insufficient sample size of the other class (abnormal)") poses a problem for anomaly detection. </accept>
+
+**********Source Check**********
+
+The claim 'AAG works in a certain way given a normal image, a mask, and a simple text prompt.' is NOT supported by the citation.
+<reject> The information about "AAG" and its working mechanism (given a normal image, a mask, and a simple text prompt) is not mentioned anywhere in the provided content. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+

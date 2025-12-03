@@ -1,0 +1,405 @@
+[
+    {
+        "id": 0,
+        "source": "https://www.newyorker.com/culture/pop-music/the-fiery-mania-of-dijons-baby",
+        "search": {
+            "id": "ws_68a6c33dad3c819080fc04820a7ee36b0ce7bc440e60cb40",
+            "action": {
+                "query": "Dijon Duenas music album Baby certain state lyrics certain way",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://pitchfork.com/reviews/albums/pool-kids-pool-kids/",
+        "search": {
+            "id": "ws_68a6c3448e148196b4edc8b9704618ba0444c36564f156ac",
+            "action": {
+                "query": "The 2022 something by Pool Kids juxtaposed math rock, \u201900s pop-punk, and post-hardcore elements musings about something and performative narcissists",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://imprintent.org/rio-da-yung-og-officially-announces-f-l-i-n-t-feelin-like-im-not-thru-his-next-album-coming-august-10th-via-m-i-n-e-ent-empire/",
+        "search": {
+            "id": "ws_68a6c34c4f8881908e836d802d40256a06bcb21fe22e0394",
+            "action": {
+                "query": "album F.L.I.N.T. positive attention Rio Da Yung OG release project release date",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://www.beefheart.com/book-review-irwin-chusids-songs-in-the-key-of-z-the-curious-universe-of-outsider-music-by-graham-johnston/",
+        "search": {
+            "id": "ws_68a6c3521368819698a657f243935573039c0e7cb134e696",
+            "action": {
+                "query": "Irwin Chusid Songs in the Key of Z book album outsider music",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://pitchfork.com/reviews/albums/cass-mccombs-interior-live-oak/",
+        "search": {
+            "id": "ws_68a6c3574edc81979d34a3e02b0d36dd0d5586533388851a",
+            "action": {
+                "query": "Cass McCombs Interior Live Oak packed devised feature",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://www.musicradar.com/music-tech/recording/we-were-very-proud-but-there-was-a-taste-left-in-our-mouths-it-was-a-dark-time-in-so-many-ways-radiohead-release-surprise-new-live-album",
+        "search": {
+            "id": "ws_68a6c35e887481959660320cf3a580750d50d1e570731524",
+            "action": {
+                "query": "Radiohead Hail to the Thief song development conditions Live Recordings 2003-2009 revisited Hamlet Hail to the Thief",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://pitchfork.com/reviews/albums/mondo-lava-utero-dei/",
+        "search": {
+            "id": "ws_68a6c365365c81958fda0c29823a1d7905d7f1706822d297",
+            "action": {
+                "query": "Someone has mastered the vibe on Utero Dei",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **With _Lost Americana_, MGK aims to be in a certain state for young listeners seeking a contemporary musician with a harder edge.**\n\n  The Pitchfork review notes that MGK is positioning himself as the go-to artist for young listeners looking for a contemporary musician with a harder edge. ([pitchfork.com](https://pitchfork.com/reviews/albums/mgk-lost-americana/?utm_source=openai))\n\n- **MGK's self-crafted musical lineage in _Lost Americana_ includes something.**\n\n  The same review discusses how MGK's self-crafted musical lineage in _Lost Americana_ includes various influences, such as interpolations of songs by Third Eye Blind and The Strokes. ([pitchfork.com](https://pitchfork.com/reviews/albums/mgk-lost-americana/?utm_source=openai))\n\n- **Through the curation of influence in _Lost Americana_, MGK argues about something.**\n\n  The review also mentions that through his curation of influence, MGK makes an argument about what quintessentially American rock music is at a time when information overload has eroded our ability to place things in any coherent order. ([pitchfork.com](https://pitchfork.com/reviews/albums/mgk-lost-americana/?utm_source=openai))\n\nWhile no single webpage contains all the specified information, the Pitchfork review provides insights into these aspects of MGK's album _Lost Americana_.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c36c0424819588a614505fa3ba1e0faaa8448927debe",
+            "action": {
+                "query": "\"With lost americana, mgk aims to be in a certain state for young listeners\" \"self-crafted musical lineage in lost americana includes\" \"curation of influence in lost americana, mgk argues about\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://pitchfork.com/reviews/albums/phil-elverum-arrington-de-dionyso-giant-opening-mouth-on-the-ground/",
+        "search": {
+            "id": "ws_68a6c37638d8819695bea47ff11a14e10fb4aa36748fb7f8",
+            "action": {
+                "query": "Phil Elverum described creation GIANT OPENING MOUTH ON THE GROUND blow each others\u2019 minds acknowledged in a certain state operating",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://pitchfork.com/reviews/albums/wolfacejoeyy-summersongs/",
+        "search": {
+            "id": "ws_68a6c37dbd74819689f148e4313282970fa04dd60f4e4045",
+            "action": {
+                "query": "wolfacejoeyy contrasting approach to Odd Future's romantic model, looser musical style refine seductive artistic expression, _SUMMERSONGS_ persona shifts self-assured charmer",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://pitchfork.com/reviews/albums/quadeca-vanisher-horizon-scraper/",
+        "search": {
+            "id": "ws_68a6c384a5b48195bd9189c101939e510b6ae1fe70ab8ec4",
+            "action": {
+                "query": "Quadeca new album journey traverses",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses Jon Hopkins' album \"Ritual,\" which is inspired by experiences such as psychedelic therapy and meditation. The article highlights how Hopkins' music aims to create immersive, meditative environments, emphasizing the warmth and melody of electronic music.\n\n([ft.com](https://www.ft.com/content/378ea6e2-cb1f-49f3-a616-c13600208dd1?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c38881908193b0f488f8991e4a110468a40d7c70b247",
+            "action": {
+                "query": "albums steamy electronic music inspired by experience 'Sound Bath' highlights warmth and melody",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://pitchfork.com/reviews/albums/field-mic-surrender-instead/",
+        "search": {
+            "id": "ws_68a6c38e9804819698d220e98d65401f0be7a4cdbcc2b6c9",
+            "action": {
+                "query": "Field Medic album surrender instead eighth studio album closer track success writing songs adverts films",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, here are some sources that cover parts of it:\n\n- **Announcement of Osees' album _ABOMINATION REVEALED AT LAST_ in June**:\n\n  An article from *The Indie Scene* dated June 29, 2025, announces Osees' 29th studio album, _ABOMINATION REVEALED AT LAST_, set for release on August 8, 2025. ([theindiescene.co.uk](https://www.theindiescene.co.uk/news/osees-announce-their-29th-studio-album?utm_source=openai))\n\n- **Comparison of the sonic state of _ABOMINATION REVEALED AT LAST_ and _Sorcs 80_**:\n\n  The *Osees* Wikipedia page lists _ABOMINATION REVEALED AT LAST_ as the band's 28th album, released on August 8, 2025, and _Sorcs 80_ as the 27th album, released on August 9, 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Osees?utm_source=openai))\n\n- **Return to garage-rock style**:\n\n  The *A Foul Form* Wikipedia page describes the album as a return to the band's faster, more aggressive punk sound, with frontman John Dwyer referring to it as \"Brain stem cracking scum-punk.\" ([en.wikipedia.org](https://en.wikipedia.org/wiki/A_Foul_Form?utm_source=openai))\n\nWhile these sources provide relevant information, none of them encompass all the specified details in a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c3952f488190b9b9f90b000e9fad00e14b686b3edea6",
+            "action": {
+                "query": "Osees ABOMINATION REVEALED AT LAST garage-rock Sorcs 80 announced in June",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "The webpage that mentions all of the specified information is the Pitchfork review of Recoechi's album \"FLAVAZ.\" ([pitchfork.com](https://pitchfork.com/reviews/albums/recoechi-flavaz/?utm_source=openai))\n\nIn this review, it is noted that Recoechi \"displays a level of poise and attention to detail that\u2019s unusual for a debut.\" Additionally, the review states that \"until now, Recoe\u2019s discography totaled fewer than 10 songs.\" Furthermore, it mentions that Recoechi \"tackles a B-boy groove in the first minute of 'Flavaz Interruption.'\"\n\n([pitchfork.com](https://pitchfork.com/reviews/albums/recoechi-flavaz/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a6c39eb2c48195a4c513ba2e40ff8f04da31efe5734876",
+            "action": {
+                "query": "Recoechi debut album poise attention to detail _FLAVAZ_ discography B-boy groove first minute",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.handdrawndracula.com/no-joy-bugland-single-video/",
+        "search": {
+            "id": "ws_68a6c3a6b7408194b42cfb5e56adb5f60061eb259c8ed1f8",
+            "action": {
+                "query": "No Joy Motherhood features Bugland first album since 2020 title track",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://pitchfork.com/reviews/albums/big-freedia-pressing-onward/",
+        "search": {
+            "id": "ws_68a6c3ae22b48193810a65a173d559a106fb966cd858e92e",
+            "action": {
+                "query": "Big Freedia employs multiple approaches on Pressing Onward Big Freedia's latest album combines with bounce Big Freedia's album derives its name from a place",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://pitchfork.com/reviews/albums/vylet-pony-love-and-ponystep",
+        "search": {
+            "id": "ws_68a6c3b4b91081979a446b3228367fec09c134eb6f221764",
+            "action": {
+                "query": "Love & Ponystep album cute ponies crazed wubs ode cringe culture challenge tribute screens Zelda Trixie Lulamoon's youth",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://pitchfork.com/reviews/albums/toni-braxton-secrets/",
+        "search": {
+            "id": "ws_68a6c3bae8b8819083497331fb096c4a07d6fe713e14c7da",
+            "action": {
+                "query": "Toni Braxton Secrets reconcile traditional soul roots break from albums critical commercial success",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "https://pitchfork.com/reviews/albums/nick-drake-the-making-of-five-leaves-left/",
+        "search": {
+            "id": "ws_68a6c3c29ba48197a4059ac531bb3bde0b7a5019db5116be",
+            "action": {
+                "query": "Nick Drake \"The Making of Five Leaves Left\" sessions Danny Thompson",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a6c3c886d48194b95412568851dd170d8b582b6c2357d8",
+            "action": {
+                "query": "Naomi Campbell story The Chiffon Trenches Amaarae nightlife Miami Los Angeles S\u00e3o Paulo Black Star Iveth Stunner glamor",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://pitchfork.com/reviews/albums/ada-lea-when-i-paint-my-masterpiece/",
+        "search": {
+            "id": "ws_68a6c3ce0088819681a607fe1694177803b43e37f0b7f870",
+            "action": {
+                "query": "Ada Lea album when i paint my masterpiece Alexandra Levy ponders questions pursues creative endeavors",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://pitchfork.com/reviews/albums/mal-blum-the-villain/",
+        "search": {
+            "id": "ws_68a6c3d25f4481979a001582ba681b830af11445236c2a0a",
+            "action": {
+                "query": "The Villain 11 tracks evoked feelings Mal Blum earlier albums tight frisky sound",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://apnews.com/article/3a9b1d4252d6d1b8d9874c489c987819",
+        "search": {
+            "id": "ws_68a6c3d9f22c8195965767ca8704ccf00187119bb67430dd",
+            "action": {
+                "query": "No Rain, No Flowers The Black Keys transition sound shift",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://pitchfork.com/reviews/albums/ali-sethi-love-language/",
+        "search": {
+            "id": "ws_68a6c3dfdb88819587e7a956b38906dd0e388123e733c3e3",
+            "action": {
+                "query": "Ali Sethi Love Language pop songs hyperpop",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://pitchfork.com/reviews/albums/metro-boomin-presents-a-futuristic-summa-hosted-by-dj-spinz/",
+        "search": {
+            "id": "ws_68a6c3e48dc881938625f1fc25d191210d96eb6d1149dc4a",
+            "action": {
+                "query": "A Futuristic Summa compared to Metro Boomin",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://pitchfork.com/reviews/albums/dj-k-radio-libertadora/",
+        "search": {
+            "id": "ws_68a6c3ea98e08196a9a2ca52cd705e5908c29e3ac27b9921",
+            "action": {
+                "query": "Radio Libertadora DJ K contemporary Brazil",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://www.hotnewhiphop.com/934802-xaviersobased-once-more-stream",
+        "search": {
+            "id": "ws_68a6c3f0072c8194b73bee1f23645bf00e7f1a0ee79093ef",
+            "action": {
+                "query": "xaviersobased once more EP release announcement display state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://pitchfork.com/reviews/albums/araabmuzik-electronic-dream-2/",
+        "search": {
+            "id": "ws_68a6c3f6c5d08193b315a31d2c81a7f80668121712ad9706",
+            "action": {
+                "query": "Electronic Dream 2 beats behavior release fame",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://tuoitre.vn/nhac-viet-phuc-hung-nho-gen-z-album-2pillz-duoc-pitchfork-cham-diem-ngang-jennie-taylor-swift-20250805165559081.htm",
+        "search": {
+            "id": "ws_68a6c3fc33dc819597fa2137ec8019690e69dc64963e4e5d",
+            "action": {
+                "query": "Vietnamese pop music renaissance Gen Z artists leading PILLZCASSO",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://pitchfork.com/reviews/albums/the-armed-the-future-is-here-and-everything-needs-to-be-destroyed/",
+        "search": {
+            "id": "ws_68a6c401e98c8195ad3bcbabc2a8893304ef964559a68dcd",
+            "action": {
+                "query": "The Armed THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED FOOLS! LIARS! HEATHENS! TRAITORS! PRESS RELEASE description album number",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

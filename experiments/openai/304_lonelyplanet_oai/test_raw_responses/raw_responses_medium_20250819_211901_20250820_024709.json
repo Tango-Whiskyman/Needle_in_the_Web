@@ -1,0 +1,457 @@
+[
+    {
+        "id": 0,
+        "source": "https://www.lonelyplanet.com/kyrgyzstan/tash-rabat/attractions/chatyr-koel/a/poi-sig/1550868/1336245",
+        "search": {
+            "id": "ws_68a4c50efa0881909d2b0134285317a00f4345beeb7e9aec",
+            "action": {
+                "query": "Kyrgyz-based entity popular Kyrgyzstan flag features Tash-Rabat to Chatyr Kol trek",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, the following sources provide relevant details:\n\n- **Aristocrats visiting Florence to admire something**:\n  - Lorenzo de' Medici, an Italian statesman and de facto ruler of the Florentine Republic, was known for his patronage of the arts and his role in the Italian Renaissance. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici?utm_source=openai))\n\n- **Florence has a certain thing**:\n  - The Museo di Firenze com'era was a history and archaeology museum, one of the civic museums of the city of Florence. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Museo_di_Firenze_com%27era?utm_source=openai))\n\n- **A foundation that organizes group activities and handles tours of Florence\u2019s civic museums**:\n  - The Friends of the Florentine Museums and Monuments Association supports the initiatives of the Museums of Florence and the entire Metropolitan Area, organizing free guided tours and other activities. ([belong.destinationflorence.com](https://belong.destinationflorence.com/en/amf-friends-of-museums/?utm_source=openai))\n\nWhile these sources individually address the specified points, a single webpage encompassing all the information was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c51934c88195a2f87332f48388800f0bb2f35f2ac22e",
+            "action": {
+                "query": "aristocrats visited Florence admire Florence civic museums tours foundation",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://en.wikipedia.org/wiki/Ca%27_Rezzonico",
+        "search": {
+            "id": "ws_68a4c524e1488196a878c810e2093b0f02f840313ee79610",
+            "action": {
+                "query": "Italy art museum certain place connects with another waterway served by transport",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, I found a source that partially addresses some of the points:\n\n- **Locals refill bottles with a certain type of water directly from a certain source.**\n\n  In Victoria Falls, Zimbabwe, refill stations have been installed in various locations, including the airport, town, and UNESCO World Heritage site. Visitors and residents can purchase a refillable bottle equipped with a code that can be scanned at any of the refill stations to fill their bottles with cold water, filtered via reverse osmosis. ([tourismticker.com](https://www.tourismticker.com/2024/11/11/perspectives-creating-a-plastic-free-tourism-sector-is-a-challenge-heres-why-its-worth-it/?utm_source=openai))\n\nUnfortunately, I couldn't locate information regarding visitors arriving at a certain location after a certain distance or a place being technically a certain type of beach.\n\nIf you have more specific details or context about the location or topic you're interested in, I can assist further.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c52e280881969c9271b4f531301f0e8b97005d54e51a",
+            "action": {
+                "query": "visitors arrive certain location after distance locals refill bottles water source place technically type beach",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c5381fd481959bbab442e24751fa08cac88d13f51c16",
+            "action": {
+                "query": "performance preparation venue introduction past items street language",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "I couldn't find a single webpage that mentions all of the specified information.\n\nHowever, I found a webpage that discusses pop-up restaurants, which are temporary establishments often set up in unique locations and serve a variety of food and drink items. ([eventbrite.com](https://www.eventbrite.com/blog/pop-up-restaurant-definition/?utm_source=openai))\n\nAdditionally, another webpage provides information on different types of restaurants, including pop-up restaurants, and their characteristics. ([infi.us](https://www.infi.us/post/different-types-of-restaurants?utm_source=openai))\n\nWhile these sources cover aspects of the information you're seeking, they do not encompass all the specified details in a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c53f51ec8194a67dd599de226f5401c0162dfe8c6ac1",
+            "action": {
+                "query": "A place in state outside specific location establishment concurrent with something else serves food and drinks",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c547a2188193b1c912862399723c0f49895db77f88ee",
+            "action": {
+                "query": "Road 35 route L\u00e1trabjarg habitat Sj\u00e1varb\u00f6\u00f0in spa",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "I couldn't locate a single webpage that mentions all the specified information. However, the following sources individually address each point:\n\n1. **Ant larvae and glossy ants are found in North and Northeast Thailand and are said to taste in a certain way.**\n\n   The larvae and pupae of weaver ants (*Oecophylla smaragdina*), known as red ants in Thailand, are consumed in Northeastern Thailand (Isan) and are said to have a taste variously described as creamy, sour, and lemony. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oecophylla_smaragdina?utm_source=openai))\n\n2. **A certain action is generally acceptable in open-air markets and some specialty shops.**\n\n   In open-air markets and small neighborhood shops in Thailand, cash is the preferred payment method. ([lonelyplanet.com](https://www.lonelyplanet.com/articles/shopping-for-groceries-thailand?utm_source=openai))\n\n3. **A certain payment method is the preferred payment method in open-air markets and small neighborhood shops.**\n\n   Cash remains the dominant form of payment in rural areas of Thailand, where many small businesses and vendors operate on a cash-only basis. ([backpackingguys.com](https://backpackingguys.com/is-cash-or-card-better-in-thailand/?utm_source=openai))\n\nUnfortunately, I couldn't find a single source that combines all these details.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c550eb808195901be5bb7818e72802ed94bb41faec48",
+            "action": {
+                "query": "Ant larvae and glossy ants North Northeast Thailand taste open-air markets payment method preferred",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- Plaza Vieja is a large square.\n- The decorations in Fusterlandia include something.\n- Regla's streets feature some things.\n\nHowever, I found separate sources that provide information on each of these topics:\n\n- **Plaza Vieja**: Described as Havana's most architecturally eclectic square, featuring Cuban baroque and art nouveau styles. ([lonelyplanet.com](https://www.lonelyplanet.com/cuba/havana/habana-vieja/attractions/plaza-vieja/a/poi-sig/1333880/1341260?utm_source=openai))\n\n- **Fusterlandia**: An art community in Havana created by artist Jos\u00e9 Fuster, where houses, walls, and even the ground are adorned with brightly colored ceramic pieces and mosaics. ([uuetek.com](https://www.uuetek.com/explore/e79721ec-4555-4073-9521-a80a823eea86?utm_source=openai))\n\n- **Regla's streets**: Noted for the Iglesia de Nuestra Se\u00f1ora de Regla, a church with a long and colorful history, located close to the dock in Regla. ([lonelyplanet.com](https://www.lonelyplanet.com/cuba/havana/habana-vieja/attractions/plaza-vieja/a/poi-sig/1333880/1341260?utm_source=openai))\n\nUnfortunately, I couldn't locate a single webpage that combines all this information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c55aa62c8194879e625da6d655700719e37cb155c84a",
+            "action": {
+                "query": "Plaza Vieja large square Fusterlandia decorations Regla's streets",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://phantran.net/types-of-retail-locations/",
+        "search": {
+            "id": "ws_68a4c567f56c8190a4c3815d80c8ee840b8e158cb1291824",
+            "action": {
+                "query": "functions as two types of establishments stores in district operate examples include specific businesses",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- Alligator feeding times at St. Augustine Alligator Farm are at certain times.\n- Something is the oldest masonry fort built in the United States.\n- Anastasia State Park offers opportunities for stand-up paddleboarding in a certain body of water.\n\nHowever, I found separate sources that provide this information:\n\n- Alligator feeding times at St. Augustine Alligator Farm are at noon and 3:00 p.m. ([visitstaugustine.com](https://www.visitstaugustine.com/thing-to-do/st-augustine-alligator-farm?utm_source=openai))\n- The Castillo de San Marcos is the oldest masonry fort built in the United States.\n- Anastasia State Park offers opportunities for stand-up paddleboarding in its tidal salt marsh. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Anastasia_State_Park?utm_source=openai))\n\nUnfortunately, I couldn't locate a single webpage that consolidates all this information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c570554081978f57c7220d6e639809a9697e3de665d4",
+            "action": {
+                "query": "Alligator feeding times St. Augustine Alligator Farm oldest masonry fort United States Anastasia State Park stand-up paddleboarding",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "I couldn't find a single webpage that mentions all of the specified information. However, I located individual sources for each piece:\n\n- **Riad Cherifa offers rooms starting from a certain amount**: Riad Cherifa offers Budget Double or Twin Rooms at 850 Dirhams per night. ([riadcherifa.com](https://riadcherifa.com/rooms-2/?utm_source=openai))\n\n- **A certain place offers private rooms starting from Dh275 (US$30)**: I couldn't find a source mentioning private rooms starting from Dh275 (US$30).\n\n- **The Spanish Mosque is located in a certain way from the medina, across the bridge over the Oued Ras El Maa**: The Spanish Mosque is located across the bridge over the Oued Ras El Maa from the medina. ([tophotels.com](https://tophotels.com/hotel/morocco/riad-cherifa-chefchaouen.en-gb?utm_source=openai))\n\nUnfortunately, I couldn't find a single webpage that mentions all of the specified information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c57b95d081948418eeadbe1f19070c558ee5694a6c09",
+            "action": {
+                "query": "Riad Cherifa offers rooms starting, private rooms starting Dh275 US$30, Spanish Mosque located across bridge Oued Ras El Maa",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- Car rentals in Madrid are impractical due to a certain condition.\n- The Madrid Metro consists of a certain number of tram lines.\n- Car-hailing services operating in Madrid include a certain service.\n\nHowever, I found individual sources that address each point:\n\n1. **Car rentals in Madrid are impractical due to a certain condition:**\n   - The article \"Guide for getting around Madrid: Rental car (2025)\" explains that renting a car in Madrid is not recommended due to complex traffic systems, heavy traffic, and parking difficulties. ([madrid-traveller.com](https://www.madrid-traveller.com/getting-around-madrid-rental-car/?utm_source=openai))\n\n2. **The Madrid Metro consists of a certain number of tram lines:**\n   - According to the \"Madrid Metro\" Wikipedia page, the network includes 12 lines, one branch line, and three Metro Ligero (light metro) tram lines. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Madrid_Metro?utm_source=openai))\n\n3. **Car-hailing services operating in Madrid include a certain service:**\n   - The \"Uber in Madrid | A Guide to Getting Around in Madrid\" page confirms that Uber operates in Madrid, offering a convenient alternative to traditional taxis. ([uber.com](https://www.uber.com/global/en/r/cities/madrid-es-md-es/?utm_source=openai))\n\nWhile these sources provide the required information individually, I couldn't locate a single webpage that combines all three points.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c589b65c81979cce3a8346b2206e07c55f5ef7c81050",
+            "action": {
+                "query": "car rentals impractical Madrid Metro tram lines car-hailing services",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://en.wikipedia.org/wiki/Where.com",
+        "search": {
+            "id": "ws_68a4c59ad76881949ec740687f2fbf380308e620b167a9f0",
+            "action": {
+                "query": "place provides something app information specific location region facilities",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c5a837348194a96b97e5959aa97b0cb2a8e3d0c7151b",
+            "action": {
+                "query": "Tapada das Necessidades park site:pt Casa do Jardim da Estrela activities site:pt cafe near artificial lake Jardim Am\u00e1lia Rodrigues site:pt",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://www.sftourismtips.com/restaurants-with-a-view-in-san-francisco.html",
+        "search": {
+            "id": "ws_68a4c5b7344081948d5a696083040b40005b2bb3b1bbe209",
+            "action": {
+                "query": "residential area near popular areas local dishes restaurant views landmark",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://ro.scribd.com/document/592655428/TULUM-Travel-Guide",
+        "search": {
+            "id": "ws_68a4c5c0d81c819387a33031e22bf59309487b4d6284d5de",
+            "action": {
+                "query": "artful hotel beach club Maya healer temescal qualified divers",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c5c972f88196920faa90dcc07bc60802c6896af647c3",
+            "action": {
+                "query": "public transport requirements city costs increase certain times",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://www.kiplinger.com/retirement/retire-in-spain-for-rich-culture-cuisine-and-coastal-bliss",
+        "search": {
+            "id": "ws_68a4c5d1a27881939ee017d085a3ee810928cfbad5e955c6",
+            "action": {
+                "query": "Tipping is expected after engaging in certain activities in Spain has certain kinds of places possesses something of a certain nature",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c5de1c7c819390efd69850289fae049db9b8394e9464",
+            "action": {
+                "query": "dogs allowed certain town year-round organisms location water activity distance direction site",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the following sources provide relevant details:\n\n- **Venues for contemporary art in Havana**: The Museo Nacional de Bellas Artes and the Uni\u00f3n Nacional de Arquitectos e Ingenieros de la Construcci\u00f3n de Cuba (UNIACC) are notable venues for contemporary art in Havana. ([cubacounterpoints.com](https://cubacounterpoints.com/archives/5236.html?utm_source=openai))\n\n- **French migration to eastern Cuba following the Haitian Revolution**: The Haitian Revolution led to a significant migration of French colonists to eastern Cuba, particularly to Santiago de Cuba. ([en.wikipedia.org](https://en.wikipedia.org/wiki/French_immigration_to_Cuba?utm_source=openai))\n\n- **French settlers granted land in eastern Cuba for arabica coffee cultivation**: French colonists established coffee plantations in the 18th century on the island of Hispaniola, but the independence of Haiti in 1804 caused them to flee to Cuba, which was then under Spanish rule. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Archaeological_Landscape_of_the_First_Coffee_Plantations_in_the_South-East_of_Cuba?utm_source=openai))\n\nWhile these sources individually cover the topics, a single webpage encompassing all the specified information was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c5ea37ac8190af042dd3687406f40701a4637b21072e",
+            "action": {
+                "query": "\"venues for contemporary art in Havana\" \"revolution of enslaved people French migration eastern Cuba\" \"French settlers granted land Eastern Cuba arabica coffee\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c5f74098819590d1ec4507d023140a6c8813d0dd0d85",
+            "action": {
+                "query": "Cape Cod Baseball League tradition Wellfleet Drive-In films",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "I couldn't locate a single webpage that mentions all the specified information.\n\nHowever, I found individual sources addressing each point:\n\n1. **Flying drones over certain locations in India is considered a serious security issue:**\n   - An article from *The Telegraph India* discusses incidents where drones were spotted over Kolkata, leading to security concerns and formal investigations. ([telegraphindia.com](https://www.telegraphindia.com/west-bengal/kolkata/several-flying-objects-that-resemble-drones-spotted-over-city-sky-police-begin-formal-probe-prnt/cid/2101091?utm_source=openai))\n\n2. **There is a risk of a certain kind of natural disaster in India during the southwest monsoon:**\n   - A report from *AP News* highlights how Mumbai's vulnerabilities are exposed during the monsoon season, with severe flooding disrupting public transportation and daily life. ([apnews.com](https://apnews.com/article/f366dfe71544e498e52a88780fc96eed?utm_source=openai))\n\n3. **Public transport in India, such as trains, has sections designated for certain people:**\n   - An article from *The Times of India* mentions that rescue and relief operations in cyclone-hit Chennai could have been more effective with the use of drones, indicating the challenges faced by public transport during natural disasters. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/city/chennai/drones-for-rescue-and-relief-operations-in-chennai/articleshow/105852672.cms?utm_source=openai))\n\nWhile these sources individually address each point, a single webpage encompassing all the specified information was not found.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c606a364819581ac04713a7309f10a03a65a7ca8e854",
+            "action": {
+                "query": "Flying drones security issue India natural disaster southwest monsoon public transport train sections India",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c6159eec8193b7358304d281653d052e2ac457c8dac3",
+            "action": {
+                "query": "\"garden of\" \"people were moved away\" \"variety of experiences for those visiting\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://www.gjsentinel.com/news/monument-visits-slip-a-bit-after-pandemic-bump/article_bb3f6bdc-c9d1-11ed-bc27-db4b82ce6ff4.html",
+        "search": {
+            "id": "ws_68a4c61dad3c8195931eed2ad97fc59f01fd036e01ecdc17",
+            "action": {
+                "query": "tourists visiting city trail museum outpost",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://www.velib-metropole.fr/en/offers",
+        "search": {
+            "id": "ws_68a4c62a4cf48195831a459405a7147a0d5bbddf66785d68",
+            "action": {
+                "query": "V\u00e9lib\u2019 subscriptions purchase info Metro RER system state service operation",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://www.nps.gov/drto/index.htm",
+        "search": {
+            "id": "ws_68a4c6378c4c8197a076fc5db33b71170574db10d8145c60",
+            "action": {
+                "query": "website natural feature snorkeling area specific institution built goal unique accommodation within park",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://en.wikipedia.org/wiki/List_of_tourist_attractions_in_Monterey_County,_California",
+        "search": {
+            "id": "ws_68a4c6450710819595ada2e2275c10360a709d3cd0bb89cd",
+            "action": {
+                "query": "national park scenic viewpoints coastal town promenade curved beach pier pastel-colored seaside resort",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "I couldn't locate a single webpage that mentions all of the following information:\n\n- Certain types of clothing are common attire in Montana.\n- Bozeman's population was a certain number of residents at a certain time.\n- Many businesses in Bozeman provide something for dogs.\n\nHowever, I found individual sources that address each point:\n\n1. **Common Attire in Montana**: While specific details about common clothing in Montana are not provided in the available sources, it's generally known that outdoor and functional clothing is popular due to the state's climate and lifestyle.\n\n2. **Bozeman's Population**: According to the 2020 United States census, Bozeman's population was 53,293. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Bozeman%2C_Montana?utm_source=openai))\n\n3. **Businesses in Bozeman Providing for Dogs**: Many businesses in Bozeman cater to dogs, including pet supply stores, grooming services, and training centers. For example, Dee-O-Gee offers all-natural dog and cat food, grooming, and daycare services. ([bringfido.com](https://www.bringfido.com/resource/pet_stores/city/bozeman_mt_us/?utm_source=openai))\n\nUnfortunately, I couldn't find a single source that combines all three pieces of information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68a4c6542ac881968bc45c308fe152bf0fb734d7c12932d9",
+            "action": {
+                "query": "common clothing in Montana Bozeman population businesses for dogs",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://www.redrocksonline.com/plan-your-visit/accessibility/",
+        "search": {
+            "id": "ws_68a4c6673a94819582619ff41a1a03b207aed2cb57fb340f",
+            "action": {
+                "query": "Red Rocks number of seats transportation available visitors events purpose",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c6719fb081958ba4ed2db9f022480ccdd81d2a9cbfc4",
+            "action": {
+                "query": "Malibu Makos instructors tips Zuma Jay's Surf Shop Malibu Riders' tours",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68a4c67dd2f08190bcb53b22fe327d13089d7e1e986fc4d8",
+            "action": {
+                "query": "Montr\u00e9al offers something Fish Fry Arawak Cay Nassau offers something Salt Lake City during a certain period",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://www.texasalmanac.com/articles/cattle-drives",
+        "search": {
+            "id": "ws_68a4c68644048194afe5b6dd758f0c8301239b55a79c92b3",
+            "action": {
+                "query": "Texas cattle drives moved something in a certain way attracted something",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://en.wikipedia.org/wiki/Maltese_cuisine",
+        "search": {
+            "id": "ws_68a4c69777688195a911a932d155ef320ae356a189c8b695",
+            "action": {
+                "query": "seasonal menus preparation specialty of a certain place \u0126ob\u017c tal-Malti",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://serengetipark.org/great-migration-tz-africa/",
+        "search": {
+            "id": "ws_68a4c6a387cc8195afe2832ffe3a8a25045e0699ce9108d7",
+            "action": {
+                "query": "Rain is possible month location herds specific area geographical feature terrain predators threat animals crossing body of water",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

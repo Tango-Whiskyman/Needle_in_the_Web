@@ -1,0 +1,3430 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+A high-quality SFT dataset of approximately 500K samples is curated from **something** for Thyme.
+
+Existing approaches for MLLMs to incorporate visual inputs generally fall into **something**.
+
+Thyme's RL dataset primarily consists of **something**. 
+A high-quality SFT dataset of approximately 500K samples is curated from over 4 million raw data sources for Thyme.
+
+Existing approaches for MLLMs to incorporate visual inputs generally fall into two categories: "thinking with generated images" and "thinking with cropping."
+
+Thyme's RL dataset primarily consists of two parts.
+
+**********Web Search Result**********
+
+https://github.com/yfzhang114/Thyme
+
+[
+    {
+        "title": "Enhancing Perception Capabilities of Multimodal LLMs with Training ...",
+        "url": "https://openreview.net/forum?id=2jEiFTLRwX",
+        "date": "2024-11-14",
+        "last_updated": "2024-11-19"
+    },
+    {
+        "title": "thyme geographical differentiation and marker identification as a ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11249438/",
+        "date": "2024-05-28",
+        "last_updated": "2025-06-07"
+    },
+    {
+        "title": "Multimodal LLMs: Architecture, Techniques, and Use Cases",
+        "url": "https://blog.premai.io/multimodal-llms-architecture-techniques-and-use-cases/",
+        "date": "2024-12-06",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "[PDF] Understanding the Effects of Dataset Characteristics on Offline ...",
+        "url": "https://offline-rl-neurips.github.io/2021/pdf/12.pdf",
+        "date": null,
+        "last_updated": "2025-03-27"
+    },
+    {
+        "title": "63. How multimodal LLMs (MLLM) work under the hood?",
+        "url": "https://machinelearningatscale.substack.com/p/63-how-multimodal-llms-mllm-work",
+        "date": "2024-11-17",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "Population diversity analyses provide insights into key horticultural ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907056/",
+        "date": "2022-08-02",
+        "last_updated": "2025-02-21"
+    },
+    {
+        "title": "Multimodal Inputs - vLLM",
+        "url": "https://docs.vllm.ai/en/latest/features/multimodal_inputs.html",
+        "date": "2015-01-01",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "yfzhang114/Thyme: Think Beyond Images - GitHub",
+        "url": "https://github.com/yfzhang114/Thyme",
+        "date": "2025-08-17",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "eRAM-V: From Interaction to Integration in Efficient Multimodal...",
+        "url": "https://openreview.net/forum?id=GtlV6o1yUy",
+        "date": "2024-11-21",
+        "last_updated": "2025-02-10"
+    },
+    {
+        "title": "Thyme: Think Beyond Images | AI Research Paper Details",
+        "url": "https://www.aimodels.fyi/papers/arxiv/thyme-think-beyond-images",
+        "date": "2025-08-17",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'A high-quality SFT dataset of approximately 500K samples is curated from **something** for Thyme.' is NOT supported by the citation.
+<reject> The webpage mentions that the SFT dataset is obtained from the HuggingFace Dataset Page and describes its three splits. However, it does not explicitly state that the dataset contains "approximately 500K samples." </reject>
+
+**********Source Check**********
+
+The claim 'Existing approaches for MLLMs to incorporate visual inputs generally fall into **something**.' is NOT supported by the citation.
+<reject> The content describes a new approach called "Thyme" and briefly mentions it "transcends traditional `thinking with images` paradigms," but it does not detail or categorize existing approaches for MLLMs to incorporate visual inputs. </reject>
+
+**********Source Check**********
+
+The claim 'Thyme's RL dataset primarily consists of **something**.' is supported by the citation.
+<accept> The webpage explicitly details the "RL Dataset Format" in section 4.1. This section provides a JSON structure for each data sample, clearly showing that the dataset consists of elements such as `messages` (which include system and user dialogue with questions), `images` (paths to images), a `solution`, and a `question`. These components are explicitly laid out, defining what the dataset primarily consists of. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+On the CMMD dataset, GPT-5 reached a certain percentage abnormality detection.
+
+Performance in mammogram interpretation can vary significantly even among certain people.
+
+Certain models further extend advances in AI for medical imaging. 
+On the CMMD dataset, GPT-5 reached 32.3% abnormality detection.
+
+Performance in mammogram interpretation can vary significantly even among expert radiologists.
+
+Large vision-language models further extend advances in AI for medical imaging.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11628v1
+
+[
+    {
+        "title": "Is ChatGPT-5 Ready for Mammogram VQA?",
+        "url": "https://arxiv.org/html/2508.11628v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Future of Medical Imaging in 2025",
+        "url": "https://blog.medicai.io/en/future-of-medical-imaging/",
+        "date": "2025-02-22",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Is ChatGPT-5 Ready for Mammogram VQA? - Paper Detail",
+        "url": "https://deeplearn.org/arxiv/629808/is-chatgpt-5-ready-for-mammogram-vqa",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "2025 Medical Imaging Trends: AI, Access & Innovation in Radiology",
+        "url": "https://gcgglobalhealthcare.com/key-medical-imaging-trends-to-watch-in-2025/",
+        "date": "2025-04-01",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[2508.11628] Is ChatGPT-5 Ready for Mammogram VQA?",
+        "url": "https://arxiv.org/abs/2508.11628",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Medical imaging trends to watch in 2025 - Radiology Business",
+        "url": "https://radiologybusiness.com/topics/healthcare-management/business-intelligence/medical-imaging-trends-watch-2025",
+        "date": "2025-01-30",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "GPT-5 Demonstrates Mammography VQA Performance On ...",
+        "url": "https://quantumzeitgeist.com/gpt-5-demonstrates-mammography-vqa-performance-on-bi-rads-assessment-and-malignancy-classification/",
+        "date": "2025-08-18",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "AI's Transformative Power: A Revolution in Medical Imaging",
+        "url": "https://netchoice.org/ais-transformative-power-a-revolution-in-medical-imaging/",
+        "date": "2025-05-20",
+        "last_updated": "2025-05-20"
+    },
+    {
+        "title": "Is ChatGPT-5 Ready for Mammogram VQA",
+        "url": "https://www.youtube.com/watch?v=EZXdwtqbmJw",
+        "date": "2025-08-19",
+        "last_updated": null
+    },
+    {
+        "title": "AI Diagnostic Imaging: The Future of Medical Precision",
+        "url": "https://centellahealthtech.com/2025/03/ai-diagnostic-imaging-future/",
+        "date": "2025-03-21",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'On the CMMD dataset, GPT-5 reached a certain percentage abnormality detection.' is supported by the citation.
+<accept> The content explicitly states in the Abstract and Results sections: "On CMMD, GPT-5 reached 32.3% abnormality detection and 55.0% malignancy accuracy." This is also confirmed in Table 3. </accept>
+
+**********Source Check**********
+
+The claim 'Performance in mammogram interpretation can vary significantly even among certain people.' is supported by the citation.
+<accept> The introduction section explicitly states, "Even among expert radiologists, performance can vary significantly," which directly supports the given information about variability in mammogram interpretation performance among certain people. </accept>
+
+**********Source Check**********
+
+The claim 'Certain models further extend advances in AI for medical imaging.' is supported by the citation.
+<accept> The text explicitly states in the "Introduction" section: "Large vision-language models further extend these advances, and when fine-tuned on domain-specific medical images, have demonstrated strong performance across several imaging modalities, including radiography, pathology, and retinal imaging." This directly supports that certain models (large vision-language models) further extend advances in AI for medical imaging. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'On the CMMD dataset, GPT-5 reached 32.3% abnormality detection.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the content: "On CMMD, GPT-5 reached 32.3% abnormality detection and 55.0% malignancy accuracy." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Performance in mammogram interpretation can vary significantly even among expert radiologists.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section: "Even among expert radiologists, performance can vary significantly." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Large vision-language models further extend advances in AI for medical imaging.' is supported by the original webpage.
+<accept> The content states, "Large vision-language models further extend these advances, and when fine-tuned on domain-specific medical images, have demonstrated strong performance across several imaging modalities, including radiography, pathology, and retinal imaging." This explicitly confirms that large vision-language models extend advances in AI for medical imaging. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+Performance deteriorates when `something` are loaded simultaneously into a single model instance.
+
+Similarities are used to construct a spatially-aware weight matrix in `something`.
+
+The distribution of a LoRA-adapted model `in a certain way` from that of the base model. 
+Performance deteriorates when multiple LoRA adapters are loaded simultaneously into a single model instance.
+
+Similarities are used to construct a spatially-aware weight matrix in LoRAtorio.
+
+The distribution of a LoRA-adapted model diverges from that of the base model.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Low Rank Adaptation (Lora)",
+        "url": "https://training.continuumlabs.ai/training/the-fine-tuning-process/parameter-efficient-fine-tuning/low-rank-adaptation-lora",
+        "date": "2024-05-16",
+        "last_updated": "2025-06-26"
+    },
+    {
+        "title": "LoRA Fine-tuning & Hyperparameters Explained (in Plain ...",
+        "url": "https://www.entrypointai.com/blog/lora-fine-tuning/",
+        "date": "2023-11-24",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "LoRA",
+        "url": "https://huggingface.co/docs/peft/main/en/conceptual_guides/lora",
+        "date": null,
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Improving LoRA: Implementing Weight-Decomposed Low ...",
+        "url": "https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch",
+        "date": "2024-02-18",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Lora: Low-rank adaptation of large lan",
+        "url": "http://arxiv.org/pdf/2106.09685",
+        "date": "2021-10-16",
+        "last_updated": "2025-04-21"
+    },
+    {
+        "title": "Low Rank Adaptation and its Variations - Yuchen's Blog",
+        "url": "https://yuchen20.github.io/posts/low-rank-adaptation/",
+        "date": "2024-03-08",
+        "last_updated": "2024-09-16"
+    },
+    {
+        "title": "Low-Rank Adaptation (LoRA) Explained",
+        "url": "https://apxml.com/courses/meta-learning-foundation-models/chapter-5-few-shot-adaptation-foundation-models/low-rank-adaptation-lora",
+        "date": "2025-04-11",
+        "last_updated": "2025-07-18"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+Grab-n-Go achieved an average recognition accuracy to a certain extent in an initial user study.
+
+The two user studies validated Grab-n-Go's in a certain state.
+
+A customized deep learning model infers microgestures from something. 
+Grab-n-Go achieved an average recognition accuracy of 92.0% in an initial user study.
+
+The two user studies validated Grab-n-Go's robustness.
+
+A customized deep learning model infers microgestures from echo profiles.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11620v1
+
+[
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://ecommons.cornell.edu/items/2af01cc7-1f1d-4484-95f0-0927ead37f7c",
+        "date": "2025-08-04",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/abs/2508.11620",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Custom Hand Gesture Recognition with Hand Landmarks Using ...",
+        "url": "https://www.youtube.com/watch?v=a99p_fAr6e4",
+        "date": "2022-03-14",
+        "last_updated": "2025-06-30"
+    },
+    {
+        "title": "[PDF] Hand Detection For Grab-and-Go Groceries - CS231n",
+        "url": "https://cs231n.stanford.edu/reports/2017/pdfs/225.pdf",
+        "date": null,
+        "last_updated": "2024-06-07"
+    },
+    {
+        "title": "[PDF] Micro-gesture Online Recognition using Learnable Query Points",
+        "url": "https://ceur-ws.org/Vol-3848/paper_6.pdf",
+        "date": null,
+        "last_updated": "2025-06-25"
+    },
+    {
+        "title": "[PDF] GRAB: A Dataset of Whole-Body Human Grasping of Objects",
+        "url": "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf",
+        "date": null,
+        "last_updated": "2024-02-27"
+    },
+    {
+        "title": "Deep learning at the edge enables real-time streaming ... - Nature",
+        "url": "https://www.nature.com/articles/s41467-023-41496-z",
+        "date": "2023-11-03",
+        "last_updated": "2024-10-21"
+    },
+    {
+        "title": "Grab-and-Release Spelling in XR: A Feasibility Study for ...",
+        "url": "https://dl.acm.org/doi/10.1145/3715336.3735719",
+        "date": "2025-07-04",
+        "last_updated": null
+    },
+    {
+        "title": "Why GPUs Are Great for AI - NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai/",
+        "date": "2023-12-04",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Grab-n-Go achieved an average recognition accuracy to a certain extent in an initial user study.' is supported by the citation.
+<accept> The content explicitly states in the Abstract: "In a user study with 10 participants and 25 everyday objects, Grab-n-Go achieved an average recognition accuracy of 92.0%." This information is also reiterated in section 5.4.2. Microgesture Recognition Results. </accept>
+
+**********Source Check**********
+
+The claim 'The two user studies validated Grab-n-Go's in a certain state.' is supported by the citation.
+<accept> The abstract explicitly mentions two user studies: "In a user study with 10 participants and 25 everyday objects, Grab-n-Go achieved an average recognition accuracy of 92.0%. A follow-up study further validated Grab-n-Go’s robustness against 10 more challenging, deformable objects." This directly states that the two studies validated Grab-n-Go's capabilities, including its robustness, which aligns with the "in a certain state" aspect of the claim. </accept>
+
+**********Source Check**********
+
+The claim 'A customized deep learning model infers microgestures from something.' is supported by the citation.
+<accept> The content explicitly states that "A deep learning framework processes these complex signals to identify 30 distinct microgestures" in the Abstract, and Figure 1's caption also mentions "echo profiles can be created to infer the microgestures using a customized deep learning model." Section 4.3.2 further elaborates on the "customized deep-learning pipeline" used to recognize microgestures. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Grab-n-Go achieved an average recognition accuracy of 92.0% in an initial user study.' is supported by the original webpage.
+<accept> The content explicitly states in the Abstract: "In a user study with 10 participants and 25 everyday objects, Grab-n-Go achieved an average recognition accuracy of 92.0%." This is further reiterated in the Introduction section: "We evaluated Grab-n-Go in a user study with 10 participants... Our model achieved an average accuracy of 92.0% across all objects..." The text then describes a "follow-up study," confirming the first one mentioned was the initial study. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The two user studies validated Grab-n-Go's robustness.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Contributions" section of the paper, which says: "We conducted a user study with 10 participants performing 30 microgestures across 5 distinct grasping poses and 25 different objects. This was followed by another study with 8 participants using 10 deformable objects. The two studies validated the system’s robustness and generalizability." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A customized deep learning model infers microgestures from echo profiles.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the content. The Figure 1 caption states: "echo profiles can be created to infer the microgestures using a customized deep learning model." The description of Figure 1 further clarifies: "These echoes... called echo profiles. These profiles are fed into a deep learning model. The model looks at the patterns in the echoes to predict the hand’s grasp type... and the gesture being made." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+The user study included something.
+
+The Grab-n-Go wristband uses something.
+
+Diverse object geometries lead to something. 
+The user study included 5 diverse objects per grasping pose, totaling 25 objects.
+
+The Grab-n-Go wristband uses two speaker-microphone pairs.
+
+Diverse object geometries lead to different grasping poses and signal variations.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/2508.11620
+
+[
+    {
+        "title": "On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/abs/2508.11620",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "An Investigation of the Effects of Holographic Wristbands ...",
+        "url": "https://www.jstage.jst.go.jp/article/jpts/24/7/24_577/_pdf",
+        "date": null,
+        "last_updated": "2025-02-01"
+    },
+    {
+        "title": "Top 8 Benefits of RFID Wristbands for Festivals and Live Events",
+        "url": "https://www.ftgo.com/benefits-of-rfid-wristbands.html",
+        "date": "2025-03-17",
+        "last_updated": "2025-03-24"
+    },
+    {
+        "title": "AI-Enabled Smart Wristband Providing Real-Time Vital ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10007366/",
+        "date": "2023-03-04",
+        "last_updated": "2025-07-13"
+    },
+    {
+        "title": "The Top Benefits of NFC Wristbands for Smart Event Networking",
+        "url": "https://www.crowdpass.co/blog-post/the-top-benefits-of-nfc-wristbands-for-smart-event-networking",
+        "date": "2025-01-13",
+        "last_updated": "2025-01-26"
+    },
+    {
+        "title": "Meta researchers are developing a gesture-controlled ...",
+        "url": "https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/",
+        "date": "2025-07-23",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Festival and Event Food Courts: Boosting Sales with RFID Wristbands",
+        "url": "https://godreamcast.com/blog/cashless/rfid-estival-event-food-courts/",
+        "date": "2025-05-28",
+        "last_updated": "2025-05-30"
+    },
+    {
+        "title": "OSU-invented silicone wristbands improve detection of ...",
+        "url": "https://news.oregonstate.edu/news/osu-invented-silicone-wristbands-improve-detection-environmental-pollutants-0",
+        "date": "2018-05-21",
+        "last_updated": "2024-11-13"
+    },
+    {
+        "title": "10 Interesting Uses of RFID Wristbands - EnCStore.com",
+        "url": "https://www.encstore.com/blog/5789-10-interesting-uses-of-rfid-wristbands",
+        "date": "2024-03-08",
+        "last_updated": "2025-08-07"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The user study included something.' is supported by the citation.
+<accept> The abstract explicitly states details about the user study, including the number of participants and objects used: "In a user study with 10 participants and 25 everyday objects..." and "The complete dataset, comprising data from 18 participants performing 30 microgestures with 35 distinct objects..." </accept>
+
+**********Source Check**********
+
+The claim 'The Grab-n-Go wristband uses something.' is supported by the citation.
+<accept> The abstract explicitly states that "Grab-n-Go, the first wearable device that leverages active acoustic sensing to recognize subtle hand microgestures" and "Grab-n-Go simultaneously captures information about hand microgestures, grasping poses, and object geometries using a single wristband". This indicates the wristband uses active acoustic sensing. </accept>
+
+**********Source Check**********
+
+The claim 'Diverse object geometries lead to something.' is supported by the citation.
+<accept> The text states that Grab-n-Go captures information about object geometries, which, when combined with hand microgestures and grasping poses, enables "the recognition of fine-grained hand movements." The use of "various objects," "25 everyday objects," "10 more challenging, deformable objects," and "35 distinct objects" implies diverse object geometries. Thus, diverse object geometries (or information about them) lead to the recognition of fine-grained hand movements. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The user study included 5 diverse objects per grasping pose, totaling 25 objects.' is supported by the original webpage.
+<accept> The text explicitly states: "To ensure generalizability, we included 5 diverse objects per grasping pose, totaling 25 objects." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Grab-n-Go wristband uses two speaker-microphone pairs.' is supported by the original webpage.
+<accept> Figure 1's description explicitly states: "With two speaker-microphone pairs on each side of the wrist emitting and receiving the acoustic waves..."</accept>
+
+**********Exact Claim Check**********
+
+The claim 'Diverse object geometries lead to different grasping poses and signal variations.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the section "The presence of objects in hand introduces unique challenges for active acoustic sensing" under point (1) "Diverse Object Geometries", which says: "Varying object shapes lead to different grasping poses and signal variations." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11618v1 
+Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective 
+CO2 storage sites are often located in certain types of basins that previously served as sites for hydrocarbon extraction or wastewater disposal.
+
+Large-scale GCS deployments often involve a certain number of sites, complex monitoring and regulatory requirements, and diverse stakeholder participation.
+
+Optimization of a GCS system requires multiple forward evaluations of certain types of models. 
+CO2 storage sites are often located in geologically mature basins that previously served as sites for hydrocarbon extraction or wastewater disposal.
+
+Large-scale GCS deployments often involve multiple injection sites, complex monitoring and regulatory requirements, and diverse stakeholder participation.
+
+Optimization of a GCS system requires multiple forward evaluations of high fidelity models.
+
+**********Web Search Result**********
+
+https://sccs.stanford.edu/sites/g/files/sbiybj17761/files/media/file/callas_et_al_0.pdf
+
+[
+    {
+        "title": "Assessment of oil and gas fields in California as potential ...",
+        "url": "https://www.osti.gov/servlets/purl/1977182",
+        "date": null,
+        "last_updated": "2025-03-04"
+    },
+    {
+        "title": "Geology and Mineral Resources - Carbon Sequestration",
+        "url": "https://energy.virginia.gov/geology/CarbonStorage.shtml",
+        "date": null,
+        "last_updated": "2025-08-04"
+    },
+    {
+        "title": "Criteria and workflow for selecting depleted hydrocarbon ...",
+        "url": "https://sccs.stanford.edu/sites/g/files/sbiybj17761/files/media/file/callas_et_al_0.pdf",
+        "date": null,
+        "last_updated": "2024-02-02"
+    },
+    {
+        "title": "Carbon Storage FAQs | netl.doe.gov - Department of Energy",
+        "url": "https://www.netl.doe.gov/carbon-management/carbon-storage/faqs/carbon-storage-faqs",
+        "date": null,
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "CO2 Storage Formations",
+        "url": "https://www.netl.doe.gov/node/5964",
+        "date": "2015-01-01",
+        "last_updated": "2024-09-15"
+    },
+    {
+        "title": "Using Petroleum Reservoirs to Store Carbon",
+        "url": "https://www.usgs.gov/news/featured-story/using-petroleum-reservoirs-store-carbon",
+        "date": "2023-09-27",
+        "last_updated": "2025-02-20"
+    },
+    {
+        "title": "CO\u2082 Storage Site Catalogue",
+        "url": "https://ieaghg.org/publications/co2-storage-site-catalogue/",
+        "date": "2024-08-08",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "CO2 Storage Resource Catalogue \u2013 CCUS projects",
+        "url": "https://www.ogci.com/ccus/co2-storage-catalogue/",
+        "date": "2024-02-29",
+        "last_updated": "2025-06-17"
+    }
+]
+
+**********Source Check**********
+
+The claim 'CO2 storage sites are often located in certain types of basins that previously served as sites for hydrocarbon extraction or wastewater disposal.' is NOT supported by the citation.
+<reject> The content explicitly states that CO2 storage sites can be "depleted oil and gas reservoirs," which aligns with "previously served as sites for hydrocarbon extraction." However, the content does not mention "wastewater disposal" as a type of basin often used for CO2 storage. </reject>
+
+**********Source Check**********
+
+The claim 'Large-scale GCS deployments often involve a certain number of sites, complex monitoring and regulatory requirements, and diverse stakeholder participation.' is supported by the citation.
+<accept> The content explicitly states that "Clustering CO2 sources and sinks through hubs is one way to achieve large-scale deployment of CCS" and discusses the need for "finding a suitable sequestration site to store these combined emissions." It details a multi-stage workflow to screen, rank, and characterize "many potential sites," identifying "10 clusters of 31 fields" in the Gulf of Mexico, thus indicating a "certain number of sites." The text frequently refers to "regulatory requirements," citing the EPA's Underground Injection Control (UIC) Program and Class VI well criteria. It also mentions "monitoring and verification" of the plume footprint and pressure buildup, and discusses "social and political frameworks," "local public support," and "pore space rights and ownership" as factors influencing project development, which implies "diverse stakeholder participation." </accept>
+
+**********Source Check**********
+
+The claim 'Optimization of a GCS system requires multiple forward evaluations of certain types of models.' is NOT supported by the citation.
+<reject> The text mentions that "simulations" and "numerical simulation" may be performed or should be analyzed in the site characterization stage to help "select the optimal site" and analyze aspects like CO2 trapping. However, it does not explicitly state that "optimization of a GCS system requires multiple forward evaluations of certain types of models." The terms "multiple forward evaluations" and "requires" in that specific context are not explicitly present. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11616v1 
+Controlling Multimodal LLMs via Reward-guided Decoding 
+Extensive experiments show that an inherent trade-off exists between something in MLLMs.
+
+The method allows something of an MLLM’s outputs.
+
+MRGD employs something. 
+Extensive experiments show that an inherent trade-off exists between object precision and recall in MLLMs.
+
+The method allows test-time controllability of an MLLM’s outputs.
+
+MRGD employs two reward functions.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11616v1
+
+[
+    {
+        "title": "Controlling Multimodal LLMs via Reward-guided Decoding - arXiv",
+        "url": "https://arxiv.org/html/2508.11616v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Customizing LLM Output: Post-Processing Techniques",
+        "url": "https://neptune.ai/blog/customizing-llm-output-post-processing-techniques",
+        "date": "2024-09-25",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "[PDF] Exploring the Trade-off Between Model Performance and ...",
+        "url": "https://aclanthology.org/2024.findings-naacl.262.pdf",
+        "date": "2024-06-16",
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "Taming LLMs: strategies and tools for controlling responses",
+        "url": "https://tryolabs.com/blog/strategies-and-tools-for-controlling-responses",
+        "date": "2024-01-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Towards Effective MLLM Jailbreaking Through Balanced On ... - arXiv",
+        "url": "https://www.arxiv.org/abs/2508.09218",
+        "date": "2025-08-11",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "When MLLM-Crafted Narratives Exploit Manipulated Visual ...",
+        "url": "https://arxiv.org/html/2505.17476v1",
+        "date": "2025-05-23",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "Unleashing Region Understanding in Intermediate Layers for MLLM ...",
+        "url": "https://nips.cc/virtual/2024/poster/96885",
+        "date": "2025-01-31",
+        "last_updated": "2025-02-17"
+    },
+    {
+        "title": "Reward-Guided Decoding Improves Precision And Recall ...",
+        "url": "https://quantumzeitgeist.com/reward-guided-decoding-improves-precision-and-recall-in-multimodal-large-language-models/",
+        "date": "2025-08-18",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Learn from Downstream and Be Yourself in Multimodal Large ...",
+        "url": "https://openreview.net/forum?id=FKqmIAnkrb&noteId=4BaS5eNtmX",
+        "date": "2025-06-18",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Training-Free Visual Prompt Learning for Multimodal Large ...",
+        "url": "https://neurips.cc/virtual/2024/poster/95574",
+        "date": "2025-01-31",
+        "last_updated": "2025-07-23"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Extensive experiments show that an inherent trade-off exists between something in MLLMs.' is supported by the citation.
+<accept> The document explicitly states: "Through extensive experiments, we show that in MLLMs there exists an inherent trade-off between object precision and recall, as well as between compute and visual grounding quality." This sentence directly matches the provided information, specifying what the trade-off exists between. </accept>
+
+**********Source Check**********
+
+The claim 'The method allows something of an MLLM’s outputs.' is supported by the citation.
+<accept> The document states that the proposed method, Multimodal Reward-Guided Decoding (MRGD), "enables on-the-fly controllability of an MLLM’s inference process" and "gives control over the two axes" of output characteristics (precision/recall and compute/visual grounding trade-off). It also explicitly mentions "controllability of MLLM-generated captions". </accept>
+
+**********Source Check**********
+
+The claim 'MRGD employs something.' is supported by the citation.
+<accept> The text explicitly states in the "Introduction" section that "Our method, called multimodal reward-guided decoding (MRGD), employs two reward functions, one tailored for hallucination reduction [3] and one tailored for improving object recall." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Extensive experiments show that an inherent trade-off exists between object precision and recall in MLLMs.' is supported by the original webpage.
+<accept> The content explicitly states under the "Contributions" section: "Through extensive experiments, we show that in MLLMs there exists an inherent trade-off between object precision and recall, as well as between compute and visual grounding quality." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The method allows test-time controllability of an MLLM’s outputs.' is supported by the original webpage.
+<accept> The paper explicitly states in the contributions section: "We demonstrate on standard hallucination benchmarks that our proposed method consistently outperforms existing hallucination mitigation approaches, while allowing test-time controllability of an MLLM’s outputs." The abstract also mentions "on-the-fly controllability of an MLLM’s inference process," and the introduction talks about "inference-time alignment of MLLMs" and "fine-grained inference-time controllability." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'MRGD employs two reward functions.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the text. In the "Abstract" section, it states: "Concretely, we build two separate reward models to independently control the degree of object precision and recall in the model’s output." Furthermore, in the "1 Introduction" section, it directly confirms: "Our method, called multimodal reward-guided decoding (MRGD), employs two reward functions, one tailored for hallucination reduction and one tailored for improving object recall." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11613v1 
+Adaptive Cardio Load Targets for Improving Fitness and Performance 
+Active Zone Minutes (AZMs) are in a certain state in health guidelines.
+
+Heart rate elevation from psychological stress is in a certain way for Cardio Load calculation.
+
+One simple calculation of intensity is something. 
+Active Zone Minutes (AZMs) are well publicized in health guidelines.
+
+Heart rate elevation from psychological stress is discarded for Cardio Load calculation.
+
+One simple calculation of intensity is the percentage heart rate reserve (%HRR).
+
+**********Web Search Result**********
+
+https://thehealthinsider.ca/unlocking-health-steps-active-minutes-and-beyond/
+
+[
+    {
+        "title": "Active Zone Minutes \u2013 Using Fitness Data for Smarter Results",
+        "url": "https://www.thryve.health/blog/active-zone-minutes-using-fitness-data-for-smarter-results",
+        "date": "2025-01-01",
+        "last_updated": "2025-06-14"
+    },
+    {
+        "title": "Cardiovascular Reactivity to Mental Stress and Adverse ...",
+        "url": "https://www.ahajournals.org/doi/full/10.1161/JAHA.124.034683",
+        "date": "2025-01-23",
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "The Ultimate Guide to Fitbit Zone Minutes",
+        "url": "https://fitstraps.co.uk/blogs/news/the-ultimate-guide-to-fitbit-zone-minutes",
+        "date": "2023-12-21",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Heart rate response to cognitive load as a marker of depression and ...",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1355846/full",
+        "date": "2024-07-10",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Unlocking Health: Steps, Active Minutes, and Beyond",
+        "url": "https://thehealthinsider.ca/unlocking-health-steps-active-minutes-and-beyond/",
+        "date": "2024-07-12",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Cardiorespiratory Dynamic Response to Mental Stress",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3872389/",
+        "date": "2013-12-10",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "Fitbit Technology | Active Zone Minutes",
+        "url": "https://store.google.com/magazine/fitbit_active_zone_minutes?hl=en-US",
+        "date": "2025-07-01",
+        "last_updated": "2025-07-03"
+    },
+    {
+        "title": "Mental Workload Alters Heart Rate Variability, Lowering Non-linear ...",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.00565/full",
+        "date": "2019-05-13",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "does my fitbit device track active zone minutes or ...",
+        "url": "https://support.google.com/fitbit/answer/14236509?hl=en",
+        "date": "2025-06-02",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Adaptive Cardio Load Targets for Improving Fitness and Performance",
+        "url": "https://arxiv.org/html/2508.11613v1",
+        "date": "2010-01-01",
+        "last_updated": "2025-08-18"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Active Zone Minutes (AZMs) are in a certain state in health guidelines.' is supported by the citation.
+<accept> The article states that the "active minute" goal, which is synonymous with Active Zone Minutes (AZMs) used by Fitbit, is "designed to align with physical activity" and specifically mentions "Canadian Physical Activity Guidelines" recommending 150 minutes per week of moderate to vigorous aerobic exercise. This explicitly links AZMs to health guidelines. </accept>
+
+**********Source Check**********
+
+The claim 'Heart rate elevation from psychological stress is in a certain way for Cardio Load calculation.' is NOT supported by the citation.
+<reject> The content discusses heart rate in the context of physical activity and exercise intensity (e.g., moderate vs. vigorous activity, active zone minutes) and its impact on health and fitness goals. However, it does not mention heart rate elevation from psychological stress, nor does it discuss "Cardio Load calculation" or how different types of heart rate elevation might factor into such a calculation. </reject>
+
+**********Source Check**********
+
+The claim 'One simple calculation of intensity is something.' is supported by the citation.
+<accept> The content explains how "vigorous intensity such as a bike ride counts for x2 active minutes vs. x1 active minute for a moderate activity such as walking," which is a simple calculation of intensity in terms of active minutes. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+Something with an accompanying Jacobi metric are relevant to this work.
+
+The approach is demonstrated on something.
+
+Any geodesic of such a metric is also something. 
+Lagrangian systems with an accompanying Jacobi metric are relevant to this work.
+
+The approach is demonstrated on a Keplerian system.
+
+Any geodesic of such a metric is also a dynamically feasible trajectory.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2212.14147
+
+[
+    {
+        "title": "Jacobi field",
+        "url": "https://en.wikipedia.org/wiki/Jacobi_field",
+        "date": "2004-08-03",
+        "last_updated": "2025-06-20"
+    },
+    {
+        "title": "[PDF] The Jacobi metric approach for dynamical wormholes - arXiv",
+        "url": "https://arxiv.org/pdf/2212.14147",
+        "date": "2022-12-29",
+        "last_updated": "2024-08-15"
+    },
+    {
+        "title": "On the Jacobi metric for a general Lagrangian system",
+        "url": "https://pubs.aip.org/aip/jmp/article/60/11/112901/233532/On-the-Jacobi-metric-for-a-general-Lagrangian",
+        "date": "2019-11-26",
+        "last_updated": "2025-05-16"
+    },
+    {
+        "title": "Convexity preserving properties for Hamilton-Jacobi equations in ...",
+        "url": "https://www.aimsciences.org/article/doi/10.3934/dcds.2019007",
+        "date": null,
+        "last_updated": "2024-08-20"
+    },
+    {
+        "title": "Jacobi-Maupertuis-Eisenhart metric and geodesic flows",
+        "url": "https://arxiv.org/pdf/1612.00375",
+        "date": null,
+        "last_updated": "2025-05-02"
+    },
+    {
+        "title": "Kerr-Newman-Jacobi geometry and the deflection of charged ...",
+        "url": "https://link.aps.org/doi/10.1103/PhysRevD.104.044061",
+        "date": "2021-08-24",
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "Closed geodesics for the Jacobi metric",
+        "url": "https://ems.press/content/serial-article-files/17116",
+        "date": null,
+        "last_updated": "2025-05-09"
+    },
+    {
+        "title": "Jacobi Fields and Conjugate Points | Metric Differential Geometry ...",
+        "url": "https://library.fiveable.me/metric-differential-geometry/unit-10",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "JACOBI-MAUPERTUIS METRIC OF LI\u00c9NARD TYPE ...",
+        "url": "https://ejde.math.txstate.edu/Volumes/2018/120/chanda.pdf",
+        "date": null,
+        "last_updated": "2025-05-02"
+    },
+    {
+        "title": "[PDF] The Jacobi-metric for timelike geodesics in static spacetimes - arXiv",
+        "url": "https://arxiv.org/pdf/1508.06755",
+        "date": "2015-09-09",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something with an accompanying Jacobi metric are relevant to this work.' is supported by the citation.
+<accept> The title of the paper is "The Jacobi metric approach for dynamical wormholes," and the abstract states, "We present the Jacobi metric formalism for dynamical wormholes." The introduction further clarifies, "In this article we study the dynamical wormholes... using the Jacobi metric approach." The entire paper focuses on the application and implications of the Jacobi metric, making it highly relevant to the work. </accept>
+
+**********Source Check**********
+
+The claim 'The approach is demonstrated on something.' is supported by the citation.
+<accept> The abstract, introduction, and discussion sections explicitly state that the Jacobi metric approach is used to study or is checked over "dynamical wormholes". For example, "In this article we study the dynamical wormholes... using the Jacobi metric approach." and "The formalism has been checked over the dynamical wormhole (3.1)". </accept>
+
+**********Source Check**********
+
+The claim 'Any geodesic of such a metric is also something.' is supported by the citation.
+<accept> The text explicitly states: "The Jacobi metric approach helps to build a Riemannian manifold whose geodesics correspond to the orbits of the original system." In this context, "such a metric" refers to the Jacobi metric, and its geodesics correspond to the "orbits of the original system," which are the geodesics of the spacetime being studied. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Lagrangian systems with an accompanying Jacobi metric are relevant to this work.' is supported by the original webpage.
+<accept> The text explicitly states in the "1 Introduction" section: "Certain classes of systems have known metrics whose geodesics describe state trajectories, the most relevant for this work being Lagrangian systems with an accompanying Jacobi metric." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The approach is demonstrated on a Keplerian system.' is supported by the original webpage.
+<accept> The abstract states: "The approach is demonstrated on the minimum-Δ​V\\Delta V two-impulse phase-free orbit transfer problem, first on a Keplerian system and second on a system with a modeled J2J\_{2} perturbation." This directly supports the claim. The introduction also reiterates: "The method is demonstrated on both a classical Keplerian system, where it meets or exceeds the performance of existing techniques, and on a J2J\_{2} perturbed system, showcasing its flexibility." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Any geodesic of such a metric is also a dynamically feasible trajectory.' is supported by the original webpage.
+<accept> The abstract states, "This transformation is achieved by defining a metric, specifically the Jacobi metric, that embeds the dynamics directly into the metric, so any geodesic of the metric is also a dynamically feasible trajectory." The introduction further reiterates this concept: "To convert a trajectory planning problem into a geodesic computation problem, a metric must be found that naturally embeds the dynamics so that any geodesic is also a dynamically feasible trajectory." and "The key insight of this work is that spacecraft operating in a restricted two-body system possesses the so-called Jacobi metric whose geodesics are also dynamically feasible trajectories." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+Transformers have achieved state-of-the-art results for `something`.
+
+In telecommunications, audio fingerprinting has been employed `in a certain way`.
+
+Recent advances, such as `something`, combine peak extraction techniques with contrastive learning. 
+Transformers have achieved state-of-the-art results in speech recognition.
+
+In telecommunications, audio fingerprinting has been employed to search for duplicate audio when identifying unsolicited phone calls or to improve network performance by quickly identifying announcements played during session initiation.
+
+Recent advances, such as PeakNetFP, combine peak extraction techniques with contrastive learning.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2506.21086
+
+[
+    {
+        "title": "Audio Fingerprinting: Combining Computer Vision & Data ...",
+        "url": "https://research.google.com/pubs/archive/33031.pdf",
+        "date": null,
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "PeakNetFP: Peak-based Neural Audio Fingerprinting Robust ... - arXiv",
+        "url": "https://arxiv.org/html/2506.21086v1",
+        "date": "2025-06-26",
+        "last_updated": "2025-06-27"
+    },
+    {
+        "title": "Application of Audio Fingerprinting Techniques for Real ...",
+        "url": "https://arxiv.org/html/2410.21876v1",
+        "date": "2002-01-01",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "[PDF] PeakNetFP: Peak-based Neural Audio Fingerprinting Robust ... - arXiv",
+        "url": "https://arxiv.org/pdf/2506.21086",
+        "date": "2025-06-26",
+        "last_updated": "2025-06-27"
+    },
+    {
+        "title": "Using MPEG-7 Audio Fingerprinting in Real-World ...",
+        "url": "https://www.iis.fraunhofer.de/content/dam/iis/de/doc/ame/conference/AES-115-Convention_MPEG-7_AudioFingerprintinginReal-WorldApplications_AES5961.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Peak-based Neural Audio Fingerprinting Robust to Extreme Time ...",
+        "url": "https://www.themoonlight.io/en/review/peaknetfp-peak-based-neural-audio-fingerprinting-robust-to-extreme-time-stretching",
+        "date": "2025-06-25",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "Application of Audio Fingerprinting Techniques for Real ...",
+        "url": "https://arxiv.org/abs/2410.21876",
+        "date": "2024-10-29",
+        "last_updated": "2025-06-21"
+    },
+    {
+        "title": "[PDF] Audio Fingerprinting with Holographic Reduced Representations",
+        "url": "https://www.isca-archive.org/interspeech_2024/fujita24_interspeech.pdf",
+        "date": "2024-09-01",
+        "last_updated": "2025-05-11"
+    },
+    {
+        "title": "What is Audio Fingerprinting: A Comprehensive Guide",
+        "url": "https://www.scrapeless.com/en/blog/audio-fingerprinting",
+        "date": "2024-11-15",
+        "last_updated": "2025-07-17"
+    },
+    {
+        "title": "SpectroMap: Peak detection algorithm for audio fingerprinting",
+        "url": "https://www.semanticscholar.org/paper/5fd2d34bf1ce6f4f43464e7989f3ee30b255bb2d",
+        "date": "2022-11-02",
+        "last_updated": "2025-02-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Transformers have achieved state-of-the-art results for `something`.' is NOT supported by the citation.
+<reject> The text mentions "transformer-based AFPs [34, 36]" in Section 2.2, stating that "NeuralFP is also lighter than other proposed models such as transformer-based AFPs". However, it does not explicitly state that these transformer-based AFPs have achieved state-of-the-art results for any task. Instead, it refers to NeuralFP as the "SOTA neural audio fingerprinting" model. </reject>
+
+**********Source Check**********
+
+The claim 'In telecommunications, audio fingerprinting has been employed `in a certain way`.' is supported by the citation.
+<accept> The text mentions that Audio Fingerprinting (AFP) has been "extensively studied for various use cases, such as... integrity verification [3]". Reference [3] is "E. Gomez, P. Cano, L. Gomes, E. Batlle, and M. Bonnet, “Mixed watermarking-fingerprinting approach for integrity verification of audio recordings,” in Proceedings of the International Telecommunications Symposium, Natal, Brazil, 2002." This explicitly links the use of audio fingerprinting for "integrity verification of audio recordings" to a "Telecommunications Symposium", thereby confirming its employment in telecommunications in a certain way. </accept>
+
+**********Source Check**********
+
+The claim 'Recent advances, such as `something`, combine peak extraction techniques with contrastive learning.' is supported by the citation.
+<accept> The text explicitly states that "PeakNetFP" combines peak-based feature extraction (specifically, hierarchical point set learning from sparse spectral peaks input) with contrastive learning. This is mentioned multiple times, including in the abstract: "PeakNetFP performs hierarchical point feature extraction techniques similar to the computer vision model PointNet++, and is trained using contrastive learning..." and in the introduction: "Specifically, our model PeakNetFP applies contrastive learning to learn fingerprints from sparse spectral peaks input, leveraging the hierarchical point set learning algorithm Pointnet++." </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11608v1 
+A multigrid method for CutFEM and its implementation on GPU 
+The smoother is a parallel implementation of something.
+
+In the related method, something for all cut cells is combined with a Jacobi method on uncut cells.
+
+In prior work, something is used inside two subdomains. 
+The smoother is a parallel implementation of the multiplicative vertex-patch smoother.
+
+In the related method, a cell-based additive Schwarz method for all cut cells is combined with a Jacobi method on uncut cells.
+
+In prior work, a Gauss-Seidel smoother is used inside two subdomains.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11608v1
+
+[
+    {
+        "title": "[PDF] PARALLEL IMPLEMENTATIONS OF THE JACOBI LINEAR ... - arXiv",
+        "url": "https://arxiv.org/pdf/1403.5805",
+        "date": null,
+        "last_updated": "2025-04-04"
+    },
+    {
+        "title": "Block-asynchronous and Jacobi smoothers for a multigrid ...",
+        "url": "https://journals.ub.uni-heidelberg.de/index.php/emcl-pp/article/download/23465/17197/64427",
+        "date": null,
+        "last_updated": "2025-05-14"
+    },
+    {
+        "title": "[PDF] A Jacobi smoother - Case study - FAU Blogs",
+        "url": "https://blogs.fau.de/hager/files/2021/10/sc21-09_stencils.pdf",
+        "date": null,
+        "last_updated": "2024-12-16"
+    },
+    {
+        "title": "A multigrid method for CutFEM and its implementation on ...",
+        "url": "https://arxiv.org/html/2508.11608v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] Performance Comparison of GPU-Based Jacobi Solvers Using ...",
+        "url": "https://aura.abdn.ac.uk/bitstream/2164/23293/1/Aslam_etal_IA_Performance_Comparison_of_VoR.pdf",
+        "date": null,
+        "last_updated": "2025-04-15"
+    },
+    {
+        "title": "A PARALLEL CARTESIAN APPROACH FOR EXTERNAL ...",
+        "url": "https://ntrs.nasa.gov/api/citations/20020050405/downloads/20020050405.pdf",
+        "date": null,
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "[PDF] C H A P T E R 1 2 PARALLEL PRECONDITIONERS This chapter ...",
+        "url": "https://www.cs.cmu.edu/afs/cs/user/glmiller/public/Scientific-Computing/F-05/RelatedWork/Saad-Book/chapters-12-index.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Iterative Methods for Sparse Linear Systems Second Edition",
+        "url": "https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf",
+        "date": null,
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "[PDF] Optimal Polynomial Smoothers for Multigrid V-cycles - arXiv",
+        "url": "https://arxiv.org/pdf/2202.08830",
+        "date": "2023-05-09",
+        "last_updated": "2025-05-02"
+    },
+    {
+        "title": "[PDF] Parallel Implementation of an Adaptive, Multigrid Solver for the ...",
+        "url": "https://eprints.whiterose.ac.uk/id/eprint/85355/8/YGHJ15.pdf",
+        "date": null,
+        "last_updated": "2025-05-14"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The smoother is a parallel implementation of something.' is supported by the citation.
+<accept> The abstract explicitly states: "The smoother is a parallel implementation of the multiplicative vertex-patch smoother with inconsistent treatment of ghost penalties." </accept>
+
+**********Source Check**********
+
+The claim 'In the related method, something for all cut cells is combined with a Jacobi method on uncut cells.' is supported by the citation.
+<accept> The document explicitly states in the "1 Introduction" section: "Another method related to our work was developed in [13] for unfitted isogeometric methods. There, a cell-based additive Schwarz method for all cut cells is combined with a Jacobi method on the uncut cells." This directly matches the information provided. </accept>
+
+**********Source Check**********
+
+The claim 'In prior work, something is used inside two subdomains.' is supported by the citation.
+<accept> The text states, "A multigrid method for the unfitted interface problem was presented in \[ 22\]. There, a Gauss-Seidel smoother is used inside the two subdomains and combined with a global solver for the degrees of freedom coupling over the interface." This explicitly mentions that in prior work (reference \[22\]), a Gauss-Seidel smoother was used inside two subdomains. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The smoother is a parallel implementation of the multiplicative vertex-patch smoother.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the abstract section of the provided content: "The smoother is a parallel implementation of the multiplicative vertex-patch smoother with inconsistent treatment of ghost penalties." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'In the related method, a cell-based additive Schwarz method for all cut cells is combined with a Jacobi method on uncut cells.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section: "Another method related to our work was developed in for unfitted isogeometric methods. There, a cell-based additive Schwarz method for all cut cells is combined with a Jacobi method on the uncut cells." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'In prior work, a Gauss-Seidel smoother is used inside two subdomains.' is supported by the original webpage.
+<accept> The text explicitly states: "A multigrid method for the unfitted interface problem was presented in . There, a Gauss-Seidel smoother is used inside the two subdomains and combined with a global solver for the degrees of freedom coupling over the interface." This directly confirms the claim. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+Specialized models can do something in diverse settings.
+
+Ambiguity and creative extrapolation are inherent in something.
+
+The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s something. 
+Ambiguity and creative extrapolation are inherent in human cognition.
+
+Specialized models can power automated discovery mechanisms in diverse settings.
+
+The cognitive duality of human creativity is linked neuroscientifically to the dynamic coupling of the brain’s Default Mode Network (DMN).
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The Link Between Creativity, Cognition, and Creative Drives and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6440443/",
+        "date": "2019-03-22",
+        "last_updated": "2025-07-25"
+    },
+    {
+        "title": "Neural, genetic, and cognitive signatures of creativity",
+        "url": "https://www.nature.com/articles/s42003-024-07007-6",
+        "date": "2024-10-15",
+        "last_updated": "2024-10-15"
+    },
+    {
+        "title": "A Neurocognitive Framework for Human Creative Thought - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5222865/",
+        "date": "2017-01-10",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Creativity, brain, and art: biological and neurological considerations",
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00389/full",
+        "date": "2014-06-01",
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "Editorial: \u201cThe cognitive, emotional and neural correlates of creativity\u201d",
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00275/full",
+        "date": "2015-05-19",
+        "last_updated": "2025-04-30"
+    },
+    {
+        "title": "Conceptual Design of a Creative Artificial Intelligence System Based ...",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/10400419.2021.2005309",
+        "date": "2021-12-30",
+        "last_updated": "2025-03-04"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on something.
+
+Synthetic training data results in a slight quality drop on something, yielding an F-score of 0.686 compared to 0.703 for real data training.
+
+In visual entailment (VE) tasks, in a certain way, while the hypothesis remains in text form. 
+For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on CLIP feature vectors.
+
+Synthetic training data results in a slight quality drop on SNLI-VE, yielding an F-score of 0.686 compared to 0.703 for real data training.
+
+In visual entailment (VE) tasks, an image substitutes the premise, while the hypothesis remains in text form.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/2508.11605
+
+[
+    {
+        "title": "Dataset Creation for Visual Entailment using Generative AI - arXiv",
+        "url": "https://arxiv.org/abs/2508.11605",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[PDF] Visual Entailment Task for Visually-Grounded Language Learning",
+        "url": "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1511&context=cse",
+        "date": null,
+        "last_updated": "2025-02-18"
+    },
+    {
+        "title": "[PDF] Master Computer Science - LIACS Leiden University",
+        "url": "https://theses.liacs.nl/pdf/2023-2024-ReijtenbachRRob.pdf",
+        "date": "2024-11-06",
+        "last_updated": "2025-06-08"
+    },
+    {
+        "title": "Probing Vision-Language Understanding through the Visual ... - arXiv",
+        "url": "https://arxiv.org/html/2507.17467v1",
+        "date": "2025-07-23",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Dataset Creation for Visual Entailment using Generative AI",
+        "url": "https://chatpaper.com/fr/chatpaper/paper/180927",
+        "date": "2025-07-23",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[PDF] Visually-Verifiable Textual Entailment: A Challenge Task for ...",
+        "url": "https://aclanthology.org/W15-2801.pdf",
+        "date": null,
+        "last_updated": "2025-07-04"
+    },
+    {
+        "title": "Visual Entailment: A Novel Task for Fine-Grained Image ...",
+        "url": "https://www.nec-labs.com/blog/visual-entailment-a-novel-task-for-fine-grained-image-understanding/",
+        "date": "2019-02-15",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "[PDF] Visual-Textual Entailment with Quantities Using Model Checking ...",
+        "url": "https://aclanthology.org/2024.lrec-main.1512.pdf",
+        "date": "2024-05-20",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[PDF] What You See is What You Read? Improving Text-Image Alignment ...",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/056e8e9c8ca9929cb6cf198952bf1dbb-Paper-Conference.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "[PDF] Fine-Grained Visual Entailment",
+        "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960393.pdf",
+        "date": null,
+        "last_updated": "2025-04-22"
+    }
+]
+
+**********Source Check**********
+
+The claim 'For extrinsic evaluation, the validity of generated images is assessed by using them as training data for a visual entailment classifier based on something.' is supported by the citation.
+<accept> The content explicitly states: "For extrinsic evaluation, we evaluate the validity of the generated images by using them as training data for a visual entailment classifier based on CLIP feature vectors." This directly matches the information provided, specifying that the classifier is "based on CLIP feature vectors." </accept>
+
+**********Source Check**********
+
+The claim 'Synthetic training data results in a slight quality drop on something, yielding an F-score of 0.686 compared to 0.703 for real data training.' is supported by the citation.
+<accept> The abstract explicitly states: "We find that synthetic training data only leads to a slight drop in quality on SNLI-VE, with an F-score 0.686 compared to 0.703 when trained on real data." This matches all details of the provided information. </accept>
+
+**********Source Check**********
+
+The claim 'In visual entailment (VE) tasks, in a certain way, while the hypothesis remains in text form.' is NOT supported by the citation.
+<reject> The content explicitly states that the premise text from the SNLI dataset is used to create an image, replacing the textual premise for visual entailment. However, it does not explicitly mention whether the hypothesis remains in text form. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11603v1 
+CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion 
+Existing approaches often fail to maintain cross-view consistency without something.
+
+This approach ensures something.
+
+When significant disparity exists among per-view editing results, CCA tends to act in a certain way. 
+Existing approaches often fail to maintain cross-view consistency without explicit control over multi-view information exchange.
+
+This approach ensures preliminary alignment of the global editing style.
+
+When significant disparity exists among per-view editing results, CCA tends to "average" these edits.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11603v1
+
+[
+    {
+        "title": "CoreEditor: Consistent 3D Editing via Correspondence- ...",
+        "url": "https://arxiv.org/html/2508.11603v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "View-consistent Object Removal in Radiance Fields",
+        "url": "https://arxiv.org/html/2408.02100v1",
+        "date": "2024-08-04",
+        "last_updated": "2025-01-26"
+    },
+    {
+        "title": "Learning Multi-View Consistent Inpainting to Bridge 2D ...",
+        "url": "https://neurips.cc/virtual/2024/poster/94779",
+        "date": "2025-01-31",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "View-Consistent 3D Editing with Gaussian Splatting",
+        "url": "https://dl.acm.org/doi/abs/10.1007/978-3-031-72761-0_23",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D ...",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Edelstein_Sharp-It_A_Multi-view_to_Multi-view_Diffusion_Model_for_3D_Synthesis_CVPR_2025_paper.pdf",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "CMD: Controllable Multiview Diffusion for 3D Editing and ...",
+        "url": "https://dl.acm.org/doi/10.1145/3721238.3730722",
+        "date": "2025-07-27",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'Existing approaches often fail to maintain cross-view consistency without something.' is supported by the citation.
+<accept> The abstract states: "most existing approaches tackle this by adapting pre-trained 2D image editors to multi-view inputs. However, without explicit control over multi-view information exchange, they often fail to maintain cross-view consistency, leading to insufficient edits and blurry details." This directly matches the information provided, specifying what is lacking (explicit control over multi-view information exchange) that causes existing approaches to fail in maintaining cross-view consistency. </accept>
+
+**********Source Check**********
+
+The claim 'This approach ensures something.' is supported by the citation.
+<accept> The sentence "This approach ensures preliminary alignment of the global editing style, enabling CCA to focus solely on local consistency" is explicitly mentioned in section "III-B Overview: Selective Editing Pipeline" of the content.</accept>
+
+**********Source Check**********
+
+The claim 'When significant disparity exists among per-view editing results, CCA tends to act in a certain way.' is supported by the citation.
+<accept> The text explicitly states in the Introduction section, under the challenges of applying CCA, that "When there is a significant disparity among per-view editing results, CCA tends to “average” these edits, resulting in unnatural edits." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Existing approaches often fail to maintain cross-view consistency without explicit control over multi-view information exchange.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the Abstract section: "most existing approaches tackle this by adapting pre-trained 2D image editors to multi-view inputs. However, without explicit control over multi-view information exchange, they often fail to maintain cross-view consistency, leading to insufficient edits and blurry details." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This approach ensures preliminary alignment of the global editing style.' is supported by the original webpage.
+<accept> The claim "This approach ensures preliminary alignment of the global editing style" is explicitly stated in the section discussing the solution to the second problem: "Regarding the second problem, we introduce a selective editing pipeline, where users are allowed to select their preferred editing pattern from the per-view editing results. The selected edit is then injected into the diffusion model by a Reference Attention (RA). This approach ensures preliminary alignment of the global editing style, enabling CCA to focus solely on local consistency." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'When significant disparity exists among per-view editing results, CCA tends to "average" these edits.' is supported by the original webpage.
+<accept> The content explicitly states: "(2) When there is a significant disparity among per-view editing results, CCA tends to “average” these edits, resulting in unnatural edits." This directly matches the claim. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+AuriStream's framework does not rely on something.
+
+Human speech perception mechanisms learn something over the audio signal.
+
+Someone learns compressed representations by retaining essential information for audio reconstruction. 
+AuriStream's framework does not rely on signal-reconstruction objectives.
+
+Human speech perception mechanisms learn robust invariances over the audio signal.
+
+Neural audio codecs learn compressed representations by retaining essential information for audio reconstruction.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11598v1
+
+[
+    {
+        "title": "AAudio - NDK - Android Developers",
+        "url": "https://developer.android.com/ndk/guides/audio/aaudio/aaudio",
+        "date": "2025-03-27",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Android Audio Architecture Overview - eInfochips",
+        "url": "https://www.einfochips.com/blog/android-audio-architecture-overview/",
+        "date": "2024-02-06",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Representing Speech Through Autoregressive Prediction of ... - arXiv",
+        "url": "https://arxiv.org/html/2508.11598v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "AGL Advanced Audio Architecture (4a)",
+        "url": "https://agl-gsod-2020-demo-mkdocs.readthedocs.io/en/latest/flounder/apis_services/reference/audio/4a-framework/",
+        "date": "2020-01-01",
+        "last_updated": "2025-03-03"
+    },
+    {
+        "title": "Android Audio Framework Architecture - Bits & Qubits",
+        "url": "http://gopinaths.gitlab.io/post/android-audio-framework-architecture/",
+        "date": "2017-03-01",
+        "last_updated": "2024-04-16"
+    },
+    {
+        "title": "Audio | Android Open Source Project",
+        "url": "https://source.android.com/docs/core/audio",
+        "date": "2025-06-18",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Advanced Linux Sound Architecture - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture",
+        "date": "2003-01-05",
+        "last_updated": "2025-06-04"
+    },
+    {
+        "title": "Audio \u2014 Ameba IoT Docs documentation",
+        "url": "https://aiot.realmcu.com/docs/en/latest/rst_multimedia/rtos/0_multimedia_index.html",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Open-source audio development for Qualcomm SoCs: AudioReach",
+        "url": "https://www.qualcomm.com/developer/blog/2024/10/qualcomm-open-sourcing-audio-reach-end-to-end-audio-software",
+        "date": "2024-10-09",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'AuriStream's framework does not rely on something.' is supported by the citation.
+<accept> The document explicitly states: "Unlike past approaches, our proposed framework does not rely on signal-reconstruction objectives (used by neural codec models), non-causal prediction objectives (used in bi-directional prediction models), or intra-batch contrasting of samples (used in many contrastive models)." This clearly mentions things that AuriStream's framework does not rely on. </accept>
+
+**********Source Check**********
+
+The claim 'Human speech perception mechanisms learn something over the audio signal.' is supported by the citation.
+<accept> The text explicitly states, in section 1.1, "human speech perception mechanisms critically abstract away from the low-level acoustics and learn robust invariances over the audio signal". This directly supports the information that human speech perception mechanisms learn something over the audio signal. </accept>
+
+**********Source Check**********
+
+The claim 'Someone learns compressed representations by retaining essential information for audio reconstruction.' is supported by the citation.
+<accept> The text states that "neural audio codecs, which learn compressed representations by retaining the essential information for audio reconstruction, enabling them to recover the original signal from the learned codes". This explicitly mentions a "someone" (neural audio codecs) learning compressed representations by retaining essential information for audio reconstruction. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'AuriStream's framework does not rely on signal-reconstruction objectives.' is supported by the original webpage.
+<accept> The document explicitly states in Section 1.2, "Our Approach: A Two-Stage Framework for Autoregressive Prediction on Biologically-Inspired Inputs," that "Unlike past approaches, our proposed framework does not rely on signal-reconstruction objectives (used by neural codec models)..." This directly supports the claim that AuriStream's framework does not rely on signal-reconstruction objectives. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Human speech perception mechanisms learn robust invariances over the audio signal.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in section 1.1 under "Related Work: Speech Representation Learning", which states: "human speech perception mechanisms critically abstract away from the low-level acoustics and learn robust invariances over the audio signal." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Neural audio codecs learn compressed representations by retaining essential information for audio reconstruction.' is supported by the original webpage.
+<accept> The claim is explicitly stated in Section 1.1, under "Related Work: Speech Representation Learning", which says: "One popular approach is neural audio codecs, which learn compressed representations by retaining the essential information for audio reconstruction, enabling them to recover the original signal from the learned codes." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring 
+As **something** increases, the fruit may slip in the grasp and enter a slip state.
+
+**Something** faced challenges in identifying other critical transitions, such as from slip to a successful pick.
+
+The work evaluates the **something** of each sensor. 
+As tension increases, the fruit may slip in the grasp and enter a slip state.
+
+The baseline study faced challenges in identifying other critical transitions, such as from slip to a successful pick.
+
+The work evaluates the individual contribution of each sensor.
+
+**********Web Search Result**********
+
+https://portal.nifa.usda.gov/web/crisprojectpages/1022503-cps-small-learning-to-pick-fruit-using-closed-loop-control-and-in.html
+
+[
+    {
+        "title": "Learning-Based Slip Detection for Robotic Fruit Grasping and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9332724/",
+        "date": "2022-07-22",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "CPS: Small: Learning to Pick Fruit Using Closed Loop Control and In",
+        "url": "https://portal.nifa.usda.gov/web/crisprojectpages/1022503-cps-small-learning-to-pick-fruit-using-closed-loop-control-and-in.html",
+        "date": "2024-05-31",
+        "last_updated": "2024-12-10"
+    },
+    {
+        "title": "Experimental Evaluation of Tactile Sensors for Compliant Robotic ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8544026/",
+        "date": "2021-10-11",
+        "last_updated": "2025-07-12"
+    },
+    {
+        "title": "Advancement and Field Evaluation of a Dual-arm Apple Harvesting ...",
+        "url": "https://arxiv.org/html/2506.05714v1",
+        "date": "2025-06-06",
+        "last_updated": "2025-06-09"
+    },
+    {
+        "title": "Modular autonomous strawberry picking robotic system - Parsa - 2024",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22229",
+        "date": "2023-07-26",
+        "last_updated": "2025-01-12"
+    },
+    {
+        "title": "Recognition and Localization Methods for Vision-Based Fruit ...",
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00510/full",
+        "date": "2020-05-19",
+        "last_updated": "2025-04-23"
+    }
+]
+
+**********Source Check**********
+
+The claim 'As **something** increases, the fruit may slip in the grasp and enter a slip state.' is NOT supported by the citation.
+<reject> The provided text mentions "slip events," "slip detection," and "predicting slip" in the context of robotic fruit picking and refers to using sensor data to identify patterns associated with these events. However, it does not explicitly state that "As something increases, the fruit may slip in the grasp and enter a slip state." It discusses the *detection* and *prediction* of slip, but not a direct causal relationship where an increase in a specific factor leads to slipping. </reject>
+
+**********Source Check**********
+
+The claim '**Something** faced challenges in identifying other critical transitions, such as from slip to a successful pick.' is NOT supported by the citation.
+<reject> The content discusses efforts to detect and predict slip events and successful apple picks, and train machine learning algorithms to identify these events. However, it does not state that the project or "something" faced challenges in *identifying* "other critical transitions, such as from slip to a successful pick." Instead, it suggests they are working on the *detection and prediction* of these events, implying they are already identifiable concepts. </reject>
+
+**********Source Check**********
+
+The claim 'The work evaluates the **something** of each sensor.' is supported by the citation.
+<accept> The content explicitly states under "Progress 06/01/20 to 05/31/21" in the "Impacts" section, regarding Objective 1, that the analysis of sensor measurements will "identify needed improvements for future generations of the end-effector," and in the "What do you plan to do during the next reporting period to accomplish the goals?" section, it mentions collecting data to "evaluate the performance of the in-hand sensors and determine whether modifications will be required to the first prototype design." This indicates the work evaluates the "performance" of the sensors. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation 
+A certain study demonstrated notable success in detecting slip events.
+
+Unstructured settings, such as something, remain challenging for robots.
+
+Fruit is in a certain state to the plant, requiring precise separation during harvesting. 
+The previous study by Walt and Krishnan (2023) demonstrated notable success in detecting slip events.
+
+Unstructured settings, such as polycultures and urban high tunnels, remain challenging for robots.
+
+Fruit is physically attached to the plant, requiring precise separation during harvesting.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Robust Learning-Based Incipient Slip Detection using the ... - arXiv",
+        "url": "https://arxiv.org/html/2307.04011",
+        "date": "2022-08-09",
+        "last_updated": "2025-05-21"
+    },
+    {
+        "title": "The Future of Robotics in Unstructured Environments - SK Godelius",
+        "url": "https://godelius.com/en/the-future-of-robotics-in-unstructured-environments/",
+        "date": "2023-01-16",
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "Intelligent robotics harvesting system process for fruits grasping ...",
+        "url": "https://www.nature.com/articles/s41598-024-52743-8",
+        "date": "2024-02-03",
+        "last_updated": "2024-10-31"
+    },
+    {
+        "title": "Universal slip detection of robotic hand with tactile sensing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11843555/",
+        "date": "2025-02-05",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "The Rise of Autonomous Industrial Robotics: From Structured ... - Inbolt",
+        "url": "https://www.inbolt.com/resources/the-rise-of-autonomous-industrial-robotics-from-structured-to-unstructured-environments",
+        "date": "2023-05-17",
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "Gripping Success Metric for Robotic Fruit Harvesting - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11723232/",
+        "date": "2024-12-31",
+        "last_updated": "2025-07-17"
+    },
+    {
+        "title": "Universal slip detection of robotic hand with tactile sensing - Frontiers",
+        "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1478758/full",
+        "date": "2025-02-04",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Foundation Models for Autonomous Robots in Unstructured ... - arXiv",
+        "url": "https://arxiv.org/abs/2407.14296",
+        "date": "2024-07-19",
+        "last_updated": "2025-06-25"
+    },
+    {
+        "title": "The Rise of Precision Agricultural Robots Paving the Way for ...",
+        "url": "https://en.reset.org/the-rise-of-precision-agricultural-robots-paving-the-way-for-delicate-crop-handling/",
+        "date": "2024-02-06",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Bioinspired trajectory modulation for effective slip control in robot ...",
+        "url": "https://www.nature.com/articles/s42256-025-01062-2",
+        "date": "2025-07-22",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11584v1 
+Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks 
+`something` enables mobile machines to interpret complex environments.
+
+`something` fosters extendability.
+
+The VPEngine framework is written in `something`. 
+Visual perception enables mobile machines to interpret complex environments.
+
+VPEngine's modularization fosters extendability.
+
+The VPEngine framework is written in Python.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Visual programming language",
+        "url": "https://en.wikipedia.org/wiki/Visual_programming_language",
+        "date": "2004-03-02",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Programming languages & frameworks",
+        "url": "https://developers.redhat.com/topics/programming-languages-frameworks",
+        "date": "2025-03-19",
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "Demystifying Programming Frameworks: A Comprehensive ...",
+        "url": "https://www.netsolutions.com/insights/what-is-a-framework-in-programming/",
+        "date": "2023-06-30",
+        "last_updated": "2025-07-18"
+    },
+    {
+        "title": "vlang/awesome-v",
+        "url": "https://github.com/vlang/awesome-v",
+        "date": "2019-07-03",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "List of Top Programming Languages and Frameworks for ...",
+        "url": "https://www.softermii.com/blog/top-programming-languages-and-frameworks-for-software-development",
+        "date": "2024-01-05",
+        "last_updated": "2025-01-16"
+    },
+    {
+        "title": "Frameworks | Languages",
+        "url": "https://replit.com/templates/languages",
+        "date": "2009-01-01",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "The Best Frameworks For Game Development",
+        "url": "https://www.youtube.com/watch?v=Bszp1eYMb4s",
+        "date": "2024-10-24",
+        "last_updated": "2025-07-01"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+Adaptive Length Management encourages in a certain way.
+
+DR. SAF enforces something.
+
+Experimental results demonstrate that DR. SAF achieves in a certain state. 
+Adaptive Length Management encourages longer exploration beyond the Completely Infeasible Reasoning Boundary (CIRB).
+
+DR. SAF enforces boundary-driven length adaptation.
+
+Experimental results demonstrate that DR. SAF achieves a 49.27% reduction in total response tokens with minimal loss in accuracy.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The effects of slope-adaptive prosthetic feet on sloped gait ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11271739/",
+        "date": "2003-09-01",
+        "last_updated": "2025-06-01"
+    },
+    {
+        "title": "A method for compressing AIS trajectory based on the adaptive core ...",
+        "url": "https://www.nature.com/articles/s41598-024-71779-4",
+        "date": "2024-09-13",
+        "last_updated": "2024-09-13"
+    },
+    {
+        "title": "Exploring the role of leaders in enabling adaptive capacity in ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9281060/",
+        "date": "2022-07-13",
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "Quality assurance for on\u2010table adaptive magnetic resonance guided ...",
+        "url": "https://aapm.onlinelibrary.wiley.com/doi/10.1002/acm2.13523",
+        "date": "2022-01-12",
+        "last_updated": null
+    },
+    {
+        "title": "Error Management Training and Adaptive Expertise in Learning ...",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823185",
+        "date": "2024-09-09",
+        "last_updated": "2025-03-26"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+The study contributes something.
+
+Intergenerational support strategies are especially relevant when certain people are victimized.
+
+Deepfake impersonation scams have recently prompted something. 
+The study contributes a greater understanding of older adults’ reliance on interpersonal networks for scam response.
+
+Intergenerational support strategies are especially relevant when two parties, older adults and youth, are victimized.
+
+Deepfake impersonation scams have recently prompted media coverage.
+
+**********Web Search Result**********
+
+https://www.weforum.org/stories/2025/07/why-detecting-dangerous-ai-is-key-to-keeping-trust-alive/
+
+[
+    {
+        "title": "Understanding Intergenerational Transmission of Physical and ...",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10926771.2025.2491767?src=",
+        "date": "2025-05-04",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "Deepfake Attacks & AI-Generated Phishing: 2025 Statistics",
+        "url": "https://zerothreat.ai/blog/deepfake-and-ai-phishing-statistics",
+        "date": "2025-06-27",
+        "last_updated": "2025-07-11"
+    },
+    {
+        "title": "The intergenerational and collective trauma of gender-based violence",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/26904586.2024.2443843",
+        "date": "2025-04-03",
+        "last_updated": "2025-07-31"
+    },
+    {
+        "title": "Detecting dangerous AI is essential in the deepfake era",
+        "url": "https://www.weforum.org/stories/2025/07/why-detecting-dangerous-ai-is-key-to-keeping-trust-alive/",
+        "date": "2025-07-07",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "[PDF] Intergenerational Continuity Of Sexual Violence Victimization",
+        "url": "https://commons.und.edu/cgi/viewcontent.cgi?article=6305&context=theses",
+        "date": "2023-09-25",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "What are Deepfakes and How Do They Impact Fraud?",
+        "url": "https://www.feedzai.com/blog/deepfake-fraud/",
+        "date": "2025-04-01",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "[PDF] The Intergenerational Transmission of Intimate Partner Violence",
+        "url": "https://dev.cjcenter.org/_files/cvi/CVI_Intergenerational.pdf",
+        "date": null,
+        "last_updated": "2024-04-28"
+    },
+    {
+        "title": "Cyber Insurance & the Risk of Deepfakes in 2025",
+        "url": "https://ksa-insurance.com/blog/cyber-insurance-deepfakes-2025/",
+        "date": "2025-08-18",
+        "last_updated": null
+    },
+    {
+        "title": "Intergenerational effects of childhood maltreatment: A systematic ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7476782/",
+        "date": "2020-07-23",
+        "last_updated": "2025-07-19"
+    },
+    {
+        "title": "AI Scams, Deep Fakes, Impersonations \u2026 Oh My!",
+        "url": "https://www.jpmorgan.com/insights/fraud/fraud-protection/ai-scams-deep-fakes-impersonations-oh-my",
+        "date": "2025-07-10",
+        "last_updated": "2025-07-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The study contributes something.' is NOT supported by the citation.
+<reject> The provided content is an article, not explicitly referred to as a "study." While the article provides insights and recommendations which could be considered contributions, it does not explicitly state "The study contributes something." </reject>
+
+**********Source Check**********
+
+The claim 'Intergenerational support strategies are especially relevant when certain people are victimized.' is NOT supported by the citation.
+<reject> The provided text discusses deepfake fraud, cybersecurity threats, and strategies for detection and resilience against these attacks, primarily in a corporate and financial context. It does not mention or discuss "intergenerational support strategies" or their relevance when people are victimized. </reject>
+
+**********Source Check**********
+
+The claim 'Deepfake impersonation scams have recently prompted something.' is supported by the citation.
+<accept> The article explicitly states that deepfake fraud has prompted several actions and recognitions. For example, it highlights that "Deepfake fraud highlights why we need to safeguard against AI's weaponization," and that the January 2024 attack on Arup "signals a fundamental shift in how AI threatens the trust infrastructure." It also mentions that the US Financial Crimes Enforcement Network "has issued formal guidance mandating enhanced verification procedures and suspicious activity reporting for deepfake incidents" and that policy frameworks are "rapidly evolving to address this threat," citing the EU's AI Act. These examples clearly demonstrate that deepfake impersonation scams have prompted responses and changes. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11576v1 
+Causality Matters: How Temporal Information Emerges in Video Language Models 
+It is commonly assumed that using a more sophisticated positional encoding function leads directly to in a certain state.
+
+Temporal cues are in a certain way through inter-frame attention.
+
+Something is aggregated in the final video frame. 
+It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness.
+
+Temporal cues are progressively synthesized through inter-frame attention.
+
+Temporal information is aggregated in the final video frame.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11576v1
+
+[
+    {
+        "title": "How Temporal Information Emerges in Video Language Models",
+        "url": "https://arxiv.org/html/2508.11576v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Causality Matters: How Temporal Information Emerges in ...",
+        "url": "https://arxiv.org/pdf/2508.11576",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Rotary Position Embedding for Video Large Language Models - arXiv",
+        "url": "https://arxiv.org/html/2502.11664v1",
+        "date": "2025-02-17",
+        "last_updated": "2025-05-29"
+    },
+    {
+        "title": "A Motion-aware Spatio-temporal Graph for Video Salient ...",
+        "url": "https://openreview.net/forum?id=VUBtAcQN44",
+        "date": "2024-09-25",
+        "last_updated": "2024-12-23"
+    },
+    {
+        "title": "VideoRoPE: What Makes for Good Video Rotary Position Embedding?",
+        "url": "https://openreview.net/forum?id=tO7OVZkCo1",
+        "date": "2025-06-18",
+        "last_updated": "2025-06-21"
+    },
+    {
+        "title": "Stand-Alone Inter-Frame Attention in Video Models",
+        "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.pdf",
+        "date": null,
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] Track Targets by Dense Spatio-Temporal Position Encoding",
+        "url": "https://bmvc2022.mpi-inf.mpg.de/0311.pdf",
+        "date": null,
+        "last_updated": "2024-06-09"
+    },
+    {
+        "title": "Multi-Task Learning From Videos via Efficient Inter-Frame ...",
+        "url": "https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Kim_MILA_Multi-Task_Learning_From_Videos_via_Efficient_Inter-Frame_Attention_ICCVW_2021_paper.pdf",
+        "date": null,
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Efficient Video Transformers via Spatial-temporal Token Merging for ...",
+        "url": "https://dl.acm.org/doi/10.1145/3633781",
+        "date": null,
+        "last_updated": "2025-04-12"
+    },
+    {
+        "title": "Learning Motion and Temporal Cues for Unsupervised ...",
+        "url": "https://arxiv.org/html/2501.07806v1",
+        "date": "2025-01-14",
+        "last_updated": "2025-07-28"
+    }
+]
+
+**********Source Check**********
+
+The claim 'It is commonly assumed that using a more sophisticated positional encoding function leads directly to in a certain state.' is supported by the citation.
+<accept> The text explicitly states, "It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness." This directly supports the given information about assumptions regarding sophisticated positional encoding functions. </accept>
+
+**********Source Check**********
+
+The claim 'Temporal cues are in a certain way through inter-frame attention.' is supported by the citation.
+<accept> The abstract explicitly states: "We uncover a causal information pathway: temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." This directly mentions that temporal cues are formed through inter-frame attention. </accept>
+
+**********Source Check**********
+
+The claim 'Something is aggregated in the final video frame.' is supported by the citation.
+<accept> The abstract states, "temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." Section 5.3's result section also explicitly mentions, "This suggests that temporal information accumulates across frames, with the final frame serving as an aggregation point." The conclusion reiterates this, saying "temporal information is constructed through a causal pathway: it is causally aggregated across frames, integrated into the final frame, and subsequently refined within the query." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1 Introduction" section of the provided content: "It is commonly assumed that using a more sophisticated positional encoding function leads directly to improved temporal awareness." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Temporal cues are progressively synthesized through inter-frame attention.' is supported by the original webpage.
+<accept> The abstract explicitly states: "We uncover a causal information pathway: temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Temporal information is aggregated in the final video frame.' is supported by the original webpage.
+<accept> The abstract states: "temporal cues are progressively synthesized through inter-frame attention, aggregated in the final frame, and subsequently integrated into the query tokens." This is reiterated in the key takeaways (point ③), which mentions: "Temporal information... flows into the query through the final video frame where it is aggregated." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+The square function achieves in a certain state in LeNet-5 models.
+
+Machine learning integration into applications in something raises privacy and security concerns.
+
+The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both in a certain way. 
+The square function achieves 99.4% accuracy in LeNet-5 models.
+
+Machine learning integration into applications in sensitive domains like healthcare and defense raises privacy and security concerns.
+
+The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both training and inference.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11575v1
+
+[
+    {
+        "title": "SpyKing\u2014Privacy-preserving framework for Spiking Neural ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12162590/",
+        "date": "2025-05-30",
+        "last_updated": "2025-07-13"
+    },
+    {
+        "title": "Security and Privacy in Machine Learning for Health Systems",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10751106/",
+        "date": "2023-12-26",
+        "last_updated": "2025-07-11"
+    },
+    {
+        "title": "Designing Efficient Activation Functions for Privacy ...",
+        "url": "https://arxiv.org/html/2508.11575v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Security and privacy in machine learning: A survey",
+        "url": "https://iacis.org/iis/2021/3_iis_2021_242-258.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Designing Efficient Activation Functions for Privacy- ...",
+        "url": "https://arxiv.org/pdf/2508.11575",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Exploring privacy issues in the age of AI",
+        "url": "https://www.ibm.com/think/insights/ai-privacy",
+        "date": "2024-09-30",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "Differential Privacy in Machine Learning",
+        "url": "https://www.mindspore.cn/tutorial/en/r0.5/advanced_use/differential_privacy.html",
+        "date": null,
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+        "url": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+        "date": "2020-09-12",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Convolutional Neural Network Protection Method of Lenet- ...",
+        "url": "https://dl.acm.org/doi/10.1145/3297156.3297224",
+        "date": null,
+        "last_updated": "2025-03-14"
+    },
+    {
+        "title": "OWASP AI Security and Privacy Guide",
+        "url": "https://owasp.org/www-project-ai-security-and-privacy-guide/",
+        "date": "2023-02-15",
+        "last_updated": "2025-07-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The square function achieves in a certain state in LeNet-5 models.' is supported by the citation.
+<accept> The content states that "the square function is highly effective in shallow models like LeNet-5, achieving 99.4% accuracy with an inference time of 128 seconds per image." It also mentions that "the square activation function achieves the highest encrypted accuracy of 99.4%, with only a 0.2% degradation from its plaintext counterpart." This explicitly describes the performance (a certain state) of the square function in LeNet-5 models. </accept>
+
+**********Source Check**********
+
+The claim 'Machine learning integration into applications in something raises privacy and security concerns.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that "The rapid integration of machine learning into applications in sensitive domains like healthcare and defense raises serious privacy and security concerns." The text further elaborates on these concerns, mentioning "serious privacy and security challenges" due to reliance on "large amounts of sensitive data." </accept>
+
+**********Source Check**********
+
+The claim 'The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both in a certain way.' is supported by the citation.
+<accept> The text explicitly states: "However, the successful deployment of ML in these critical applications is highly dependent on access to large volumes of sensitive data for both training and inference." This matches the provided information, clarifying the "certain way" as "training and inference". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The square function achieves 99.4% accuracy in LeNet-5 models.' is supported by the original webpage.
+<accept> The content explicitly states: "Our results show that the square function is highly effective in shallow models like LeNet-5, achieving 99.4% accuracy with an inference time of 128 seconds per image." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Machine learning integration into applications in sensitive domains like healthcare and defense raises privacy and security concerns.' is supported by the original webpage.
+<accept> The abstract explicitly states: "The rapid integration of machine learning into applications in sensitive domains like healthcare and defense raises serious privacy and security concerns." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The successful deployment of ML in critical applications depends highly on access to large volumes of sensitive data for both training and inference.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "I Introduction" section of the content: "However, the successful deployment of ML in these critical applications is highly dependent on access to large volumes of sensitive data for both training and inference." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+Mobile Edge Computing (MEC) minimizes delays caused by `in a certain way`.
+
+Digital Twins (DTs) enable the analysis and prediction of system behavior without interfering with `something`.
+
+The developed algorithm is evaluated using `a certain tool`. 
+Mobile Edge Computing (MEC) minimizes delays caused by communication with distant cloud servers.
+
+Digital Twins (DTs) enable the analysis and prediction of system behavior without interfering with the physical environment.
+
+The developed algorithm is evaluated using a realistic connected autonomous vehicle (CAV) traffic simulation.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Latency-Aware Task Offloading Mechanism for Mobile ...",
+        "url": "https://www.thinkmind.org/articles/cloud_computing_2025_2_50_20029.pdf",
+        "date": null,
+        "last_updated": "2025-04-24"
+    },
+    {
+        "title": "How to master Predictive Analytics using Composable Digital Twins",
+        "url": "https://xmpro.com/how-to-master-predictive-analytics-using-composable-digital-twins/",
+        "date": "2023-01-18",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Retrieval-Augmented Generation for Mobile Edge ...",
+        "url": "https://arxiv.org/abs/2412.20820",
+        "date": "2024-12-30",
+        "last_updated": "2025-05-21"
+    },
+    {
+        "title": "A Comprehensive Guide to Digital Twin Simulation for Beginners",
+        "url": "https://www.simio.com/a-comprehensive-guide-to-digital-twin-simulation-for-beginners/",
+        "date": "2025-06-27",
+        "last_updated": "2025-06-27"
+    },
+    {
+        "title": "Advancements in Mobile Edge Computing and Open RAN",
+        "url": "https://arxiv.org/html/2502.02886v3",
+        "date": "2025-07-28",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Digital Twins on AWS: Predicting \u201cbehavior\u201d with L3 Predictive ...",
+        "url": "https://aws.amazon.com/blogs/iot/l3-predictive-digital-twins/",
+        "date": "2022-06-17",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "[PDF] Modeling Behavior and Simulating Realities with Digital Twins - SSRN",
+        "url": "https://papers.ssrn.com/sol3/Delivery.cfm/03318eab-c9dc-4535-adf6-3319a5731127-MECA.pdf?abstractid=4967616&mirid=1",
+        "date": "2024-09-25",
+        "last_updated": "2025-03-15"
+    },
+    {
+        "title": "Understanding Digital Twin Platforms: Transforming Data into ...",
+        "url": "https://www.dataparc.com/blog/understanding-digital-twin-platforms-actionable-insights-2/",
+        "date": "2025-06-06",
+        "last_updated": "2025-07-06"
+    },
+    {
+        "title": "Decoding digital twins: Exploring 6 main applications and their ...",
+        "url": "https://iot-analytics.com/6-main-digital-twin-applications-and-their-benefits/",
+        "date": "2023-03-07",
+        "last_updated": "2025-05-16"
+    },
+    {
+        "title": "Overview of predictive maintenance based on digital twin technology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10070392/",
+        "date": "2023-03-13",
+        "last_updated": "2025-06-15"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+Something is controlled across all three section control cases (1, 2, or multiple sections).
+
+The spraying process is affected by something.
+
+Multiple field runs are required throughout a crop cycle in a certain way. 
+The same total number of nozzles is controlled across all three section control cases (1, 2, or multiple sections).
+
+The spraying process is affected by a remarkable number of parameters.
+
+Multiple field runs are required throughout a crop cycle to apply different sprays.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11573v1
+
+[
+    {
+        "title": "or Two-Sections Alternative With Predictive Spray Switching - arXiv",
+        "url": "https://arxiv.org/html/2508.11573v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] Field Pesticide Application Techniques in Wisconsin - Extension",
+        "url": "https://fyi.extension.wisc.edu/pat/files/2017/09/sprayer_tech.pdf",
+        "date": null,
+        "last_updated": "2025-05-06"
+    },
+    {
+        "title": "How Automation and Precision Can Help Challenges in the Field ...",
+        "url": "https://www.fieldbee.com/blog/challenges-in-the-field-during-spraying-how-automation-and-precision-can-help",
+        "date": "2024-10-24",
+        "last_updated": "2024-11-05"
+    },
+    {
+        "title": "How to Spray a Field to Prevent Overlap and Reduce Drift Injury",
+        "url": "https://extensionpublications.unl.edu/assets/html/g1570/build/g1570.htm",
+        "date": null,
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "How Precision Spray Saves Pesticides? - FJDynamics",
+        "url": "https://www.fjdynamics.com/blog/technology-52/how-precision-spray-saves-pesticides-263",
+        "date": "2025-03-05",
+        "last_updated": "2025-03-06"
+    },
+    {
+        "title": "Real Ag 1102 - Air Spraying - YouTube",
+        "url": "https://www.youtube.com/watch?v=E-TVAWDiMnU",
+        "date": "2022-11-11",
+        "last_updated": "2025-07-03"
+    },
+    {
+        "title": "Reduction of pesticide application via real-time precision spraying",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8980047/",
+        "date": "2022-04-04",
+        "last_updated": "2025-06-21"
+    },
+    {
+        "title": "Agras Tutorial: Spray Multiple Fields with One Flight - YouTube",
+        "url": "https://www.youtube.com/watch?v=pH8qJFSEqy4",
+        "date": "2025-06-03",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "Precision Spraying Agriculture | Boost Yields & Cut Costs | AllyNav",
+        "url": "https://www.allynav.com/precision-agriculture-solutions/precision-spraying-agriculture/",
+        "date": "2025-07-08",
+        "last_updated": "2025-08-06"
+    },
+    {
+        "title": "Alternate Row Spraying - Sprayers 101",
+        "url": "https://sprayers101.com/arm-spraying/",
+        "date": "2025-05-20",
+        "last_updated": "2025-06-30"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something is controlled across all three section control cases (1, 2, or multiple sections).' is supported by the citation.
+<accept> The content explicitly states under Section 1 Introduction, regarding the three different setups for the number of sections (1, 2, or multiple sections): "It is noted that in all three cases always the same number of nozzles is controlled." It then elaborates on how they are controlled (either individually or uniformly). </accept>
+
+**********Source Check**********
+
+The claim 'The spraying process is affected by something.' is supported by the citation.
+<accept> The abstract explicitly states that "many uncertainty factors have an effect" on the spraying process, listing examples like cross wind drift, boom height, and nozzle clogging. The introduction also directly states, "The spraying process is affected by a remarkable amount of parameters." Furthermore, Table 1 is titled "Factors that influence the spraying process" and explicitly lists 20 factors that "all affect the spraying result." </accept>
+
+**********Source Check**********
+
+The claim 'Multiple field runs are required throughout a crop cycle in a certain way.' is supported by the citation.
+<accept> The text explicitly states in the 'Introduction' section: "Throughout a crop cycle, multiple field runs are required to apply different sprays." This confirms that multiple field runs are required throughout a crop cycle, and the phrase "to apply different sprays" describes a specific reason or "certain way" for these runs. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The same total number of nozzles is controlled across all three section control cases (1, 2, or multiple sections).' is supported by the original webpage.
+<accept> The text explicitly states in the "Introduction" section, when describing the three different setups for the number of sections (1, 2 or multiple sections), that "It is noted that in all three cases always the same number of nozzles is controlled." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The spraying process is affected by a remarkable number of parameters.' is supported by the original webpage.
+<accept> The claim "The spraying process is affected by a remarkable number of parameters" is explicitly mentioned in the "1 Introduction" section, where it states: "The spraying process is affected by a remarkable amount of parameters. These include nozzle type, spray fan angle, spray pressure, boom height, nozzle spray overlap, nozzle spacing, nozzle clogging, machinery traveling speed changes, cross wind for spray drift and more." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Multiple field runs are required throughout a crop cycle to apply different sprays.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the text under the "1 Introduction" section: "Throughout a crop cycle, multiple field runs are required to apply different sprays." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+Something can be modeled as a network of microservices making calls to each other.
+
+Temporal network analysis analyzes networks in a certain way.
+
+Networks representing microservice composition can be studied in a certain way. 
+Networks representing microservice composition can be studied as static networks.
+
+Temporal network analysis analyzes networks evolving with time.
+
+Microservice architecture can be modeled as a network of microservices making calls to each other.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11571v1
+
+[
+    {
+        "title": "Temporal Network Analysis of Microservice Architectural Degradation",
+        "url": "https://arxiv.org/html/2508.11571v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "What are temporal networks? \u2014 teneto 0.5.3 documentation",
+        "url": "https://teneto.readthedocs.io/en/latest/what_is_tnt.html",
+        "date": null,
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Temporal Network Analysis of Microservice Architectural Degradation",
+        "url": "https://arxiv.org/abs/2508.11571",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Temporal Network Pattern Identification by Community Modelling",
+        "url": "https://www.nature.com/articles/s41598-019-57123-1",
+        "date": "2020-01-14",
+        "last_updated": "2024-11-21"
+    },
+    {
+        "title": "Temporal network embedding framework with causal anonymous ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802774/",
+        "date": "2022-01-20",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "Integrating System State into Spatio Temporal Graph Neural ...",
+        "url": "https://dl.acm.org/doi/10.1145/3637528.3671508",
+        "date": "2024-08-24",
+        "last_updated": null
+    },
+    {
+        "title": "Network Analysis of Microservices: A Case Study on Alibaba ...",
+        "url": "https://dl.acm.org/doi/10.1145/3629527.3651842",
+        "date": "2024-05-07",
+        "last_updated": "2024-06-22"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something can be modeled as a network of microservices making calls to each other.' is supported by the citation.
+<accept> The abstract explicitly states: "Microservice architecture can be modeled as a network of microservices making calls to each other, commonly known as the service dependency graph." </accept>
+
+**********Source Check**********
+
+The claim 'Temporal network analysis analyzes networks in a certain way.' is supported by the citation.
+<accept> The abstract explicitly states that "temporal network analysis is a branch of Network Science that analyzes networks evolving with time." This clearly defines the "certain way" in which it analyzes networks. </accept>
+
+**********Source Check**********
+
+The claim 'Networks representing microservice composition can be studied in a certain way.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that "Microservice architecture can be modeled as a network of microservices" and that "Network Science can provide methods to study such networks," including as "static or evolving over time, i.e., so-called _temporal_ networks." Section 3 further discusses leveraging "diverse types of temporal network methods for analysis of microservice systems." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Networks representing microservice composition can be studied as static networks.' is supported by the original webpage.
+<accept> The text states, "We can model the composition of microservices, i.e., their architecture and their interactions, as networks. Such networks can be studied as static or evolving over time, i.e., so-called _temporal_ networks, leveraging techniques and methods from Network Science." This directly confirms that networks representing microservice composition can be studied as static networks. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Temporal network analysis analyzes networks evolving with time.' is supported by the original webpage.
+<accept> The abstract explicitly states, "In particular, temporal network analysis is a branch of Network Science that analyzes networks evolving with time." The introduction also mentions, "Such networks can be studied as static or evolving over time, i.e., so-called _temporal_ networks, leveraging techniques and methods from Network Science." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Microservice architecture can be modeled as a network of microservices making calls to each other.' is supported by the original webpage.
+<accept> The abstract explicitly states: "Microservice architecture can be modeled as a network of microservices making calls to each other, commonly known as the service dependency graph." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+A certain version of an ASP-complete problem is #P-complete.
+
+All applicable puzzles follow the common rule of solving them in a certain way.
+
+A certain problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0. 
+The counting version of an ASP-complete problem is #P-complete.
+
+All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells.
+
+The k-ASP P problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11570v1
+
+[
+    {
+        "title": "ASP-Completeness Proofs of Puzzles Using the T-Metacell ...",
+        "url": "https://arxiv.org/html/2508.11570v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "P-complete",
+        "url": "https://en.wikipedia.org/wiki/%E2%99%AFP-complete",
+        "date": "2001-08-25",
+        "last_updated": "2025-06-08"
+    },
+    {
+        "title": "complexity and completeness of finding another solution ...",
+        "url": "http://www.cs.umd.edu/users/gasarch/BLOGPAPERS/msasp.pdf",
+        "date": null,
+        "last_updated": "2025-06-07"
+    },
+    {
+        "title": "15. #P and ASP",
+        "url": "https://www.youtube.com/watch?v=XROTP1RiNaA",
+        "date": "2015-07-14",
+        "last_updated": "2025-04-01"
+    },
+    {
+        "title": "ASP-Completeness of Hamiltonicity in Grid Graphs, with ...",
+        "url": "https://arxiv.org/pdf/2405.08377",
+        "date": null,
+        "last_updated": "2024-11-04"
+    },
+    {
+        "title": "Packing Trominoes is NP-Complete, #P-Complete and ASP ...",
+        "url": "https://2012.cccg.ca/papers/paper67.pdf",
+        "date": null,
+        "last_updated": "2025-04-20"
+    }
+]
+
+**********Source Check**********
+
+The claim 'A certain version of an ASP-complete problem is #P-complete.' is supported by the citation.
+<accept> The content explicitly states under section "1.1 ASP-Completeness and T-Metacell Framework" that "The decision version of a ASP-complete problem is NP-complete, the counting version is #P-complete". This directly supports the information that a certain version (the counting version) of an ASP-complete problem is #P-complete. </accept>
+
+**********Source Check**********
+
+The claim 'All applicable puzzles follow the common rule of solving them in a certain way.' is supported by the citation.
+<accept> The sentence "All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells" is explicitly stated in Section 1.1 "ASP-Completeness and T-Metacell Framework" of the content. </accept>
+
+**********Source Check**********
+
+The claim 'A certain problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.' is supported by the citation.
+<accept> The text explicitly states, "the kk-ASP P problem — given an instance of PP and kk solutions, find another solution — is NP-complete for any k≥0k\\geq 0". This directly matches the provided information regarding a problem involving finding another solution given an instance of problem P and k solutions being NP-complete for any k≥0. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The counting version of an ASP-complete problem is #P-complete.' is supported by the original webpage.
+<accept> The claim is explicitly stated in Section 1.1, "ASP-Completeness and T-Metacell Framework," which says: "The decision version of a ASP-complete problem is NP-complete, the counting version is #P-complete, and the kk-ASP P problem — given an instance of PP and kk solutions, find another solution — is NP-complete for any k≥0k\\geq 0." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the content: "All applicable puzzles follow the common rule of only traversing through orthogonally adjacent cells." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The k-ASP P problem, which involves finding another solution given an instance of problem P and k solutions, is NP-complete for any k≥0.' is supported by the original webpage.
+<accept> The text explicitly states: "the kk-ASP P problem — given an instance of PP and kk solutions, find another solution — is NP-complete for any k≥0k\geq 0." This directly confirms the claim. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11569v1 
+TrajSV: A Trajectory-based Model for Sports Video Representations and Applications 
+TrajSV utilizes something.
+
+TrajSV achieves state-of-the-art results in 9 out of 17 action categories for a certain application.
+
+Trajectories of a certain object can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns. 
+TrajSV utilizes raw broadcast videos available on the Web.
+
+TrajSV achieves state-of-the-art results in 9 out of 17 action categories for action spotting.
+
+Trajectories of a ball or player can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11569v1
+
+[
+    {
+        "title": "TrajSV: A Trajectory-based Model for Sports Video ...",
+        "url": "https://arxiv.org/html/2508.11569v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] Actions As Compositions of Spatio-Temporal Scene Graphs",
+        "url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf",
+        "date": null,
+        "last_updated": "2025-03-29"
+    },
+    {
+        "title": "Video action recognition collaborative learning with ...",
+        "url": "https://www.nature.com/articles/s41598-023-39744-9",
+        "date": "2023-09-05",
+        "last_updated": "2024-12-16"
+    },
+    {
+        "title": "TrajSV: A Trajectory-based Model for Sports Video Representations ...",
+        "url": "https://arxiv.org/abs/2508.11569",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "State-of-the-art video recognition of human action under ...",
+        "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12506/125063A/State-of-the-art-video-recognition-of-human-action-under/10.1117/12.2662221.full",
+        "date": "2022-12-28",
+        "last_updated": "2024-12-27"
+    },
+    {
+        "title": "[PDF] Action Recognition by Time Series of Retinotopic Appearance and ...",
+        "url": "https://engineering.purdue.edu/~qobi/papers/tcsvt2016.pdf",
+        "date": "2016-12-02",
+        "last_updated": "2025-01-08"
+    },
+    {
+        "title": "SVM directed machine learning classifier for human action ...",
+        "url": "https://www.nature.com/articles/s41598-024-83529-7",
+        "date": "2025-01-03",
+        "last_updated": "2025-01-03"
+    },
+    {
+        "title": "[PDF] Multi-Label Action Anticipation for Real-World Videos with Scene ...",
+        "url": "https://xiucheng.org/assets/pdfs/tip24-action-anticipation.pdf",
+        "date": null,
+        "last_updated": "2024-06-24"
+    },
+    {
+        "title": "Video Activity Recognition: State-of-the-Art - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679256/",
+        "date": "2019-07-18",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "[PDF] Image Retrieval using Scene Graphs - Stanford HCI Group",
+        "url": "https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'TrajSV utilizes something.' is supported by the citation.
+<accept> The content explicitly states that "TrajSV is built on raw broadcast videos available on the Web" and that its component, "CRNet utilizes a trajectory-enhanced Transformer module to learn clip representations based on these trajectories." </accept>
+
+**********Source Check**********
+
+The claim 'TrajSV achieves state-of-the-art results in 9 out of 17 action categories for a certain application.' is supported by the citation.
+<accept> The content explicitly states in multiple places, including the Abstract and Section VI-B (Experimental Results, subsection 2 Action Spotting), that "TrajSV ... achieves state-of-the-art results in 9 out of 17 action categories" for the application of "action spotting". </accept>
+
+**********Source Check**********
+
+The claim 'Trajectories of a certain object can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns.' is supported by the citation.
+<accept> The content explicitly states: "For example, the trajectory of a ball or player can be used for recognizing specific actions (action spotting) and serve as information for retrieving similar scenes based on extracted trajectory patterns (sports retrieval)." This directly matches the provided information. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TrajSV utilizes raw broadcast videos available on the Web.' is supported by the original webpage.
+<accept> The text explicitly states multiple times that TrajSV utilizes raw broadcast videos available on the Web. For example, in the "Summary of our solution" section, it says: "In contrast, TrajSV takes advantage of raw broadcast videos available on the Web, which significantly expands the accessibility and diversity of data." Similarly, under "Novelty," it is stated: "TrajSV is built on raw broadcast videos available on the Web". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TrajSV achieves state-of-the-art results in 9 out of 17 action categories for action spotting.' is supported by the original webpage.
+<accept> The content explicitly states that TrajSV "outperforms baselines in action spotting, achieving state-of-the-art results in 9 out of 17 action categories". This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Trajectories of a ball or player can be used for recognizing specific actions and for retrieving similar scenes based on extracted patterns.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "I INTRODUCTION" section, under the subsection discussing the "Lack of an effective trajectory-based framework." It states: "For example, the trajectory of a ball or player can be used for recognizing specific actions (action spotting) and serve as information for retrieving similar scenes based on extracted trajectory patterns (sports retrieval)." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+Reliance on a certain process limits the ability of most existing automated psychological assessment approaches to capture deeper insights.
+
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture certain insights.
+
+Someone investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data. 
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture deeper insights.
+
+Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture more informative insights.
+
+Ohse et al. (2024) investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11567v1
+
+[
+    {
+        "title": "GPT-4 shows potential for identifying social anxiety from clinical ...",
+        "url": "https://www.nature.com/articles/s41598-024-82192-2",
+        "date": "2024-12-16",
+        "last_updated": "2024-12-18"
+    },
+    {
+        "title": "Validating the use of large language models for ...",
+        "url": "https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1460277/full",
+        "date": "2025-02-21",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "GPT-4 shows potential for identifying social anxiety from clinical ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39681627",
+        "date": "2024-12-16",
+        "last_updated": "2025-03-14"
+    },
+    {
+        "title": "From Static Benchmarks to Adaptive Testing",
+        "url": "https://arxiv.org/html/2306.10512v3",
+        "date": "2024-08-06",
+        "last_updated": "2025-05-21"
+    },
+    {
+        "title": "Assessing and alleviating state anxiety in large language models",
+        "url": "https://www.nature.com/articles/s41746-025-01512-6",
+        "date": "2025-03-03",
+        "last_updated": "2025-03-03"
+    },
+    {
+        "title": "AgentMental: An Interactive Multi-Agent Framework for ...",
+        "url": "https://arxiv.org/html/2508.11567v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "[PDF] MAGI: Multi-Agent Guided Interview for Psychiatric Assessment",
+        "url": "https://aclanthology.org/2025.findings-acl.1278.pdf",
+        "date": "2025-07-27",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Automated text analysis in psychology: methods ...",
+        "url": "https://www.cambridge.org/core/journals/language-and-cognition/article/automated-text-analysis-in-psychology-methods-applications-and-future-developments/97F60083638BD8E956958084BE1E049A",
+        "date": "2015-06-18",
+        "last_updated": "2025-04-10"
+    },
+    {
+        "title": "A New Custom GPT for Psychological Distress Assessment - arXiv",
+        "url": "https://arxiv.org/html/2408.01614v1",
+        "date": "2024-08-03",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "Natural language analyzed with AI-based transformers ...",
+        "url": "https://www.nature.com/articles/s41598-022-07520-w",
+        "date": "2022-03-10",
+        "last_updated": "2024-10-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Reliance on a certain process limits the ability of most existing automated psychological assessment approaches to capture deeper insights.' is supported by the citation.
+<accept> The abstract explicitly states: "yet most existing approaches are constrained by their reliance on static text analysis, limiting their ability to capture deeper and more informative insights that emerge through dynamic interaction and iterative questioning." This directly matches the provided information about reliance on a certain process (static text analysis) limiting the ability of automated psychological assessment approaches to capture deeper insights. </accept>
+
+**********Source Check**********
+
+The claim 'Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture certain insights.' is supported by the citation.
+<accept> The abstract explicitly states: "yet most existing approaches are constrained by their reliance on static text analysis, limiting their ability to capture deeper and more informative insights that emerge through dynamic interaction and iterative questioning." This directly supports the provided information regarding the limitations of static text analysis in automated psychological assessment. </accept>
+
+**********Source Check**********
+
+The claim 'Someone investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data.' is supported by the citation.
+<accept> The content explicitly states: "Ohse et al. (2024) investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture deeper insights.' is supported by the original webpage.
+<accept> The abstract explicitly states: "Recent advances in artificial intelligence have sparked growing interest in automated psychological assessment, yet most existing approaches are constrained by their reliance on static text analysis, limiting their ability to capture deeper and more informative insights that emerge through dynamic interaction and iterative questioning." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Reliance on static text analysis limits the ability of most existing automated psychological assessment approaches to capture more informative insights.' is supported by the original webpage.
+<accept> The abstract explicitly states: "most existing approaches are constrained by their reliance on static text analysis, limiting their ability to capture deeper and more informative insights that emerge through dynamic interaction and iterative questioning." This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Ohse et al. (2024) investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data.' is supported by the original webpage.
+<accept> The text explicitly states: "Ohse et al. ( 2024) investigated the performance of GPT-4 in identifying social anxiety from semi-structured clinical interview data." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+Proxies in INFNet condense something into compact anchors.
+
+INFNet's design yields something.
+
+Directly feeding extremely large token sets into deep interaction layers is in a certain state. 
+Proxies in INFNet condense large token sets into compact anchors.
+
+INFNet's design yields a compact yet expressive backbone.
+
+Directly feeding extremely large token sets into deep interaction layers incurs prohibitive costs.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2508.11565
+
+[
+    {
+        "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+        "url": "https://arxiv.org/pdf/2508.11565",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Strip-MLP: Efficient Token Interaction for Vision MLP",
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Strip-MLP_Efficient_Token_Interaction_for_Vision_MLP_ICCV_2023_paper.pdf",
+        "date": null,
+        "last_updated": "2025-03-29"
+    },
+    {
+        "title": "XR Socket Interactor and XR Interaction Layer Masks - YouTube",
+        "url": "https://www.youtube.com/watch?v=0IgktLZS7HA",
+        "date": "2024-05-10",
+        "last_updated": "2025-08-01"
+    },
+    {
+        "title": "INFNet: A Task-aware Information Flow Network for Large- ...",
+        "url": "https://arxiv.org/html/2508.11565",
+        "date": "2025-08-15",
+        "last_updated": null
+    },
+    {
+        "title": "IVTP: Instruction-guided Visual Token Pruning for Large ...",
+        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf",
+        "date": null,
+        "last_updated": "2024-11-04"
+    },
+    {
+        "title": "Interaction layers | XR Interaction Toolkit | 2.0.4 - Unity - Manual",
+        "url": "https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/interaction-layers.html",
+        "date": null,
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Proxy Anchor Loss for Deep Metric Learning",
+        "url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Proxy_Anchor_Loss_for_Deep_Metric_Learning_CVPR_2020_paper.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Accelerating Long-Context LLMs with 1000x Input Token ...",
+        "url": "https://openreview.net/forum?id=9iN8p1Xwtg",
+        "date": "2025-02-05",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "UNITY XR! INTERACTION LAYER MASK - YouTube",
+        "url": "https://www.youtube.com/watch?v=ZS7CJX4V7qQ",
+        "date": "2021-03-05",
+        "last_updated": "2025-08-01"
+    },
+    {
+        "title": "Proxy Anchor Loss for Deep Metric Learning",
+        "url": "https://github.com/tjddus9597/Proxy-Anchor-CVPR2020",
+        "date": "2020-04-07",
+        "last_updated": "2025-06-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Proxies in INFNet condense something into compact anchors.' is supported by the citation.
+<accept> The text explicitly states that "proxies condense large token sets into compact anchors" within the INFNet architecture, specifically in the context of heterogeneous information flow to manage cross-type complexity. </accept>
+
+**********Source Check**********
+
+The claim 'INFNet's design yields something.' is supported by the citation.
+<accept> The abstract explicitly states, "This design yields a compact yet expressive backbone that (i) meets industrial efficiency budgets through low-overhead within-type refinement and proxy-based cross-type exchange, (ii) mitigates negative transfer via early-stage task conditioning, and (iii) unifies heterogeneous features into a single, structured interaction flow." The "This design" refers to INFNet's design, directly confirming that INFNet's design yields something.</accept>
+
+**********Source Check**********
+
+The claim 'Directly feeding extremely large token sets into deep interaction layers is in a certain state.' is supported by the citation.
+<accept> The content explicitly states that "producing extremely large token sets directly feeding these into deep interaction layers incurs prohibitive costs," which describes the state of directly feeding extremely large token sets into deep interaction layers. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Proxies in INFNet condense large token sets into compact anchors.' is supported by the original webpage.
+<accept> The text explicitly states: "In the latter [heterogeneous flows], proxies condense large token sets into compact anchors, ensuring that cross-type complexity scales with the number of proxies rather than the raw token cardinality." This directly supports the claim that proxies in INFNet condense large token sets into compact anchors. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'INFNet's design yields a compact yet expressive backbone.' is supported by the original webpage.
+<accept> The claim "INFNet's design yields a compact yet expressive backbone" is explicitly mentioned in the text. The paragraph after Figure 2 states: "This design yields a compact yet expressive backbone that (i) meets industrial efficiency budgets through low-overhead within-type refinement and proxy-based cross-type exchange, (ii) mitigates negative transfer via early-stage task conditioning, and (iii) unifies heterogeneous features into a single, structured interaction flow." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Directly feeding extremely large token sets into deep interaction layers incurs prohibitive costs.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1. Introduction" section: "In production, sequence data are often truncated and flattened with side information, producing extremely large token sets directly feeding these into deep interaction layers incurs prohibitive costs, while aggressive pooling discards fine-grained temporal and contextual cues." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+Achieving something is the optimal outcome achievable through frequency analysis.
+
+A certain attack also relies on the assumption of search-pattern leakage.
+
+The aforementioned works overcome something by relying on additional leakage. 
+Outputting databases with the same response distribution is the optimal outcome achievable through frequency analysis.
+
+The attack in DBLP:journals/popets/MarkatouFET23 also relies on the assumption of search-pattern leakage.
+
+The aforementioned works overcome the uniformity assumption by relying on additional leakage.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11563v1
+
+[
+    {
+        "title": "Pushing the Limits of Frequency Analysis in Leakage ...",
+        "url": "https://arxiv.org/html/2508.11563v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Exploiting Update Leakage in Searchable Symmetric ...",
+        "url": "https://vtechworks.lib.vt.edu/bitstreams/c737a239-6a45-435a-8dd1-8f5d1becdb31/download",
+        "date": null,
+        "last_updated": "2025-05-30"
+    },
+    {
+        "title": "Pushing the Limits of Frequency Analysis in Leakage ...",
+        "url": "https://arxiv.org/abs/2508.11563",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Attacks on Encrypted Response-Hiding Range Search ...",
+        "url": "https://petsymposium.org/popets/2023/popets-2023-0106.pdf",
+        "date": null,
+        "last_updated": "2025-06-01"
+    },
+    {
+        "title": "Exploiting Update Leakage in Searchable Symmetric ...",
+        "url": "https://par.nsf.gov/servlets/purl/10595300",
+        "date": null,
+        "last_updated": "2025-06-23"
+    },
+    {
+        "title": "Exploiting Search Pattern Leakage in Searchable Encryption",
+        "url": "https://www.usenix.org/system/files/sec21summer_oya.pdf",
+        "date": null,
+        "last_updated": "2025-01-20"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Achieving something is the optimal outcome achievable through frequency analysis.' is supported by the citation.
+<accept> The text explicitly states that LAMa's parameterization allows it to output databases with the same response distribution as the true database, "representing the optimal outcome achievable through frequency analysis." </accept>
+
+**********Source Check**********
+
+The claim 'A certain attack also relies on the assumption of search-pattern leakage.' is supported by the citation.
+<accept> The content explicitly states multiple times that previous or certain cryptanalytic approaches and attacks rely on the assumption of search-pattern leakage. For example, in the 'Abstract' it says "All the known generic cryptanalyses assume either that the queries are issued uniformly at random or that the attacker observes the search-pattern leakage." and under 'Limitations of Current Approaches', it clearly states "_Previous Approaches Need Search-Pattern Leakage._ All prior cryptanalytic approaches that do not assume the query distribution is uniform must observe the _search-pattern leakage_". Specific attacks are also cited as relying on this assumption. </accept>
+
+**********Source Check**********
+
+The claim 'The aforementioned works overcome something by relying on additional leakage.' is supported by the citation.
+<accept> The text explicitly states under "Limitations of Current Approaches": "All of the above works overcome the uniformity assumption by relying on additional leakage". This directly matches the provided information, where "the aforementioned works" refers to the previously mentioned cryptanalytic approaches that overcome a limitation (the uniformity assumption) by using "additional leakage" (e.g., search-pattern leakage). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Outputting databases with the same response distribution is the optimal outcome achievable through frequency analysis.' is supported by the original webpage.
+<accept> The text explicitly states under "Our Contributions" that a parameterization of LAMa "allows LAMa to output only databases with the same _response distribution_ as the true database, representing the optimal outcome achievable through frequency analysis." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The attack in DBLP:journals/popets/MarkatouFET23 also relies on the assumption of search-pattern leakage.' is supported by the original webpage.
+<accept> The text explicitly states under the "Existing High-Dimension Attacks Make Different Assumptions or Achieve Approximate Reconstruction" section that "The attack proposed in ( DBLP:journals/popets/MarkatouFET23,)) [...] also relies on the assumption of search-pattern leakage made by the attacks mentioned above." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The aforementioned works overcome the uniformity assumption by relying on additional leakage.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the section "Limitations of Current Approaches" under the subsection "Previous Approaches Need Search-Pattern Leakage", where it states: "All of the above works overcome the uniformity assumption by relying on additional leakage". The "above works" refer to the previously mentioned works by Kornaropoulos et al., Markatou et al., and Falzon et al. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+SSCIs may involve something at more than one frequency.
+
+SSCIs have been observed in grids in a certain state.
+
+SSCI mitigation can be achieved through something. 
+SSCIs may involve multiple components at more than one frequency.
+
+SSCIs have been observed in uncompensated grids.
+
+SSCI mitigation can be achieved through supplemental damping controls.
+
+**********Web Search Result**********
+
+https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/1618/files/2022/08/J68.pdf
+
+[
+    {
+        "title": "Mitigating sub-synchronous oscillation using intelligent damping ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11208430/",
+        "date": "2024-06-26",
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "[PDF] On Mitigation of Sub-Synchronous Control Interactions in Hybrid ...",
+        "url": "https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/1618/files/2022/08/J68.pdf",
+        "date": null,
+        "last_updated": "2025-01-24"
+    },
+    {
+        "title": "Study and Mitigation of Subsynchronous Oscillations with SSC ...",
+        "url": "https://www.scirp.org/journal/paperinformation?paperid=60030",
+        "date": "2015-09-10",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "[PDF] Frequency Scan\u2013Based Mitigation Approach of Subsynchronous ...",
+        "url": "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e4f29721-4af6-469d-b656-426a882dc17c/content",
+        "date": "2021-07-30",
+        "last_updated": "2025-03-24"
+    },
+    {
+        "title": "[PDF] analysis and mitigating of subsynchronous resonance in power",
+        "url": "https://soar.wichita.edu/bitstreams/21cf7f3b-fac9-431e-9e79-a62a19acb2b8/download",
+        "date": null,
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "Characteristic analysis and mitigation strategy for SSCI in series ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38763785/",
+        "date": "2024-05-16",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "[PDF] Sub-synchronous oscillations in GB",
+        "url": "https://www.neso.energy/document/319056/download",
+        "date": "2024-05-01",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Mitigating subsynchronous control interaction in wind power ...",
+        "url": "https://ui.adsabs.harvard.edu/abs/2019RSERv.108..330S/abstract",
+        "date": "1999-01-01",
+        "last_updated": "2024-10-15"
+    },
+    {
+        "title": "[PDF] Mitigation Sub synchronous Resonance and Improvement Low",
+        "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-3631d89f-86af-4248-b007-3090eca420b6/c/47_ememi_mitigation_5_2024.pdf",
+        "date": null,
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Sub\u2010synchronous oscillations in wind farms \u2013 an overview study of ...",
+        "url": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-rpg.2020.0479",
+        "date": "2021-02-16",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'SSCIs may involve something at more than one frequency.' is supported by the citation.
+<accept> The content explicitly states that the frequency of SSCI oscillation can vary and appear at "different frequencies" and across "any range of SSCI frequencies" depending on operating conditions and electrical parameters. For example, the Abstract mentions "different frequencies of oscillation," and the Introduction states, "the frequency of oscillation can vary." Additionally, the "Main Contributions and Features" section mentions that the design "overcomes the issue that different oscillation frequencies may appear in different operating conditions and electrical parameters, making it more accurate and flexible for any range of SSCI frequencies." </accept>
+
+**********Source Check**********
+
+The claim 'SSCIs have been observed in grids in a certain state.' is supported by the citation.
+<accept> The text explicitly states that "Incidents of SSCI... have been reported around the world," and then lists specific locations: "the 2007 south central Minnesota subsynchronous oscillation," "the Electric Reliability Council of Texas (ERCOT) power grid in 2009," "several 3-12 Hz oscillations in north China between 2012 and 2013," and "different events with 22-27 Hz oscillations in the ERCOT power grid in 2017." It also mentions "incidents of SSCI are reported when type-4 wind farms are connected to the weak grids in the northwest of China in 2015." This confirms that SSCIs have been observed in grids in specific states/regions.</accept>
+
+**********Source Check**********
+
+The claim 'SSCI mitigation can be achieved through something.' is supported by the citation.
+<accept> The abstract explicitly states, "This article proposes an additional damping controller that allows mitigating the SSCI expeditiously." The introduction further elaborates on this, mentioning that SSCI mitigation can be achieved "with the use of an existing BESS" and "by modifying the active/reactive power controller and accommodating a supplementary control loop." The text also lists numerous other techniques proposed in literature, such as turbine/inverter-level solutions, grid-level solutions, and specific devices like STATCOMs or PLLs, all of which aim to mitigate SSCI. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'SSCIs may involve multiple components at more than one frequency.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the introduction section: "Unlike forced oscillations (FOs), where a single component can often be uniquely identified as the dominant contributor, SSCIs may involve multiple components—sometimes at more than one frequency—exchanging energy through several interconnected pathways." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'SSCIs have been observed in uncompensated grids.' is supported by the original webpage.
+<accept> The "I Introduction" section explicitly states: "While historically associated with wind farms connected through series-compensated transmission lines, SSCIs have also been observed in uncompensated and weak grids". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'SSCI mitigation can be achieved through supplemental damping controls.' is supported by the original webpage.
+<accept> The text states: "These interactions can accelerate equipment degradation, trigger protection misoperations, and compromise stability, motivating mitigation through converter retuning, supplemental damping controls, and coordinated system design." This explicitly mentions supplemental damping controls as a means of SSCI mitigation. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11555v1 
+A Tight Lower Bound for Doubling Spanners 
+*   Any nn-point set in the dd-dimensional Euclidean space Rd, for d=O(1), admits a (1+)-spanner with a certain number of edges and lightness O~()−d, for any >0.
+
+*   The lightness is something, where we divide the spanner weight by the weight of a minimum spanning tree.
+
+*   For any 2≤d=O(1), there exists an nn-point set in Rd, for which any (1+)-spanner has ~(n⋅)−d+1 edges and something.
+
+*   The upper bounds for Euclidean spanners rely heavily on something, which does not seem to extend to the wider family of doubling metrics, i.e., metric spaces of constant doubling dimension.
+
+*   In doubling metrics, a simple spanner construction from two decades ago, the net-tree spanner, has a certain number of edges, and it could be transformed into a spanner of lightness O~(n⋅)−(d+1) by pruning redundant edges.
+
+*   We resolve this question in a certain way by presenting a surprisingly simple and tight lower bound, which shows, in particular, that the net-tree spanner and its pruned version are both optimal.
+
+*   Someone from 1986, which gave an O(1)-spanner with O(n) edges.
+
+*   The -graph is a natural variant of the Yao graph, introduced by someone in 1982, and can be described as follows.
+
+*   In 2019 someone showed that this stretch-size tradeoff is existentially tight: For any 2≤d=O(1), there exists an nn-point set in Rd (basically a set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has (n⋅)−d+1 edges.
+
+*   A long line of work, starting from the paper of someone in 1993, showed that for any point set in Rd, the greedy (1+)-spanner of has constant (depending on and dd) lightness.
+
+*   In their seminal work on approximating TSP in Rd using light spanners, someone showed that the greedy spanner has lightness -O(d), and they raised the question of determining the exact constant hiding in the exponent of their upper bound.
+
+*   The proofs in were incomplete; the first complete proof was given in , where a lightness bound of a certain value was established.
+
+*   This line of work culminated with the work of Le and Solomon , which improved the lightness bound to a certain value, where we shall use the O~ and ~ notations to suppress polylog()−1 terms; the exact lightness bound here is O(⋅−dlog(1/)), but for the sake of brevity we will mostly disregard polylog()−1 terms from now on.
+
+*   In the same paper , they showed that this stretch-lightness tradeoff is existentially tight (up to a log()−1 factor): For any 2≤d=O(1), there exists an nn-point set in Rd (the aforementioned set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has something.
+
+*   The doubling dimension of a metric space is a certain value such that every ball BB in the metric can be covered by at most 2d balls of half the radius of BB; a metric space is called doubling if its doubling dimension is constant.
+
+*   Equipped with such a hierarchy of nets, a (1+)-spanner with O~(n⋅)−d edges is made in a certain way.
+
+*   The net-tree spanner is a simple and basic spanner construction from a certain time ago, and it provides the state-of-the-art size bound, O~(n⋅)−d.
+
+*   In particular, for doubling metrics, the framework of provides a pruned spanner, with a lightness bound of a specific value, which is the state-of-the-art lightness bound for doubling metrics.
+
+*   Can one get a construction of a certain type of spanners in doubling metrics with O~(n⋅)−d+1 edges and/or lightness O~()−d?
+
+*   For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists an nn-point ultrametric space (X,dX) of doubling dimension dd, such that any (1+)-spanner G=(X,E,w) for XX must have a certain number of edges and lightness ~()−(d+1).
+
+*   The more precise lightness lower bound is a certain value for d=2; (−(d+1)log()−1) for d=1.
+
+*   Our lower bound instance is a certain type of space, and further a 2-HST where each internal node has 2d children.
+
+*   Lightness is a normalized notion of spanner weight, calculated by dividing the spanner weight by the weight of something.
+
+*   A lightness bound of O()−2d was established in a certain way. 
+Lightness is a normalized notion of spanner weight, calculated by dividing the spanner weight by the weight of a minimum spanning tree.
+
+The lower bound instance is an ultrametric space.
+
+A lightness bound of O()−2d was established in a complete proof.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11555v1
+
+[
+    {
+        "title": "A Tight Lower Bound for Doubling Spanners",
+        "url": "https://arxiv.org/html/2508.11555v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "New Doubling Spanners: Better and Simpler",
+        "url": "https://epubs.siam.org/doi/10.1137/130930984",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Distributed Spanner Construction in Doubling Metric ...",
+        "url": "http://homepage.cs.uiowa.edu/~sriram/papers/DD.Spanner.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "The Greedy Spanner Is Existentially Optimal | SIAM Journal ...",
+        "url": "https://www.cs.columbia.edu/~arnoldf/papers/FS20-greedySicomp.pdf",
+        "date": null,
+        "last_updated": "2025-04-23"
+    },
+    {
+        "title": "Greedy spanners are optimal in doubling metrics - Hung Le",
+        "url": "https://hunglvosu.github.io/res/dd.pdf",
+        "date": null,
+        "last_updated": "2025-05-14"
+    },
+    {
+        "title": "An optimal dynamic spanner for doubling metric spaces",
+        "url": "https://www.ariel.ac.il/wp/lee-ad-gottlieb/wp-content/uploads/sites/398/2024/02/spanner2.pdf",
+        "date": null,
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Hung Le",
+        "url": "https://simons.berkeley.edu/sites/default/files/2024-08/Hung%20Le_SA24-2%20Slides.pdf",
+        "date": "2024-08-01",
+        "last_updated": null
+    },
+    {
+        "title": "[2508.11555] A Tight Lower Bound for Doubling Spanners",
+        "url": "https://arxiv.org/abs/2508.11555",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Greedy spanners are optimal in doubling metrics",
+        "url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611975482.145",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Optimal fault-tolerant spanners for doubling metrics",
+        "url": "https://dl.acm.org/doi/10.1145/2591796.2591864",
+        "date": null,
+        "last_updated": "2025-03-06"
+    }
+]
+
+**********Source Check**********
+
+The claim '*   Any nn-point set in the dd-dimensional Euclidean space Rd, for d=O(1), admits a (1+)-spanner with a certain number of edges and lightness O~()−d, for any >0.' is supported by the citation.
+<accept> The abstract of the paper explicitly states: "Any nn-point set in the dd-dimensional Euclidean space Rd, for d=O(1), admits a (1+)-spanner with O~(n⋅)−d+1 edges and lightness O~()−d, for any >0." This directly matches all aspects of the provided information, including the specific conditions on 'd', the type of spanner, and the bounds for edges and lightness. </accept>
+
+**********Source Check**********
+
+The claim '*   The lightness is something, where we divide the spanner weight by the weight of a minimum spanning tree.' is supported by the citation.
+<accept> The abstract explicitly defines lightness as "a normalized notion of weight, where we divide the spanner weight by the weight of a minimum spanning tree." </accept>
+
+**********Source Check**********
+
+The claim '*   For any 2≤d=O(1), there exists an nn-point set in Rd, for which any (1+)-spanner has ~(n⋅)−d+1 edges and something.' is supported by the citation.
+<accept> The information is explicitly mentioned in the "Abstract" section and the "1.1 Euclidean Spanners" section under "Sparse Spanners". The abstract states: "For any 2≤d=O(1), there exists an nn-point set in Rd, for which any (1+)-spanner has ~(n⋅)−d+1 edges and lightness ~(n⋅)−d." The "Sparse Spanners" sub-section also explicitly states: "For any 2≤d=O(1), there exists an nn-point set in Rd (basically a set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has (n⋅)−d+1 edges." </accept>
+
+**********Source Check**********
+
+The claim '*   The upper bounds for Euclidean spanners rely heavily on something, which does not seem to extend to the wider family of doubling metrics, i.e., metric spaces of constant doubling dimension.' is supported by the citation.
+<accept> The content explicitly states: "The upper bounds for Euclidean spanners rely heavily on the spatial property of cone partitioning in Rd\\mdmathbb{R}^{d}, which does not seem to extend to the wider family of doubling metrics, i.e., metric spaces of constant doubling dimension." This directly confirms all parts of the given information. </accept>
+
+**********Source Check**********
+
+The claim '*   In doubling metrics, a simple spanner construction from two decades ago, the net-tree spanner, has a certain number of edges, and it could be transformed into a spanner of lightness O~(n⋅)−(d+1) by pruning redundant edges.' is supported by the citation.
+<accept> The provided text explicitly states in its abstract: "In doubling metrics, a simple spanner construction from two decades ago, the net-tree spanner, has O~(n⋅)−d edges, and it could be transformed into a spanner of lightness O~(n⋅)−(d+1) by pruning redundant edges." This directly matches all aspects of the information given, including the age of the construction, its name, the existence of a certain number of edges (specifically O~(n⋅)−d), and its transformation into a spanner with the specified lightness by pruning redundant edges. </accept>
+
+**********Source Check**********
+
+The claim '*   We resolve this question in a certain way by presenting a surprisingly simple and tight lower bound, which shows, in particular, that the net-tree spanner and its pruned version are both optimal.' is supported by the citation.
+<accept> The information is explicitly mentioned in the abstract section of the document: "We resolve this question in the negative by presenting a surprisingly simple and tight lower bound, which shows, in particular, that the net-tree spanner and its pruned version are both optimal." </accept>
+
+**********Source Check**********
+
+The claim '*   Someone from 1986, which gave an O(1)-spanner with O(n) edges.' is supported by the citation.
+<accept> The text explicitly states: "Spanners for Euclidean spaces, or Euclidean spanners, were introduced in the pioneering work of Chew [ 12] from 1986, which gave an O(1)O(1)-spanner with O(n)O(n) edges." This directly matches all parts of the provided information. </accept>
+
+**********Source Check**********
+
+The claim '*   The -graph is a natural variant of the Yao graph, introduced by someone in 1982, and can be described as follows.' is supported by the citation.
+<accept> The document explicitly states: "The -graph is a natural variant of the Yao graph, introduced by Yao [ 45] in 1982, and can be described as follows." It then provides a description of the Yao graph and subsequently states, "The -graph is defined similarly to the Yao graph: instead of connecting pp to its closest point in each cone, connect it to a point whose orthogonal projection to some fixed ray contained in the cone is closest to pp." This fully covers the information provided. </accept>
+
+**********Source Check**********
+
+The claim '*   In 2019 someone showed that this stretch-size tradeoff is existentially tight: For any 2≤d=O(1), there exists an nn-point set in Rd (basically a set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has (n⋅)−d+1 edges.' is supported by the citation.
+<accept> The text explicitly states in the "Sparse Spanners" subsection under "1.1 Euclidean Spanners" that "In 2019 Le and Solomon [ 34] showed that this stretch-size tradeoff is existentially tight: For any 2≤d=O​(1), there exists an nn-point set in Rd (basically a set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has (n⋅)−d+1 edges." </accept>
+
+**********Source Check**********
+
+The claim '*   A long line of work, starting from the paper of someone in 1993, showed that for any point set in Rd, the greedy (1+)-spanner of has constant (depending on and dd) lightness.' is supported by the citation.
+<accept> The content explicitly states: "A long line of work [ 2, 14, 16, 40, 39, 5, 34], starting from the paper of Das et al. [ 14] in 1993, showed that for any point set in Rd, the greedy (1+)-spanner of [ 2] has constant (depending on and dd) lightness." This directly confirms all aspects of the given information. </accept>
+
+**********Source Check**********
+
+The claim '*   In their seminal work on approximating TSP in Rd using light spanners, someone showed that the greedy spanner has lightness -O(d), and they raised the question of determining the exact constant hiding in the exponent of their upper bound.' is supported by the citation.
+<accept> The text explicitly states: "In their seminal work on approximating TSP in Rd using light spanners, Rao and Smith [40] showed that the greedy spanner has lightness -O(d), and they raised the question of determining the exact constant hiding in the exponent of their upper bound." This directly matches all aspects of the provided information, including the authors (Rao and Smith), the specific finding about greedy spanner lightness, and the raised question about the exact constant. </accept>
+
+**********Source Check**********
+
+The claim '*   The proofs in were incomplete; the first complete proof was given in , where a lightness bound of a certain value was established.' is supported by the citation.
+<accept> The text explicitly states: "The proofs in \[ 2, 14, 16, 40\] were incomplete; the first complete proof was given in \[ 39\], where a lightness bound of O()−2​dO({}^{-2d}) was established." This directly confirms that the proofs were incomplete, identifies the first complete proof, and states the lightness bound established there.</accept>
+
+**********Source Check**********
+
+The claim '*   This line of work culminated with the work of Le and Solomon , which improved the lightness bound to a certain value, where we shall use the O~ and ~ notations to suppress polylog()−1 terms; the exact lightness bound here is O(⋅−dlog(1/)), but for the sake of brevity we will mostly disregard polylog()−1 terms from now on.' is supported by the citation.
+<accept> The content explicitly states: "This line of work culminated with the work of Le and Solomon [ 34], which improved the lightness bound to O~()−d, where we shall use the O~ and ~ notations to suppress polylog()−1 terms; the exact lightness bound here is O(⋅−dlog(1/)), but for the sake of brevity we will mostly disregard polylog()−1 terms from now on." This matches all aspects of the provided information. </accept>
+
+**********Source Check**********
+
+The claim '*   In the same paper , they showed that this stretch-lightness tradeoff is existentially tight (up to a log()−1 factor): For any 2≤d=O(1), there exists an nn-point set in Rd (the aforementioned set of evenly spaced points on the dd-dimensional sphere), for which any (1+)-spanner has something.' is supported by the citation.
+<accept> The provided text explicitly states: "In the same paper [34], they showed that this stretch-lightness tradeoff is existentially tight (up to a log()−1 factor): For any 2≤d=O​(1), there exists an nn-point set in Rd (the aforementioned set of evenly spaced points on the dd-dimensional sphere), for which any (1+)(1+\\varepsilon)-spanner has lightness ()−d\\Omega({}^{-d})." This directly matches all components of the given information. </accept>
+
+**********Source Check**********
+
+The claim '*   The doubling dimension of a metric space is a certain value such that every ball BB in the metric can be covered by at most 2d balls of half the radius of BB; a metric space is called doubling if its doubling dimension is constant.' is supported by the citation.
+<accept> The information explicitly defines the doubling dimension of a metric space, stating that it is the smallest value 'd' such that every ball B in the metric can be covered by at most 2^d balls of half the radius of B, and that a metric space is called doubling if its doubling dimension is constant. This definition is found in footnote 222 within the "1.2 Doubling Spanners." section. </accept>
+
+**********Source Check**********
+
+The claim '*   Equipped with such a hierarchy of nets, a (1+)-spanner with O~(n⋅)−d edges is made in a certain way.' is supported by the citation.
+<accept> The content explicitly states: "Equipped with such a hierarchy of nets, a (1+)(1+\\varepsilon)-spanner with O~(n⋅)−d\\tilde{O}(n\\cdot{}^{-d}) edges is constructed as follows [29, 20, 9]." This directly matches the provided information.</accept>
+
+**********Source Check**********
+
+The claim '*   The net-tree spanner is a simple and basic spanner construction from a certain time ago, and it provides the state-of-the-art size bound, O~(n⋅)−d.' is supported by the citation.
+<accept> The content explicitly states: "In doubling metrics, a simple spanner construction from two decades ago, the net-tree spanner, has O~(n⋅)−d edges... The net-tree spanner is a simple and basic spanner construction from over 20 years ago, and it provides the state-of-the-art size bound, O~(n⋅)−d." This directly matches all components of the provided information. </accept>
+
+**********Source Check**********
+
+The claim '*   In particular, for doubling metrics, the framework of provides a pruned spanner, with a lightness bound of a specific value, which is the state-of-the-art lightness bound for doubling metrics.' is supported by the citation.
+<accept> The text explicitly states: "In particular, for doubling metrics, the framework of [35] provides a pruned spanner, with a lightness bound of O~()−(d+1), which is the state-of-the-art lightness bound for doubling metrics." This directly matches all components of the provided information, including the specific value of the lightness bound and its status as state-of-the-art. </accept>
+
+**********Source Check**********
+
+The claim '*   Can one get a construction of a certain type of spanners in doubling metrics with O~(n⋅)−d+1 edges and/or lightness O~()−d?' is supported by the citation.
+<accept> The information is explicitly mentioned in the "Question 1.1" section of the document, which poses this exact question regarding the construction of spanners in doubling metrics with specific edge and lightness properties. </accept>
+
+**********Source Check**********
+
+The claim '*   For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists an nn-point ultrametric space (X,dX) of doubling dimension dd, such that any (1+)-spanner G=(X,E,w) for XX must have a certain number of edges and lightness ~()−(d+1).' is supported by the citation.
+<accept> The information is explicitly mentioned in Theorem 1.2 of the provided content, which states: "For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists an nn-point ultrametric space (X,dX) of doubling dimension dd, such that any (1+)-spanner G=(X,E,w) for XX must have (n⋅)−d edges and lightness ~()−(d+1)." This directly covers all aspects of the query, including the conditions on d, epsilon, and n, the existence of such a space, its properties (ultrametric, doubling dimension d), the type of spanner, and the required lower bounds for edges and lightness. </accept>
+
+**********Source Check**********
+
+The claim '*   The more precise lightness lower bound is a certain value for d=2; (−(d+1)log()−1) for d=1.' is supported by the citation.
+<accept> The information is explicitly mentioned in Remark 1.3, point 1, which states: "The more precise lightness lower bound is: ()−(d+1)\\Omega({}^{-(d+1)}) for d=2d=2; (−(d+1)log()−1)\\Omega\\left(\\frac{{}^{-(d+1)}}{\\log({}^{-1})}\\right) for d=1d=1." </accept>
+
+**********Source Check**********
+
+The claim '*   Our lower bound instance is a certain type of space, and further a 2-HST where each internal node has 2d children.' is supported by the citation.
+<accept> The content explicitly states under "Remark 1.3", point 2: "Our lower bound instance is an ultrametric space, and further a 2-HST where each internal node has 2d2^{d} children; see Section˜2 for the definitions." This perfectly matches the provided information. </accept>
+
+**********Source Check**********
+
+The claim '*   Lightness is a normalized notion of spanner weight, calculated by dividing the spanner weight by the weight of something.' is supported by the citation.
+<accept> The "Abstract" section explicitly defines lightness as "a normalized notion of weight, where we divide the spanner weight by the weight of a minimum spanning tree." The "1.1 Euclidean Spanners" section under "Light spanners." further defines it as "the ratio of the spanner _weight_ (i.e., the sum of all edge weights in it) to the weight w​(𝖬𝖲𝖳​(P))w(\\mathsf{MST}(P)) of the minimum spanning tree 𝖬𝖲𝖳​(P)\\mathsf{MST}(P) for PP (or GPG\_{P})." Both definitions align with the provided information. </accept>
+
+**********Source Check**********
+
+The claim '*   A lightness bound of O()−2d was established in a certain way.' is supported by the citation.
+<accept> The content explicitly states under "1.1 Euclidean Spanners" that "The proofs in \[ 2, 14, 16, 40\] were incomplete; the first complete proof was given in \[ 39\], where a lightness bound of O()−2​dO({}^{-2d}) was established." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Lightness is a normalized notion of spanner weight, calculated by dividing the spanner weight by the weight of a minimum spanning tree.' is supported by the original webpage.
+<accept> The text explicitly states in the Abstract: "The lightness is a normalized notion of weight, where we divide the spanner weight by the weight of a minimum spanning tree." It is also stated in the "Light spanners" section: "Another basic property of spanners is lightness, defined as the ratio of the spanner _weight_ (i.e., the sum of all edge weights in it) to the weight w(MST(P)) of the minimum spanning tree MST(P) for PP (or GP)." This matches the claim word-for-word. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The lower bound instance is an ultrametric space.' is supported by the original webpage.
+<accept> The text explicitly states in "Remark 1.3", point 2: "Our lower bound instance is an ultrametric space, and further a 2-HST where each internal node has 2d children". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A lightness bound of O()−2d was established in a complete proof.' is supported by the original webpage.
+<accept> The text explicitly states in the "Light spanners" section, "The proofs in were incomplete; the first complete proof was given in , where a lightness bound of O()−2d was established." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+1. SeamlessFlow introduces something.
+
+2. The tag-driven scheduling paradigm unifies something.
+
+3. Something significantly jeopardizes throughput in disaggregated designs when wall times drift. 
+SeamlessFlow introduces a tagging system.
+
+The tag-driven scheduling paradigm unifies colocated and disaggregated architectures.
+
+Pipeline bubbles significantly jeopardize throughput in disaggregated designs when wall times drift.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Intelligent Scheduling For Seamless Integration - Meegle",
+        "url": "https://www.meegle.com/en_us/topics/intelligent-scheduling/intelligent-scheduling-for-seamless-integration",
+        "date": "2025-06-17",
+        "last_updated": "2025-06-29"
+    },
+    {
+        "title": "[PDF] Tags: A Framework for Distributed Event Ordering - Stanford University",
+        "url": "https://ppl.stanford.edu/papers/plarch23_tags.pdf",
+        "date": null,
+        "last_updated": "2024-09-19"
+    },
+    {
+        "title": "Design and Evaluation of a Rack-Scale Disaggregated ...",
+        "url": "https://arxiv.org/pdf/2303.06420",
+        "date": null,
+        "last_updated": "2025-04-29"
+    },
+    {
+        "title": "[PDF] A Queue-oriented Transaction Processing Paradigm - arXiv",
+        "url": "https://arxiv.org/pdf/1910.10350",
+        "date": "2019-10-23",
+        "last_updated": "2025-05-11"
+    },
+    {
+        "title": "[PDF] a unifying scheduling framework for scalable support of guaranteed se",
+        "url": "https://www.cs.fsu.edu/~duan/publications/vtrs.pdf",
+        "date": null,
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "Graham: Synchronizing Clocks by Leveraging Local ...",
+        "url": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+        "date": null,
+        "last_updated": "2024-11-06"
+    },
+    {
+        "title": "The Salesforce Platform - Transformed for Tomorrow",
+        "url": "https://architect.salesforce.com/fundamentals/platform-transformation",
+        "date": "2024-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "[PDF] Parallel Unification Scheduling in Prolog - DTIC",
+        "url": "https://apps.dtic.mil/sti/tr/pdf/ADA173122.pdf",
+        "date": null,
+        "last_updated": "2024-08-15"
+    },
+    {
+        "title": "Clio: A Hardware-Software Co-Designed Disaggregated ...",
+        "url": "https://cseweb.ucsd.edu/~yiying/clio-asplos22.pdf",
+        "date": null,
+        "last_updated": "2025-04-11"
+    },
+    {
+        "title": "The Event-Driven Paradigm for Next-Generation AI Agents",
+        "url": "https://gettectonic.com/the-event-driven-paradigm-for-next-generation-ai-agents/",
+        "date": "2025-02-24",
+        "last_updated": "2025-04-14"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+Someone uses anomaly data from a testing dataset for training.
+
+Insufficient anomaly data poses something for industrial anomaly detection.
+
+AAG works in a certain way given a normal image, a mask, and a simple text prompt. 
+AnomalyControl uses anomaly data from a testing dataset for training.
+
+Insufficient anomaly data poses a dilemma for industrial anomaly detection.
+
+AAG operates given a normal image, a mask, and a simple text prompt.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Reinforcing Consistent Reasoning in Industrial Anomaly Detection",
+        "url": "https://arxiv.org/html/2508.09178v2",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Industrial anomaly detection: using only defect-free images to train ...",
+        "url": "https://ethon.ai/industrial-anomaly-detection-using-only-defect-free-images-to-train-your-model/",
+        "date": "2024-08-06",
+        "last_updated": "2025-04-16"
+    },
+    {
+        "title": "[PDF] Supervised Anomaly Detection for Complex Industrial Images",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Baitieva_Supervised_Anomaly_Detection_for_Complex_Industrial_Images_CVPR_2024_paper.pdf",
+        "date": null,
+        "last_updated": "2024-06-28"
+    },
+    {
+        "title": "MVTec Anomaly Detection Dataset",
+        "url": "https://www.mvtec.com/company/research/datasets/mvtec-ad",
+        "date": "2023-07-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "SSRheart/industrial-anomaly-detection-dataset - GitHub",
+        "url": "https://github.com/SSRheart/industrial-anomaly-detection-dataset",
+        "date": "2024-04-28",
+        "last_updated": "2025-06-14"
+    },
+    {
+        "title": "[PDF] Test Time Training for Industrial Anomaly Segmentation",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Costanzino_Test_Time_Training_for_Industrial_Anomaly_Segmentation_CVPRW_2024_paper.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "M-3LAB/awesome-industrial-anomaly-detection - GitHub",
+        "url": "https://github.com/M-3LAB/awesome-industrial-anomaly-detection",
+        "date": "2022-12-02",
+        "last_updated": "2025-08-20"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+

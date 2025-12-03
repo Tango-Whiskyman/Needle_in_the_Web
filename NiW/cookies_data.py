@@ -1,0 +1,3 @@
+COOKIES_LIST = [
+
+]

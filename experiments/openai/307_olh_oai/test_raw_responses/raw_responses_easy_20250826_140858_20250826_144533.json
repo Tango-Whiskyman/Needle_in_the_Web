@@ -1,0 +1,444 @@
+[
+    {
+        "id": 0,
+        "source": "https://contemporarypoetrycollective.wordpress.com/2025/04/21/pop-culture-poetic-forms/",
+        "search": {
+            "id": "ws_68ad56e40fb0819698737ad8521cbb9209f4a8f4c1d8faf3",
+            "action": {
+                "query": "nostalgic representations of popular culture in contemporary spoken word performance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://olh.openlibhums.org/article/id/17984/",
+        "search": {
+            "id": "ws_68ad56ec6d6c8196b33cfea9ef5177250093775659d8718d",
+            "action": {
+                "query": "Changkija customary victimization of women theory article",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://olh.openlibhums.org/article/id/19713/",
+        "search": {
+            "id": "ws_68ad56f237088193a6a7f33ccf30973704ec3e18233af900",
+            "action": {
+                "query": "no critical engagement with transqueer analytical framework Dancing to Music You Hate",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the article \"Hyperreality and Liveness in Kenyan Spoken Word Poetry Performances in Social Media\" discusses the concept of liveness in relation to poetry performance during the pandemic. ([jcsll.gta.org.uk](https://jcsll.gta.org.uk/index.php/home/article/view/189?utm_source=openai))\n\nAdditionally, \"Going 'Live' Again: Reflections on Zoom, Copresence, & Liveness in a (Post)Pandemic World\" reflects on the reimagining of liveness in theatre and performance during and after the pandemic. ([cambridge.org](https://www.cambridge.org/core/journals/theatre-survey/article/going-live-again-reflections-on-zoom-copresence-liveness-in-a-postpandemic-world/C37B420950F27B85F7F84C06F262C23B?utm_source=openai))\n\nThese sources may provide insights related to your query, though they do not encompass all the specified information in a single webpage.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad56fbab8c8193b811ce8c98de540d05d160c5636e9780",
+            "action": {
+                "query": "historicizing and theorizing liveness pre- and during the pandemic in relation to theatre performance and poetry performance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://olh.openlibhums.org/article/id/23434/",
+        "search": {
+            "id": "ws_68ad570651d081939eb8341b15a619ff03f8f8eaf5317036",
+            "action": {
+                "query": "Suhaiymah Manzoor-Khan Anthony Joseph Marsha Prescod interviews poetry performance spoken word",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://arxiv.org/abs/2503.13809",
+        "search": {
+            "id": "ws_68ad570c3918819791cc9e5a3dbf6375051376874fb792fa",
+            "action": {
+                "query": "artistic concept Understanding artistic approach archival practice underrepresented cultures lifelong project her works across media six decades",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://olh.openlibhums.org/article/id/16916/",
+        "search": {
+            "id": "ws_68ad5717bbb08194b6bc9fcde6ba6ee00ce216a533e0516b",
+            "action": {
+                "query": "necropolitics analysis characters homosexual panic Wilde Joyce",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "https://olh.openlibhums.org/articles/10.16995/olh.16931/",
+        "search": {
+            "id": "ws_68ad571fdad88197afa48ac96a7a6a3f0c5644bee6b4e7db",
+            "action": {
+                "query": "English friars lighter penances than secular clergy donations complexity Chaucer confessions laity light penances serious sins",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://olh.openlibhums.org/articles/10.16995/olh.18710/",
+        "search": {
+            "id": "ws_68ad572bae7881978e40d9201464eec40e0f7f1f449eb76b",
+            "action": {
+                "query": "introduction 'Cultural Heritage Data for Research \u2013 Opening Museum Collections' vol. 10.2, 2024 vol. 11.1, 2025 museum data research",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://muse.jhu.edu/article/54196/summary",
+        "search": {
+            "id": "ws_68ad573244708196b1a06c3d351909a60e103c5e4d2de2f6",
+            "action": {
+                "query": "relationship between literature and politics 'distribution of the sensible' theory",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://olh.openlibhums.org/article/id/16767/",
+        "search": {
+            "id": "ws_68ad573aaf548190848baf9e42b646e70cee13419acf7106",
+            "action": {
+                "query": "Digital communication in Sally Rooney's novels reflects in a certain way examination reference specific novels",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://olh.openlibhums.org/article/id/17354/",
+        "search": {
+            "id": "ws_68ad574549c48190bf6fcad0f7f0ee51084fec5f84fd4734",
+            "action": {
+                "query": "Nat Nakasa writings material curiosities bureaucratic papers critique",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://olh.openlibhums.org/article/id/16523/",
+        "search": {
+            "id": "ws_68ad574da8508194a5157a74e7d26e66031003e4d406eb1c",
+            "action": {
+                "query": "case studies black humor war acceptance rejection hostile humorous memes boundaries social media reception",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://olh.openlibhums.org/article/id/11618/",
+        "search": {
+            "id": "ws_68ad5754b5808193b20ce16b7f554a930808eeb3b57ab1f0",
+            "action": {
+                "query": "B.S. Johnson novels radical reappraisals working-class literature proletarian condition subversiveness class concerns",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "https://olh.openlibhums.org/article/id/10131/",
+        "search": {
+            "id": "ws_68ad575b2a74819588b7a5326c3aec900857a328f60b8706",
+            "action": {
+                "query": "Peri\u2019s concrete works exhibited in London Life in Concrete and later commissioned",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://olh.openlibhums.org/article/id/16725/",
+        "search": {
+            "id": "ws_68ad5761bf00819791939de333f2885001811b07df12d517",
+            "action": {
+                "query": "\"maps, identity, and belonging\" \"By the Sea\" \"The Dragonfly Sea\" novels",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://olh.openlibhums.org/article/id/16293/",
+        "search": {
+            "id": "ws_68ad576b83d881949312a78a6ab5475c06cdaed35c0dc290",
+            "action": {
+                "query": "Political jokes under someone restriction of human rights impacted humour oppressed 1963-1989 K\u00e1d\u00e1r state oppression human rights",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "https://muse.jhu.edu/article/256223/pdf",
+        "search": {
+            "id": "ws_68ad5775d7b88190a36dc33239964e6c08c7c1ecffa5cfce",
+            "action": {
+                "query": "James Joyce investment in Oscar Wilde's queer identities Ulysses influence scandals",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://olh.openlibhums.org/article/id/16778/",
+        "search": {
+            "id": "ws_68ad577c66388195ad8c0b0574901f5a0278e290fe225e19",
+            "action": {
+                "query": "study uses model punch-down humour Narendra Modi speeches analyze humour leadership position power use humour authoritarian populist governance",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://www.journals.ala.org/index.php/ltr/article/view/5892/7446",
+        "search": {
+            "id": "ws_68ad5782943c8194b586341319fde8400dce06393a6d84fb",
+            "action": {
+                "query": "Linked Open Data common language integrate across institutions Semantic Web Libraries archives museums adoption",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I did find a source that discusses Katherine Anne Porter's novel _Ship of Fools_ and its allegorical representation of the world's \"voyage to eternity,\" highlighting the atmosphere of suspicion and anxiety prior to World War II. ([artlark.org](https://artlark.org/2022/05/15/worlds-voyage-to-eternity-in-katherine-anne-porters-ship-of-fools/?utm_source=openai))\n\nAdditionally, the Wikipedia page for _Ship of Fools_ provides an overview of the novel's themes and background. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ship_of_Fools_%28Porter_novel%29?utm_source=openai))\n\nFor information on shipboard solidarity in novels such as _Tender is the Night_ and _Dodsworth_, I recommend consulting literary analyses or academic articles that explore these themes in the context of interwar literature.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad578c41888197b7c246a13f2f0fd5057aabc988ce1a17",
+            "action": {
+                "query": "Porter\u2019s inclusion of Interwar steamship travel ephemera Katherine Anne Porter\u2019s novel Ship of Fools Tender is the Night Dodsworth",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://journal.digitalmedievalist.org/article/id/8064/",
+        "search": {
+            "id": "ws_68ad5795f4ec8197b15784937acd323d0d12a1c8ebd3f071",
+            "action": {
+                "query": "RDF SPARQL medieval Renaissance manuscripts history provenance research questions relational databases TEI-encoded documents",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://library.yale.edu/news/yale-launches-lux-powerful-new-search-tool-cross-collection-exploration",
+        "search": {
+            "id": "ws_68ad579dd63081938adf268fb98deed4058bff37ef9d7b3c",
+            "action": {
+                "query": "\"Yale University\" \"discover and engage with collections\" \"cross-collection and cross-domain discovery application\" \"2018 and 2023\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "https://olh.openlibhums.org/article/id/15319/",
+        "search": {
+            "id": "ws_68ad57a8b6a0819782bfd97cc0b61c5e05fc7c638c567c73",
+            "action": {
+                "query": "Oscar Wilde Finnegans Wake Queensbury somdomite validity of fixed categories",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://olh.openlibhums.org/article/id/10801/",
+        "search": {
+            "id": "ws_68ad57b1c618819390e518f2943db21b0c8e84446800b561",
+            "action": {
+                "query": "interdisciplinary history archaeology landscape history geography shared authority public curation Brayford Pool medieval history",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://olh.openlibhums.org/articles/10.16995/olh.10172/",
+        "search": {
+            "id": "ws_68ad57ba1bf8819681fc01d19a7e44c80c5f7327f7e00f86",
+            "action": {
+                "query": "Amber Film and Photography Collective Berwick Street Film Collective class difference",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://catalogue.henry-moore.org/objects/17293/family-group",
+        "search": {
+            "id": "ws_68ad57c252e08195bd099f15f40a42a9011079beab799edb",
+            "action": {
+                "query": "Moore\u2019s public sculptures produced after the war address a certain state. Family Group first in series of Moore's post-war public works",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://olh.openlibhums.org/article/id/10477/",
+        "search": {
+            "id": "ws_68ad57cbcbe481909f35a9e7f2efbc6b0fe9dafb2c736e54",
+            "action": {
+                "query": "Augusta Gregory The Workhouse Ward Samuel Beckett Waiting for Godot Frank McGuinness Observe the Sons of Ulster geographies of Irish drama Chris Morash Shaun Richards",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 29,
+        "source": "https://olh.openlibhums.org/article/id/11647/",
+        "search": {
+            "id": "ws_68ad57d82b64819682d52d2fb9d94a920ce4b0209e3495ff",
+            "action": {
+                "query": "essay De Profundis Ulysses aesthetics exile redemption Wilde Joyce",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://olh.openlibhums.org/article/id/11596/",
+        "search": {
+            "id": "ws_68ad57e1d2208190a1919a4ea63561f20f2fd9e199a99c39",
+            "action": {
+                "query": "basis for Joyce\u2019s identification and disidentification with Wilde modern nation-state ambivalent references article",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://olh.openlibhums.org/article/id/10344/",
+        "search": {
+            "id": "ws_68ad57e88588819591e5e1a93dd3f34b0be5aedf00349796",
+            "action": {
+                "query": "Ancestors Legacy superficial accuracy crusading medievalisms Destructive Creations",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "https://olh.openlibhums.org/article/id/10468/",
+        "search": {
+            "id": "ws_68ad57f2e2808194b3b5e3ce11c629e108c352b933e88ad8",
+            "action": {
+                "query": "vignettes cumulative experiences archives expanded hermeneutics archival objects new archival methodologies embodied affective experience",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "https://olh.openlibhums.org/article/id/10929/",
+        "search": {
+            "id": "ws_68ad57fd3b3c8195ad950cf7ee4f82d70ccf5d835b9f2620",
+            "action": {
+                "query": "Wagner\u2019s concept of the Gesamtkunstwerk Polish theatrical avant-garde",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "https://olh.openlibhums.org/article/id/9065/",
+        "search": {
+            "id": "ws_68ad5805176081949689f0ad239fe0c60a57a24c9616fba8",
+            "action": {
+                "query": "\u00c6lfric Augustinian understanding of the mind metaphor of mind as body",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

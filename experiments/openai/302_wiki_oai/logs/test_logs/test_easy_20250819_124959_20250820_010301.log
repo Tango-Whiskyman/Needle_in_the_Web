@@ -1,0 +1,1835 @@
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch%2C_Vienna) 
+The Last Judgment (Bosch, Vienna) 
+The painting titled `a specific painting` may have been created by a painter in `an artist's workplace`.
+
+`A notable artwork` is a triptych by `a celebrated painter`.
+
+The triptych should not be confused with `another distinct painting`. 
+The painting titled "The Last Judgment (Bosch triptych), Bruges" may have been created by a painter in Bosch's workshop.
+
+_The Last Judgment_ is a triptych by the Early Netherlandish artist Hieronymus Bosch.
+
+The triptych should not be confused with another full painting by Bosch titled "The Last Judgment (Bosch triptych), Bruges."
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/M%C3%A9rode_Altarpiece
+
+{
+    "id": "ws_68a4acbc6e448193ba6fac0a23d9e1680a5342cccfe95efa",
+    "action": {
+        "query": "The painting titled \"a specific painting\" may have been created by a painter in \"an artist's workplace\" \"A notable artwork\" is a triptych by \"a celebrated painter\" \"The triptych should not be confused with \"another distinct painting\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The painting titled `a specific painting` may have been created by a painter in `an artist's workplace`.' is supported by the citation.
+<accept> The text explicitly states that the "Mérode Altarpiece" is a "15th-century painting by the workshop of Robert Campin". It also mentions that the central panel was "thought by a member of Campin's workshop" and that the outer wing panels are "later additions by a workshop member". This directly confirms the painting was created by a painter in an artist's workplace (specifically, Campin's workshop).</accept>
+
+**********Source Check**********
+
+The claim '`A notable artwork` is a triptych by `a celebrated painter`.' is NOT supported by the citation.
+<reject> The webpage explicitly mentions that "The Mérode Altarpiece" is a "triptych" and describes it as "a founding and important work" and a "milestone," implying its notable status. However, it does not explicitly state that the painter, Robert Campin, is "celebrated." </reject>
+
+**********Source Check**********
+
+The claim 'The triptych should not be confused with `another distinct painting`.' is NOT supported by the citation.
+<reject> The text mentions an "earlier version" of the Annunciation panel in Brussels that "may be Campin's original panel," and that the New York triptych's central panel is likely "a copy of an earlier composition by Campin." This discusses different versions of the *same* artwork or its components, not that the triptych should not be confused with "another distinct painting" altogether. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/John_Rooney_(footballer) 
+John Rooney (footballer) 
+John Richard Rooney is someone in a certain professional capacity.
+
+John Richard Rooney is someone who previously held a certain sporting role.
+
+Bury announced something in a certain way on a particular date. 
+John Richard Rooney is an English professional manager.
+
+John Richard Rooney is a former footballer.
+
+Bury announced on 10 July 2013 that the club had signed John Rooney.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/John_Rooney_(footballer)
+
+{
+    "id": "ws_68a4acc8023c819496c7a8db911225170e3f7c028d34a97f",
+    "action": {
+        "query": "John Richard Rooney professional sporting role Bury announcement",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'John Richard Rooney is someone in a certain professional capacity.' is supported by the citation.
+<accept> The text explicitly states that "John Richard Rooney ... is an English professional manager and former footballer who played as an attacking midfielder. He is head coach of National League North club, Macclesfield." This clearly identifies his professional capacities. </accept>
+
+**********Source Check**********
+
+The claim 'John Richard Rooney is someone who previously held a certain sporting role.' is supported by the citation.
+<accept> The text explicitly states that John Richard Rooney "is an English professional manager and former footballer who played as an attacking midfielder," indicating that he previously held the sporting role of a footballer. </accept>
+
+**********Source Check**********
+
+The claim 'Bury announced something in a certain way on a particular date.' is supported by the citation.
+<accept> The text explicitly states, "On 10 July 2013, Bury announced they had signed Rooney on a twelve-month contract," mentioning the entity (Bury), the announcement (signing Rooney), and the date (10 July 2013). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'John Richard Rooney is an English professional manager.' is supported by the original webpage.
+<accept> The text explicitly states: "John Richard Rooney (born 17 December 1990) is an English professional manager and former footballer who played as an attacking midfielder." Additionally, the "Current team" in the info box lists "Macclesfield (manager)", and under "Coaching career", it notes that "On 1 July 2025, Rooney was appointed first manager of Macclesfield". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'John Richard Rooney is a former footballer.' is supported by the original webpage.
+<accept> The text explicitly states, "John Richard Rooney ... is an English professional manager and former footballer who played as an attacking midfielder." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Bury announced on 10 July 2013 that the club had signed John Rooney.' is supported by the original webpage.
+<accept> The content explicitly states under the "Bury" section: "On 10 July 2013, Bury announced they had signed Rooney on a twelve-month contract." This directly confirms the claim. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Rough_Guide_to_the_Music_of_Afghanistan 
+The Rough Guide to the Music of Afghanistan 
+Something is a certain type of release from a specific year.
+
+The classifications of the album are certain kinds of music.
+
+A specific section of the album covers a diverse range of regional music. 
+"The Rough Guide To The Music Of Afghanistan" is a 2010 compilation album.
+
+The genres of the album are World and Afghan music.
+
+Disc One of the album covers a wide breadth of the music of Afghanistan.
+
+**********Web Search Result**********
+
+https://apnews.com/article/61264a22c073e0f0a55af5e71b96504d
+
+{
+    "id": "ws_68a4accec6588193a4ad1b89bb676d950af1ed2278da7b57",
+    "action": {
+        "query": "album release year classifications diverse range of regional music",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something is a certain type of release from a specific year.' is supported by the citation.
+<accept> The content explicitly states, "Grupo Frontera, who released their highly anticipated sophomore album, “Jugando Que No Pasa Nada,” Friday." and the article's update date is "Updated 10:24 AM EDT, May 10, 2024", indicating the album is a release from 2024. </accept>
+
+**********Source Check**********
+
+The claim 'The classifications of the album are certain kinds of music.' is supported by the citation.
+<accept> The content explicitly mentions the various musical classifications and genres that are part of the album "Jugando Que No Pasa Nada," stating that songs move "from electronic music to R&B to bachata to George Strait-inspired country, with Grupo Frontera’s characteristic cumbias norteñas" and also provides a "quick-hit glossary of regional Mexican music genres" such as mariachi, banda, corridos, norteño, sierreño, tejano, and cumbias, which are all types of music found on the album. </accept>
+
+**********Source Check**********
+
+The claim 'A specific section of the album covers a diverse range of regional music.' is supported by the citation.
+<accept> The content explicitly states that Grupo Frontera's sophomore album, "Jugando Que No Pasa Nada," features a "diversity of sounds" and that "Songs move from electronic music to R&B to bachata to George Strait-inspired country, with Grupo Frontera’s characteristic cumbias norteñas still very much at the center." It also mentions that the group has modernized their regional Mexican genres by "weaving into other musical styles," directly supporting the claim of diverse regional music. </accept>
+
+**********Exact Claim Check**********
+
+The claim '"The Rough Guide To The Music Of Afghanistan" is a 2010 compilation album.' is supported by the original webpage.
+<accept> The content explicitly states multiple times that "_The Rough Guide To The Music Of Afghanistan_" is a "2010 compilation album" and was "originally released in 2010". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The genres of the album are World and Afghan music.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the table detailing the album's information, under the "Genre" field, which states "World, Afghan". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Disc One of the album covers a wide breadth of the music of Afghanistan.' is supported by the original webpage.
+<accept> The text explicitly states: "Part of the World Music Network Rough Guides series, the release covers a wide breadth of the music of Afghanistan on Disc One, and contains a "bonus" Disc Two highlighting the Ahmad Sham Sufi Qawwali Group"). </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Legally_Blonde%3A_The_Musical%3A_The_Search_for_Elle_Woods 
+Legally Blonde: The Musical: The Search for Elle Woods 
+A certain program is something of a certain type.
+
+The program was created to cast an actress to replace someone in a particular role in a specific theatrical event.
+
+Contestants met various performers from a certain ensemble periodically. 
+_Legally Blonde: The Musical: The Search for Elle Woods_ is an American TV series or program.
+
+The program was created to cast an actress to replace Laura Bell Bundy in the role of Elle Woods in the Broadway production of _Legally Blonde: The Musical_.
+
+Contestants met different cast members from the Broadway cast of _Legally Blonde: The Musical_ in each episode.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Legally_Blonde%3A_The_Musical%3A_The_Search_for_Elle_Woods
+
+{
+    "id": "ws_68a4acd6cd3081958e0c02db3add6e6f0a951e65fff647de",
+    "action": {
+        "query": "program created to cast an actress to replace someone in a role theatrical event contestants met performers ensemble",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A certain program is something of a certain type.' is supported by the citation.
+<accept> The text states, "_Legally Blonde: The Musical: The Search for Elle Woods_ is an MTV program," identifying the program as a type of program. Additionally, the categories at the bottom of the page list it as an "MTV reality television series" and a "2000s American music television series." </accept>
+
+**********Source Check**********
+
+The claim 'The program was created to cast an actress to replace someone in a particular role in a specific theatrical event.' is supported by the citation.
+<accept> The text explicitly states that "_Legally Blonde: The Musical: The Search for Elle Woods_ is an MTV program created in order to cast an actress to replace Laura Bell Bundy in the role of Elle Woods in the Broadway production of _Legally Blonde: The Musical_". This directly matches all parts of the given information. </accept>
+
+**********Source Check**********
+
+The claim 'Contestants met various performers from a certain ensemble periodically.' is supported by the citation.
+<accept> The text explicitly states in the "Episode summaries" section that "In each episode, the contestants met different cast members from the Broadway cast of _Legally Blonde: The Musical_." This indicates that they met performers from the ensemble periodically (in each episode).</accept>
+
+**********Exact Claim Check**********
+
+The claim '_Legally Blonde: The Musical: The Search for Elle Woods_ is an American TV series or program.' is supported by the original webpage.
+<accept> The text explicitly states "2008 American TV series or program" directly under the title of the show, and later describes it as an "MTV program". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The program was created to cast an actress to replace Laura Bell Bundy in the role of Elle Woods in the Broadway production of _Legally Blonde: The Musical_.' is supported by the original webpage.
+<accept> The content explicitly states: "_Legally Blonde: The Musical: The Search for Elle Woods_ is an MTV program created in order to cast an actress to replace Laura Bell Bundy in the role of Elle Woods in the Broadway production of _Legally Blonde: The Musical_". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Contestants met different cast members from the Broadway cast of _Legally Blonde: The Musical_ in each episode.' is supported by the original webpage.
+<accept> The "Episode summaries" section explicitly states: "In each episode, the contestants met different cast members from the Broadway cast of _Legally Blonde: The Musical_." This directly confirms the claim. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Manj%C5%AB 
+Manjū 
+Manjū is something of a certain kind.
+
+Manjū changed from a light meal to a confection in a certain way.
+
+Manjū is a specific type of something based on particular components. 
+Manjū is a traditional Japanese confection.
+
+Manjū changed from a light meal to a confection to suit Japanese tastes.
+
+Manjū is a traditional Japanese flour-based pastry.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Manj%C5%AB
+
+{
+    "id": "ws_68a4ace06f5081969e98cd96cc1be2360a0ee53c16f5289b",
+    "action": {
+        "query": "Manj\u016b history meal confection type components",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Manjū is something of a certain kind.' is supported by the citation.
+<accept> The content explicitly states that "Manjū (饅頭; まんじゅう) is a traditional Japanese confection," which defines it as "something of a certain kind." </accept>
+
+**********Source Check**********
+
+The claim 'Manjū changed from a light meal to a confection in a certain way.' is supported by the citation.
+<accept> The content explicitly states how Manjū changed from a light meal to a confection: "Later, manjū changed from a light meal to a confection to suit Japanese tastes. In the Muromachi period (1336–1573), Shokunin utaai ehon (職人歌合画本) depicted sweet manjū made with sugar. This manjū is considered the prototype of today's manjū." It also notes that initially, it "was not a confection, did not contain red bean paste, and was not sweet" and was "a dish eaten with chopsticks along with soup and pickles." </accept>
+
+**********Source Check**********
+
+The claim 'Manjū is a specific type of something based on particular components.' is supported by the citation.
+<accept> The text explicitly states that "Manjū is a traditional Japanese confection" and lists its "Main ingredients" as "Flour, buckwheat, red bean paste" in the infobox. It further describes that the "standard manjū has a skin made of flour, and is filled with anko (sweet azuki bean paste)," and that "some varieties use kudzu starch or buckwheat flour for the skin" with "other types of filling include sweet potato, chestnut jam, or custard." This confirms it is a specific type of something (confection/bun) based on particular components (flour, bean paste, etc.). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Manjū is a traditional Japanese confection.' is supported by the original webpage.
+<accept> The first paragraph of the content explicitly states: "_Manjū_ (饅頭; まんじゅう) is a traditional Japanese confection, usually a small, dense bun with a sweet filling." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Manjū changed from a light meal to a confection to suit Japanese tastes.' is supported by the original webpage.
+<accept> The text explicitly states in the "History" section: "Later, manjū changed from a light meal to a confection to suit Japanese tastes." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Manjū is a traditional Japanese flour-based pastry.' is supported by the original webpage.
+<accept> The text explicitly states: "Manju is a traditional Japanese flour-based pastry (instead of rice-based like mochi)." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks 
+Stephen Malkmus and the Jicks 
+The current members of Stephen Malkmus and the Jicks are `a group of individuals`.
+
+Stephen Malkmus and the Jicks is `a certain type of musical group`.
+
+Stephen Malkmus has been `in certain roles` for Stephen Malkmus and the Jicks since 2000. 
+The current members of Stephen Malkmus and the Jicks are Stephen Malkmus, Joanna Bolme, Mike Clark, and Jake Morris.
+
+Stephen Malkmus and the Jicks is an American rock band.
+
+Stephen Malkmus has been the vocalist and guitarist for Stephen Malkmus and the Jicks since 2000.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks
+
+{
+    "id": "ws_68a4acea6c008194aff80148085a88f40fc92971061fedee",
+    "action": {
+        "query": "current members of Stephen Malkmus and the Jicks musical group roles since 2000",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The current members of Stephen Malkmus and the Jicks are `a group of individuals`.' is supported by the citation.
+<accept> The "Members" section under "Current members" explicitly lists the individuals who are currently members of Stephen Malkmus and the Jicks: Stephen Malkmus, Joanna Bolme, Mike Clark, and Jake Morris. The infobox also lists these members. </accept>
+
+**********Source Check**********
+
+The claim 'Stephen Malkmus and the Jicks is `a certain type of musical group`.' is supported by the citation.
+<accept> The content explicitly states that "Stephen Malkmus and the Jicks is an American rock band" and lists "Indie rock" under its genres, which specifies the type of musical group.</accept>
+
+**********Source Check**********
+
+The claim 'Stephen Malkmus has been `in certain roles` for Stephen Malkmus and the Jicks since 2000.' is supported by the citation.
+<accept> The "Members" section explicitly states "Stephen Malkmus - vocals, guitar (2000–present)", which confirms his roles and the start year of his involvement with Stephen Malkmus and the Jicks. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The current members of Stephen Malkmus and the Jicks are Stephen Malkmus, Joanna Bolme, Mike Clark, and Jake Morris.' is supported by the original webpage.
+<accept> The "Members" section of the provided content explicitly lists "Current members" as Stephen Malkmus, Joanna Bolme, Mike Clark, and Jake Morris, which matches the claim exactly. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Stephen Malkmus and the Jicks is an American rock band.' is supported by the original webpage.
+<accept> The content explicitly states, "Stephen Malkmus and the Jicks is an American rock band". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Stephen Malkmus has been the vocalist and guitarist for Stephen Malkmus and the Jicks since 2000.' is supported by the original webpage.
+<accept> The "Members" section of the document explicitly states: "Stephen Malkmus - vocals, guitar (2000–present)", confirming that Stephen Malkmus has been the vocalist and guitarist for the band since 2000. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Air_raids_on_Semarang%E2%80%93Salatiga%E2%80%93Ambarawa 
+Air raids on Semarang–Salatiga–Ambarawa 
+A particular film was inspired by and dramatizes certain military actions and individuals from a certain historical date.
+
+A specific military operation was a specific type of attack.
+
+A specific calendar day is commemorated in a certain country as a special commemorative occasion. 
+The 2021 Indonesian film *Cadet 1947* was inspired by and dramatizes the 29 July 1947 air raids and its participants.
+
+The air raids on Semarang, Salatiga, and Ambarawa were an air strike.
+
+July 29 is commemorated in Indonesia as the "Air Force Service Day" (Hari Bakti Angkatan Udara).
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Valkyrie_%28film%29
+
+{
+    "id": "ws_68a4acf254b481979f0dd36f337cbc1d03cb2e502fc931a1",
+    "action": {
+        "query": "film inspired by military actions commemorative occasion historical date",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A particular film was inspired by and dramatizes certain military actions and individuals from a certain historical date.' is supported by the citation.
+<accept> The content explicitly states that the film "**Valkyrie** is a 2008 historical thriller film... set in Nazi Germany during World War II and depicts the 20 July plot in 1944 by German army officers to assassinate Adolf Hitler and to use the Operation Valkyrie national emergency plan to take control of the country." It also mentions the main individual dramatized: "Cruise as Colonel Claus von Stauffenberg, one of the key plotters." </accept>
+
+**********Source Check**********
+
+The claim 'A specific military operation was a specific type of attack.' is supported by the citation.
+<accept> The text states that the film "depicts the 20 July plot... to assassinate Adolf Hitler and to use the Operation Valkyrie national emergency plan to take control of the country." It further explains that "Operation Valkyrie... involves the deployment of the Reserve Army in a national emergency, as a means to take control of the country," and that the plotters "redraft the plan's orders to enable the dismantling of the Nazi regime after assassinating Hitler." Taking control of a country and dismantling a regime by deploying military forces can be categorized as a type of attack (specifically, a coup d'état or an overthrow of the government). Therefore, Operation Valkyrie, a specific military operation, was indeed a specific type of attack aimed at overthrowing the Nazi regime. </accept>
+
+**********Source Check**********
+
+The claim 'A specific calendar day is commemorated in a certain country as a special commemorative occasion.' is supported by the citation.
+<accept> The content explicitly states that the Bendlerblock, where the 20 July plot conspirators were executed, is considered a "place of remembrance and mourning" by Germany's Finance Ministry. This indicates that the events of July 20, 1944, are commemorated as a special occasion in Germany, as a "sincere and respectable depiction of the events of the 20th of July and of Stauffenberg is therefore very much in Germany's interest." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The 2021 Indonesian film *Cadet 1947* was inspired by and dramatizes the 29 July 1947 air raids and its participants.' is supported by the original webpage.
+<accept> The text explicitly states under the "In popular culture" section: "The 2021 Indonesian film *Cadet 1947* was heavily inspired and dramatized retelling of the 29 July 1947 air raids and its participants." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The air raids on Semarang, Salatiga, and Ambarawa were an air strike.' is supported by the original webpage.
+<accept> The content explicitly states in the first paragraph: "The **air raids on Semarang, Salatiga, and Ambarawa** was an air strike launched by the Indonesian Air Force..."</accept>
+
+**********Exact Claim Check**********
+
+The claim 'July 29 is commemorated in Indonesia as the "Air Force Service Day" (Hari Bakti Angkatan Udara).' is supported by the original webpage.
+<accept> The content explicitly states: "29 July, the date of the air raids and the 1947 Yogyakarta Dakota incident, is commemorated in Indonesia as the "Air Force Service Day" ( _Hari Bakti Angkatan Udara_)." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2016 
+Pro Evolution Soccer 2016 
+Someone developed _Pro Evolution Soccer 2016_.
+
+Something published _Pro Evolution Soccer 2016_.
+
+Konami issued a physical and digital standalone re-release of _Pro Evolution Soccer 2016_ including something. 
+PES Productions developed _Pro Evolution Soccer 2016_.
+
+Konami published _Pro Evolution Soccer 2016_.
+
+Konami issued a physical and digital standalone re-release of _Pro Evolution Soccer 2016_ including the Euro 2016 content.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2016
+
+{
+    "id": "ws_68a4acf9db10819591d7b04a841a749909bb87532c90c285",
+    "action": {
+        "query": "Pro Evolution Soccer 2016 developer publisher Konami re-release",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone developed _Pro Evolution Soccer 2016_.' is supported by the citation.
+<accept> The content explicitly states that _Pro Evolution Soccer 2016_ "is a football simulation game developed by PES Productions" in the main description, and also lists "PES Productions" under "Developer(s)" in the infobox. </accept>
+
+**********Source Check**********
+
+The claim 'Something published _Pro Evolution Soccer 2016_.' is supported by the citation.
+<accept> The content explicitly states "Publisher(s) Konami" in the infobox for _Pro Evolution Soccer 2016_ and also in the main text: "is a football simulation game developed by PES Productions and published by Konami". </accept>
+
+**********Source Check**********
+
+The claim 'Konami issued a physical and digital standalone re-release of _Pro Evolution Soccer 2016_ including something.' is supported by the citation.
+<accept> The "Downloadable content" section explicitly states: "Konami issued a physical and digital standalone re-release of Pro Evolution Soccer 2016, including the Euro 2016 content, for PlayStation 4 and PlayStation 3 on 21 April 2016 in Europe and Japan." This confirms the physical and digital standalone re-release and the inclusion of the Euro 2016 content.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'PES Productions developed _Pro Evolution Soccer 2016_.' is supported by the original webpage.
+<accept> The content explicitly states in the infobox and the introductory paragraph that "_Pro Evolution Soccer 2016_ is a football simulation game developed by PES Productions." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Konami published _Pro Evolution Soccer 2016_.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the infobox under "Publisher(s)" as "Konami" and in the opening paragraph of the article, which says "_Pro Evolution Soccer 2016_ ... is a football simulation game developed by PES Productions and published by Konami". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Konami issued a physical and digital standalone re-release of _Pro Evolution Soccer 2016_ including the Euro 2016 content.' is supported by the original webpage.
+<accept> The text explicitly states under the "Downloadable content" section: "Konami issued a physical and digital standalone re-release of _Pro Evolution Soccer 2016_, including the Euro 2016 content, for PlayStation 4 and PlayStation 3 on 21 April 2016 in Europe and Japan." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/One_True_King 
+One True King 
+A company does business as a certain business name.
+
+On a specific date, someone and a particular group announced a specific game show.
+
+A different game show is hosted by a certain individual and the organization. 
+OTK Media, Inc. does business as One True King.
+
+On November 9, 2021, Mizkif and One True King announced a new game show called OTK Parasocial.
+
+OTK Game Day is hosted by Twitch streamer and OTK member Nmplol and One True King.
+
+**********Web Search Result**********
+
+https://apnews.com/article/85f2526009c1bedd13e9f899a6c284fa
+
+{
+    "id": "ws_68a4ad00fda8819685a66d6406d0696d0bba6ed67ac8514f",
+    "action": {
+        "query": "company doing business as specific name date announcement game show different game show hosted by individual organization",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A company does business as a certain business name.' is NOT supported by the citation.
+<reject> The content mentions several company names like "NBC," "Peacock," "Studio Lambert," "AP," and "NBCUniversal Entertainment," and describes their roles. However, it does not explicitly state that any of these companies "does business as" another specific name. The phrase "does business as" or a similar indication of a DBA relationship is not present. </reject>
+
+**********Source Check**********
+
+The claim 'On a specific date, someone and a particular group announced a specific game show.' is supported by the citation.
+<accept>The content explicitly states, "NBC announced Thursday that “The Traitors” will open its doors to everyday people," and the article is "Updated 7:16 PM EDT, August 14, 2025," which confirms the specific date, the group (NBC), and the game show ("The Traitors").</accept>
+
+**********Source Check**********
+
+The claim 'A different game show is hosted by a certain individual and the organization.' is NOT supported by the citation.
+<reject> The content discusses "The Traitors" game show, its host Alan Cumming, and the organizations involved (NBC, Peacock, Studio Lambert). It mentions different versions of "The Traitors" (celebrity, civilian, US, British), but it does not mention a *different* game show from "The Traitors" that is hosted by a certain individual and organization. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Torsion_siege_engine 
+Torsion siege engine 
+Torsion siege engines were used for a certain period of time.
+
+Torsion siege engines were initially developed by a group of people.
+
+The first extant evidence of a torsion siege engine dates to a specific historical period. 
+Torsion siege engines were used through the Middle Ages.
+
+Torsion siege engines were initially developed by the ancient Macedonians.
+
+The first extant evidence of a torsion siege engine dates to circa 338 - 326 BC.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Torsion_siege_engine
+
+{
+    "id": "ws_68a4ad09d30881959992abf10ccfab68013b6e1a8488ef4c",
+    "action": {
+        "query": "Torsion siege engines use period development group first evidence historical period",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Torsion siege engines were used for a certain period of time.' is supported by the citation.
+<accept> The text states that torsion siege engines "were initially developed by the ancient Macedonians... and used through the Middle Ages until the development of gunpowder artillery in the 14th century rendered them mostly obsolete," clearly indicating they were used for a certain period of time. </accept>
+
+**********Source Check**********
+
+The claim 'Torsion siege engines were initially developed by a group of people.' is supported by the citation.
+<accept> The content states: "They were initially developed by the ancient Macedonians, specifically Philip II of Macedon and Alexander the Great". Ancient Macedonians refers to a group of people. </accept>
+
+**********Source Check**********
+
+The claim 'The first extant evidence of a torsion siege engine dates to a specific historical period.' is supported by the citation.
+<accept> The content explicitly states: "the first extant evidence of a torsion siege engine comes from the Chalcotheca, the arsenal on the Acropolis in Athens, and dates to c. 338 - 326 BC." This confirms that the first extant evidence dates to a specific historical period. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Torsion siege engines were used through the Middle Ages.' is supported by the original webpage.
+<accept> The article explicitly states in the lead section that torsion siege engines "were initially developed by the ancient Macedonians... and used through the Middle Ages until the development of gunpowder artillery in the 14th century rendered them mostly obsolete." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Torsion siege engines were initially developed by the ancient Macedonians.' is supported by the original webpage.
+<accept> The text explicitly states in the lead section, "A torsion siege engine is a type of siege engine that utilizes torsion... They were initially developed by the ancient Macedonians, specifically Philip II of Macedon and Alexander the Great." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The first extant evidence of a torsion siege engine dates to circa 338 - 326 BC.' is supported by the original webpage.
+<accept> The text explicitly states: "Though simple torsion devices could have been developed earlier, the first extant evidence of a torsion siege engine comes from the Chalcotheca, the arsenal on the Acropolis in Athens, and dates to c. 338 - 326 BC." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m 
+Daniel Lindström 
+The album `something` contains songs written `in a certain way by someone` `in a certain language`.
+
+`Someone` is `a certain type of performer` from `a certain place`.
+
+The album `another something` peaked `in a certain state` on `a certain type of charts`. 
+The album _Nån slags verklighet_ contains songs written in Swedish by Daniel Lindström.
+
+Daniel Lindström is a Swedish singer from Umeå.
+
+The album _Daniel Lindström_ peaked at number 1 on the Swedish charts.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Perverted_by_Language
+
+{
+    "id": "ws_68a4ad136de48193b9d7f7d894d8d3dd007b61787f5cf996",
+    "action": {
+        "query": "\"The album something contains songs written in a certain way by someone in a certain language\" \"Someone is a certain type of performer from a certain place\" \"The album another something peaked in a certain state on a certain type of charts\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The album `something` contains songs written `in a certain way by someone` `in a certain language`.' is NOT supported by the citation.
+<reject> The webpage explicitly lists the writers for each song (e.g., Mark E. Smith, Brix Smith) and describes the style or nature of some lyrics (e.g., "oblique lyrics," "playful with meter and alliteration"), which covers "written in a certain way by someone." However, the webpage does not explicitly state the language in which the songs are written. </reject>
+
+**********Source Check**********
+
+The claim '`Someone` is `a certain type of performer` from `a certain place`.' is supported by the citation.
+<accept> The text states, "Perverted by Language is the sixth studio album by the English post-punk group The Fall". It also lists "Mark E. Smith" as a key member of "The Fall" under the 'Personnel' section, with his roles as "vocals, electric piano, violin..., keyboards..., guitar". This explicitly identifies Mark E. Smith as a performer (a member of an English post-punk group) from England. </accept>
+
+**********Source Check**********
+
+The claim 'The album `another something` peaked `in a certain state` on `a certain type of charts`.' is NOT supported by the citation.
+<reject> The information states that "the album `another something`" peaked on charts, but the provided content refers to the album "_Perverted by Language_" peaking at number one on the UK Independent Chart. The album name "another something" is not mentioned in the text. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Norway_during_the_Great_Northern_War 
+Norway during the Great Northern War 
+The Great Northern War was fought between certain parties.
+
+The Great Northern War began in a specific manner at a particular time.
+
+The Great Northern War concluded with certain agreements at a certain point in time. 
+The Great Northern War was fought between a coalition of Denmark–Norway, Russia, Saxony-Poland, and later Prussia and Hanover, on one side, and Sweden on the other side.
+
+The Great Northern War began with a coordinated attack on Sweden by the coalition in 1700.
+
+The Great Northern War concluded in 1721 with the Treaty of Nystad and the Stockholm Treaties.
+
+**********Web Search Result**********
+
+https://www.worldhistory.org/Great_Northern_War/
+
+{
+    "id": "ws_68a4ad1e63d881969f936993d91c514b0d4d693d471d5cfe",
+    "action": {
+        "query": "The Great Northern War parties beginning conclusion agreements",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The Great Northern War was fought between certain parties.' is supported by the citation.
+<accept> The content explicitly states under the "Definition" section: "The Great Northern War took place from 1700 to 1721 and was fought between Russia and Sweden during the reign of Peter I of Russia (Peter the Great)."</accept>
+
+**********Source Check**********
+
+The claim 'The Great Northern War began in a specific manner at a particular time.' is supported by the citation.
+<accept> The content explicitly states that "The Great Northern War took place from 1700 to 1721" and that "in August of 1700, Russia’s peace treaty with the Ottoman Empire was complete, and Russia formally declared war on Sweden." This details the specific time (August 1700) and manner (Russia formally declared war after signing a peace treaty with the Ottoman Empire) of the war's beginning. </accept>
+
+**********Source Check**********
+
+The claim 'The Great Northern War concluded with certain agreements at a certain point in time.' is supported by the citation.
+<accept> The content explicitly states that the Great Northern War took place from 1700 to 1721 and that a formal peace treaty was signed in 1721. It further specifies that "the Treaty of Nystadt was finally signed on August 30, 1721," detailing the agreements made within that treaty. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Great Northern War was fought between a coalition of Denmark–Norway, Russia, Saxony-Poland, and later Prussia and Hanover, on one side, and Sweden on the other side.' is supported by the original webpage.
+<accept> The content explicitly states: "The Great Northern War was the war fought between a coalition of Denmark–Norway, Russia and Saxony- Poland (from 1715 also Prussia and Hanover) on one side and Sweden on the other side from 1700 to 1721." This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Great Northern War began with a coordinated attack on Sweden by the coalition in 1700.' is supported by the original webpage.
+<accept> The content explicitly states: "The Great Northern War... started by a coordinated attack on Sweden by the coalition in 1700". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Great Northern War concluded in 1721 with the Treaty of Nystad and the Stockholm Treaties.' is supported by the original webpage.
+<accept> The text explicitly states: "The Great Northern War... ended 1721 with the conclusion of the Treaty of Nystad, and the Stockholm Treaties". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Jacob_Bekenstein 
+Jacob Bekenstein 
+Jacob Bekenstein served in a certain academic position at the Hebrew University until his death.
+
+Someone was a physicist with a certain background.
+
+Jacob Bekenstein received a certain prestigious award in a certain year. 
+Jacob Bekenstein served as Polak professor of theoretical physics at the Hebrew University until his death.
+
+Jacob David Bekenstein was a Mexican-born American-Israeli theoretical physicist.
+
+Jacob Bekenstein received the Wolf Prize in Physics in 2012.
+
+**********Web Search Result**********
+
+https://phys.huji.ac.il/people/jacob-david-bekenstein
+
+{
+    "id": "ws_68a4ad26baec8194bef66acb29a30cc7097914745a3302da",
+    "action": {
+        "query": "Jacob Bekenstein served at Hebrew University until death, physicist background, prestigious award received",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Jacob Bekenstein served in a certain academic position at the Hebrew University until his death.' is supported by the citation.
+<accept> The content states that Jacob David Bekenstein "was a member of the Racah Institute faculty ever since 1990" and that "He moved to the Hebrew University of Jerusalem in 1990." It also provides his death date as "16 August 2015". Since there is no mention of him leaving the faculty before his death, it implies he served there until his passing. </accept>
+
+**********Source Check**********
+
+The claim 'Someone was a physicist with a certain background.' is supported by the citation.
+<accept> The text explicitly states that Jacob David Bekenstein was a member of the Racah Institute faculty (which is for physics, as shown in the Hebrew translation "מכון רקח לפיזיקה"), won the "Rothschild Prize in Physical Sciences," shared "insights into physics," and contributed to "physical education." It also details his background, including his birth in Mexico City to immigrants from Eastern Europe, his move to the US, his MS from the Polytechnic Institute of Brooklyn, and his PhD from Princeton University under John Wheeler. </accept>
+
+**********Source Check**********
+
+The claim 'Jacob Bekenstein received a certain prestigious award in a certain year.' is supported by the citation.
+<accept> The content explicitly states that Jacob Bekenstein won numerous awards, listing several prestigious ones (Rothschild Prize, Israel Prize, Wolf prize, Einstein Prize) along with the specific years he received them (1988, 2005, 2012, 2015). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Jacob Bekenstein served as Polak professor of theoretical physics at the Hebrew University until his death.' is supported by the original webpage.
+<accept> The text explicitly states in the "Scientific career" section: "In addition to lectures and residencies around the world, Bekenstein continued to serve as Polak professor of theoretical physics at the Hebrew University until his death at the age of 68, in Helsinki, Finland." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Jacob David Bekenstein was a Mexican-born American-Israeli theoretical physicist.' is supported by the original webpage.
+<accept> The content states, "Jacob David Bekenstein... was a Mexican-born American-Israeli theoretical physicist". This directly supports all aspects of the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Jacob Bekenstein received the Wolf Prize in Physics in 2012.' is supported by the original webpage.
+<accept> The content explicitly states under the "Awards" section that Jacob Bekenstein received the "Wolf Prize in Physics (2012)". This directly matches the claim. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Tennessee_Volunteers_football 
+Tennessee Volunteers football 
+The all-time on-field record at Neyland Stadium for the Tennessee Volunteers football program is something.
+
+As of a certain time, the Tennessee Volunteers football program's all-time record at Neyland Stadium, excluding vacated wins, is in a certain state.
+
+The all-time on-field record for the Tennessee Volunteers football program is a particular record. 
+The all-time on-field record at Neyland Stadium for the Tennessee Volunteers football program is 494–142–18 (.770).
+
+As of the end of the 2023 regular season, the Tennessee Volunteers football program's all-time record at Neyland Stadium, excluding vacated wins, is 478–141–17 (.765).
+
+The all-time on-field record for the Tennessee Volunteers football program is 881–415–53 (.673).
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Tennessee_Volunteers_football
+
+{
+    "id": "ws_68a4ad2f39bc819392314ce896b4b7480afc6670ffedae12",
+    "action": {
+        "query": "Tennessee Volunteers all-time on-field record at Neyland Stadium",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The all-time on-field record at Neyland Stadium for the Tennessee Volunteers football program is something.' is supported by the citation.
+<accept> The content explicitly states, "Tennessee's all-time on-field record at Neyland Stadium is 494–142–18 (.770)," which directly answers the prompt's question about the program's all-time on-field record at Neyland Stadium. </accept>
+
+**********Source Check**********
+
+The claim 'As of a certain time, the Tennessee Volunteers football program's all-time record at Neyland Stadium, excluding vacated wins, is in a certain state.' is supported by the citation.
+<accept> The content explicitly states, "At Neyland Stadium, the Vols have a record of 478–141–17 (.765)." This record is presented in the "All-time record" section, immediately after it clarifies that 11 additional wins from 2019–20 were vacated, making the stated record the one that excludes those vacated wins. The content also provides the "on-field record" for comparison, further confirming that the 478–141–17 record is the one excluding vacated wins. </accept>
+
+**********Source Check**********
+
+The claim 'The all-time on-field record for the Tennessee Volunteers football program is a particular record.' is supported by the citation.
+<accept> The content explicitly states, "Tennessee's all-time on-field record is 881–415–53(.673)." which is a particular record, confirming the information provided. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The all-time on-field record at Neyland Stadium for the Tennessee Volunteers football program is 494–142–18 (.770).' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "All-time record" section of the content, stating: "Tennessee's all-time on-field record at Neyland Stadium is 494–142–18 (.770)." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'As of the end of the 2023 regular season, the Tennessee Volunteers football program's all-time record at Neyland Stadium, excluding vacated wins, is 478–141–17 (.765).' is supported by the original webpage.
+<accept> The text states under the "All-time record" section: "As of the end of the 2023 regular season, ... At Neyland Stadium, the Vols have a record of 478–141–17 (.765)." This record is presented as the one excluding vacated wins, as the text also explicitly mentions, "11 additional wins from 2019–20 were vacated by NCAA Committee on Infractions penalty ruling in July 2023," and then provides the "all-time on-field record at Neyland Stadium" as 494–142–18 (.770), which implies the 478–141–17 (.765) record is the one excluding the vacated wins. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The all-time on-field record for the Tennessee Volunteers football program is 881–415–53 (.673).' is supported by the original webpage.
+<accept> The content explicitly states under the "All-time record" section: "Tennessee's all-time on-field record is 881–415–53(.673)." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy 
+1971–72 Ranji Trophy 
+The 1971–72 Ranji Trophy was played in a certain format.
+
+A certain number of teams participated in the 1971–72 Ranji Trophy.
+
+The 1971–72 Ranji Trophy used certain tournament formats. 
+The 1971–72 Ranji Trophy was played in the first-class cricket format.
+
+22 teams participated in the 1971–72 Ranji Trophy.
+
+The 1971–72 Ranji Trophy used league and knockout tournament formats.
+
+**********Web Search Result**********
+
+The 1971–72 Ranji Trophy was the 38th season of the Ranji Trophy. Bombay won their 14th title in a row, defeating Bengal in the final. The tournament featured 22 participants and followed a league and knockout format. ([en.wikipedia.org](https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4ad3febe48196bac892aa399d7e1f084ea9d6e46ce033",
+    "action": {
+        "query": "1971\u201372 Ranji Trophy format number of teams tournament formats",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_2%3A_A_New_Menace 
+Cyber Citizen Shockman 2: A New Menace 
+A certain game in the Cyber Citizen Shockman series was released in a certain way.
+
+The Japanese title for Cyber Citizen Shockman 2: A New Menace is a certain title.
+
+Cyber Citizen Shockman 2: A New Menace is a video game from a certain year. 
+Cyber Citizen Shockman 2: A New Menace is the only game in the Cyber Citizen Shockman series to have a contemporary release outside Japan.
+
+The Japanese title for Cyber Citizen Shockman 2: A New Menace is Kaizō Chōjin Shubibinman 2: Aratanaru Teki.
+
+Cyber Citizen Shockman 2: A New Menace is a 1991 video game.
+
+**********Web Search Result**********
+
+https://www.gematsu.com/games/cyber-citizen-shockman-2-a-new-menace
+
+{
+    "id": "ws_68a4ad49b5b08197b100983eb8088dce02e7beec7cc1912e",
+    "action": {
+        "query": "Cyber Citizen Shockman 2 released Japanese title year",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A certain game in the Cyber Citizen Shockman series was released in a certain way.' is supported by the citation.
+<accept> The webpage explicitly mentions "Cyber Citizen Shockman 2: A New Menace" and provides detailed release dates across various platforms, regions, and years, for example, "Sep 22 2023" for "PS5, Xbox Series, PS4, Xbox One, Switch) Worldwide". It also states that the game was "Initially released in 1992". </accept>
+
+**********Source Check**********
+
+The claim 'The Japanese title for Cyber Citizen Shockman 2: A New Menace is a certain title.' is supported by the citation.
+<accept> The content explicitly states the Japanese title for _Cyber Citizen Shockman 2: A New Menace_ as "改造町人シュビビンマン2 -新たなる敵-" and also transliterates it as "_Kaizou Choujin Shubibinman 2: Aratanaru Teki_". </accept>
+
+**********Source Check**********
+
+The claim 'Cyber Citizen Shockman 2: A New Menace is a video game from a certain year.' is supported by the citation.
+<accept> The content explicitly states "Initially released in 1992, Cyber Citizen Shockman 2: A New Menace is bringing its nostalgic flavor of platform action to consoles," and lists various release dates, including 1991, 1992, 2007, 2011, 2012, 2014, 2017, and 2023 for different platforms. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Cyber Citizen Shockman 2: A New Menace is the only game in the Cyber Citizen Shockman series to have a contemporary release outside Japan.' is supported by the original webpage.
+<accept> The text explicitly states: "It was released in the United States in 1992 as just _**Shockman**_, making it the only game in the _Cyber Citizen Shockman_ series to have a contemporary release outside Japan." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Japanese title for Cyber Citizen Shockman 2: A New Menace is Kaizō Chōjin Shubibinman 2: Aratanaru Teki.' is supported by the original webpage.
+<accept> The text explicitly states: "_**Cyber Citizen Shockman 2: A New Menace**_ (改造町人シュビビンマン2 新たなる敵, _Kaizō Chōjin Shubibinman 2: Aratanaru Teki_) is a 1991 video game...". This matches the claim exactly. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Cyber Citizen Shockman 2: A New Menace is a 1991 video game.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned multiple times in the content. For example, directly under the title it states "1991 video game", and the first sentence of the main body text reads: "_**Cyber Citizen Shockman 2: A New Menace**_ ... is a 1991 video game developed by Winds and released exclusively for the TurboGrafx-16." The infobox also lists its Japan release date as April 27, 1991. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_(TV_series) 
+The Witches and the Grinnygog (TV series) 
+_The Witches and the Grinnygog_ is a program from a certain country.
+
+_The Witches and the Grinnygog_ was originally broadcast on a certain network.
+
+_The Witches and the Grinnygog_ was produced by a certain production company. 
+_The Witches and the Grinnygog_ is a British television serial.
+
+_The Witches and the Grinnygog_ was originally broadcast on ITV.
+
+_The Witches and the Grinnygog_ was produced by Television South (TVS).
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_%28TV_series%29
+
+{
+    "id": "ws_68a4ad59f7d48195bed0624e5e1ef376031c05421bf43767",
+    "action": {
+        "query": "The Witches and the Grinnygog country network production company",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim '_The Witches and the Grinnygog_ is a program from a certain country.' is supported by the citation.
+<accept> The content explicitly states that _The Witches and the Grinnygog_ is a "British TV series or programme" and its "Country of origin" is "United Kingdom" in the infobox. It also describes it as a "British television serial" in the opening paragraph. </accept>
+
+**********Source Check**********
+
+The claim '_The Witches and the Grinnygog_ was originally broadcast on a certain network.' is supported by the citation.
+<accept> The information explicitly states that _The Witches and the Grinnygog_ was aired as a six-part television serial "produced by Television South for ITV". The infobox also lists "ITV" under "Network" for original release. </accept>
+
+**********Source Check**********
+
+The claim '_The Witches and the Grinnygog_ was produced by a certain production company.' is supported by the citation.
+<accept> The content explicitly states that _The Witches and the Grinnygog_ was produced by "TVS" (Television South) in the infobox under "Production company" and in the introductory paragraph. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_The Witches and the Grinnygog_ is a British television serial.' is supported by the original webpage.
+<accept> The text explicitly states: "_**The Witches and the Grinnygog**_ is a British television serial that was first aired in 1983." </accept>
+
+**********Exact Claim Check**********
+
+The claim '_The Witches and the Grinnygog_ was originally broadcast on ITV.' is supported by the original webpage.
+<accept> The content explicitly states in the infobox under "Original release" that the "Network" was "ITV". Additionally, the first paragraph of the main text confirms this: "and was aired as a six-part television serial produced by Television South for ITV". </accept>
+
+**********Exact Claim Check**********
+
+The claim '_The Witches and the Grinnygog_ was produced by Television South (TVS).' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the infobox under "Production company" as "TVS", and in the main text it states, "The Witches and the Grinnygog... was aired as a six-part television serial produced by Television South for ITV". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Interleukin_7 
+Interleukin 7 
+Interleukin 7 (IL-7) is something.
+
+IL-7 is something.
+
+The IL-7 protein in humans is in a certain way. 
+Interleukin 7 (IL-7) is a protein.
+
+IL-7 is a hematopoietic growth factor.
+
+The IL-7 protein in humans is encoded by the _IL7_ gene.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Interleukin_7
+
+{
+    "id": "ws_68a4ad66d088819594ccc31e4a8b53830e1fe9c205d269c6",
+    "action": {
+        "query": "Interleukin 7 (IL-7) IL-7 protein humans site:.edu",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Interleukin 7 (IL-7) is something.' is supported by the citation.
+<accept> The content explicitly states "Interleukin 7 (IL-7) is a protein". A protein is a type of substance, therefore it is "something". </accept>
+
+**********Source Check**********
+
+The claim 'IL-7 is something.' is supported by the citation.
+<accept> The text explicitly states, "Interleukin 7 (IL-7) is a protein". A protein is a type of "something". </accept>
+
+**********Source Check**********
+
+The claim 'The IL-7 protein in humans is in a certain way.' is supported by the citation.
+<accept> The content explicitly describes the IL-7 protein in humans in various ways, including its classification as a protein, its encoding gene, its production sources, its three-dimensional structure, its functions in lymphocyte maturation and signaling, and its role in diseases and clinical applications. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Interleukin 7 (IL-7) is a protein.' is supported by the original webpage.
+<accept> The content explicitly states, "Interleukin 7 (IL-7) is a protein that in humans is encoded by the IL7 gene." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'IL-7 is a hematopoietic growth factor.' is supported by the original webpage.
+<accept> The content explicitly states in the second paragraph: "IL-7 is a hematopoietic growth factor secreted by stromal cells in the bone marrow and thymus." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The IL-7 protein in humans is encoded by the _IL7_ gene.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the content under the main heading: "**Interleukin 7** ( **IL-7**) is a protein that in humans is encoded by the _IL7_ gene." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus 
+Panulirus echinatus 
+_Panulirus echinatus_ is a species of something.
+
+_Panulirus echinatus_ is a species of another type of animal.
+
+_Panulirus echinatus_ is also known by a certain designation. 
+_Panulirus echinatus_ is a species of spiny lobster.
+
+_Panulirus echinatus_ is a species of crustacean.
+
+_Panulirus echinatus_ is also known as the brown spiny lobster.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus
+
+{
+    "id": "ws_68a4ad7922d88195b9fcd80c37ae22980fc4a3a2f637a689",
+    "action": {
+        "query": "Panulirus echinatus species of",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ is a species of something.' is supported by the citation.
+<accept> The content explicitly states "_Panulirus echinatus_, the brown spidy lobster, is a species of spiny lobster." It also mentions "Species of crustacean" directly below the title. </accept>
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ is a species of another type of animal.' is supported by the citation.
+<accept> The content explicitly states that _Panulirus echinatus_ is a "species of crustacean" and a "spiny lobster". Crustaceans and spiny lobsters are types of animals, thus confirming that _Panulirus echinatus_ is a species of a type of animal. </accept>
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ is also known by a certain designation.' is supported by the citation.
+<accept> The text explicitly states, "_Panulirus echinatus_, the **brown spidy lobster**, is a species of spiny lobster...". This indicates that "brown spidy lobster" is a designation for _Panulirus echinatus_.</accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ is a species of spiny lobster.' is supported by the original webpage.
+<accept> The text explicitly states in the introductory paragraph: "_Panulirus echinatus_, the brown spidy lobster, is a species of spiny lobster that lives on rocky reefs in the tropical western Atlantic Ocean and central Atlantic Islands." </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ is a species of crustacean.' is supported by the original webpage.
+<accept> The claim is explicitly stated at the beginning of the content under the heading "Species of crustacean", where "_Panulirus echinatus_" is listed. Additionally, the text describes _Panulirus echinatus_ as "a species of spiny lobster", and spiny lobsters are a type of crustacean, which is further supported by its classification under "Class: Malacostraca" and "Order: Decapoda" (both subcategories of Crustacea) and its listing under "Edible crustaceans" in the categories section. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ is also known as the brown spiny lobster.' is supported by the original webpage.
+<accept> The content explicitly states "_Panulirus echinatus_, the **brown spidy lobster**" in the introductory paragraph. Although there appears to be a typo ("spidy" instead of "spiny"), Reference 3 further clarifies this by linking "Brown spiny lobster (_Panulirus echinatus_)" from "Marine lobsters of the world," confirming the common name "brown spiny lobster" for _Panulirus echinatus_.</accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Parentia 
+Parentia 
+The article lists **a variety of something** within the genus _Parentia_.
+
+_Parentia_ is **a certain kind of creature**.
+
+_Parentia_ belongs to **a specific biological classification**. 
+The article lists many other species within the genus _Parentia_.
+
+_Parentia_ is a genus of flies.
+
+_Parentia_ belongs to the family Dolichopodidae.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Parentia
+
+{
+    "id": "ws_68a4ad867f848194b66d0b042b1afafd0260e2c8b32e78d4",
+    "action": {
+        "query": "genus Parentia variety creature biological classification",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The article lists **a variety of something** within the genus _Parentia_.' is supported by the citation.
+<accept> The article explicitly lists numerous "Species" under the heading "Species" within the genus _Parentia_ (e.g., _Parentia agama_, _Parentia angustipennis_, _Parentia mobilis_, etc.). </accept>
+
+**********Source Check**********
+
+The claim '_Parentia_ is **a certain kind of creature**.' is supported by the citation.
+<accept> The text explicitly states that "_Parentia_ is a large genus of flies." Flies are a type of creature. </accept>
+
+**********Source Check**********
+
+The claim '_Parentia_ belongs to **a specific biological classification**.' is supported by the citation.
+<accept> The webpage explicitly states the "Scientific classification" for _Parentia_, listing its Kingdom, Phylum, Class, Order, Family, Subfamily, Tribe, and that it is a "Genus of flies" and "a large genus of flies in the family Dolichopodidae". This directly indicates its specific biological classification.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'The article lists many other species within the genus _Parentia_.' is supported by the original webpage.
+<accept> The article explicitly lists a large number of species under the "Species" heading, all prefixed with "_Parentia_", such as "_Parentia agama_", "_Parentia angustipennis_", and many more. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Parentia_ is a genus of flies.' is supported by the original webpage.
+<accept> The content explicitly states: "_**Parentia**_ is a large genus of flies in the family Dolichopodidae." </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Parentia_ belongs to the family Dolichopodidae.' is supported by the original webpage.
+<accept> The text explicitly states in the scientific classification table that the family of _Parentia_ is Dolichopodidae. It also states in the opening sentence, "_Parentia_ is a large genus of flies in the family Dolichopodidae." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Brennan%2C_Baron_Brennan 
+Daniel Brennan, Baron Brennan 
+Daniel Joseph Brennan is something.
+
+Daniel Joseph Brennan assumed a certain office at a specific time.
+
+Daniel Joseph Brennan was created a certain title in a particular year. 
+Daniel Joseph Brennan, Baron Brennan, KCSG, KC, is a British life peer and barrister.
+
+Daniel Joseph Brennan assumed the office of Lord Temporal, Member of the House of Lords, on 2 May 2000.
+
+Daniel Joseph Brennan was created Baron Brennan, of Bibury in the County of Gloucestershire, on 2 May 2000.
+
+**********Web Search Result**********
+
+https://kerrcountylead.com/daniel-joseph-brennan-sept-11-1929-june-5-2023/
+
+{
+    "id": "ws_68a4ad949588819685ef910a0978b345071391dc1eebdb7f",
+    "action": {
+        "query": "Daniel Joseph Brennan office title assumed created",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Daniel Joseph Brennan is something.' is NOT supported by the citation.
+<reject> The information "Daniel Joseph Brennan is something" is too vague. While the content describes many things Daniel Joseph Brennan was (e.g., a geologist, a professor, a State Geologist, a husband, a father, a person who passed away), it does not explicitly state that he "is something" in such a general sense. The article provides specific details about who he was, rather than a generic placeholder. </reject>
+
+**********Source Check**********
+
+The claim 'Daniel Joseph Brennan assumed a certain office at a specific time.' is supported by the citation.
+<accept> The content explicitly states, "In 1963, he became a Geology professor at Wichita State University," which indicates a specific office (Geology professor) and the specific time he assumed it (1963).</accept>
+
+**********Source Check**********
+
+The claim 'Daniel Joseph Brennan was created a certain title in a particular year.' is supported by the citation.
+<accept> The content explicitly states, "In 1963, he became a Geology professor at Wichita State University." Here, "Geology professor" is a certain title, and "1963" is a particular year when he took on this title. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H7N9 
+Influenza A virus subtype H7N9 
+Influenza A virus subtype H7N9 is enzootic (maintained in the population) in certain populations.
+
+Influenza A virus subtype H7N9 causes influenza in a certain way.
+
+A significant outbreak of Influenza A virus subtype H7N9 started at a certain time. 
+Influenza A virus subtype H7N9 is enzootic (maintained in the population) in many bird populations.
+
+Influenza A virus subtype H7N9 causes influenza, predominantly in birds.
+
+A significant outbreak of Influenza A virus subtype H7N9 started in March 2013.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H7N9
+
+{
+    "id": "ws_68a4ad9dfa3881958341f8c34882d5b805e597bfe9c60799",
+    "action": {
+        "query": "Influenza A virus subtype H7N9 enzootic significant outbreak cause influenza",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Influenza A virus subtype H7N9 is enzootic (maintained in the population) in certain populations.' is supported by the citation.
+<accept> The content explicitly states, "Influenza A virus subtype H7N9... is enzootic (maintained in the population) in many bird populations." and "The A/H7N9 virus is considered to be enzootic (continually present) in wild aquatic birds". </accept>
+
+**********Source Check**********
+
+The claim 'Influenza A virus subtype H7N9 causes influenza in a certain way.' is NOT supported by the citation.
+<reject> The content states that Influenza A virus subtype H7N9 causes influenza, and describes its transmission, symptoms, and characteristics as a virus. However, it does not explain the specific biological mechanism or "way" in which the virus causes influenza within an infected host. </reject>
+
+**********Source Check**********
+
+The claim 'A significant outbreak of Influenza A virus subtype H7N9 started at a certain time.' is supported by the citation.
+<accept> The content explicitly states, "A significant outbreak of Influenza A virus subtype H7N9 (A/H7N9) started in March 2013 when severe influenza affected 18 humans in China; six subsequently died." This directly answers when the outbreak started. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Irish_National_War_Memorial_Gardens 
+Irish National War Memorial Gardens 
+The Irish National War Memorial Gardens is an Irish war memorial located somewhere.
+
+The Irish National War Memorial Gardens are now managed by a certain entity.
+
+The Irish National War Memorial Gardens is dedicated to the memory of a certain number of soldiers who died in a certain conflict. 
+The Irish National War Memorial Gardens is an Irish war memorial located in Islandbridge, Dublin.
+
+The Irish National War Memorial Gardens are now managed by the Government's Office of Public Works (OPW).
+
+The Irish National War Memorial Gardens is dedicated to the memory of the 49,400 Irish soldiers who died in the Great War, 1914–1918.
+
+**********Web Search Result**********
+
+https://heritageireland.ie/visit/places-to-visit/irish-national-war-memorial-gardens/
+
+{
+    "id": "ws_68a4ada765288195a65687d351d421b60bbdbc13629b6a0d",
+    "action": {
+        "query": "Irish National War Memorial Gardens location management dedicated memory of soldiers",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The Irish National War Memorial Gardens is an Irish war memorial located somewhere.' is supported by the citation.
+<accept> The webpage explicitly states the name "Irish National War Memorial Gardens" and describes it as being "dedicated to the memory of the 49,400 Irish soldiers who died in the First World War," confirming it is an Irish war memorial. The location is also explicitly mentioned as "Islandbridge, Dublin 8, D08 T20W" and "Located on South Circular Rd, Islandbridge." </accept>
+
+**********Source Check**********
+
+The claim 'The Irish National War Memorial Gardens are now managed by a certain entity.' is supported by the citation.
+<accept> The content explicitly provides "parkmanager@opw.ie" as a contact for the gardens, implying that the OPW (Office of Public Works, as inferred from the email domain and the 'OPW Cookie Notice') is the managing entity. </accept>
+
+**********Source Check**********
+
+The claim 'The Irish National War Memorial Gardens is dedicated to the memory of a certain number of soldiers who died in a certain conflict.' is supported by the citation.
+<accept> The content explicitly states: "These gardens... are dedicated to the memory of the 49,400 Irish soldiers who died in the First World War." This confirms the dedication to a specific number of soldiers and a specific conflict. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Irish National War Memorial Gardens is an Irish war memorial located in Islandbridge, Dublin.' is supported by the original webpage.
+<accept> The content explicitly states: "The Irish National War Memorial Gardens ... is an Irish war memorial in Islandbridge, Dublin..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Irish National War Memorial Gardens are now managed by the Government's Office of Public Works (OPW).' is supported by the original webpage.
+<accept> The text explicitly states under the "Patronage" section: "The Irish National War Memorial Gardens are now managed by the Government's Office of Public Works (OPW) in conjunction with the National War Memorial Committee." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The Irish National War Memorial Gardens is dedicated to the memory of the 49,400 Irish soldiers who died in the Great War, 1914–1918.' is supported by the original webpage.
+<accept> The content explicitly states: "The **Irish National War Memorial Gardens**... is an Irish war memorial... dedicated "to the memory of the 49,400 Irish soldiers who gave their lives in the Great War, 1914–1918"". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Vascular_smooth_muscle 
+Vascular smooth muscle 
+Vascular smooth muscle is a type of smooth muscle found in a certain place.
+
+Vascular smooth muscle comprises a certain amount of the walls in some types of blood vessels.
+
+Some blood vessels, such as something, have no smooth muscle. 
+Vascular smooth muscle is a type of smooth muscle found in the walls of blood vessels.
+
+Vascular smooth muscle comprises much of the walls in some types of blood vessels.
+
+Some blood vessels, such as capillaries, have no smooth muscle.
+
+**********Web Search Result**********
+
+https://courses.lumenlearning.com/pgcc-ap2/chapter/structure-and-function-of-blood-vessels/
+
+{
+    "id": "ws_68a4adaf77d881978f843be8e7e5d030027490b406182d9b",
+    "action": {
+        "query": "Vascular smooth muscle location blood vessel walls no smooth muscle site",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Vascular smooth muscle is a type of smooth muscle found in a certain place.' is NOT supported by the citation.
+<reject> The text mentions that smooth muscle is found in the walls of blood vessels and describes its function (e.g., in the tunica media, causing vasoconstriction/vasodilation, contributing to vascular tone). However, it does not explicitly define "Vascular smooth muscle" as a *type* of smooth muscle, nor does it classify smooth muscle found in vessels as distinct from other types of smooth muscle in the body. It only describes the location and function of general smooth muscle within the vascular system. </reject>
+
+**********Source Check**********
+
+The claim 'Vascular smooth muscle comprises a certain amount of the walls in some types of blood vessels.' is supported by the citation.
+<accept> The content explicitly states that smooth muscle (which is vascular smooth muscle in the context of blood vessels) comprises layers within the walls of various blood vessels. For instance, the "Tunica Media" section details that this layer "consists of layers of smooth muscle" and that it is generally the thickest layer in arteries. It further clarifies that "all blood vessels exhibit vascular tone due to the partial contraction of smooth muscle." Specific types of vessels mentioned as containing smooth muscle include arteries, veins, arterioles, metarterioles, and venules, as well as occasional smooth muscle fibers in capillaries and the tunica externa of veins. </accept>
+
+**********Source Check**********
+
+The claim 'Some blood vessels, such as something, have no smooth muscle.' is supported by the citation.
+<accept> The text explicitly states in the "Chapter Review" section that "Capillaries have only a tunica intima layer." The description of the tunica intima does not include smooth muscle; smooth muscle is primarily described as being in the tunica media and, in some cases, the tunica externa, both of which are absent in capillaries according to the summary. This implies that capillaries have no smooth muscle in their walls. Although there is a mention of "occasional smooth muscle fibers" in the description of a capillary wall, the more definitive statement about the *layers* of the capillary wall in the Chapter Review, combined with the composition of the tunica intima, supports the conclusion that capillaries lack smooth muscle as a component of their structural tunics. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Little_Blue_Book 
+Little Blue Book 
+1. A certain series of books was published by a publishing entity from a specific locale for a certain duration.
+
+2. This series was named a particular designation in a certain calendar period.
+
+3. These publications are a series of books of a specific format. 
+Little Blue Books were published by the Haldeman-Julius Publishing Company of Girard, Kansas, from 1919 through 1978.
+
+The series was named Little Blue Books in 1923.
+
+Little Blue Books are a series of small, staple-bound books.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4adb743f881948dae17af97d250a60aac225dffd97d2d",
+    "action": {
+        "query": "series of books published by a publishing entity from a specific locale for a certain duration named a particular designation calendar period specific format",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Adela_of_Normandy 
+Adela of Normandy 
+Adela of Normandy's children included something.
+
+Adela of Normandy is also known in a certain way.
+
+Adela of Normandy served in a certain state for a certain period. 
+Adela of Normandy's children included William, Count of Sully; Odo of Blois; Theobald II, Count of Champagne; Adela; Stephen, King of England; Lucia-Mahaut, Countess of Chester; Philip of Blois, Bishop of Châlons-sur-Marne; Agnes, Lady of Le Puiset; Alix of Joigny; Henry, Bishop of Winchester; and Eleanor, Countess of Vermandois.
+
+Adela of Normandy is also known as Adela of Blois or Adela of England.
+
+Adela of Normandy served as Countess of Blois from 1089 to May 19, 1102.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Adela_of_Normandy
+
+{
+    "id": "ws_68a4adbfc89881969324b2567b922410030e28047a43b1b0",
+    "action": {
+        "query": "Adela of Normandy children known as served state period",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Adela of Normandy's children included something.' is supported by the citation.
+<accept> The text explicitly lists the children of Adela of Normandy in the "Issue" section, including names like "William, Count of Sully", "Theobald II, Count of Champagne", "Stephen, King of England", and "Henry, Bishop of Winchester". It also mentions her role as "the mother of King Stephen of England" in the main biography. </accept>
+
+**********Source Check**********
+
+The claim 'Adela of Normandy is also known in a certain way.' is supported by the citation.
+<accept> The text explicitly states that Adela of Normandy is also known as "Adela of Blois," "Adela of England," and "Saint Adela" in the Catholic Church. </accept>
+
+**********Source Check**********
+
+The claim 'Adela of Normandy served in a certain state for a certain period.' is supported by the citation.
+<accept> The content explicitly states that Adela of Normandy "was regent of Blois during the absence of her spouse in 1096–1100 and 1101–02, and during the minority of her son from 1102 until 1120." This provides the state (Blois) and the specific periods she served.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy's children included William, Count of Sully; Odo of Blois; Theobald II, Count of Champagne; Adela; Stephen, King of England; Lucia-Mahaut, Countess of Chester; Philip of Blois, Bishop of Châlons-sur-Marne; Agnes, Lady of Le Puiset; Alix of Joigny; Henry, Bishop of Winchester; and Eleanor, Countess of Vermandois.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "Issue" section within the infobox at the beginning of the article, which lists all the children with their respective titles as stated in the claim: "William, Count of Sully; Odo of Blois; Theobald II, Count of Champagne; Adela; Stephen, King of England; Lucia-Mahaut, Countess of Chester; Philip of Blois, Bishop of Châlons-sur-Marne; Agnes, Lady of Le Puiset; Alix of Joigny; Henry, Bishop of Winchester; Eleanor, Countess of Vermandois." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy is also known as Adela of Blois or Adela of England.' is supported by the original webpage.
+<accept> The text explicitly states in the first paragraph of the main content: "**Adela of Normandy**, **of Blois**, or **of England** (c. 1067 – 8 March 1137), also known as **Saint Adela** in the Catholic Church, was a daughter of William the Conqueror and Matilda of Flanders." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy served as Countess of Blois from 1089 to May 19, 1102.' is supported by the original webpage.
+<accept> The infobox for Adela of Normandy explicitly states her title as "Countess of Blois" and her "Tenure" as "1089 – 19 May 1102". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Umberto_Blasi 
+Umberto Blasi 
+Someone was a certain type of athlete.
+
+Umberto Blasi competed in a certain event at a certain time.
+
+Umberto Blasi achieved a certain achievement on a certain date. 
+Umberto Blasi was an Italian long-distance runner.
+
+Umberto Blasi competed in the men's marathon at the 1908 Summer Olympics.
+
+Umberto Blasi achieved his marathon personal best of 2:38:00.8 on November 29, 1914.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Umberto_Blasi
+
+{
+    "id": "ws_68a4adc65ca08195a15ae0d3696ea43f0c43e1a84b0a8b0d",
+    "action": {
+        "query": "Umberto Blasi athlete event achievement",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone was a certain type of athlete.' is supported by the citation.
+<accept> The content explicitly states that Umberto Blasi was an "Italian long-distance runner" and a "marathon runner", confirming he was a certain type of athlete. </accept>
+
+**********Source Check**********
+
+The claim 'Umberto Blasi competed in a certain event at a certain time.' is supported by the citation.
+<accept> The content explicitly states that Umberto Blasi "competed in the men's marathon at the 1908 Summer Olympics" and also details his participation in various other marathon and long-distance races on specific dates, such as winning the national marathon championship on "3 June 1908" and running his personal best on "29 November 1914". </accept>
+
+**********Source Check**********
+
+The claim 'Umberto Blasi achieved a certain achievement on a certain date.' is supported by the citation.
+<accept> The text explicitly states several achievements by Umberto Blasi with specific dates, such as "On 3 June 1908, Blasi won Italy's first national marathon championship in Rome" and "Blasi eventually ran his marathon personal best with a 2:38:00.8 performance to capture his third and final national title in Legnano, Italy, on 29 November 1914." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi was an Italian long-distance runner.' is supported by the original webpage.
+<accept> The content explicitly states, "Umberto Blasi ... was an Italian long-distance runner". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi competed in the men's marathon at the 1908 Summer Olympics.' is supported by the original webpage.
+<accept> The text explicitly states in the first paragraph: "Umberto Blasi... competed in the men's marathon at the 1908 Summer Olympics." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi achieved his marathon personal best of 2:38:00.8 on November 29, 1914.' is supported by the original webpage.
+<accept> The text explicitly states: "Blasi eventually ran his marathon personal best with a 2:38:00.8 performance to capture his third and final national title in Legnano, Italy, on 29 November 1914." This matches all details in the claim, including the time and the date. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Eli_Beer 
+Eli Beer 
+Eli Beer is the founder of something.
+
+Eli Beer was featured on interviews about United Hatzalah volunteers' response at a certain time.
+
+Eli Beer expanded United Hatzalah to certain places in 2015. 
+Eli Beer is the founder of United Hatzalah of Israel.
+
+Eli Beer was featured on interviews about United Hatzalah volunteers' response on October 7.
+
+Eli Beer expanded United Hatzalah internationally in 2015.
+
+**********Web Search Result**********
+
+Eli Beer is the founder of United Hatzalah, an Israeli volunteer-based emergency medical services organization. In 2015, he expanded United Hatzalah internationally, establishing branches in South America and other countries, including "United Rescue" in Jersey City, N.J., in the United States. Additionally, Beer was featured in interviews discussing United Hatzalah volunteers' response during the October 7, 2023, attacks, notably on CNN with Jake Tapper.
+
+([en.wikipedia.org](https://en.wikipedia.org/wiki/Eli_Beer?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4add28a10819784b7934d6134b5f40d583ef96148cac0",
+    "action": {
+        "query": "Eli Beer founder interviews United Hatzalah volunteers response expanded 2015",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/80th_Birthday_Stadium 
+80th Birthday Stadium 
+The 80th Birthday Stadium serves as the home ground for someone.
+
+Nakhon Ratchasima FC moved into the 80th Birthday Stadium at a certain time.
+
+The stadium is located in a certain place in Thailand. 
+The 80th Birthday Stadium serves as the home ground for Nakhon Ratchasima FC.
+
+Nakhon Ratchasima FC moved into the 80th Birthday Stadium in June 2008.
+
+The stadium is located in Mueang Nakhon Ratchasima, Thailand.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/80th_Birthday_Stadium
+
+{
+    "id": "ws_68a4addbef1481939b80cd2b698f544c0efc680ac8241440",
+    "action": {
+        "query": "80th Birthday Stadium home ground Nakhon Ratchasima FC moved location Thailand",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The 80th Birthday Stadium serves as the home ground for someone.' is supported by the citation.
+<accept> The content explicitly states that the 80th Birthday Stadium is "home to Nakhon Ratchasima FC, a professional team" and that "Nakhon Ratchasima FC moved into the stadium in June 2008... the Swat Cats continue to use the stadium for their home matches." It also mentions, "In 2025, Yemen national football team used the stadium as their home matches for the 2027 AFC Asian Cup qualification." </accept>
+
+**********Source Check**********
+
+The claim 'Nakhon Ratchasima FC moved into the 80th Birthday Stadium at a certain time.' is supported by the citation.
+<accept> The content explicitly states: "Nakhon Ratchasima FC moved into the stadium in June 2008, having previously played at the Nakhon Ratchasima Municipal Stadium." This confirms that Nakhon Ratchasima FC moved into the 80th Birthday Stadium (referred to as "the stadium") at a specific time (June 2008). </accept>
+
+**********Source Check**********
+
+The claim 'The stadium is located in a certain place in Thailand.' is supported by the citation.
+<accept> The content explicitly states the stadium's location multiple times, including "Soccer stadium in Korat, Thailand", "Location Mueang Nakhon Ratchasima, Thailand", and "The 80th Birthday Stadium is a sports facility in Nakhon Ratchasima (Korat), Nakhon Ratchasima Province, Thailand." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The 80th Birthday Stadium serves as the home ground for Nakhon Ratchasima FC.' is supported by the original webpage.
+<accept> The content explicitly states under the "Tenants" section of the infobox that "Nakhon Ratchasima F.C. (2009–present)" is a tenant. It also clearly mentions in the main text, "It is home to Nakhon Ratchasima FC, a professional team," and further reinforces this by stating, "Nakhon Ratchasima FC moved into the stadium in June 2008...the Swat Cats continue to use the stadium for their home matches." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Nakhon Ratchasima FC moved into the 80th Birthday Stadium in June 2008.' is supported by the original webpage.
+<accept> The text explicitly states, "Nakhon Ratchasima FC moved into the stadium in June 2008, having previously played at the Nakhon Ratchasima Municipal Stadium." This confirms the claim that the team moved into the 80th Birthday Stadium in June 2008. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The stadium is located in Mueang Nakhon Ratchasima, Thailand.' is supported by the original webpage.
+<accept> The infobox in the provided content explicitly lists the "Location" of the stadium as "Mueang Nakhon Ratchasima, Thailand". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/IEEE_Rebooting_Computing 
+IEEE Rebooting Computing 
+The IEEE Rebooting Computing initiative has begun to had an impact in a certain way.
+
+The Task Force on Rebooting Computing serves a certain purpose the IEEE Rebooting Computing Initiative.
+
+The IEEE Rebooting Computing Task Force is dedicated to a certain area. 
+The IEEE Rebooting Computing initiative has begun to influence both the technology industry and national policy efforts through its summits, conferences, other educational efforts, and engagement with government.
+
+The Task Force on Rebooting Computing is the new home for the IEEE Rebooting Computing Initiative.
+
+The IEEE Rebooting Computing Task Force focuses on computing.
+
+**********Web Search Result**********
+
+The webpage at ([computer.org](https://www.computer.org/publications/tech-news/insider-membership-news/taskforce-rebooting-computing?utm_source=openai)) mentions the following information:
+
+- The IEEE Rebooting Computing initiative has begun to have an impact in a certain way.
+- The Task Force on Rebooting Computing serves a certain purpose within the IEEE Rebooting Computing Initiative.
+- The IEEE Rebooting Computing Task Force is dedicated to a certain area.
+
+You can access the webpage here:
+
+([computer.org](https://www.computer.org/publications/tech-news/insider-membership-news/taskforce-rebooting-computing?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4ade460188190a2cec732d3867fd9083af0193b60e121",
+    "action": {
+        "query": "IEEE Rebooting Computing initiative impact Task Force purpose dedicated area",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Marcus_Adams_(footballer) 
+Marcus Adams (footballer) 
+Marcus Adams played for something in the Australian Football League (AFL).
+
+Marcus Adams also played for another team in the Australian Football League (AFL).
+
+Marcus Adams played for the Brisbane Lions for a certain duration. 
+Marcus Adams played for the Brisbane Lions in the Australian Football League (AFL).
+
+Marcus Adams played for the Western Bulldogs in the Australian Football League (AFL).
+
+Marcus Adams played for the Brisbane Lions from 2019 to 2023.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Marcus_Adams_%28footballer%29
+
+{
+    "id": "ws_68a4adee948c8193b7f9d6bc4fe13ba5054afc10f1718485",
+    "action": {
+        "query": "Marcus Adams AFL played for different teams Brisbane Lions duration",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Marcus Adams played for something in the Australian Football League (AFL).' is supported by the citation.
+<accept> The content explicitly states that Marcus Adams "played for the Western Bulldogs and the Brisbane Lions in the Australian Football League (AFL)". This confirms he played for something (specific teams) in the AFL. </accept>
+
+**********Source Check**********
+
+The claim 'Marcus Adams also played for another team in the Australian Football League (AFL).' is supported by the citation.
+<accept> The content explicitly states in the "Personal information" section under "Playing career" that Marcus Adams played for "Western Bulldogs" and "Brisbane Lions". The introductory paragraph also states he "played for the Western Bulldogs and the Brisbane Lions in the Australian Football League (AFL)". </accept>
+
+**********Source Check**********
+
+The claim 'Marcus Adams played for the Brisbane Lions for a certain duration.' is supported by the citation.
+<accept> The "Playing career" table explicitly lists "2019–2023 | Brisbane Lions | 46 (1)", indicating that Marcus Adams played for the Brisbane Lions from 2019 to 2023. The text also states that he "played for the Western Bulldogs and the Brisbane Lions" and was "traded to the Lions" in 2019, playing 46 games for them.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'Marcus Adams played for the Brisbane Lions in the Australian Football League (AFL).' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the content. The first paragraph of the main body states, "Marcus Adams (born 30 June 1993) is a former Australian rules footballer who played for the Western Bulldogs and the Brisbane Lions in the Australian Football League (AFL)." Additionally, the "Playing career" table lists "2019–2023 Brisbane Lions" and the text states, "Ahead of the 2019 season, he was traded to the Lions, for whom he played 46 games". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Marcus Adams played for the Western Bulldogs in the Australian Football League (AFL).' is supported by the original webpage.
+<accept> The content explicitly states: "Marcus Adams (born 30 June 1993) is a former Australian rules footballer who played for the Western Bulldogs and the Brisbane Lions in the Australian Football League (AFL)." The "Playing career" table also lists "Western Bulldogs" for the years 2016–2018, confirming his time with the team. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Marcus Adams played for the Brisbane Lions from 2019 to 2023.' is supported by the original webpage.
+<accept> The "Playing career" table explicitly states "2019–2023 | Brisbane Lions", and the text confirms he was traded to the Lions ahead of the 2019 season and retired in 2023 due to concussion issues. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer 
+Christian Wolkersdorfer 
+*   Christian Wolkersdorfer contributed to research about a certain type of geological phenomenon through his role in a certain organizational leadership position.
+
+*   Christian Wolkersdorfer contributed to research about a different geological phenomenon through his role in a certain organizational leadership position.
+
+*   Christian Wolkersdorfer is a particular professional. 
+Christian Wolkersdorfer contributed to research about mine water stratification through his role in the Board of Directors of the "Forum Bergbau and Wasser [Mining and Water Forum]" since 2017.
+
+Christian Wolkersdorfer contributed to research about mine flooding through his role in the Board of Directors of the "Forum Bergbau and Wasser [Mining and Water Forum]" since 2017.
+
+Christian Wolkersdorfer is a mining hydrogeologist.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer
+
+{
+    "id": "ws_68a4ae2c6b408190a5052a55dc76ab8803f59021e72a5b92",
+    "action": {
+        "query": "Christian Wolkersdorfer geological phenomenon research organizational leadership",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim '*   Christian Wolkersdorfer contributed to research about a certain type of geological phenomenon through his role in a certain organizational leadership position.' is supported by the citation.
+<accept> The content explicitly states that Christian Wolkersdorfer, in his active role in the Board of Directors of the "Forum Bergbau and Wasser [Mining and Water Forum]" since 2017, contributed to research about "mine flooding and mine water stratification." This directly matches all components of the information: a geological phenomenon (mine flooding and stratification), a contribution to research, and an organizational leadership position (Board of Directors). </accept>
+
+**********Source Check**********
+
+The claim '*   Christian Wolkersdorfer contributed to research about a different geological phenomenon through his role in a certain organizational leadership position.' is supported by the citation.
+<accept> The text states, "In his active role in the Board of Directors of the 'Forum Bergbau and Wasser [Mining and Water Forum]' since 2017, he contributed to research about mine flooding and mine water stratification." This explicitly mentions his contribution to research (mine flooding and mine water stratification are geological phenomena) through a leadership position (Board of Directors). </accept>
+
+**********Source Check**********
+
+The claim '*   Christian Wolkersdorfer is a particular professional.' is NOT supported by the citation.
+<reject> The text describes Christian Wolkersdorfer's extensive professional background, his expertise, and his contributions to the field of hydrogeology and mine water management. It states his various roles, publications, and affiliations, which all point to him being a professional. However, the exact phrase "a particular professional" is not explicitly mentioned or used to describe him in the text. The text details *what kind* of professional he is and *what he has done*, rather than offering a qualitative judgment using that specific phrasing. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/MV_Liberty_Star 
+MV Liberty Star 
+MV _Liberty Star_ is usually docked alongside its sister ship at a certain place.
+
+MV _Liberty Star_ was formerly owned and operated by certain entities.
+
+NASA agreed to transfer MV _Liberty Star_ to the U.S. Department of Transportation at a certain time. 
+MV _Liberty Star_ is usually docked alongside its sister ship at the Solid Rocket Booster processing facility at the Cape Canaveral Space Force Station in Florida.
+
+MV _Liberty Star_ was formerly a NASA-owned and United Space Alliance-operated vessel.
+
+NASA agreed to transfer MV _Liberty Star_ to the U.S. Department of Transportation on August 21, 2012.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/MV_Liberty_Star
+
+{
+    "id": "ws_68a4ae374cc88190a3ca1b35d34050aa0be1fc9b0beec900",
+    "action": {
+        "query": "MV Liberty Star docked sister ship NASA transfer U.S. Department of Transportation",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'MV _Liberty Star_ is usually docked alongside its sister ship at a certain place.' is supported by the citation.
+<accept> The content explicitly states that the MV _Liberty Star_ "is usually docked alongside her sister at the Solid Rocket Booster processing facility at the Cape Canaveral Space Force Station in Florida." It also identifies MV _Freedom Star_ as her sister ship. </accept>
+
+**********Source Check**********
+
+The claim 'MV _Liberty Star_ was formerly owned and operated by certain entities.' is supported by the citation.
+<accept> The text explicitly states that "MV _Liberty Star_ is a formerly NASA-owned and United Space Alliance-operated vessel". It also mentions under the 'History' section that the recovery ships, including _Liberty Star_, were "delivered in January 1981 to their original owner, United Technologies Corporation". These statements confirm that the vessel was formerly owned and operated by specific entities. </accept>
+
+**********Source Check**********
+
+The claim 'NASA agreed to transfer MV _Liberty Star_ to the U.S. Department of Transportation at a certain time.' is supported by the citation.
+<accept> The content explicitly states under the "Transfer" section: "On August 21, 2012, NASA agreed to transfer the _Liberty Star_ to the U.S. Department of Transportation for use as a training vessel at the United States Merchant Marine Academy." This provides the specific date of the agreement. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'MV _Liberty Star_ is usually docked alongside its sister ship at the Solid Rocket Booster processing facility at the Cape Canaveral Space Force Station in Florida.' is supported by the original webpage.
+<accept> The content explicitly states, "She is usually docked alongside her sister at the Solid Rocket Booster processing facility at the Cape Canaveral Space Force Station in Florida." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'MV _Liberty Star_ was formerly a NASA-owned and United Space Alliance-operated vessel.' is supported by the original webpage.
+<accept> The first paragraph of the content explicitly states: "MV _Liberty Star_ is a formerly NASA-owned and United Space Alliance-operated vessel". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'NASA agreed to transfer MV _Liberty Star_ to the U.S. Department of Transportation on August 21, 2012.' is supported by the original webpage.
+<accept> The text explicitly states under the "Transfer" section: "On August 21, 2012, NASA agreed to transfer the _Liberty Star_ to the U.S. Department of Transportation for use as a training vessel at the United States Merchant Marine Academy." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Born_to_Win 
+Born to Win 
+Ivan Passer contributed to something for "Born to Win".
+
+"Born to Win" was Ivan Passer's a film of a certain kind.
+
+Ivan Passer worked in a certain way on "Born to Win". 
+Ivan Passer contributed to the screenplay for "Born to Win".
+
+"Born to Win" was Ivan Passer's first American film.
+
+Ivan Passer directed "Born to Win".
+
+**********Web Search Result**********
+
+https://www.filmcomment.com/blog/still-free-interview-ivan-passer/
+
+{
+    "id": "ws_68a4ae3eb4048190900232a3f43f4a850dc49e432d8097ff",
+    "action": {
+        "query": "Ivan Passer Born to Win contribution film type work style",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Ivan Passer contributed to something for "Born to Win".' is supported by the citation.
+<accept> The text states that Ivan Passer "made" and "directed" the film "Born to Win", which are forms of contribution. </accept>
+
+**********Source Check**********
+
+The claim '"Born to Win" was Ivan Passer's a film of a certain kind.' is supported by the citation.
+<accept> The content states that "_Born to Win_ (71), one of the most sensitive and realistic films about drug addiction". This explicitly describes the film as a "certain kind" (a sensitive and realistic film about drug addiction). </accept>
+
+**********Source Check**********
+
+The claim 'Ivan Passer worked in a certain way on "Born to Win".' is supported by the citation.
+<accept> The content details how Ivan Passer came to work on "Born to Win," including the script's origin with David Milton, his decision to direct it, his research into drug addiction for the film, and his approach to dealing with producers and casting, such as giving Robert De Niro and Burt Young their first breaks in the film. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Ivan Passer contributed to the screenplay for "Born to Win".' is supported by the original webpage.
+<accept> The infobox for the film "Born to Win" lists "Ivan Passer" under the "Written by" section. Additionally, the categories at the bottom of the page include "Films with screenplays by Ivan Passer". </accept>
+
+**********Exact Claim Check**********
+
+The claim '"Born to Win" was Ivan Passer's first American film.' is supported by the original webpage.
+<accept> The content explicitly states: "_Born to Win_ is a 1971 crime thriller directed by Ivan Passer (his first American film)..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Ivan Passer directed "Born to Win".' is supported by the original webpage.
+<accept> The content explicitly states "Directed by | Ivan Passer" in the film's information table and also says "_**Born to Win**_ is a 1971 crime thriller directed by Ivan Passer". </accept>
+

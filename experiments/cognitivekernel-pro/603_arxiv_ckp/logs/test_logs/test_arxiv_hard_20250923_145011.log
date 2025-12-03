@@ -1,0 +1,604 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+Generated images often are in a certain state that hinder the preservation of fine-grained original details.
+
+A temperature of something minimizes randomness during code generation, ensuring code validity and reducing runtime errors.
+
+Sampling something when generating variable names causes the entire code snippet to fail execution. 
+Generated images often have quality limitations that hinder the preservation of fine-grained original details.
+
+A temperature of 0.0 minimizes randomness during code generation, ensuring code validity and reducing runtime errors.
+
+Sampling invalid characters or spaces when generating variable names causes the entire code snippet to fail execution.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11630v1
+
+**********Source Check**********
+
+The claim 'Generated images often are in a certain state that hinder the preservation of fine-grained original details.' is supported by the citation.
+<accept> The content explicitly states that "generated images often suffer from quality limitations that hinder the preservation of fine-grained original details, thus constraining improvements in core visual perception tasks." This directly matches the provided information. </accept>
+
+**********Source Check**********
+
+The claim 'A temperature of something minimizes randomness during code generation, ensuring code validity and reducing runtime errors.' is supported by the citation.
+<accept> The abstract explicitly states: "a temperature of 0.0 minimizes randomness during code generation, thereby ensuring code validity and reducing runtime errors." This information is also detailed in section "4.3 GRPO with Adaptive Temperature Sampling", where it explains that setting the temperature to 0 during code generation phases ensures deterministic output and reduces code reliability issues. </accept>
+
+**********Source Check**********
+
+The claim 'Sampling something when generating variable names causes the entire code snippet to fail execution.' is supported by the citation.
+<accept> The text states under "4.3 GRPO with Adaptive Temperature Sampling": "Even minor errors, like an unexpected space character during variable definition, can cause complete code failure." This directly supports the idea that issues during the generation of variable names (part of variable definition) can lead to the entire code snippet failing execution, especially in the context of sampling parameters for code generation. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Generated images often have quality limitations that hinder the preservation of fine-grained original details.' is supported by the original webpage.
+<accept> The content explicitly states in the 'Introduction' section: "However, generated images often suffer from quality limitations that hinder the preservation of fine-grained original details, thus constraining improvements in core visual perception tasks." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A temperature of 0.0 minimizes randomness during code generation, ensuring code validity and reducing runtime errors.' is supported by the original webpage.
+<accept> The content explicitly states under "RL Algorithm Design" that "a temperature of 0.0 minimizes randomness during code generation, thereby ensuring code validity and reducing runtime errors." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Sampling invalid characters or spaces when generating variable names causes the entire code snippet to fail execution.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the section "RL Algorithm Design" which states: "During the reinforcement learning phase, we observe that using a high sampling temperature for code generation leads to low code usability—sampling any invalid characters or spaces when generating variable names will cause the entire code snippet to fail execution." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+Metadata and annotations from the datasets were done in a certain way into standardized templates.
+
+Breast cancer is in a certain state among women worldwide.
+
+Breast cancer is a leading cause of something. 
+Metadata and annotations from the datasets were tailored into standardized templates.
+
+Breast cancer is the most frequently diagnosed malignancy among women worldwide.
+
+Breast cancer is a leading cause of cancer-related death.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11628v1
+
+**********Source Check**********
+
+The claim 'Metadata and annotations from the datasets were done in a certain way into standardized templates.' is supported by the citation.
+<accept> The content explicitly states in the '1 Introduction' section: "We construct VQA items from four public datasets... then tailoring the metadata and annotations into standardized templates." It is also mentioned in section '2.1 Datasets': "We harmonize dataset-specific metadata and clinical annotations... into a common schema and convert them into standardized question templates." </accept>
+
+**********Source Check**********
+
+The claim 'Breast cancer is in a certain state among women worldwide.' is supported by the citation.
+<accept> The information is explicitly mentioned in the "1 Introduction" section, which states: "Breast cancer is the most frequently diagnosed malignancy among women worldwide and a leading cause of cancer-related death". </accept>
+
+**********Source Check**********
+
+The claim 'Breast cancer is a leading cause of something.' is supported by the citation.
+<accept> The text states in the introduction: "Breast cancer is the most frequently diagnosed malignancy among women worldwide and a leading cause of cancer-related death kim2025global." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Metadata and annotations from the datasets were tailored into standardized templates.' is supported by the original webpage.
+<accept> The content explicitly states: "We construct VQA items from four public datasets: EMBEDjeong2023emory), INBreastmoreira2012inbreast), CMMDcui2021chinese), and CBIS-DDSMsawyer2016curated),then tailoring the metadata and annotations into standardized templates." This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Breast cancer is the most frequently diagnosed malignancy among women worldwide.' is supported by the original webpage.
+<accept> The text explicitly states in the "1 Introduction" section: "Breast cancer is the most frequently diagnosed malignancy among women worldwide and a leading cause of cancer-related death". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Breast cancer is a leading cause of cancer-related death.' is supported by the original webpage.
+<accept> The content explicitly states, "Breast cancer is the most frequently diagnosed malignancy among women worldwide and a leading cause of cancer-related death." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+The adjustment `in a certain way` that the final output remains grounded in the base model’s general knowledge.
+
+Conditions common in personalization settings involve `something`.
+
+Training data may not be available in several commercial applications due to `something`. 
+The adjustment ensures that the final output remains grounded in the base model’s general knowledge.
+
+Conditions common in personalization settings involve narrow or highly specialized datasets.
+
+Training data may not be available in several commercial applications due to confidentiality constraints.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+The initial user study involved a certain number of participants.
+
+The dataset instances involved a certain number of distinct objects.
+
+The follow-up study involved a certain number of additional participants. 
+The initial user study involved 10 participants.
+
+The dataset instances involved 35 distinct objects.
+
+The follow-up study involved 8 additional participants.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+Reflected waves form in a certain state corresponding to each microgesture.
+
+A follow-up study was conducted with 8 additional participants specifically targeting something.
+
+Instrumenting objects with sensors can be in a certain state for everyday objects. 
+Reflected waves form unique patterns corresponding to each microgesture.
+
+A follow-up study was conducted with 8 additional participants specifically targeting 10 more challenging, deformable objects.
+
+Instrumenting objects with sensors can be costly and not feasible for everyday objects.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+The new framework bypasses sensitivities observed in something else.
+
+The new framework generalizes to certain kinds of problems.
+
+The method is not sensitive to a certain input. 
+The new framework bypasses sensitivities observed in other methods.
+
+The new framework generalizes to more challenging or complex problems.
+
+The method is not sensitive to the initial guess.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+The models are immune to a certain extent.
+
+The open-source models and code enable replication in a certain way.
+
+Code and models are made in a certain state. 
+The models are nearly completely immune to temporal misalignments.
+
+The open-source models and code enable easy replication of the results.
+
+Code and models are made publicly available.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+1. LLMs synthesize patterns from something.
+
+2. A fundamental limitation of LLMs is their constraint to something.
+
+3. Formal systems in artificial reason struggle with something. 
+LLMs synthesize patterns from vast data.
+
+A fundamental limitation of LLMs is their constraint to ‘mean-reverting’ outputs.
+
+Formal systems in artificial reason struggle with ambiguity.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+Natural language inference (NLI) is a **in a certain way** for pairs of texts, each pair consisting of a premise and a hypothesis.
+
+Manually creating datasets is **in a certain state**.
+
+NLI pairs are labeled **with certain labels**. 
+Manually creating datasets is labor-intensive.
+
+NLI pairs are labeled as entailment, neutral, or contradiction.
+
+Natural language inference (NLI) is a classification problem for pairs of texts, each pair consisting of a premise and a hypothesis.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+The contrastive approach requires something.
+
+The objectives of these distinct strategies can be augmented with something else.
+
+The objectives of these distinct strategies can be done in a certain way. 
+The contrastive approach requires heuristics to define positive and negative samples.
+
+The objectives of these distinct strategies can be augmented with additional heuristics.
+
+The objectives of these distinct strategies can be combined.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+Problems initially identified as “simple” may remain challenging for an LLM whose capability still needs in a certain way.
+
+Some studies incorporate compression techniques like something to filter out intermediate tokens.
+
+The redundancy from Long CoT causes significant delays in something. 
+Problems initially identified as “simple” may remain challenging for an LLM whose capability still needs longer exploration.
+
+Some studies incorporate compression techniques like static pruning thresholds to filter out intermediate tokens.
+
+The redundancy from Long CoT causes significant delays in real-time applications.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+Older adults in the United States lost an estimated something to fraud in 2023.
+
+The something centers youth as both affected parties and potential allies.
+
+Focus groups were conducted with someone, all aged 65 or older. 
+Older adults in the United States lost an estimated $61.5 billion to fraud in 2023.
+
+The dual victimization framework centers youth as both affected parties and potential allies.
+
+Focus groups were conducted with 37 older adults, all aged 65 or older.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+Data must be in a certain state before processing in most cases.
+
+Examples of critical systems include something.
+
+Unauthorized access, leakage, or misuse of military data could be affected in a certain way. 
+Data must be decrypted before processing in most cases.
+
+Examples of critical systems include medical diagnostics, predictive healthcare, and military decision making.
+
+Unauthorized access, leakage, or misuse of military data could compromise national security, operational plans, or strategic assets.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+The proposed framework reduces synchronization errors to as low as a certain percentage.
+
+Something decouples the data forwarding layer from the control layer.
+
+Something is expected to offer faster data exchange, lower delays, and more stable connections. 
+The proposed framework reduces synchronization errors to as low as 5%.
+
+Software-Defined Networking (SDN) decouples the data forwarding layer from the control layer.
+
+6G networks are expected to offer faster data exchange, lower delays, and more stable connections.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+Evaluation metrics include something.
+
+A wide boom bar's movement is in a certain state.
+
+A wide boom bar's movement is affected by something. 
+Evaluation metrics include pathlength.
+
+A wide boom bar's movement is highly dynamic.
+
+A wide boom bar's movement is affected by mechanical structure vibrations and inertia.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+The most complete temporal network obtained in the research contains `a certain number of` time instances.
+
+Microservice architecture is a paradigm promoting `in a certain way`.
+
+The small, independent components within a microservice architecture are called `something`. 
+The most complete temporal network obtained in the research contains 7 time instances.
+
+Microservice architecture is a paradigm promoting the decomposition of a coupled software system into small, independent components.
+
+The small, independent components within a microservice architecture are called microservices.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+A path can be made between two T-metacells only when they are in a certain state.
+
+Each T-metacell gadget must be in a certain state.
+
+This extension requires the cell to be in a certain state. 
+A path can be made between two T-metacells only when they have their exits aligned.
+
+Each T-metacell gadget must be reflectable and rotatable.
+
+This extension requires the cell to be "asymmetric".
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+The root node of the tree-based memory contains `something`.
+
+`Something` of the tree-based memory preserve turn-level evidence.
+
+Turn-level evidence includes `something`. 
+The root node of the tree-based memory contains fundamental user information.
+
+Statement nodes of the tree-based memory preserve turn-level evidence.
+
+Turn-level evidence includes symptom duration.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+Early architectures such as **something** largely ignore sequential signals.
+
+In production, sequence data are **in a certain way** with side information.
+
+Short video platforms like **something** have surged in popularity in recent years. 
+Early architectures such as FM and DCN largely ignore sequential signals.
+
+In production, sequence data are often truncated and flattened with side information.
+
+Short video platforms like TikTok and Kwai have surged in popularity in recent years.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+If the guess for the extreme value's extremity is incorrect, the true database is in a certain state.
+
+If the guess for the extreme value's extremity is correct, the reconstruction has a certain property.
+
+Such constructions expose something. 
+If the guess for the extreme value's extremity is incorrect, the true database is its reflection.
+
+If the guess for the extreme value's extremity is correct, the reconstruction is accurate.
+
+Such constructions expose the interrelation among tokens.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+The requirement for something makes CDEF less practical for real-time deployment.
+
+The proposed method improves something.
+
+The proposed method is suitable for something. 
+The requirement for hyper-parameter tuning makes CDEF less practical for real-time deployment.
+
+The proposed method improves robustness.
+
+The proposed method is suitable for online implementation.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11555v1 
+A Tight Lower Bound for Doubling Spanners 
+The Yao graph was introduced by someone in 1982.
+
+The net-tree spanner has something.
+
+For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists something, such that any (1+)-spanner G=(X,E,w) for X must have lightness ~()^-(d+1). 
+The -graph is defined similarly to the Yao graph.
+
+The -graph is a variant of the Yao graph.
+
+The Yao graph was introduced by Yao in 1982.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+Stability is a concern in a certain kind of design.
+
+Tags map each task to a certain kind of hardware.
+
+Capability tags indicate which certain actions. 
+Stability is a concern in colocated designs.
+
+Tags map each task to the most suitable hardware.
+
+Capability tags indicate which tasks a resource can serve.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+In CDO, RandomGauss operates in a certain way.
+
+Something operates based on a given mask.
+
+Data collection is in a certain state in industrial scenarios. 
+In CDO, RandomGauss randomly selects square regions and replaces them with random values sampled from a Gaussian normal distribution.
+
+CAE operates based on a given mask.
+
+Data collection is difficult in industrial scenarios.
+
+**********Web Search Result**********
+
+No source found.
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+

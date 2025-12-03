@@ -1,0 +1,353 @@
+[
+    {
+        "id": 0,
+        "source": "https://www.reuters.com/sports/athletics/richardson-punches-ticket-paris-olympics-with-100m-win-2024-06-23/",
+        "search": {
+            "id": "ws_68ad49087c308194b58fed83613f14c908947f764ff04899",
+            "action": {
+                "query": "Sha\u2019Carri Richardson ran time US trials women\u2019s 100 meters place",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://www.philstar.com/headlines/2023/07/07/2279393/16-abused-children-rescued-philippines-after-aussie-police-sends-tip",
+        "search": {
+            "id": "ws_68ad491443948195b9c88c3e6df8fa0a0cb747b09cccbe90",
+            "action": {
+                "query": "children allegedly abused location rescued Philippines organization found",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "https://www.theguardian.com/world/article/2024/aug/12/italian-hospitals-heat-illnesses-tourists",
+        "search": {
+            "id": "ws_68ad492065008196a094be7c6e8721500ad44d337ce2fa46",
+            "action": {
+                "query": "People in Italy state Italians heat foreigners affected",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein",
+        "search": {
+            "id": "ws_68ad492bee208196b6ea63874af4e69f087a22a631926a00",
+            "action": {
+                "query": "\"Senate Finance Committee\" \"$158 million payment\" \"Leon Black\" \"Senator Ron Wyden\" \"Jeffrey Epstein\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "https://www.cnn.com/2023/07/03/us/new-york-shark-attack-teenage-surfer-fire-island/index.html",
+        "search": {
+            "id": "ws_68ad49368e088193ad01d34ad8be24d9016d585a50a5a609",
+            "action": {
+                "query": "shark attacks off the coast of New York non-fatal",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 5,
+        "source": "https://www.cnn.com/2023/07/23/asia/cambodia-election-result-landslide-intl/index.html/",
+        "search": {
+            "id": "ws_68ad493fc8fc8196b1e21cc7901278b000924f10a9254514",
+            "action": {
+                "query": "landslide victory general election Hun Sen Cambodian People\u2019s Party CPP transfer of power",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "https://abc30.com/philadelphia-mass-shooting-was-obviously-planned-da-says/13469369/",
+        "search": {
+            "id": "ws_68ad494721e48195ac3cecad72f878550dbad5738cccb702",
+            "action": {
+                "query": "Philadelphia mass shooting five dead Kingsessing neighborhood planned rampage",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad495134dc81939764342d50f8cb050d648a0347e9f061",
+            "action": {
+                "query": "Russian submarine commander shot, Lt. Gen. Oleg Tsokov killed, senior Russian commander killed in specific place",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://www.businessinsider.com/google-alphabet-bard-generative-ai-secretly-stealing-online-data-lawsuit-2023-7",
+        "search": {
+            "id": "ws_68ad49634d108190847eed9142404369010f4f3ab458462d",
+            "action": {
+                "query": "lawsuit against Google Alphabet DeepMind AI stolen data train AI products chatbot",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://www.foxnews.com/politics/youngkin-launches-effort-urging-republicans-vote-early-2023-elections",
+        "search": {
+            "id": "ws_68ad4969c070819587d3779c7d71c0e50e0cc3eb6cc64505",
+            "action": {
+                "query": "Virginia Governor encouraging Republicans vote absentee by mail early in-person Youngkin Secure Your Vote Virginia program",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://apnews.com/article/us-china-kerry-climate-biden-wang-e52bd6806c5c40a22a4078de17f45bcc",
+        "search": {
+            "id": "ws_68ad4972884c8194be1b615ea1748df40a4461e978cc270a",
+            "action": {
+                "query": "John Kerry interview US officials urge China reduce US President Joe Biden\u2019s special climate envoy visited China Beijing trip purpose",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 11,
+        "source": "https://www.cnn.com/2023/07/04/sport/australia-golf-wildlife-kangaroo-snake-crocodile-spt-intl-spc/index.html",
+        "search": {
+            "id": "ws_68ad498102448197bb69025def064b2308e730dbc3f99533",
+            "action": {
+                "query": "Dangerous animals in Australia pose challenges for golf courses Wildlife enhance golfing experience site:.au",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "https://apnews.com/article/ricciardo-f1-alphatauri-red-bull-d2566d440bb1c7a363d7e610b5f6e664",
+        "search": {
+            "id": "ws_68ad4987a3748193a5f274f334e95d3b0cbe6e39a92d4ce6",
+            "action": {
+                "query": "Daniel Ricciardo replacing someone at AlphaTauri returning to the Formula One grid rejoined third driver 2023",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-counteroffensive-russia-invasion-war-nuclear-weapons/",
+        "search": {
+            "id": "ws_68ad4994b15c81948f8b0682124894cf0f1b418faf39388e",
+            "action": {
+                "query": "Dmitry Medvedev nuclear threat Ukraine counteroffensive",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "https://www.cbsnews.com/news/heat-wave-temperatures-southwest-fire-risk-to-california/",
+        "search": {
+            "id": "ws_68ad499e79e48197ba4966af660bac15093d3a668bb04858",
+            "action": {
+                "query": "Sweltering temperatures accompanied outbreak of wildfires Riverside County southern California Extreme heat causes wildland fires",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "I have found a webpage that mentions all the specified information:\n\n([indiatoday.in](https://www.indiatoday.in/amp/india/story/monsoon-rainfall-flash-floods-landslide-himachal-deaths-heavy-rain-delhi-weather-forecast-2753664-2025-07-10?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad49a702208194b3ad73cad19b8591006e33ccb8f81ca4",
+            "action": {
+                "query": "flash floods landslides deaths Himachal Pradesh heavy rain northern India",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "https://www.theatlantic.com/family/archive/2025/08/phone-ban-school-parents/683982/?utm_source=apple_news",
+        "search": {
+            "id": "ws_68ad49afab748193a266093c8c17530504204bab4b5e0284",
+            "action": {
+                "query": "devices banned classrooms country mobile phones don't belong in classroom reduce lessons",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "In June 2025, U.S. retail sales rebounded more than expected, rising by 0.6% after a 0.9% decrease in May, according to the Commerce Department's Census Bureau. This increase surpassed economists' forecasts, which had predicted a modest 0.1% uptick. However, analysts suggest that the rise may be partially attributed to price hikes on goods affected by tariffs rather than a genuine increase in consumer purchasing volumes. Specific categories like household furnishings, appliances, sporting goods, and toys saw notable price increases. Core retail sales, which exclude volatile components such as automobiles, gasoline, building materials, and food services, grew by 0.5% in June following a revised 0.2% rise in May. These core figures closely track consumer spending trends in GDP calculations. Despite the rebound, economic analysts, including Wells Fargo\u2019s Sam Bullard, note signs of moderation in consumer spending, indicating potential pressure on household sectors moving forward. ([reuters.com](https://www.reuters.com/business/retail-consumer/us-retail-sales-beat-expectations-june-2025-07-17/?utm_source=openai))\n\n\n## US Retail Sales Beat Expectations in June:\n- [US retail sales beat expectations in June](https://www.reuters.com/business/retail-consumer/us-retail-sales-beat-expectations-june-2025-07-17/?utm_source=openai)  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad49bc66688194a799a14d306800810c2b3fdb9a1026ef",
+            "action": {
+                "query": "Spending US retailers rose June American consumers retail spending June",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "https://www.americanprogress.org/article/the-health-care-costs-of-extreme-heat/",
+        "search": {
+            "id": "ws_68ad49cb563081939b09acc82c4f50ef0e71deedf3ac5a3b",
+            "action": {
+                "query": "Extreme heat generate health care costs summer risks associated extreme heat study found 20000 deaths",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "https://news.delta.com/history-made-delta-pilots-go-guinness-world-record",
+        "search": {
+            "id": "ws_68ad49d3acb08196adaf764c69dfcb160f9fe137862a3626",
+            "action": {
+                "query": "Delta Air Lines pilots visited something in under 48 hours world record all 48 contiguous states",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "I have found a webpage that mentions all of the specified information:\n\n([cnn.com](https://www.cnn.com/2023/07/05/politics/doj-appeal-biden-administration-social-media/index.html?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad49da7e548196b07984372271ad4a08ad33924b8051f8",
+            "action": {
+                "query": "appealing judge\u2019s order prohibits Biden administration communicate social media White House official injunction",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "International travelers can now use foreign credit cards on China's biggest payment apps, Alipay and WeChat Pay. Starting in July 2023, both platforms began allowing users to link Visa, Mastercard, and other international cards to their accounts, enabling seamless transactions across millions of merchants in China. This development aims to simplify payments for visitors and boost the country's tourism industry. ([cnn.com](https://www.cnn.com/2023/07/21/tech/china-alipay-wechat-pay-international-credit-cards-intl-hnk/index.html/?utm_source=openai))\n\nAlipay and WeChat Pay have implemented these changes by updating their systems to accept foreign credit cards directly. Users can now link their international cards to the apps, allowing them to make payments without the need for a Chinese bank account. This integration enhances the convenience for international visitors navigating China's predominantly cashless economy. ([cnn.com](https://www.cnn.com/2023/07/21/tech/china-alipay-wechat-pay-international-credit-cards-intl-hnk/index.html/?utm_source=openai))\n\nFor more detailed information, you can refer to the CNN Business article titled \"Visa and Mastercard can now be used on China\u2019s biggest payment apps.\" ([cnn.com](https://www.cnn.com/2023/07/21/tech/china-alipay-wechat-pay-international-credit-cards-intl-hnk/index.html/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad49e285888197845f7de5d17e91b5022c806181711223",
+            "action": {
+                "query": "International travelers foreign credit cards Alipay WeChat Pay",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "I have found a webpage that mentions all of the specified information:\n\n([hellomonaco.com](https://www.hellomonaco.com/news/latest-news/prince-albert-ii-foundation-announces-powerful-winners-of-the-2025-environmental-photography-awards/?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad49f12cfc8190866f3c75db2b3b6703ef4c739a2e94e5",
+            "action": {
+                "query": "winners Prince Albert II of Monaco Foundation Environmental Photography Award images",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "https://edition.cnn.com/2023/07/13/europe/kevin-spacey-sexual-assault-trial-intl/index.html",
+        "search": {
+            "id": "ws_68ad49f8b1408195a063582a90a23d4201b76419d6d01ce2",
+            "action": {
+                "query": "Kevin Spacey London court touched complainant charges place trial type",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "https://www.reuters.com/lifestyle/sports/sumo-retirees-play-laughs-tourists-flooding-back-japan-2023-07-07/",
+        "search": {
+            "id": "ws_68ad4a02cb10819390be267cab13084201f1c98595d44697",
+            "action": {
+                "query": "ex-sumo wrestlers sumo demonstrations overseas travelers sumo lunch Yokozuna Tonkatsu Dosukoi Tanaka two decades sumo career",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "https://www.nfl.com/news/justin-herbert-chargers-agree-to-five-year-262-5-million-extension",
+        "search": {
+            "id": "ws_68ad4a0d170c8195aa593d679b16c40104d2f091dde9f0c1",
+            "action": {
+                "query": "Justin Herbert new contract state multi-year Los Angeles Chargers",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 28,
+        "source": "https://people.com/claire-danes-hugh-dancy-welcome-third-baby-daughter-exclusive-7503008",
+        "search": {
+            "id": "ws_68ad4a17ec908195bb0e0d81f7367a440464878c7c778302",
+            "action": {
+                "query": "Claire Danes Hugh Dancy welcomed third child now in certain state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

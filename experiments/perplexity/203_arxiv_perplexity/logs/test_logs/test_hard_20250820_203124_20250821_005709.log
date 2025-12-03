@@ -1,0 +1,2533 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+Generated images often are in a certain state that hinder the preservation of fine-grained original details.
+
+A temperature of something minimizes randomness during code generation, ensuring code validity and reducing runtime errors.
+
+Sampling something when generating variable names causes the entire code snippet to fail execution. 
+Generated images often have quality limitations that hinder the preservation of fine-grained original details.
+
+A temperature of 0.0 minimizes randomness during code generation, ensuring code validity and reducing runtime errors.
+
+Sampling invalid characters or spaces when generating variable names causes the entire code snippet to fail execution.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Unleashing the Power of Generative Model in Recovering ...",
+        "url": "https://arxiv.org/html/2306.02546v4",
+        "date": "2024-12-09",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Where Do Large Language Models Fail When Generating ...",
+        "url": "https://arxiv.org/html/2406.08731v1",
+        "date": "2024-06-13",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "Variable Naming in code generation - MATLAB Answers",
+        "url": "https://www.mathworks.com/matlabcentral/answers/2066741-variable-naming-in-code-generation",
+        "date": "2024-01-05",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "An Empirical Study of Code Generation Errors made by Large ...",
+        "url": "https://mapsworkshop.github.io/assets/LLM_Code_Error_Analysis_MAPS2023_camera-ready.pdf",
+        "date": null,
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "Simulink Code Generation",
+        "url": "https://ntrs.nasa.gov/api/citations/20120014980/downloads/20120014980.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Data Definition Considerations for Code Generation",
+        "url": "https://www.mathworks.com/help/simulink/ug/how-working-with-data-is-different-for-code-generation.html",
+        "date": "2025-01-01",
+        "last_updated": "2025-05-14"
+    },
+    {
+        "title": "How Important Are Good Method Names in Neural Code ...",
+        "url": "https://dl.acm.org/doi/10.1145/3630010",
+        "date": null,
+        "last_updated": "2025-03-29"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+Metadata and annotations from the datasets were done in a certain way into standardized templates.
+
+Breast cancer is in a certain state among women worldwide.
+
+Breast cancer is a leading cause of something. 
+Metadata and annotations from the datasets were tailored into standardized templates.
+
+Breast cancer is the most frequently diagnosed malignancy among women worldwide.
+
+Breast cancer is a leading cause of cancer-related death.
+
+**********Web Search Result**********
+
+https://www.iarc.who.int/news-events/breast-cancer-cases-and-deaths-are-projected-to-rise-globally/
+
+[
+    {
+        "title": "Breast cancer cases and deaths are projected to rise globally - IARC",
+        "url": "https://www.iarc.who.int/news-events/breast-cancer-cases-and-deaths-are-projected-to-rise-globally/",
+        "date": "2025-02-24",
+        "last_updated": "2025-08-06"
+    },
+    {
+        "title": "Breast cancer: Global patterns of incidence, mortality, and trends.",
+        "url": "https://ascopubs.org/doi/10.1200/JCO.2023.41.16_suppl.10528",
+        "date": "2023-05-31",
+        "last_updated": "2025-03-08"
+    },
+    {
+        "title": "Global patterns and trends in breast cancer incidence and mortality ...",
+        "url": "https://www.nature.com/articles/s41591-025-03502-3",
+        "date": "2025-02-24",
+        "last_updated": "2025-04-01"
+    },
+    {
+        "title": "Current and future burden of breast cancer: Global statistics for 2020 ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9465273/",
+        "date": "2022-09-02",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Global patterns and trends in breast cancer incidence and mortality ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39994475/",
+        "date": "2025-02-24",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "[PDF] Breast cancer cases and deaths are projected to rise globally - IARC",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2025/02/pr361_E.pdf",
+        "date": "2025-02-24",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Breast Cancer Statistics | Facts & Figures | NBCC",
+        "url": "https://www.stopbreastcancer.org/information-center/facts-figures/",
+        "date": "2025-02-11",
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "Understanding breast cancer as a global health concern - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8822551/",
+        "date": "2021-12-14",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Breast Cancer Facts and Statistics 2025",
+        "url": "https://www.breastcancer.org/facts-statistics",
+        "date": "2025-07-03",
+        "last_updated": "2025-07-31"
+    },
+    {
+        "title": "Breast Cancer Statistics | How Common Is Breast Cancer?",
+        "url": "https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html",
+        "date": "2025-05-05",
+        "last_updated": "2025-07-22"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Metadata and annotations from the datasets were done in a certain way into standardized templates.' is NOT supported by the citation.
+<reject> The provided content is a news article about breast cancer projections and other news from IARC. It discusses global patterns and trends in breast cancer data but does not contain any information about how metadata or annotations from datasets were processed or formatted into standardized templates. </reject>
+
+**********Source Check**********
+
+The claim 'Breast cancer is in a certain state among women worldwide.' is supported by the citation.
+<accept> The content mentions the "latest and future burden of female breast cancer globally" and states that "1 in 20 women worldwide will be diagnosed with breast cancer in their lifetime," which describes the current state of breast cancer among women globally. </accept>
+
+**********Source Check**********
+
+The claim 'Breast cancer is a leading cause of something.' is NOT supported by the citation.
+<reject> The provided text states that breast cancer cases and deaths are projected to rise globally, and provides statistics on its prevalence and projected future impact (3.2 million new cases and 1.1 million deaths by 2050). However, it does not explicitly state that "Breast cancer is a leading cause of something." It discusses the burden and future trends of breast cancer, but does not rank it as a "leading cause" of any specific outcome (e.g., death, specific type of illness, etc.) compared to other factors. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+The adjustment `in a certain way` that the final output remains grounded in the base model’s general knowledge.
+
+Conditions common in personalization settings involve `something`.
+
+Training data may not be available in several commercial applications due to `something`. 
+The adjustment ensures that the final output remains grounded in the base model’s general knowledge.
+
+Conditions common in personalization settings involve narrow or highly specialized datasets.
+
+Training data may not be available in several commercial applications due to confidentiality constraints.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "AI and the Limitations in Personalized Marketing Strategies",
+        "url": "https://digitalon.ai/ai-limitations-marketing-personalization",
+        "date": null,
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Are AI Models Running Out of Training Data? - VKTR.com",
+        "url": "https://www.vktr.com/ai-technology/are-ai-models-running-out-of-training-data/",
+        "date": "2025-04-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Understanding AI personalization in 2025 | Data-led ... - Lumenalta",
+        "url": "https://lumenalta.com/insights/understanding-ai-personalization-in-2025",
+        "date": "2025-04-04",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "AI Training Data for ML Models and AI Applications, TrainAI - RWS",
+        "url": "https://www.rws.com/artificial-intelligence/train-ai-data-services/",
+        "date": "2025-01-01",
+        "last_updated": "2025-07-15"
+    },
+    {
+        "title": "Limitations of Hyper-Personalization - BuzzBoard",
+        "url": "https://www.buzzboard.ai/hyper-personalization-limitations-marketing-sales/",
+        "date": "2024-01-12",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "The Case for Advanced Market Commitments for AI Training Data",
+        "url": "https://www.equitechfutures.com/articles/the-case-for-advanced-market-commitments-for-ai-training-data-how-guaranteed-markets-could-democratize-ai",
+        "date": "2025-04-25",
+        "last_updated": "2025-07-20"
+    },
+    {
+        "title": "AI-Powered Corporate Learning: Benefits And Limitations",
+        "url": "https://elearningindustry.com/benefits-and-limitations-of-ai-in-corporate-learning-a-comprehensive-overview",
+        "date": "2024-08-31",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "AI Training Data - Appen",
+        "url": "https://www.appen.com/ai-data",
+        "date": "2024-01-01",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "AI Personalization: Challenges and Practical Strategies for Startups",
+        "url": "https://www.dataversity.net/ai-personalization-challenges-and-practical-strategies-for-startups/",
+        "date": "2023-10-19",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Data Limitations Are Constraining AI Development - The Innovator",
+        "url": "https://theinnovator.news/data-limitations-are-constraining-ai-development/",
+        "date": null,
+        "last_updated": "2025-08-20"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+The initial user study involved a certain number of participants.
+
+The dataset instances involved a certain number of distinct objects.
+
+The follow-up study involved a certain number of additional participants. 
+The initial user study involved 10 participants.
+
+The dataset instances involved 35 distinct objects.
+
+The follow-up study involved 8 additional participants.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "When to Use Which User-Experience Research Methods - NN/g",
+        "url": "https://www.nngroup.com/articles/which-ux-research-methods/",
+        "date": "2022-07-17",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "User Experience In Dataset Search - arXiv",
+        "url": "https://arxiv.org/html/2403.15861v2",
+        "date": "2024-08-05",
+        "last_updated": "2025-06-01"
+    },
+    {
+        "title": "11 UX Research Methods and When to Use Them | Maze",
+        "url": "https://maze.co/guides/ux-research/methods/",
+        "date": "2025-05-13",
+        "last_updated": "2025-06-26"
+    },
+    {
+        "title": "Types of User Research Methods | UX Research Field Guide",
+        "url": "https://www.userinterviews.com/ux-research-field-guide-chapter/user-research-types",
+        "date": "2025-01-08",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "UX Research Cheat Sheet - NN/g",
+        "url": "https://www.nngroup.com/articles/ux-research-cheat-sheet/",
+        "date": "2017-02-12",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "13 UX research methods to better understand your users",
+        "url": "https://contentsquare.com/guides/ux-research/methods/",
+        "date": "2025-01-29",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "What do researchers need to know about using datasets?",
+        "url": "https://researchmethodscommunity.sagepub.com/blog/what-do-researchers-need-to-know-in-order-to-access-and-use-datasets",
+        "date": "2023-08-17",
+        "last_updated": "2025-03-02"
+    },
+    {
+        "title": "The 10 user research methodologies you need to know | Aug 15, 2023",
+        "url": "https://wondering.com/blog/the-ten-user-research-methodologies-you-need-to-know",
+        "date": "2023-08-15",
+        "last_updated": "2025-06-20"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+Reflected waves form in a certain state corresponding to each microgesture.
+
+A follow-up study was conducted with 8 additional participants specifically targeting something.
+
+Instrumenting objects with sensors can be in a certain state for everyday objects. 
+Reflected waves form unique patterns corresponding to each microgesture.
+
+A follow-up study was conducted with 8 additional participants specifically targeting 10 more challenging, deformable objects.
+
+Instrumenting objects with sensors can be costly and not feasible for everyday objects.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11620v1
+
+[
+    {
+        "title": "Gesture Recognition on Physical Objects Using Radar ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8433657/",
+        "date": "2021-08-27",
+        "last_updated": "2025-07-13"
+    },
+    {
+        "title": "Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "A Micro-gesture Cursor Input through mmWave Radar-based ...",
+        "url": "https://users.wpi.edu/~esolovey/papers/Li-ICCE-2019.pdf",
+        "date": null,
+        "last_updated": "2025-03-28"
+    },
+    {
+        "title": "Eliciting Single-hand Microgestures for Handheld Objects",
+        "url": "https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300632",
+        "date": null,
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",
+        "url": "https://modernmobile.cs.washington.edu/docs/soli.pdf",
+        "date": null,
+        "last_updated": "2024-01-16"
+    },
+    {
+        "title": "[PDF] SoloFinger: Robust Microgestures while Grasping Everyday Objects",
+        "url": "https://hci.cs.uni-saarland.de/wp-content/uploads/projects/micro-gestural-input/solofinger/sharma_chi21_soloFinger.pdf",
+        "date": null,
+        "last_updated": "2024-04-11"
+    },
+    {
+        "title": "Micro Hand Gesture Recognition System Using Ultrasonic ...",
+        "url": "https://arxiv.org/html/1712.00216v3",
+        "date": "2018-06-04",
+        "last_updated": "2025-07-20"
+    },
+    {
+        "title": "Machine-learned wearable sensors for real-time hand-motion ...",
+        "url": "https://academic.oup.com/nsr/article/11/2/nwad298/7452905",
+        "date": "2024-01-09",
+        "last_updated": "2025-08-01"
+    },
+    {
+        "title": "US10817070B2 - RF-based micro-motion tracking for ...",
+        "url": "https://patents.google.com/patent/US10817070B2/en",
+        "date": "2019-01-18",
+        "last_updated": "2025-04-17"
+    },
+    {
+        "title": "Sensing Hand Interactions with Everyday Objects by Profiling Wrist ...",
+        "url": "https://dl.acm.org/doi/fullHtml/10.1145/3490149.3501320",
+        "date": "2022-02-13",
+        "last_updated": "2025-03-15"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Reflected waves form in a certain state corresponding to each microgesture.' is supported by the citation.
+<accept> The text explicitly states: "Two microphones on the wristband capture the reflected waves, which form unique patterns corresponding to each microgesture." This directly mentions that reflected waves form patterns (a "certain state") that correspond to each microgesture. </accept>
+
+**********Source Check**********
+
+The claim 'A follow-up study was conducted with 8 additional participants specifically targeting something.' is supported by the citation.
+<accept> The content explicitly states: "A follow-up study with an additional 8 participants further expanded our dataset by collecting 5,760 more microgesture instances, specifically to validate the system’s robustness against more challenging, deformable objects." This confirms the number of participants and the target of the study. </accept>
+
+**********Source Check**********
+
+The claim 'Instrumenting objects with sensors can be in a certain state for everyday objects.' is supported by the citation.
+<accept> The text explicitly states that "instrumenting objects with sensors... can be costly and not feasible for everyday objects, especially consumables." This directly provides a "certain state" (costly and not feasible) for instrumenting everyday objects with sensors. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Reflected waves form unique patterns corresponding to each microgesture.' is supported by the original webpage.
+<accept> The text explicitly states in the "Introduction" section: "Grab-n-Go employs active acoustic sensing by using two embedded speakers to emit inaudible acoustic waves toward the hand and the object. Two microphones on the wristband capture the reflected waves, which form unique patterns corresponding to each microgesture." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A follow-up study was conducted with 8 additional participants specifically targeting 10 more challenging, deformable objects.' is supported by the original webpage.
+<accept> The content explicitly states: "To further explore system boundaries, we conducted a follow-up study with 8 additional participants specifically targeting 10 more challenging, deformable objects." This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Instrumenting objects with sensors can be costly and not feasible for everyday objects.' is supported by the original webpage.
+<accept> The text explicitly states in the "1. Introduction" section: "One approach involves instrumenting objects with sensors... but this can be costly and not feasible for everyday objects, especially consumables." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11613v1 
+Adaptive Cardio Load Targets for Improving Fitness and Performance 
+Cardio Load was introduced by Google in a certain year.
+
+Adaptive and personalized targets will be set in a certain way.
+
+Cardio Load (CL) is based on something.
+
+In the Banister model, k is a weighting factor of a certain value for males.
+
+A minimum of a certain percentage HRR is needed to obtain load. 
+Starting with light intensities can be effective for individuals intimidated by higher intensities.
+
+In the Banister model, k is a weighting factor of 1.92 for males.
+
+In the Banister model, k is a weighting factor of 1.67 for females.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Fitbit Cardio and Target Load rolling out to more watches, ...",
+        "url": "https://9to5google.com/2024/12/17/fitbit-cardio-target-load/",
+        "date": "2024-12-17",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Adaptive Cardio Load Targets for Improving Fitness and Performance",
+        "url": "https://arxiv.org/html/2508.11613v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Banisters TRIMP - Training Impulse",
+        "url": "https://www.trainingimpulse.com/banisters-trimp-0",
+        "date": "2004-02-01",
+        "last_updated": "2025-03-12"
+    },
+    {
+        "title": "Google Pixel Watch 3 Cardio Load and Target Load",
+        "url": "https://www.androidpolice.com/google-pixel-watch-3-cardio-load-target-load-how-to/",
+        "date": "2024-11-14",
+        "last_updated": "2025-05-31"
+    },
+    {
+        "title": "Quantification of Training Load - Orthopaedic Manipulation",
+        "url": "https://www.orthopaedicmanipulation.com/quantification-of-training-load/",
+        "date": "2024-07-22",
+        "last_updated": "2024-10-09"
+    },
+    {
+        "title": "[PDF] Applying a mathematical model to training adaptation in a distance ...",
+        "url": "https://paulogentil.com/pdf/Applying%20a%20mathematical%20model%20to%20training%20adaptation%20in%20a%20distance%20runner.pdf",
+        "date": "2005-03-12",
+        "last_updated": "2024-07-22"
+    },
+    {
+        "title": "How we built 3 key fitness metrics for Pixel Watch 3",
+        "url": "https://blog.google/products/fitbit/pixel-watch-3-daily-readiness-update-cardio-target-load/",
+        "date": "2024-09-11",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Assessing the limitations of the Banister model in monitoring training",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1974899/",
+        "date": "1996-01-01",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Fitbit gets Cardio Load & Target Load",
+        "url": "https://www.youtube.com/watch?v=4HVEadQ2DLc",
+        "date": "2024-12-23",
+        "last_updated": "2025-07-05"
+    },
+    {
+        "title": "[PDF] The three-dimensional impulse-response model - arXiv",
+        "url": "https://arxiv.org/pdf/2503.14841",
+        "date": null,
+        "last_updated": "2025-08-04"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+The new framework bypasses sensitivities observed in something else.
+
+The new framework generalizes to certain kinds of problems.
+
+The method is not sensitive to a certain input. 
+The new framework bypasses sensitivities observed in other methods.
+
+The new framework generalizes to more challenging or complex problems.
+
+The method is not sensitive to the initial guess.
+
+**********Web Search Result**********
+
+https://www.sciencedaily.com/releases/2025/04/250410131114.htm
+
+[
+    {
+        "title": "Ensembled machine learning framework for drug sensitivity ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8687333/",
+        "date": "2020-02-01",
+        "last_updated": "2024-10-31"
+    },
+    {
+        "title": "New method efficiently safeguards sensitive AI training data",
+        "url": "https://www.sciencedaily.com/releases/2025/04/250410131114.htm",
+        "date": "2025-04-10",
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "Algorithmic fairness and bias mitigation for clinical machine ...",
+        "url": "https://www.nature.com/articles/s42256-023-00697-3",
+        "date": "2023-07-31",
+        "last_updated": "2025-04-12"
+    },
+    {
+        "title": "MITRE ATLAS Framework 2025 - Guide to Securing AI ...",
+        "url": "https://www.practical-devsecops.com/mitre-atlas-framework-guide-securing-ai-systems/",
+        "date": "2025-07-10",
+        "last_updated": "2025-07-17"
+    },
+    {
+        "title": "iCost: A Novel Instance Complexity Based Cost-Sensitive ...",
+        "url": "https://arxiv.org/abs/2409.13007",
+        "date": "2024-09-19",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Bridging the Gap Between Machine Learning and ...",
+        "url": "https://arxiv.org/html/2312.13234v2",
+        "date": "2024-09-10",
+        "last_updated": "2025-06-14"
+    },
+    {
+        "title": "A framework to mitigate bias and improve outcomes in the ...",
+        "url": "https://aws.amazon.com/blogs/publicsector/framework-mitigate-bias-improve-outcomes-new-age-ai/",
+        "date": "2023-06-26",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "A quantum machine learning framework for predicting drug ...",
+        "url": "https://www.nature.com/articles/s41598-025-06544-2",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "AI Framework Makes Machine Learning Models Safer and ...",
+        "url": "https://access-ci.org/ai-framework-makes-machine-learning-models-safer-and-easier-to-understand/",
+        "date": "2025-06-04",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'The new framework bypasses sensitivities observed in something else.' is NOT supported by the citation.
+<reject> The text explains that the new variant of the PAC Privacy framework is more computationally efficient than the *original* PAC Privacy algorithm, specifically because it "does not need to represent the entire matrix of data correlations across the outputs." This means it overcomes a computational limitation of its predecessor. However, the text does not use the term "bypasses sensitivities" nor does it state that it bypasses issues "observed in something else" that is distinct from its own previous version. It describes an internal improvement rather than bypassing external sensitivities. </reject>
+
+**********Source Check**********
+
+The claim 'The new framework generalizes to certain kinds of problems.' is supported by the citation.
+<accept> The text states that the new framework creates "a formal template that can be used to privatize virtually any algorithm without needing access to that algorithm's inner workings," and that the team "utilized their new version of PAC Privacy to privatize several classic algorithms for data analysis and machine-learning tasks." This explicitly indicates that the framework generalizes to different kinds of algorithms and tasks, which are types of problems. </accept>
+
+**********Source Check**********
+
+The claim 'The method is not sensitive to a certain input.' is NOT supported by the citation.
+<reject> The article states that "stable algorithms" are easier to privatize with the new method, and defines "stable algorithms" as those whose "predictions remain consistent even when its training data are slightly modified," meaning they are not sensitive to slight changes in their training data (a type of input). However, this characteristic (not being sensitive to a certain input) is attributed to the "algorithms" that the method works on, not explicitly to "the method" (PAC Privacy framework) itself. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+The models are immune to a certain extent.
+
+The open-source models and code enable replication in a certain way.
+
+Code and models are made in a certain state. 
+The models are nearly completely immune to temporal misalignments.
+
+The open-source models and code enable easy replication of the results.
+
+Code and models are made publicly available.
+
+**********Web Search Result**********
+
+https://humanloop.com/blog/replicate-is-democratizing-ai-with-open-source
+
+[
+    {
+        "title": "How Replicate is Democratizing AI with Open-Source Resources",
+        "url": "https://humanloop.com/blog/replicate-is-democratizing-ai-with-open-source",
+        "date": "2024-11-19",
+        "last_updated": "2025-01-31"
+    },
+    {
+        "title": "Fully open reproduction of DeepSeek-R1",
+        "url": "https://github.com/huggingface/open-r1",
+        "date": "2025-01-24",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Open source at Replicate - Replicate docs",
+        "url": "https://replicate.com/docs/reference/open-source",
+        "date": null,
+        "last_updated": "2025-05-06"
+    },
+    {
+        "title": "Open Source Replication of Anthropic's Crosscoder paper ...",
+        "url": "https://www.alignmentforum.org/posts/srt6JXsRMtmqAJavD/open-source-replication-of-anthropic-s-crosscoder-paper-for",
+        "date": "2024-10-27",
+        "last_updated": "2025-06-29"
+    },
+    {
+        "title": "Embracing the Future of AI with Open Source and Open Science ...",
+        "url": "https://lfaidata.foundation/blog/2024/10/25/embracing-the-future-of-ai-with-open-source-and-open-science-models/",
+        "date": "2024-10-25",
+        "last_updated": "2024-10-26"
+    },
+    {
+        "title": "Manus AI is being replicated in Open Source",
+        "url": "https://www.youtube.com/watch?v=H1rWVvsjtTQ",
+        "date": "2025-03-23",
+        "last_updated": "2025-07-11"
+    },
+    {
+        "title": "Replicate - Run AI with an API",
+        "url": "https://replicate.com",
+        "date": "2025-06-01",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Replicate - GitHub",
+        "url": "https://github.com/replicate",
+        "date": "2025-07-18",
+        "last_updated": "2025-07-18"
+    },
+    {
+        "title": "How to Discover Open Source AI Models in Your Code - Endor Labs",
+        "url": "https://www.endorlabs.com/learn/how-to-discover-open-source-ai-models-in-your-code",
+        "date": "2025-01-28",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "When bots commit: AI-generated code in open source projects",
+        "url": "https://www.redhat.com/en/blog/when-bots-commit-ai-generated-code-open-source-projects",
+        "date": "2025-04-01",
+        "last_updated": "2025-08-05"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The models are immune to a certain extent.' is NOT supported by the citation.
+<reject> The provided text discusses various aspects of AI models, including their capabilities, deployment, customization, and the challenges associated with them. However, it does not contain any explicit mention or discussion of the models being "immune to a certain extent" or any similar concept related to model immunity. </reject>
+
+**********Source Check**********
+
+The claim 'The open-source models and code enable replication in a certain way.' is supported by the citation.
+<accept> The content explicitly states that Replicate's "open-source Cog technology" allows developers to "package models into containers, bringing the 'write once, deploy anywhere' philosophy to AI." This enables engineers to "run and customize AI models without in-depth ML knowledge," effectively enabling replication and deployment of these models. </accept>
+
+**********Source Check**********
+
+The claim 'Code and models are made in a certain state.' is supported by the citation.
+<accept> The content explicitly mentions that models are made and maintained in a "production-ready" state. It details the process of packaging machine learning models into containers with technologies like Cog to ensure they are in a runnable state with all necessary dependencies, drivers, and configurations, contrasting this with the past where models often consisted of "scraps of code on GitHub" that "didn't work" or lacked "weights." This directly addresses the concept of code and models being made or put into a "certain state" for use. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+1. LLMs synthesize patterns from something.
+
+2. A fundamental limitation of LLMs is their constraint to something.
+
+3. Formal systems in artificial reason struggle with something. 
+LLMs synthesize patterns from vast data.
+
+A fundamental limitation of LLMs is their constraint to ‘mean-reverting’ outputs.
+
+Formal systems in artificial reason struggle with ambiguity.
+
+**********Web Search Result**********
+
+https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00160/124234/The-Limitations-of-Large-Language-Models-for
+
+[
+    {
+        "title": "The Limitations of Large Language Models for Understanding ...",
+        "url": "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00160/124234/The-Limitations-of-Large-Language-Models-for",
+        "date": "2024-08-31",
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "Understanding the Strengths and Limitations of Reasoning Models ...",
+        "url": "https://machinelearning.apple.com/research/illusion-of-thinking",
+        "date": "2025-05-28",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "Large Language Models Are So Unreasonable! - Wand AI",
+        "url": "https://wand.ai/blog/large-language-models-are-so-unreasonable",
+        "date": "2025-06-05",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Limitations of Formal Systems | Formal Logic I Class Notes - Fiveable",
+        "url": "https://library.fiveable.me/formal-logic-i/unit-13/limitations-formal-systems/study-guide/Y27y3CeWipDwpoZk",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "A Primer on Large Language Models and their Limitations - arXiv",
+        "url": "https://arxiv.org/html/2412.04503v1",
+        "date": "2024-12-03",
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "The Insurmountable Problem of Formal Reasoning in Large ...",
+        "url": "https://www.ai-supremacy.com/p/the-insurmountable-problem-of-formal-cab",
+        "date": "2025-03-01",
+        "last_updated": "2025-03-10"
+    },
+    {
+        "title": "Probing the limitations of multimodal language models for chemistry ...",
+        "url": "https://www.nature.com/articles/s43588-025-00836-3",
+        "date": "2025-08-11",
+        "last_updated": null
+    },
+    {
+        "title": "How to Overcome the Limitations of Large Language Models",
+        "url": "https://www.deepchecks.com/how-to-overcome-the-limitations-of-large-language-models/",
+        "date": "2023-08-21",
+        "last_updated": "2025-03-21"
+    }
+]
+
+**********Source Check**********
+
+The claim '1. LLMs synthesize patterns from something.' is supported by the citation.
+<accept> The text states that LLMs "rely on immersive exposure to vastly greater quantities of unimodal text data" and that "given vast amounts of language data, LLMs can build something like a model of the world" by leveraging "the relationships between forms and the contexts in which they are used." This implies that LLMs synthesize patterns from this data to mimic meaning and text. </accept>
+
+**********Source Check**********
+
+The claim '2. A fundamental limitation of LLMs is their constraint to something.' is supported by the citation.
+<accept> The text explicitly states that LLMs were "designed to imitate the very specific behavior of human _writing_" and that their "reliance on (and confined functional competence in) text" is a fundamental limitation. It further elaborates that this constraint limits their "capacities for meaning and naturalistic interaction, and their potential for dealing with the diversity in human language," especially languages that are not represented by text (like sign languages or unwritten spoken languages). </accept>
+
+**********Source Check**********
+
+The claim '3. Formal systems in artificial reason struggle with something.' is supported by the citation.
+<accept> The article explicitly discusses the limitations and struggles of Large Language Models (LLMs), which are a form of artificial intelligence or "artificial reason." For instance, the abstract states that LLMs "limit their capacities for meaning and naturalistic interaction, and their potential for dealing with the diversity in human language." The section "THE LIMITS OF FUNCTIONAL SIMILARITY" further details various struggles, such as LLMs' inability to truly "have meaning," their lack of organic symbol grounding, limitations in full conversational functionality, and difficulties with languages not represented in text, including sign languages. It also mentions that LLMs don't always perform well on specific linguistic tasks like generalizing morphological rules or understanding interrogative clauses. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'LLMs synthesize patterns from vast data.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1 Introduction" section: "Large Language Models (LLMs) based on the Transformer architecture (...) have demonstrated powerful capabilities in synthesizing statistically likely patterns from vast data." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A fundamental limitation of LLMs is their constraint to ‘mean-reverting’ outputs.' is supported by the original webpage.
+<accept> The text explicitly states: "Large Language Models (LLMs) based on the Transformer architecture...have demonstrated powerful capabilities...However, this strength is also a fundamental limitation, constraining them to convergent, ‘mean-reverting’ outputs that inhibit the generation of genuinely novel hypotheses." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Formal systems in artificial reason struggle with ambiguity.' is supported by the original webpage.
+<accept> The content explicitly states, "This issue reflects long-standing critiques of artificial reason, where formal systems struggle with the ambiguity and creative extrapolation inherent in human cognition." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+Natural language inference (NLI) is a **in a certain way** for pairs of texts, each pair consisting of a premise and a hypothesis.
+
+Manually creating datasets is **in a certain state**.
+
+NLI pairs are labeled **with certain labels**. 
+Manually creating datasets is labor-intensive.
+
+NLI pairs are labeled as entailment, neutral, or contradiction.
+
+Natural language inference (NLI) is a classification problem for pairs of texts, each pair consisting of a premise and a hypothesis.
+
+**********Web Search Result**********
+
+http://nlpprogress.com/english/natural_language_inference.html
+
+[
+    {
+        "title": "Natural language inference",
+        "url": "http://nlpprogress.com/english/natural_language_inference.html",
+        "date": "2018-01-01",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "Understanding Natural Language Inference (NLI)",
+        "url": "https://www.miquido.com/ai-glossary/natural-language-inference/",
+        "date": "2025-03-21",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "16.4. Natural Language Inference and the Dataset",
+        "url": "https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html",
+        "date": "2016-04-04",
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "Natural Language Inference",
+        "url": "https://sbert.net/examples/cross_encoder/training/nli/README.html",
+        "date": null,
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Natural Language Inference",
+        "url": "https://docs.galileo.ai/galileo/galileo-nlp-studio/natural-language-inference",
+        "date": "2024-08-14",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Natural Language Inference",
+        "url": "https://sbert.net/examples/sentence_transformer/training/nli/README.html",
+        "date": null,
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Natural language inference (NLI) is a **in a certain way** for pairs of texts, each pair consisting of a premise and a hypothesis.' is NOT supported by the citation.
+<reject> The content states that Natural Language Inference is "the task of determining whether a 'hypothesis' is true (entailment), false (contradiction), or undetermined (neutral) given a 'premise'", which implies working with pairs of texts (premise and hypothesis). However, it does not use the phrase "in a certain way" to describe NLI. </reject>
+
+**********Source Check**********
+
+The claim 'Manually creating datasets is **in a certain state**.' is NOT supported by the citation.
+<reject> The text mentions that the SciTail dataset was not crowd-sourced, implying that SNLI and MultiNLI were crowd-sourced (a form of manual data creation). However, it does not make a general statement about the "state" of manually creating datasets (e.g., whether it is common, difficult, efficient, etc.). </reject>
+
+**********Source Check**********
+
+The claim 'NLI pairs are labeled **with certain labels**.' is supported by the citation.
+<accept> The webpage explicitly states the labels for Natural Language Inference (NLI) pairs in the introductory paragraph: "Natural language inference is the task of determining whether a “hypothesis” is true (entailment), false (contradiction), or undetermined (neutral) given a “premise”." This is further supported by the example table which has a 'Label' column showing these specific labels. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11603v1 
+CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion 
+This instability often leads to outputs in a certain state.
+
+Something causes the attention process to become highly unstable. 
+This pipeline allows users to choose preferred results from multiple candidates.
+
+This instability often leads to low-quality and over-saturated outputs.
+
+An insufficient token count causes the attention process to become highly unstable.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.04925v1
+
+[
+    {
+        "title": "Tracking behavioral and neural fluctuations during ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5857436/",
+        "date": "2018-01-04",
+        "last_updated": "2025-07-15"
+    },
+    {
+        "title": "Taxonomy of Faults in Attention-Based Neural Networks",
+        "url": "https://arxiv.org/html/2508.04925v1",
+        "date": "2025-08-06",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "Behavioral and neural stability of attention bias to threat in ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5139370/",
+        "date": "2016-04-27",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Attention in Psychology, Neuroscience, and Machine ...",
+        "url": "https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00029/full",
+        "date": "2020-04-16",
+        "last_updated": "2025-07-18"
+    },
+    {
+        "title": "A deep neural network with attention mechanism for flow ...",
+        "url": "https://www.nature.com/articles/s41598-025-99688-0",
+        "date": "2025-05-10",
+        "last_updated": "2025-05-10"
+    },
+    {
+        "title": "Attention-aware convolutional neural networks for ...",
+        "url": "https://arxiv.org/abs/2412.13498",
+        "date": "2024-12-18",
+        "last_updated": "2025-05-21"
+    }
+]
+
+**********Source Check**********
+
+The claim 'This instability often leads to outputs in a certain state.' is supported by the citation.
+<accept> The text explicitly states that "The use of attention mechanisms... introduces structural instabilities and behavioural anomalies" and details how these issues lead to various "silent degradation patterns in attention model outputs" such as "output corruption," "nonsensical outputs," "historically inaccurate outputs," "attention divergence or collapse," "repetitive outputs," and "context bleeding," which are all specific "states" of the output. </accept>
+
+**********Source Check**********
+
+The claim 'Something causes the attention process to become highly unstable.' is supported by the citation.
+<accept> The text explicitly states in the Introduction section that "The use of attention mechanisms that selectively focus on different parts of an input introduces structural instabilities and behavioural anomalies that the classic architectures (e.g., CNN, RNN) do not face". This directly implies that the use of attention mechanisms can cause the attention process to become unstable. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This pipeline allows users to choose preferred results from multiple candidates.' is supported by the original webpage.
+<accept> The abstract explicitly states: "In addition, we design a selective editing pipeline that allows users to choose preferred results from multiple candidates, offering greater flexibility and user control." This directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'This instability often leads to low-quality and over-saturated outputs.' is supported by the original webpage.
+<accept> The text explicitly states, "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs (see Fig. 8)." This matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An insufficient token count causes the attention process to become highly unstable.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the content under the section discussing challenges with directly applying CCA: "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs (see Fig. 8)." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11599v1 
+CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection 
+1. CryptoScope, a novel framework for automated cryptographic vulnerability detection, is powered by something.
+
+2. CryptoScope combines Chain-of-Thought (CoT) prompting with Retrieval-Augmented Generation (RAG) in a certain way.
+
+3. CryptoScope is guided by a curated cryptographic knowledge base containing in a certain state.
+
+4. CryptoScope is evaluated on something, a benchmark of 92 cases.
+
+5. The 92 cases are primarily derived from something.
+
+6. The cases are complemented by cryptographic challenges from major Capture The Flag (CTF) competitions and synthetic examples across in a certain state.
+
+7. CryptoScope consistently improves performance over something.
+
+8. CryptoScope boosts DeepSeek-V3 by 11.62%, GPT-4o-mini by 20.28%, and GLM-4-Flash by 28.69% in a certain way.
+
+9. CryptoScope identifies something in widely used open-source cryptographic projects.
+
+10. CryptoScope is the first LLM-based framework for detecting something.
+
+11. CryptoScope initiates with a pre-detection step verifying something.
+
+12. CryptoScope employs few-shot learning combined with Chain-of-Thought (CoT) prompting in a certain way to guide the LLM in analyzing code parameters and logic.
+
+13. CryptoScope builds a cryptographic knowledge base by extracting something.
+
+14. CryptoScope integrates relevant knowledge via Retrieval-Augmented Generation (RAG) in a certain way to enhance reasoning accuracy.
+
+15. Detection results are output in a certain state.
+
+16. CryptoScope is evaluated using something across six representative LLMs.
+
+17. CryptoScope discovered 9 previously unknown cryptographic flaws when deployed on something.
+
+18. LLM-CLVA is a benchmark comprising in a certain state.
+
+19. CryptoScope is a language-agnostic LLM-based system in a certain state.
+
+20. CryptoScope leverages CoT and RAG for cryptographic logic vulnerability detection in a certain way.
+
+21. CryptoScope has strong experimental gains across architectures, validated by ablations, real-world discoveries, and improved human analysis through knowledge augmentation in a certain way. 
+Cryptographic algorithms and protocols are fundamental to securing computer systems.
+
+Cryptographic algorithms offer confidentiality, integrity, and authentication based on strong mathematical foundations.
+
+Developers must implement algorithms accurately, handle inputs properly, select parameters carefully, and optimize performance.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11599v1
+
+[
+    {
+        "title": "CryptoScope: Utilizing Large Language Models for ...",
+        "url": "https://arxiv.org/html/2508.11599v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Retrieval-Augmented Generation (RAG) - Shift Asia",
+        "url": "https://shiftasia.com/community/retrieval-augmented-generation-rag-a-comprehensive-guide-to-smarter-more-accurate-ai/",
+        "date": "2025-06-12",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "CryptoScope: Utilizing Large Language Models for ...",
+        "url": "https://arxiv.org/abs/2508.11599",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Cognitive RAG-Chain of Thought Approach in Retrieval ...",
+        "url": "https://dev.to/nikhil_reddy_/cognitive-rag-chain-of-thought-approach-in-retrieval-augmented-generation-on-graph-data-5mf",
+        "date": "2025-02-02",
+        "last_updated": "2025-02-10"
+    },
+    {
+        "title": "Cryptoscope: Analyzing cryptographic usages in modern ...",
+        "url": "https://research.ibm.com/publications/cryptoscope-analyzing-cryptographic-usages-in-modern-software",
+        "date": "2025-03-25",
+        "last_updated": "2025-07-04"
+    },
+    {
+        "title": "How might we use a chain-of-thought style prompt in RAG ...",
+        "url": "https://milvus.io/ai-quick-reference/how-might-we-use-a-chainofthought-style-prompt-in-rag-like-first-instructing-the-model-to-summarize-or-analyze-the-docs-then-asking-the-question-and-what-are-the-proscons-of-this-approach",
+        "date": "2025-07-24",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "CipherH: Automated Detection of Ciphertext Side-channel ...",
+        "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/deng-sen",
+        "date": null,
+        "last_updated": "2025-07-16"
+    },
+    {
+        "title": "ergv03/chain-of-thoughts-with-rag",
+        "url": "https://github.com/ergv03/chain-of-thoughts-with-rag",
+        "date": "2023-09-21",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "An Automated Vulnerability Detection Framework for Smart ...",
+        "url": "https://dl.acm.org/doi/10.1145/3705616",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Retrieval-Augmented Generation (RAG) for LLMs in 2025 ...",
+        "url": "https://www.rapidinnovation.io/post/retrieval-augmented-generation-using-your-data-with-llms",
+        "date": "2024-09-19",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim '1. CryptoScope, a novel framework for automated cryptographic vulnerability detection, is powered by something.' is supported by the citation.
+<accept> The abstract explicitly states: "We introduce CryptoScope, a novel framework for automated cryptographic vulnerability detection powered by Large Language Models (LLMs)." This directly answers what CryptoScope is powered by. </accept>
+
+**********Source Check**********
+
+The claim '2. CryptoScope combines Chain-of-Thought (CoT) prompting with Retrieval-Augmented Generation (RAG) in a certain way.' is supported by the citation.
+<accept> The abstract explicitly states: "CryptoScope combines Chain-of-Thought (CoT) prompting with Retrieval-Augmented Generation (RAG), guided by a curated cryptographic knowledge base containing over 12,000 entries." The introduction further elaborates on how CryptoScope employs CoT prompting and integrates relevant knowledge via RAG to enhance reasoning accuracy. </accept>
+
+**********Source Check**********
+
+The claim '3. CryptoScope is guided by a curated cryptographic knowledge base containing in a certain state.' is supported by the citation.
+<accept> The abstract explicitly states that "CryptoScope ... guided by a curated cryptographic knowledge base containing over 12,000 entries." This directly matches the information provided, specifying the number of entries in the knowledge base. </accept>
+
+**********Source Check**********
+
+The claim '4. CryptoScope is evaluated on something, a benchmark of 92 cases.' is supported by the citation.
+<accept> The text explicitly states in the Abstract and Section 1 (Introduction) that "We evaluate CryptoScope on LLM-CLVA, a benchmark of 92 cases". Section 3.1 (Construction of the LLM-CLVA Benchmark) further details the composition of this 92-sample benchmark. </accept>
+
+**********Source Check**********
+
+The claim '5. The 92 cases are primarily derived from something.' is supported by the citation.
+<accept> The abstract and Section 1, "Introduction," state that the LLM-CLVA benchmark, which consists of 92 cases/samples, is "primarily derived from real-world CVE vulnerabilities, complemented by cryptographic challenges from major Capture The Flag (CTF) competitions and synthetic examples." Section 3.1, "Construction of the LLM-CLVA Benchmark," further breaks down the derivation percentages for CVE entries (57%), CTF challenges (30%), and artificially constructed examples (13%). </accept>
+
+**********Source Check**********
+
+The claim '6. The cases are complemented by cryptographic challenges from major Capture The Flag (CTF) competitions and synthetic examples across in a certain state.' is NOT supported by the citation.
+<reject> The information mentions "synthetic examples across in a certain state", whereas the content explicitly states "synthetic examples across 11 programming languages", which is more specific than "in a certain state". </reject>
+
+**********Source Check**********
+
+The claim '7. CryptoScope consistently improves performance over something.' is supported by the citation.
+<accept> The abstract states: "CryptoScope consistently improves performance over strong LLM baselines, boosting DeepSeek-V3 by 11.62%, GPT-4o-mini by 20.28%, and GLM-4-Flash by 28.69%." This directly indicates that CryptoScope improves performance over "strong LLM baselines."</accept>
+
+**********Source Check**********
+
+The claim '8. CryptoScope boosts DeepSeek-V3 by 11.62%, GPT-4o-mini by 20.28%, and GLM-4-Flash by 28.69% in a certain way.' is supported by the citation.
+<accept> The abstract explicitly states that "CryptoScope consistently improves performance over strong LLM baselines, boosting DeepSeek-V3 by 11.62%, GPT-4o-mini by 20.28%, and GLM-4-Flash by 28.69%." This directly confirms the information provided. </accept>
+
+**********Source Check**********
+
+The claim '9. CryptoScope identifies something in widely used open-source cryptographic projects.' is supported by the citation.
+<accept> The abstract states, "Additionally, it identifies 9 previously undisclosed flaws in widely used open-source cryptographic projects." The introduction also mentions, "Deployed on 20 open-source projects, CryptoScope discovered 9 previously unknown cryptographic flaws". Furthermore, Section 5.3, "RQ3: Real-world Evaluation," details that CryptoScope "uncovered various logic-level flaws" and "discovered 9 previously unknown cryptographic flaws" in "real-world cryptographic codebases" and "open-source cryptographic projects." </accept>
+
+**********Source Check**********
+
+The claim '10. CryptoScope is the first LLM-based framework for detecting something.' is supported by the citation.
+<accept> The content explicitly states in the "Introduction" section: "To address this gap, we propose CryptoScope, the first LLM-based framework for detecting cryptographic logic vulnerabilities." This directly supports the claim that CryptoScope is the first LLM-based framework for detecting "cryptographic logic vulnerabilities". </accept>
+
+**********Source Check**********
+
+The claim '11. CryptoScope initiates with a pre-detection step verifying something.' is supported by the citation.
+<accept> The text explicitly states in the '1 Introduction' section: "It initiates with a pre-detection step verifying algorithm correctness". This directly confirms that CryptoScope initiates with a pre-detection step that verifies algorithm correctness. </accept>
+
+**********Source Check**********
+
+The claim '12. CryptoScope employs few-shot learning combined with Chain-of-Thought (CoT) prompting in a certain way to guide the LLM in analyzing code parameters and logic.' is supported by the citation.
+<accept> The text explicitly states in the "1 Introduction" section that CryptoScope "employs few-shot learning combined with Chain-of-Thought (CoT) prompting to guide the LLM in analyzing code parameters and logic." </accept>
+
+**********Source Check**********
+
+The claim '13. CryptoScope builds a cryptographic knowledge base by extracting something.' is supported by the citation.
+<accept> The content states in the "Introduction" section: "We further build a cryptographic knowledge base by extracting diverse, multi-source domain information". It is also stated in section 3.2, "Phase-1 Diversified Cryptographic Knowledge Base Construction: Cryptographic knowledge is extracted from various unstructured documents via LLMs to construct the diversified cryptographic knowledge base," and further elaborated in section 3.3 that this is done "by crawling a wide range of open-source unstructured materials and applying large-model-assisted extraction and segmentation." </accept>
+
+**********Source Check**********
+
+The claim '14. CryptoScope integrates relevant knowledge via Retrieval-Augmented Generation (RAG) in a certain way to enhance reasoning accuracy.' is supported by the citation.
+<accept> The introduction section explicitly states: "We further build a cryptographic knowledge base by extracting diverse, multi-source domain information and integrate relevant knowledge via Retrieval-Augmented Generation (RAG) [15] to enhance reasoning accuracy." This confirms that CryptoScope integrates relevant knowledge via RAG to enhance reasoning accuracy. </accept>
+
+**********Source Check**********
+
+The claim '15. Detection results are output in a certain state.' is supported by the citation.
+<accept> The content explicitly states in the '1 Introduction' section, second-to-last paragraph: "Detection results are output in a structured, developer friendly format." This confirms that detection results are output in a certain state (structured, developer friendly format).</accept>
+
+**********Source Check**********
+
+The claim '16. CryptoScope is evaluated using something across six representative LLMs.' is supported by the citation.
+<accept> The content explicitly states in the "1 Introduction" and "5.1 RQ1: Effectiveness Compared to Baselines" sections that "We evaluate CryptoScope... across six representative LLMs". </accept>
+
+**********Source Check**********
+
+The claim '17. CryptoScope discovered 9 previously unknown cryptographic flaws when deployed on something.' is supported by the citation.
+<accept> The information states that CryptoScope discovered 9 previously unknown cryptographic flaws. The content explicitly mentions this in the Abstract: "it identifies 9 previously undisclosed flaws in widely used open-source cryptographic projects." It is further detailed in Section 1, Introduction: "Deployed on 20 open-source projects, CryptoScope discovered 9 previously unknown cryptographic flaws". Section 6, Conclusion, also reiterates this: "discovered 9 undisclosed vulnerabilities in real-world projects." Additionally, Table 4 lists 9 specific vulnerabilities found in open-source cryptographic projects. </accept>
+
+**********Source Check**********
+
+The claim '18. LLM-CLVA is a benchmark comprising in a certain state.' is supported by the citation.
+<accept> The content explicitly states that "LLM-CLVA is a benchmark" multiple times and details what it comprises, including "92 cases primarily derived from real-world CVE vulnerabilities, complemented by cryptographic challenges from major Capture The Flag (CTF) competitions and synthetic examples across 11 programming languages." It further breaks down the composition by percentage: "Code samples of cryptographic logic vulnerabilities from CVE entries (57%), High-quality cryptographic challenges from major international CTF competitions (30%), Artificially constructed algorithm implementations violating cryptographic standards (13%)." This provides the specific "state" of its composition. </accept>
+
+**********Source Check**********
+
+The claim '19. CryptoScope is a language-agnostic LLM-based system in a certain state.' is supported by the citation.
+<accept> The text explicitly states under the "Framework" contribution: "CryptoScope, a language-agnostic LLM-based system leveraging CoT and RAG for cryptographic logic vulnerability detection without code execution." This confirms that CryptoScope is a language-agnostic LLM-based system and describes its nature and function. </accept>
+
+**********Source Check**********
+
+The claim '20. CryptoScope leverages CoT and RAG for cryptographic logic vulnerability detection in a certain way.' is supported by the citation.
+<accept> The abstract and introduction explicitly state that "CryptoScope combines Chain-of-Thought (CoT) prompting with Retrieval-Augmented Generation (RAG)" for "automated cryptographic logic vulnerability detection." Section 3.4 "Pre-detection" details how "few-shot CoT prompting guides the LLM to detect potential flaws by breaking down security goals... Prompts focus on typical issues like input validation, primitive misuse, and error handling." Section 3.5 "RAG-based Vulnerability Analysis" explains that RAG "leverages external cryptographic knowledge to enhance and support the reasoning process," using signals from the code's semantic summary and CoT-based reasoning outputs. </accept>
+
+**********Source Check**********
+
+The claim '21. CryptoScope has strong experimental gains across architectures, validated by ablations, real-world discoveries, and improved human analysis through knowledge augmentation in a certain way.' is supported by the citation.
+<accept> The text explicitly states under "The contributions of this work can be summarized as follows" that CryptoScope has "Strong experimental gains across architectures, validated by ablations, real-world discoveries, and improved human analysis through knowledge augmentation." This directly matches the provided information.</accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+The contrastive approach requires something.
+
+The objectives of these distinct strategies can be augmented with something else.
+
+The objectives of these distinct strategies can be done in a certain way. 
+The contrastive approach requires heuristics to define positive and negative samples.
+
+The objectives of these distinct strategies can be augmented with additional heuristics.
+
+The objectives of these distinct strategies can be combined.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Contrastive learning for machine learning success",
+        "url": "https://telnyx.com/learn-ai/contrastive-learning",
+        "date": "2025-01-28",
+        "last_updated": "2025-01-31"
+    },
+    {
+        "title": "Contrastive Learning: A Powerful Approach to Self-Supervised ...",
+        "url": "https://www.netguru.com/blog/contrastive-learning",
+        "date": "2025-03-24",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What is Contrastive Learning? A guide. - Roboflow Blog",
+        "url": "https://blog.roboflow.com/contrastive-learning-machine-learning/",
+        "date": "2024-10-07",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Full Guide to Contrastive Learning | Encord",
+        "url": "https://encord.com/blog/guide-to-contrastive-learning/",
+        "date": "2023-07-14",
+        "last_updated": "2025-07-03"
+    },
+    {
+        "title": "All About Contrastive Learning: Key Concepts and Benefits - Sapien",
+        "url": "https://www.sapien.io/blog/contrastive-learning",
+        "date": "2024-11-13",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Contrastive Learning in Computer Vision: Advancements ... - Pareto.AI",
+        "url": "https://pareto.ai/blog/contrastive-learning-in-computer-vision",
+        "date": "2024-04-18",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "The Beginner's Guide to Contrastive Learning - V7 Labs",
+        "url": "https://www.v7labs.com/blog/contrastive-learning-guide",
+        "date": "2022-05-22",
+        "last_updated": "2025-07-31"
+    },
+    {
+        "title": "New contrastive-learning methods for better data representation",
+        "url": "https://www.amazon.science/blog/new-contrastive-learning-methods-for-better-data-representation",
+        "date": null,
+        "last_updated": "2025-08-20"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+Problems initially identified as “simple” may remain challenging for an LLM whose capability still needs in a certain way.
+
+Some studies incorporate compression techniques like something to filter out intermediate tokens.
+
+The redundancy from Long CoT causes significant delays in something. 
+Problems initially identified as “simple” may remain challenging for an LLM whose capability still needs longer exploration.
+
+Some studies incorporate compression techniques like static pruning thresholds to filter out intermediate tokens.
+
+The redundancy from Long CoT causes significant delays in real-time applications.
+
+**********Web Search Result**********
+
+https://www.emergentmind.com/topics/compressed-chain-of-thought-ccot
+
+[
+    {
+        "title": "Limitations of LLM Reasoning",
+        "url": "https://dzone.com/articles/llm-reasoning-limitations",
+        "date": "2025-02-04",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+        "url": "https://aclanthology.org/2025.acl-long.300.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[Literature Review] R1-Compress: Long Chain-of-Thought ...",
+        "url": "https://www.themoonlight.io/en/review/r1-compress-long-chain-of-thought-compression-via-chunk-compression-and-search",
+        "date": "2025-05-21",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "Easy Problems That LLMs Get Wrong",
+        "url": "https://arxiv.org/html/2405.19616v2",
+        "date": "2024-06-01",
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "Compressed Chain-of-Thought (CCoT)",
+        "url": "https://www.emergentmind.com/topics/compressed-chain-of-thought-ccot",
+        "date": "2025-07-15",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Controllable Chain-of-Thought Compression in LLMs",
+        "url": "https://arxiv.org/html/2502.12067v1",
+        "date": "2025-02-17",
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "10 Biggest Limitations of Large Language Models",
+        "url": "https://www.projectpro.io/article/llm-limitations/1045",
+        "date": "2024-10-28",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "[2505.16838] R1-Compress: Long Chain-of-Thought ...",
+        "url": "https://arxiv.org/abs/2505.16838",
+        "date": "2025-05-22",
+        "last_updated": "2025-07-25"
+    },
+    {
+        "title": "Controllable Chain-of-Thought Compression in LLMs",
+        "url": "https://openreview.net/forum?id=FtjH8MzUdM",
+        "date": "2025-05-09",
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "LLM Limitations: When Models and Chatbots Make Mistakes",
+        "url": "https://learnprompting.org/docs/basics/pitfalls",
+        "date": "2025-03-06",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Problems initially identified as “simple” may remain challenging for an LLM whose capability still needs in a certain way.' is NOT supported by the citation.
+<reject> The text states that LLMs "do not yet achieve near-optimal adaptivity" when it comes to using shorter reasoning chains for "easy questions," implying an inefficiency or sub-optimal resource allocation. However, it does not explicitly state that "problems initially identified as 'simple' may remain challenging" for the LLM in terms of their ability to correctly solve them. The challenge highlighted is adaptivity and efficiency, not inherent difficulty in solving simple problems. </reject>
+
+**********Source Check**********
+
+The claim 'Some studies incorporate compression techniques like something to filter out intermediate tokens.' is supported by the citation.
+<accept> The text explicitly mentions "Adaptive GoGI-Skip" as a CCoT approach that "selectively prune low-influence tokens," which aligns with the concept of a compression technique used to filter out intermediate tokens. </accept>
+
+**********Source Check**********
+
+The claim 'The redundancy from Long CoT causes significant delays in something.' is supported by the citation.
+<accept> The content states that "Classical chain-of-thought ( CoT) prompting yields step-by-step, multi-token rationales, which not only improve problem-solving accuracy but also impose substantial latency and resource demands. However, explicit CoT responses are often verbose, linguistically redundant, and require the model to process and maintain long token sequences (often hundreds or thousands of tokens) during inference. This creates significant inefficiencies, both in inference speed (due to quadratic attention cost) and in energy/memory requirements." This directly links linguistic redundancy and long token sequences (which characterize "Long CoT") to "substantial latency" and "significant inefficiencies, both in inference speed". </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+Older adults in the United States lost an estimated something to fraud in 2023.
+
+The something centers youth as both affected parties and potential allies.
+
+Focus groups were conducted with someone, all aged 65 or older. 
+Older adults in the United States lost an estimated $61.5 billion to fraud in 2023.
+
+The dual victimization framework centers youth as both affected parties and potential allies.
+
+Focus groups were conducted with 37 older adults, all aged 65 or older.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Americans over 60 lost $3.4 billion to scams in 2023, FBI ...",
+        "url": "https://www.livenowfox.com/news/fbi-elder-fraud-report-2023",
+        "date": "2025-03-28",
+        "last_updated": "2025-03-28"
+    },
+    {
+        "title": "FTC Issues Annual Report to Congress on Agency's ...",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults",
+        "date": "2024-10-18",
+        "last_updated": "2024-10-18"
+    },
+    {
+        "title": "FTC: Older adults lost up to $61.5B to fraud in 2023",
+        "url": "https://bankingjournal.aba.com/2024/11/ftc-older-adults-lost-up-to-61-5b-to-fraud-in-2023/",
+        "date": "2024-11-01",
+        "last_updated": "2024-11-02"
+    },
+    {
+        "title": "FBI Releases 2023 Elder Fraud Report with Tech Support ...",
+        "url": "https://www.fbi.gov/contact-us/field-offices/losangeles/news/fbi-releases-2023-elder-fraud-report-with-tech-support-scams-generating-the-most-complaints-and-investment-scams-proving-the-costliest",
+        "date": "2024-05-02",
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "FTC Report Shows Older Adults Hit Hard by Scams, Fraud",
+        "url": "https://www.aarp.org/money/scams-fraud/older-adults-ftc-fraud-report.html",
+        "date": "2025-03-12",
+        "last_updated": "2025-03-20"
+    },
+    {
+        "title": "IC3 2023 Elder Fraud Report",
+        "url": "https://www.ic3.gov/annualreport/reports/2023_ic3elderfraudreport.pdf",
+        "date": "2023-12-12",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Elder fraud is rising. And it is hurting more than just finances.",
+        "url": "https://www.uchealth.org/today/elder-fraud-is-rising-and-it-is-hurting-more-than-just-finances/",
+        "date": "2025-06-17",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "The Top 5 Financial Scams Targeting Older Adults",
+        "url": "https://www.ncoa.org/article/top-5-financial-scams-targeting-older-adults/",
+        "date": "2025-02-20",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "False alarm, real scam: how scammers are stealing older ...",
+        "url": "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2025/08/false-alarm-real-scam-how-scammers-are-stealing-older-adults-life-savings",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Elder Fraud",
+        "url": "https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/elder-fraud",
+        "date": "2020-04-06",
+        "last_updated": "2025-07-16"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+Data must be in a certain state before processing in most cases.
+
+Examples of critical systems include something.
+
+Unauthorized access, leakage, or misuse of military data could be affected in a certain way. 
+Data must be decrypted before processing in most cases.
+
+Examples of critical systems include medical diagnostics, predictive healthcare, and military decision making.
+
+Unauthorized access, leakage, or misuse of military data could compromise national security, operational plans, or strategic assets.
+
+**********Web Search Result**********
+
+https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500083p.pdf
+
+[
+    {
+        "title": "DoDI 5000.83, \"Technology and Program Protection to ...",
+        "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500083p.pdf",
+        "date": "2020-07-20",
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "Big Data | Effective Collecting, Analyzing, Using ...",
+        "url": "https://www.army.mil/article/270894/big_data_effective_collecting_analyzing_using_data_critical_for_success_on_the_battlefield",
+        "date": "2023-11-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[PDF] Unauthorized Disclosure Student Guide - CDSE",
+        "url": "https://www.cdse.edu/Portals/124/Documents/student-guides/IF130-guide.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "FIPS 199, Standards for Security Categorization of Federal ...",
+        "url": "https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Critical Operations Data Systems",
+        "url": "https://iaeimagazine.org/2011/september2011/critical-operations-data-systems/",
+        "date": "2011-09-16",
+        "last_updated": "2025-07-12"
+    },
+    {
+        "title": "Military Computer Crimes: What Constitutes a Cybercrime?",
+        "url": "https://militarytrialdefenders.com/blog/cyber-crimes/",
+        "date": null,
+        "last_updated": "2024-07-31"
+    },
+    {
+        "title": "DoD Instruction 5000.82, \"Requirements for the Acquisition ...",
+        "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf",
+        "date": "2023-06-01",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Critical Information List (CIL) Example",
+        "url": "https://www.dni.gov/files/NCSC/documents/nittf/Critical-Information-List-(CIL)-Example.pdf",
+        "date": null,
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Serious consequences for mishandling personal ID info > Scott Air ...",
+        "url": "https://www.scott.af.mil/News/Article/766896/serious-consequences-for-mishandling-personal-id-info/",
+        "date": "2013-12-18",
+        "last_updated": "2024-09-15"
+    },
+    {
+        "title": "Critical Program Information Risk Assessment",
+        "url": "https://content1.dau.edu/DAUMIG_se-brainbook_189/content/Management%20Processes/Critical-Program-Information-Risk-Assessment.html",
+        "date": "2020-07-29",
+        "last_updated": "2024-12-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Data must be in a certain state before processing in most cases.' is NOT supported by the citation.
+<reject> The document is a DoD instruction primarily focused on technology and program protection, cybersecurity, and safeguarding classified and unclassified technical information. While it discusses the handling, marking, and protection of data/information to mitigate risks, it does not contain any general statement or explicit mention that "Data must be in a certain state before processing in most cases." The "state" of data it refers to is related to its security classification and handling protocols, not a prerequisite for general processing. </reject>
+
+**********Source Check**********
+
+The claim 'Examples of critical systems include something.' is NOT supported by the citation.
+<reject> The document mentions "critical technology," "critical components," and "mission-critical functions" but does not provide explicit examples of "critical systems." </reject>
+
+**********Source Check**********
+
+The claim 'Unauthorized access, leakage, or misuse of military data could be affected in a certain way.' is supported by the citation.
+<accept> The content explicitly mentions that malicious activity by threat actors includes "unauthorized activity to gain access to: DoD-sponsored research... DoD-advanced technology... Intellectual property, designs, or technical information to weaken U.S. technological and military advantage." This directly addresses unauthorized access to military data and its potential negative effects. It also mentions that unclassified information, when combined, could allow an adversary to "Compromise, counter, clone, or defeat a warfighting capability; or Gain a cost and schedule advantage," which relates to the misuse or leakage of data. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+The proposed framework reduces synchronization errors to as low as a certain percentage.
+
+Something decouples the data forwarding layer from the control layer.
+
+Something is expected to offer faster data exchange, lower delays, and more stable connections. 
+The proposed framework reduces synchronization errors to as low as 5%.
+
+Software-Defined Networking (SDN) decouples the data forwarding layer from the control layer.
+
+6G networks are expected to offer faster data exchange, lower delays, and more stable connections.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Data Decoupling Layer: Manage Your Data | Mia-Platform Blog",
+        "url": "https://mia-platform.eu/blog/data-decoupling-layer/",
+        "date": "2025-07-17",
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "Control Plane vs. Data Plane: What Are The Differences? - Splunk",
+        "url": "https://www.splunk.com/en_us/blog/learn/control-plane-vs-data-plane.html",
+        "date": "2023-07-20",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "A Bold New Plan for Preserving Online Privacy and Security",
+        "url": "https://www.schneier.com/academic/archives/2023/12/decoupling-for-security.html",
+        "date": "2024-01-10",
+        "last_updated": "2024-11-25"
+    },
+    {
+        "title": "Decoupling Control and Data in Materialize",
+        "url": "https://materialize.com/blog/decoupling-control-data-large-results/",
+        "date": "2025-07-03",
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "Decoupling Architecture",
+        "url": "https://www.itarch.info/2020/05/decoupling-architecture.html",
+        "date": "2024-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Understanding SDN Configuration: Software-Defined Networking",
+        "url": "https://tailscale.com/learn/software-defined-networking",
+        "date": "2024-11-01",
+        "last_updated": "2025-01-12"
+    },
+    {
+        "title": "Decoupled Integration: Scalable, flexible and resilient System ...",
+        "url": "http://chakray.com/decoupled-integration-a-path-to-scalable-flexible-and-resilient-system-architectures/",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+Evaluation metrics include something.
+
+A wide boom bar's movement is in a certain state.
+
+A wide boom bar's movement is affected by something. 
+Evaluation metrics include pathlength.
+
+A wide boom bar's movement is highly dynamic.
+
+A wide boom bar's movement is affected by mechanical structure vibrations and inertia.
+
+**********Web Search Result**********
+
+https://www.scielo.br/j/eagri/a/6DwkhcZTP5gn35YJKfJsDsz/?format=pdf
+
+[
+    {
+        "title": "parameters for modeling passive suspensions of spray bars",
+        "url": "https://www.scielo.br/j/eagri/a/6DwkhcZTP5gn35YJKfJsDsz/?format=pdf",
+        "date": null,
+        "last_updated": "2024-10-22"
+    },
+    {
+        "title": "Methodology for the Regulation of Boom Sprayers ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3231301/",
+        "date": "2011-04-13",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "The Role of Multi-Sensor Measurement in the Assessment ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10687099/",
+        "date": "2023-09-12",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Bar gate",
+        "url": "https://en.wikipedia.org/wiki/Bar_gate",
+        "date": "2005-10-06",
+        "last_updated": "2025-06-08"
+    },
+    {
+        "title": "Broadcast Boom Nozzle Spacing",
+        "url": "https://sprayers101.com/broadcast-boom-nozzle-spacing/",
+        "date": "2022-01-12",
+        "last_updated": "2025-05-22"
+    },
+    {
+        "title": "Log boom",
+        "url": "https://en.wikipedia.org/wiki/Log_boom",
+        "date": "2025-02-15",
+        "last_updated": "2025-03-13"
+    },
+    {
+        "title": "Rigid, Perforated Plate Oil Boom for High Currents - epa nepis",
+        "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=91017D8N.TXT",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "What is a Crane Boom?",
+        "url": "https://www.bigrentz.com/blog/what-is-a-crane-boom",
+        "date": "2021-08-09",
+        "last_updated": "2025-07-26"
+    },
+    {
+        "title": "Ocean Rodeo Bar, Boom, and Handles review",
+        "url": "https://www.youtube.com/watch?v=vBb72R6uSWo",
+        "date": "2022-09-23",
+        "last_updated": "2025-04-10"
+    },
+    {
+        "title": "645 Tractor-Mounted Suspended Boom Broadcast Hooded ...",
+        "url": "https://www.willmarfab.com/645.php",
+        "date": "2014-01-01",
+        "last_updated": "2025-04-08"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Evaluation metrics include something.' is supported by the citation.
+<accept> The document explicitly mentions "RMS values and a standard curve" as evaluation metrics for the stability and performance of the spray bar suspension. For example, in the Abstract: "The FEM is more suitable for the evaluation of the horizontal oscillations of the bar, based on root mean square (RMS) values and a standard curve used to evaluate the stability of the bar." And in the Results and Discussion section: "This is why the RMS value is more suitable to evaluate the suspension performance." and "the standard curves for the vertical oscillations... and the horizontal oscillations... were developed." </accept>
+
+**********Source Check**********
+
+The claim 'A wide boom bar's movement is in a certain state.' is supported by the citation.
+<accept> The text discusses the "movement" of a spray bar, specifically its vertical and horizontal "oscillations" and "displacements." It describes how the stability and uniformity of spraying depend on the spray boom's stability, which is defined by its suspension system's ability to reduce unwanted movement. The paper measures and evaluates these movements using various parameters like RMS values, accelerations, and displacements, which indicate the "state" of the boom bar's movement. The text also mentions spray bars "reaching up to 50 m" which implies a "wide" boom bar. </accept>
+
+**********Source Check**********
+
+The claim 'A wide boom bar's movement is affected by something.' is supported by the citation.
+<accept> The text explicitly states multiple factors that affect the movement of the spray/boom bar. For example, it mentions that "Spraying fields with uneven surfaces can cause the spray boom to oscillate vertically and horizontally," and that "a suspension mechanism between the spray bar and the machine chassis reduces its unwanted movement." It also notes that "The horizontal stiffness of the bar significantly influences the oscillatory displacement," and that "The horizontal movements are influenced by the rubber springs." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Evaluation metrics include pathlength.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1 Introduction" section, where it states: "Evaluation metrics are (i) pathlength, (ii) spray volume consumption in litres (a proxy for the overlap area, but more accurate since also accounting for nozzle flow rate variations for turn compensation), and (iii) overlap area visualisation for qualitative verification." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A wide boom bar's movement is highly dynamic.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the content. In the Abstract, it states: "Spraying and the movement of modern wide boom bars are highly dynamic processes." Also, in the Introduction, it reiterates: "...accurate localisation data and velocity estimates are required along a wide boom bar, whose movement is highly dynamic and also affected by mechanical structure vibrations and inertia." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A wide boom bar's movement is affected by mechanical structure vibrations and inertia.' is supported by the original webpage.
+<accept> The text explicitly states: "Furthermore, for ASC on top of these factors accurate localisation data and velocity estimates are required along a wide boom bar, whose movement is highly dynamic and also affected by mechanical structure vibrations and inertia." This directly supports the claim that a wide boom bar's movement is affected by mechanical structure vibrations and inertia. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+The most complete temporal network obtained in the research contains `a certain number of` time instances.
+
+Microservice architecture is a paradigm promoting `in a certain way`.
+
+The small, independent components within a microservice architecture are called `something`. 
+The most complete temporal network obtained in the research contains 7 time instances.
+
+Microservice architecture is a paradigm promoting the decomposition of a coupled software system into small, independent components.
+
+The small, independent components within a microservice architecture are called microservices.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "8 Core Components of Microservice Architecture",
+        "url": "https://www.optisolbusiness.com/insight/8-core-components-of-microservice-architecture",
+        "date": "2025-06-17",
+        "last_updated": "2025-06-20"
+    },
+    {
+        "title": "What are microservices? - GitLab",
+        "url": "https://about.gitlab.com/topics/microservices/",
+        "date": "2024-01-01",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "Microservices Architecture Style - Microsoft Community",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices",
+        "date": "2025-07-11",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "What Are Microservices? - Palo Alto Networks",
+        "url": "https://www.paloaltonetworks.com/cyberpedia/what-are-microservices",
+        "date": "2020-01-01",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Microservices Architecture: A Comprehensive Guide - MEGA",
+        "url": "https://www.mega.com/blog/what-is-microservices-architecture",
+        "date": "2024-04-04",
+        "last_updated": "2024-11-28"
+    },
+    {
+        "title": "What are Microservices? - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/system-design/microservices/",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "Pattern: Microservice Architecture",
+        "url": "https://microservices.io/patterns/microservices.html",
+        "date": "2025-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What Is Microservices Architecture? - Google Cloud",
+        "url": "https://cloud.google.com/learn/what-is-microservices-architecture",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "What are Microservices? | AWS",
+        "url": "https://aws.amazon.com/microservices/",
+        "date": "2025-07-18",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "What Are Microservices? Architecture, Challenges, and Tips | Solo.io",
+        "url": "https://www.solo.io/topics/microservices",
+        "date": "2024-01-01",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+A path can be made between two T-metacells only when they are in a certain state.
+
+Each T-metacell gadget must be in a certain state.
+
+This extension requires the cell to be in a certain state. 
+A path can be made between two T-metacells only when they have their exits aligned.
+
+Each T-metacell gadget must be reflectable and rotatable.
+
+This extension requires the cell to be "asymmetric".
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "SEACells infers transcriptional and epigenomic cellular states from ...",
+        "url": "https://www.nature.com/articles/s41587-023-01716-9",
+        "date": "2023-03-27",
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "MetaQ: fast, scalable and accurate metacell inference via ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11782697/",
+        "date": "2025-01-31",
+        "last_updated": "2025-06-24"
+    },
+    {
+        "title": "scEpath: energy landscape-based inference of transition ...",
+        "url": "https://academic.oup.com/bioinformatics/article/34/12/2077/4838235",
+        "date": "2018-06-15",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "Metacells - Single-cell RNA Sequencing Analysis",
+        "url": "https://github.com/tanaylab/metacells",
+        "date": "2020-09-30",
+        "last_updated": "2025-07-17"
+    },
+    {
+        "title": "Metacells untangle large and complex single-cell transcriptome ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9375201/",
+        "date": "2022-08-13",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "MCProj: metacell projection for interpretable and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10552220/",
+        "date": "2023-10-05",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "Single-cell RNA Sequencing Analysis \u2014 Metacell 0.5.1 documentation",
+        "url": "https://tanaylab.github.io/metacell.py/README.html",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "MCT: Meta Cell Technology - Breaking PRP limits and ...",
+        "url": "https://metacelltech.com",
+        "date": "2025-05-02",
+        "last_updated": "2025-05-15"
+    },
+    {
+        "title": "Metacells 0.9.4 - Single-cell RNA Sequencing Analysis",
+        "url": "https://metacells.readthedocs.io/en/latest/readme.html",
+        "date": "2023-01-01",
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "memory- and time-efficient identification of metacells for atlas ...",
+        "url": "https://academic.oup.com/bioinformatics/article/40/4/btae191/7642398",
+        "date": null,
+        "last_updated": "2025-05-02"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+The root node of the tree-based memory contains `something`.
+
+`Something` of the tree-based memory preserve turn-level evidence.
+
+Turn-level evidence includes `something`. 
+The root node of the tree-based memory contains fundamental user information.
+
+Statement nodes of the tree-based memory preserve turn-level evidence.
+
+Turn-level evidence includes symptom duration.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2410.14052v1
+
+[
+    {
+        "title": "Dynamic Tree Memory Representation for LLMs - arXiv",
+        "url": "https://arxiv.org/html/2410.14052v1",
+        "date": "2024-10-17",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "Multiprocessor-friendly Tree Based Allocator - OSDev.org",
+        "url": "https://forum.osdev.org/viewtopic.php?t=39330",
+        "date": "2021-01-01",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "The Trie Data Structure",
+        "url": "https://drstearns.github.io/tutorials/trie/",
+        "date": null,
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Introduction to Tree Data Structure - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/dsa/introduction-to-tree-data-structure/",
+        "date": "2025-07-27",
+        "last_updated": "2025-08-06"
+    },
+    {
+        "title": "Tree (abstract data type) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tree_(abstract_data_type)",
+        "date": "2001-09-30",
+        "last_updated": "2025-07-30"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The root node of the tree-based memory contains `something`.' is NOT supported by the citation.
+<reject> The content explicitly states that the root node `v0` serves as a structural node, containing neither content nor embedding (`cv0=∅` and `ev0=∅`). </reject>
+
+**********Source Check**********
+
+The claim '`Something` of the tree-based memory preserve turn-level evidence.' is supported by the citation.
+<accept> The content explicitly states that MemTree, a tree-structured memory representation, organizes memory hierarchically with "deeper nodes store finer details." When new information (like a new conversation turn) is added, it is initially treated as "detailed" content and inserted as a new leaf node or integrated into an existing one, and the original leaf node's content is accommodated. Parent nodes then aggregate this detailed information into higher-level summaries, implying that the original, detailed "turn-level evidence" is preserved at the leaf nodes of the tree. </accept>
+
+**********Source Check**********
+
+The claim 'Turn-level evidence includes `something`.' is NOT supported by the citation.
+<reject> The information "Turn-level evidence includes `something`" is not explicitly mentioned in the content. While the document discusses "dialogue rounds" and "position of the supporting evidence" in relation to multi-session chats (which implies turn-level data), the specific phrase "Turn-level evidence" is not present. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+Early architectures such as **something** largely ignore sequential signals.
+
+In production, sequence data are **in a certain way** with side information.
+
+Short video platforms like **something** have surged in popularity in recent years. 
+Early architectures such as FM and DCN largely ignore sequential signals.
+
+In production, sequence data are often truncated and flattened with side information.
+
+Short video platforms like TikTok and Kwai have surged in popularity in recent years.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The 8 Neural Network Architectures Machine Learning ...",
+        "url": "https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html",
+        "date": "2018-01-31",
+        "last_updated": "2025-02-13"
+    },
+    {
+        "title": "The Rise of Short-Form Video Content in 2025",
+        "url": "https://www.appnova.com/the-rise-of-short-form-video-content-in-2025/",
+        "date": "2025-03-21",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "The 8 Neural Network Architectures Machine Learning ...",
+        "url": "https://jameskle.com/writes/neural-networks",
+        "date": "2018-01-06",
+        "last_updated": "2025-03-03"
+    },
+    {
+        "title": "Top 10 Social Media Video Trends 2025",
+        "url": "https://www.upskillist.com/blog/top-10-social-media-video-trends-2025/",
+        "date": "2025-06-18",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "History of artificial neural networks",
+        "url": "https://en.wikipedia.org/wiki/History_of_artificial_neural_networks",
+        "date": "2019-08-18",
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "7 Short-Form Video Trends to Maximize Impact in 2025",
+        "url": "https://www.superside.com/blog/short-form-video-trends",
+        "date": "2025-04-14",
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Neural network (machine learning)",
+        "url": "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)",
+        "date": "2001-10-02",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Short Form Video Marketing & Content In 2025",
+        "url": "https://popularpays.com/blog/short-form-video-marketing",
+        "date": "2025-07-24",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Neural Sequential Modeling and Applications - KiltHub",
+        "url": "https://kilthub.cmu.edu/articles/thesis/Neural_Sequential_Modeling_and_Applications/28996055",
+        "date": "2025-05-20",
+        "last_updated": "2025-06-14"
+    },
+    {
+        "title": "20+ Interesting Short Form Video Trends & Statistics (2025)",
+        "url": "https://vidico.com/news/short-form-video-statistics/",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-14"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+If the guess for the extreme value's extremity is incorrect, the true database is in a certain state.
+
+If the guess for the extreme value's extremity is correct, the reconstruction has a certain property.
+
+Such constructions expose something. 
+If the guess for the extreme value's extremity is incorrect, the true database is its reflection.
+
+If the guess for the extreme value's extremity is correct, the reconstruction is accurate.
+
+Such constructions expose the interrelation among tokens.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Bootstrapping Extreme Value Estimators - Taylor & Francis Online",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2120400",
+        "date": "2024-01-02",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "[PDF] Inference Attacks on Property-Preserving Encrypted Databases",
+        "url": "https://cs.brown.edu/~seny/pubs/edb.pdf",
+        "date": null,
+        "last_updated": "2025-05-11"
+    },
+    {
+        "title": "[PDF] A Small Dummy Disrupting Database Reconstruction in a Cache ...",
+        "url": "https://thesai.org/Downloads/Volume14No10/Paper_111-A_Small_Dummy_Disrupting_Database_Reconstruction.pdf",
+        "date": null,
+        "last_updated": "2025-04-26"
+    },
+    {
+        "title": "Extreme value theory as a framework for understanding mutation ...",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0243595",
+        "date": "2021-08-23",
+        "last_updated": "2025-07-16"
+    },
+    {
+        "title": "Inference Attacks Against Property-Preserving Encrypted Databases",
+        "url": "https://www.microsoft.com/en-us/research/publication/inference-attacks-property-preserving-encrypted-databases/",
+        "date": "2015-10-12",
+        "last_updated": "2025-04-11"
+    },
+    {
+        "title": "[PDF] Database Reconstruction Is Not So Easy and Is Different from ... - arXiv",
+        "url": "https://arxiv.org/pdf/2301.10213",
+        "date": "2023-01-24",
+        "last_updated": "2025-01-23"
+    },
+    {
+        "title": "Extreme value theory as a framework for understanding mutation ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8382180/",
+        "date": "2021-08-23",
+        "last_updated": "2025-08-06"
+    },
+    {
+        "title": "A Survey on Property-Preserving Database Encryption Techniques ...",
+        "url": "https://arxiv.org/html/2312.12075v1",
+        "date": "2023-12-19",
+        "last_updated": "2025-05-24"
+    },
+    {
+        "title": "[PDF] Staring-Down the Database Reconstruction Theorem",
+        "url": "https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/jsm/jsm-presentation-database-reconstruction.pdf",
+        "date": "2018-07-30",
+        "last_updated": "2025-01-02"
+    },
+    {
+        "title": "[PDF] Applications of Extreme Value Theory to environmental data analysis",
+        "url": "https://imag.umontpellier.fr/~toulemonde/BibPerso/Toulemonde_Ribereau_Naveau_2015.pdf",
+        "date": null,
+        "last_updated": "2025-04-01"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+The requirement for something makes CDEF less practical for real-time deployment.
+
+The proposed method improves something.
+
+The proposed method is suitable for something. 
+The requirement for hyper-parameter tuning makes CDEF less practical for real-time deployment.
+
+The proposed method improves robustness.
+
+The proposed method is suitable for online implementation.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "7 Pitfalls of Continuous Deployment and How to Avoid Them",
+        "url": "https://hackernoon.com/7-pitfalls-of-continuous-deployment-and-how-to-avoid-them",
+        "date": "2024-05-30",
+        "last_updated": "2025-07-16"
+    },
+    {
+        "title": "The Ultimate Guide to Optimizing Deployment Time - Axify",
+        "url": "https://axify.io/blog/deployment-time",
+        "date": "2025-05-12",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Is Continuous Deployment Too Risky? Security Concerns ... - Tripwire",
+        "url": "https://www.tripwire.com/state-of-security/continuous-deployment-too-risky-security-concerns-and-mitigations",
+        "date": "2025-06-02",
+        "last_updated": "2025-06-02"
+    },
+    {
+        "title": "Deployment - DataRobot docs",
+        "url": "https://docs.datarobot.com/en/docs/mlops/deployment/index.html",
+        "date": null,
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "8 Deployment Strategies Explained and Compared - Apwide Golive",
+        "url": "https://www.apwide.com/8-deployment-strategies-explained-and-compared/",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Online endpoints for real-time inference - Azure Machine Learning",
+        "url": "https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints-online?view=azureml-api-2",
+        "date": "2024-09-25",
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "Deploy models for real-time inference - Amazon SageMaker AI",
+        "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-deploy-models-realtime.html",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Continuous Deployment vs. Integration vs. Delivery | CD in K8s",
+        "url": "https://codefresh.io/learn/continuous-delivery/continuous-deployment-only-for-unicorns/",
+        "date": null,
+        "last_updated": "2025-08-20"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11555v1 
+A Tight Lower Bound for Doubling Spanners 
+The Yao graph was introduced by someone in 1982.
+
+The net-tree spanner has something.
+
+For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists something, such that any (1+)-spanner G=(X,E,w) for X must have lightness ~()^-(d+1). 
+The -graph is defined similarly to the Yao graph.
+
+The -graph is a variant of the Yao graph.
+
+The Yao graph was introduced by Yao in 1982.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/1904.12042
+
+[
+    {
+        "title": "Yao graph - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yao_graph",
+        "date": "2019-02-18",
+        "last_updated": "2025-03-18"
+    },
+    {
+        "title": "Truly Optimal Euclidean Spanners",
+        "url": "https://arxiv.org/pdf/1904.12042",
+        "date": null,
+        "last_updated": "2025-03-07"
+    },
+    {
+        "title": "[PDF] On the Spanning and Routing Ratios of the Yao-Four Graph - DROPS",
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol322-isaac2024/LIPIcs.ISAAC.2024.15/LIPIcs.ISAAC.2024.15.pdf",
+        "date": null,
+        "last_updated": "2025-05-02"
+    },
+    {
+        "title": "32 PROXIMITY ALGORITHMS",
+        "url": "http://www.csun.edu/~ctoth/Handbook/chap32.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[PDF] On the Spanning Ratio of Constrained Yao-Graphs",
+        "url": "http://cccg.ca/proceedings/2014/papers/paper35.pdf",
+        "date": null,
+        "last_updated": "2025-06-17"
+    },
+    {
+        "title": "Euclidean minimum spanning tree",
+        "url": "https://en.wikipedia.org/wiki/Euclidean_minimum_spanning_tree",
+        "date": "2004-10-05",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "[PDF] Deep Learning on Graphs - Yao Ma",
+        "url": "https://yaoma24.github.io/dlg_book/dlg_book.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Geometric Spanners",
+        "url": "https://people.scs.carleton.ca/~michiel/encyc_geometric_spanners2.pdf",
+        "date": null,
+        "last_updated": "2025-03-27"
+    },
+    {
+        "title": "[PDF] GRAPH THEORY WITH APPLICATIONS",
+        "url": "https://www.zib.de/userpage/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf",
+        "date": null,
+        "last_updated": "2024-02-29"
+    },
+    {
+        "title": "Yao Spanners for Wireless Ad Hoc Networks",
+        "url": "http://www.csc.villanova.edu/~mdamian/StudentTheses/NawarThesis.pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'The Yao graph was introduced by someone in 1982.' is supported by the citation.
+<accept> The text states, "The $\\Theta$ -graph is a natural variant of the Yao graph, introduced by Yao \[55\] in 1982". This explicitly mentions that the Yao graph was introduced by Yao in 1982. </accept>
+
+**********Source Check**********
+
+The claim 'The net-tree spanner has something.' is supported by the citation.
+<accept> The document explicitly states several properties of the net-tree spanner. For example, in Section 1.3, it says, "The net-tree spanner is obtained, in fact, as a union of $\\Theta ( \\log \\Delta )$ ring 1-spanners", and later, "all known (non-Steiner) net-tree spanners have $\\Omega ( ( \\frac { 1 } { \\epsilon } ) ^ { 2 } )$ edges". In Section 4.2.1, it mentions that the net-tree spanner "has several variants" and describes how it "is obtained by adding, for each $i \\in \[ 0 , \\ell - 1 \]$ , a set $E \_ { i }$ of edges... called cross edges". It also states that "Then $H$ is a $( 1 + \\epsilon )$ -spanner fo $X$ and $E | ( H ) | | = n \\cdot O ( d )$". These statements directly specify what the net-tree spanner "has". </accept>
+
+**********Source Check**********
+
+The claim 'For any integer constant d≥1, any parameter ∈(0,1) and any n∈Z+ such that =−dO(n), there exists something, such that any (1+)-spanner G=(X,E,w) for X must have lightness ~()^-(d+1).' is NOT supported by the citation.
+<reject> The information contains two specific details that are not explicitly mentioned in the content:
+1.  The condition relating `n` and `epsilon`: The provided text states "such that =−dO(n)", which is not found in the document. The closest related condition in Theorem 1.1 is "$\epsilon = \\Omega ( n ^ { - \\frac { 1 } { d - 1 } } )$", which is different.
+2.  The lightness bound exponent: The provided text states "lightness ~()^-(d+1)". Theorem 1.1 in the content explicitly states "lightness $\\Omega ( \\epsilon ^ { - d } )$", meaning the exponent is `-d`, not `-(d+1)`. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+Stability is a concern in a certain kind of design.
+
+Tags map each task to a certain kind of hardware.
+
+Capability tags indicate which certain actions. 
+Stability is a concern in colocated designs.
+
+Tags map each task to the most suitable hardware.
+
+Capability tags indicate which tasks a resource can serve.
+
+**********Web Search Result**********
+
+https://www.stevenbright.com/2019/12/working-with-tags-in-vrealize-automation-8-0/
+
+[
+    {
+        "title": "[PDF] HashTag: Hash-based Integrity Protection for Tagged Architectures",
+        "url": "https://www.usenix.org/system/files/usenixsecurity23-lamster.pdf",
+        "date": null,
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "The CHERI capability model: Revisiting RISC in an age of risk",
+        "url": "https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf",
+        "date": null,
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "A HARDWARE iMPLEMENTATION OF CAPABILITY- ...",
+        "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7fc8da6417761aa9c7e122479e5883984ed2ba06",
+        "date": null,
+        "last_updated": "2025-04-06"
+    },
+    {
+        "title": "Working with Tags in vRealize Automation 8.0 - Steven Bright",
+        "url": "https://www.stevenbright.com/2019/12/working-with-tags-in-vrealize-automation-8-0/",
+        "date": "2019-12-20",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Designer\u2122 CU Filter Tags & WMS Auto-Tagging",
+        "url": "https://sspinnovations.com/blog/designer-cu-filter-tags-wms-auto-tagging/",
+        "date": "2012-05-02",
+        "last_updated": "2025-04-25"
+    },
+    {
+        "title": "IT Asset Tagging: How to Tag Software And Hardware Assets",
+        "url": "https://blog.invgate.com/it-asset-tagging",
+        "date": "2025-01-22",
+        "last_updated": "2025-03-19"
+    },
+    {
+        "title": "Hardware-Assisted Verification: Ideal Foundation for RISC-V Adoption",
+        "url": "https://www.eetimes.eu/hardware-assisted-verification-ideal-foundation-for-risc-v-adoption/",
+        "date": "2023-11-23",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Tag-based discovery in Service Mapping",
+        "url": "https://www.servicenow.com/docs/bundle/washingtondc-it-operations-management/page/product/service-mapping/concept/tag-based-mapping.html",
+        "date": "2023-08-03",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "How to Build a Custom GPT Action to Talk to Your Hardware",
+        "url": "https://resources.altium.com/p/how-build-custom-gpt-action-talk-your-hardware",
+        "date": "2024-03-25",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "Hardware support for fast capability-based addressing",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/381792.195579",
+        "date": null,
+        "last_updated": "2024-10-09"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Stability is a concern in a certain kind of design.' is NOT supported by the citation.
+<reject> The text discusses features and limitations of vRealize Automation 8.0, specifically mentioning missing abilities to limit storage and memory at certain levels. However, it does not state that "stability is a concern in a certain kind of design." </reject>
+
+**********Source Check**********
+
+The claim 'Tags map each task to a certain kind of hardware.' is supported by the citation.
+<accept> The text explicitly states that "tags serve several purposes within vRealize Automation 8.0, with the primary purpose being to match capabilities and constraints for Blueprints and Projects in relation to Compute, Network, and Extensibility resources." It further clarifies that tags "control, which compute, storage, and network resources a particular Project can access." Since Projects represent or initiate tasks (like provisioning a VM), and Compute, Network, and Extensibility resources are kinds of hardware, this directly supports the idea that tags map tasks (through Projects) to specific hardware. </accept>
+
+**********Source Check**********
+
+The claim 'Capability tags indicate which certain actions.' is NOT supported by the citation.
+<reject> The content states that "Capability tags are used for labeling resources that possess specific capabilities within the cloud" and "where we specify our department and environment tags." It does not state that they indicate "certain actions." </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+In CDO, RandomGauss operates in a certain way.
+
+Something operates based on a given mask.
+
+Data collection is in a certain state in industrial scenarios. 
+In CDO, RandomGauss randomly selects square regions and replaces them with random values sampled from a Gaussian normal distribution.
+
+CAE operates based on a given mask.
+
+Data collection is difficult in industrial scenarios.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "masking data - CDO - Project Management Service",
+        "url": "https://code.mpimet.mpg.de/boards/1/topics/71",
+        "date": "2017-06-01",
+        "last_updated": "2025-07-07"
+    },
+    {
+        "title": "Python random.gauss() Method - Tutorialspoint",
+        "url": "https://www.tutorialspoint.com/python/python_random_gauss_method.htm",
+        "date": "2025-03-25",
+        "last_updated": "2025-04-09"
+    },
+    {
+        "title": "Training a random Gaussian generator | Complex Projective 4-Space",
+        "url": "https://cp4space.hatsya.com/2022/01/09/training-a-random-gaussian-generator/",
+        "date": "2022-01-09",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "[PDF] CDO Climate Data Operators - IAC svn",
+        "url": "https://svn.iac.ethz.ch/pub/lagranto.ecmwf/trunk/convert/cdo/cdo.pdf",
+        "date": null,
+        "last_updated": "2025-07-18"
+    },
+    {
+        "title": "CDO - Project Management Service",
+        "url": "https://code.mpimet.mpg.de/projects/cdo/embedded",
+        "date": "2025-02-15",
+        "last_updated": "2025-08-20"
+    },
+    {
+        "title": "[PDF] CDO Climate Data Operators - Research Computing Center",
+        "url": "https://users.rcc.uchicago.edu/~davidkelly999/cdo.pdf",
+        "date": "2017-04-01",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[PDF] CDO Climate Data Operators - IDRIS",
+        "url": "http://www.idris.fr/media/ada/cdo.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Regridding with CDO - CliC Wiki - Climate and Cryosphere",
+        "url": "https://www.climate-cryosphere.org/wiki/index.php/Regridding_with_CDO",
+        "date": "2018-09-18",
+        "last_updated": "2024-04-16"
+    },
+    {
+        "title": "[PDF] CDO Climate Data Operators - ACMAD",
+        "url": "http://sgbd.acmad.org:3000/doc/_downloads/cdo-user-guide.pdf",
+        "date": null,
+        "last_updated": "2025-08-05"
+    },
+    {
+        "title": "[PDF] CDO Climate Data Operator - Zenodo",
+        "url": "https://zenodo.org/record/7112925/files/cdo-2.0.0.pdf",
+        "date": null,
+        "last_updated": "2024-04-12"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+

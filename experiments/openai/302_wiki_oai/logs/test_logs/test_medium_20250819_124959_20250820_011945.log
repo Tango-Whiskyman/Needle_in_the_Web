@@ -1,0 +1,1756 @@
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch%2C_Vienna) 
+The Last Judgment (Bosch, Vienna) 
+Someone is shown seated in a certain location in a particular area of a certain visual element.
+
+A specific type of analysis determined that something was executed during a particular period.
+
+Someone is surrounded by a specific kind of aura in a particular segment. 
+God is shown seated in Heaven at the top of the left panel.
+
+Dendrochronologic analysis determined that the painting was executed no earlier than 1482.
+
+God is surrounded by a luminous halo in the left panel.
+
+**********Web Search Result**********
+
+https://patents.google.com/patent/US8738323B2/en
+
+{
+    "id": "ws_68a4b0b2673c819589cc0ec2a6d91c770cbe5c07701cd954",
+    "action": {
+        "query": "Someone is shown seated in a certain location in a particular area of a certain visual element. A specific type of analysis determined that something was executed during a particular period. Someone is surrounded by a specific kind of aura in a particular segment.",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone is shown seated in a certain location in a particular area of a certain visual element.' is NOT supported by the citation.
+<reject> The text mentions "sedentary activity" as a "graphical element" displayed on a GUI (e.g., GUI 530 in FIG. 7I) and aligned with a location. While "sedentary" implies sitting, the text does not explicitly state that the graphical element *shows* a person seated. It defines "sedentary" as "not walking, running, not moving around, and not in a vehicle," but does not describe the visual representation of the activity itself as depicting a seated individual. </reject>
+
+**********Source Check**********
+
+The claim 'A specific type of analysis determined that something was executed during a particular period.' is supported by the citation.
+<accept> The content explicitly mentions that a specific type of analysis, referred to as "processing" or "analyzing tracked activity data," determines what activities ("something was executed") occurred during a "period of time" or "time of occurrence." For example, the Abstract states, "A method includes ... processing the received motion data to identify a group of the motion data ... and processing the location data ... provides an activity identifier." Claim 1 further elaborates that this processing identifies "characteristics of the motion data for the activity identifier," and these characteristics include "an amount of stairs ascended by the user, or an amount of stairs descended by the user, or an amount of steps walked or ran by the user, or an amount of hours slept by the user, or an amount of time performing an activity," all associated with a "time of occurrence." </accept>
+
+**********Source Check**********
+
+The claim 'Someone is surrounded by a specific kind of aura in a particular segment.' is NOT supported by the citation.
+<reject> The provided text is a patent application describing systems and methods for tracking user activity and location data. It discusses "activity identifiers," "location identifiers," "graphical elements," and different "shades" or "colors" used for display, but it does not mention anyone being "surrounded by a specific kind of aura" or any concept of "aura" at all. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/John_Rooney_(footballer) 
+John Rooney (footballer) 
+John Rooney debuted for New York Red Bulls at a certain time.
+
+The match where John Rooney scored his first goal for Wrexham was in a certain way.
+
+John Rooney entered his debut match for New York Red Bulls in a certain state. 
+John Rooney debuted for New York Red Bulls on 16 April 2011.
+
+The match where John Rooney scored his first goal for Wrexham was a 3-2 victory over Guiseley.
+
+John Rooney entered his debut match for New York Red Bulls as an 89th-minute substitute.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/John_Rooney_%28footballer%29
+
+{
+    "id": "ws_68a4b0bcf5d48196b47ab145c6582121055095873001bea4",
+    "action": {
+        "query": "John Rooney debut New York Red Bulls first goal Wrexham",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'John Rooney debuted for New York Red Bulls at a certain time.' is supported by the citation.
+<accept> The content explicitly states, "He made his debut for the club on 16 April as an 89th-minute substitute in a 3–0 victory over San Jose Earthquakes at Red Bull Arena". </accept>
+
+**********Source Check**********
+
+The claim 'The match where John Rooney scored his first goal for Wrexham was in a certain way.' is supported by the citation.
+<accept> The content explicitly states how John Rooney scored his first goal for Wrexham: "converting a penalty during a 3–2 victory over Guiseley," which describes the nature of the goal and the match's outcome. </accept>
+
+**********Source Check**********
+
+The claim 'John Rooney entered his debut match for New York Red Bulls in a certain state.' is supported by the citation.
+<accept> The content explicitly states that John Rooney made his debut for New York Red Bulls "at Red Bull Arena (New Jersey)", indicating the state where the match took place.</accept>
+
+**********Exact Claim Check**********
+
+The claim 'John Rooney debuted for New York Red Bulls on 16 April 2011.' is supported by the original webpage.
+<accept> The content explicitly states under the "New York Red Bulls" section: "He made his debut for the club on 16 April as an 89th-minute substitute in a 3–0 victory over San Jose Earthquakes at Red Bull Arena." This confirms the date of his debut. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The match where John Rooney scored his first goal for Wrexham was a 3-2 victory over Guiseley.' is supported by the original webpage.
+<accept> The content explicitly states that John Rooney scored his first goal for Wrexham in "their following match, converting a penalty during a 3–2 victory over Guiseley." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'John Rooney entered his debut match for New York Red Bulls as an 89th-minute substitute.' is supported by the original webpage.
+<accept> The content explicitly states under the "New York Red Bulls" section: "He made his debut for the club on 16 April as an 89th-minute substitute in a 3–0 victory over San Jose Earthquakes at Red Bull Arena". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Rough_Guide_to_the_Music_of_Afghanistan 
+The Rough Guide to the Music of Afghanistan 
+A certain song appears on two distinct sections.
+
+One of the sections features a specific musical ensemble.
+
+Someone holds a particular position at a notable publication. 
+The track "Rae Maykhana O Masjid (The Way To The Mosque And The Winehouse)" appears on both Disc One and Disc Two.
+
+Disc Two highlights the Ahmad Sham Sufi Qawwali Group.
+
+Simon Broughton is the editor of the world music magazine Songlines.
+
+**********Web Search Result**********
+
+https://rexwordpuzzle.blogspot.com/2025/07/electronic-music-genre-sun-7-13-25.html
+
+{
+    "id": "ws_68a4b0c8f7ac8193abe0b9257c91fc5d0728a9142638a4a1",
+    "action": {
+        "query": "song appears on two distinct sections musical ensemble someone holds position at publication",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'A certain song appears on two distinct sections.' is NOT supported by the citation.
+<reject> The provided content is a very short webpage snippet containing only navigational links and a copyright notice. There is no mention of songs, music, or sections that would indicate a song appearing in two distinct sections. </reject>
+
+**********Source Check**********
+
+The claim 'One of the sections features a specific musical ensemble.' is NOT supported by the citation.
+<reject> The provided content is extremely minimal and only contains navigation links, copyright information, and a "Back to TOP" link. There is no mention of any sections or musical ensembles. </reject>
+
+**********Source Check**********
+
+The claim 'Someone holds a particular position at a notable publication.' is NOT supported by the citation.
+<reject> The content only contains copyright information and navigation links. It does not mention any person, their position, or any notable publication. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Legally_Blonde%3A_The_Musical%3A_The_Search_for_Elle_Woods 
+Legally Blonde: The Musical: The Search for Elle Woods 
+Here are the masked claims:
+
+1.  On a Zoom reunion call held in April 2020, a certain person revealed a particular outcome.
+
+2.  Rachel Potter performed in a specific role within a given production over a distinct period.
+
+3.  Lander won a particular item with another individual during a certain segment. 
+On a Zoom reunion call held in April 2020, Hansen revealed that she won the final challenge.
+
+Rachel Potter was an understudy for Glinda in the second National Tour of _Wicked_ from August 2010 to February 2011.
+
+Lander won a yoga lesson with Kate Shindle in Episode 5.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b0d212788196aef645011288f63103519e37c2e496a9",
+    "action": {
+        "query": "Zoom reunion April 2020 Rachel Potter role Lander win item segment",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Manj%C5%AB 
+Manjū 
+Manjū prepared in a particular manner can be found in some establishments.
+
+A specific kind of manjū is consumed in a customary fashion during a specific season.
+
+Manjū during its initial appearance was lacking a particular flavor profile. 
+Fried manjū can be found in some modern restaurants.
+
+Mizu (water) manjū is traditionally eaten in the summertime.
+
+Manjū at the time of its introduction was not sweet.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Manj%C5%AB
+
+{
+    "id": "ws_68a4b0dc34308193a376e035f1d310ff0d480fad463fe186",
+    "action": {
+        "query": "special manj\u016b preparation customary consumption season initial manj\u016b flavorless",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Manjū prepared in a particular manner can be found in some establishments.' is supported by the citation.
+<accept> The text explicitly states, "Manjū is usually steamed or baked, though fried manjū can be found in some modern restaurants," which indicates that manjū prepared in a particular manner (fried) can be found in some establishments (modern restaurants). </accept>
+
+**********Source Check**********
+
+The claim 'A specific kind of manjū is consumed in a customary fashion during a specific season.' is supported by the citation.
+<accept> The text explicitly states that "_Mizu_ (water) _manjū_ is traditionally eaten in the summertime," which identifies a specific kind of manjū, a customary fashion ("traditionally eaten"), and a specific season ("summertime"). </accept>
+
+**********Source Check**********
+
+The claim 'Manjū during its initial appearance was lacking a particular flavor profile.' is supported by the citation.
+<accept> The text states that during its initial appearance, manjū "was not a confection, did not contain red bean paste, and was not sweet," which indicates a lack of the distinct sweet flavor profile it later acquired and is known for today. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Fried manjū can be found in some modern restaurants.' is supported by the original webpage.
+<accept> The text explicitly states: "Manjū is usually steamed or baked, though fried manjū can be found in some modern restaurants." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Mizu (water) manjū is traditionally eaten in the summertime.' is supported by the original webpage.
+<accept> The text explicitly states under the "Varieties" section: "_Mizu_ (water) _manjū_ is traditionally eaten in the summertime and contains a flavored bean filling." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Manjū at the time of its introduction was not sweet.' is supported by the original webpage.
+<accept> The content explicitly states, "However, the manjū and yōkan brought to Japan by the monks were not sweets as we know them today... It was not a confection, did not contain red bean paste, and was not sweet." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks 
+Stephen Malkmus and the Jicks 
+Pavement was a certain type of band.
+
+On October 2, 2006, Pitchfork reported that someone had become a full-time member of The Decemberists.
+
+*Pig Lib* featured something. 
+Pavement was an influential 1990s indie rock band.
+
+On October 2, 2006, Pitchfork reported that John Moen had become a full-time member of The Decemberists.
+
+*Pig Lib* featured a looser interplay between the musicians.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the specified information. However, the following sources cover the individual points:
+
+- **Pavement was a certain type of band**: Pavement is described as an American indie rock band formed in Stockton, California, in 1989. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Pavement_%28band%29?utm_source=openai))
+
+- **On October 2, 2006, Pitchfork reported that someone had become a full-time member of The Decemberists**: On October 2, 2006, it was reported by Pitchfork that John Moen had become a full-time member of The Decemberists. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Stephen_Malkmus_and_the_Jicks?utm_source=openai))
+
+- **Pig Lib featured something**: Pig Lib is the second studio album by Stephen Malkmus and the Jicks, released on March 18, 2003. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Pig_Lib?utm_source=openai))
+
+Unfortunately, I couldn't locate a single webpage that mentions all of these details together.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b0e5c7648193a9b3c55232eca01e09f0c9b4554a2c36",
+    "action": {
+        "query": "\"Pavement was a certain type of band\" \"October 2, 2006, Pitchfork reported\" \"Pig Lib featured\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Air_raids_on_Semarang%E2%80%93Salatiga%E2%80%93Ambarawa 
+Air raids on Semarang–Salatiga–Ambarawa 
+The idea of air strikes was initially rejected by someone.
+
+Something was the first to take off.
+
+The air strike targeted something. 
+The idea of air strikes was initially rejected by Air Force commander Air Commodore Suryadi Suryadarma and his deputy Air Vice Commodore Halim Perdanakusuma.
+
+The Ki-51 flown by Mulyono was the first to take off.
+
+The air strike targeted Dutch military objectives.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Operation_Deny_Flight
+
+{
+    "id": "ws_68a4b0f2beec8195989e7db0f3766aa102cbbe346eabf84b",
+    "action": {
+        "query": "initially rejected air strikes first to take off targeted",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The idea of air strikes was initially rejected by someone.' is supported by the citation.
+<accept> The content explicitly states that "Initially, US Secretary of Defense William Perry told reporters that the United States would 'not enter the war to stop' the Serbs from overrunning Goražde, and other senior officials publicly downplayed the possibility of using air strikes." It also mentions that during the Srebrenica offensive, "Dutch peacekeepers in the area considered calling for NATO air strikes in response to the attack, but they decided against them because the Serbs were not using heavy weapons, and out of fear of another hostage crisis." Both instances show an initial rejection or downplaying of the idea of air strikes by specific parties.</accept>
+
+**********Source Check**********
+
+The claim 'Something was the first to take off.' is NOT supported by the citation.
+<reject> The content mentions the "first combat engagement" and "first loss" in NATO's history during the operation, and a caption shows an F-15C taking off. However, it does not explicitly state that "something was the first to take off" in a general sense, or that a specific aircraft was the very first to take off for the operation.</reject>
+
+**********Source Check**********
+
+The claim 'The air strike targeted something.' is supported by the citation.
+<accept> The content explicitly states that NATO carried out "coercive air strikes against targets in Bosnia." It then details multiple instances where air strikes targeted specific objects or locations, such as a tank and a command post near Goražde, Serb targets in Sarajevo, the Udbina airfield (runways and anti-aircraft capabilities), SAM sites, a Serb ammunition dump at Pale, Serb tanks near Srebrenica, and a Serb command and control bunker. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2016 
+Pro Evolution Soccer 2016 
+IGN praised _Pro Evolution Soccer 2016_ in a certain way.
+
+Certain teams are the only licensed teams in the Portuguese League within _Pro Evolution Soccer 2016_.
+
+_Pro Evolution Soccer 2016_ includes something. 
+IGN praised the physicality of _Pro Evolution Soccer 2016_.
+
+Benfica, Sporting CP, and Porto are the only licensed teams in the Portuguese League within _Pro Evolution Soccer 2016_.
+
+_Pro Evolution Soccer 2016_ includes an unlicensed Chilean League.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2016
+
+{
+    "id": "ws_68a4b0fdf5b4819780074c4b1cb6f2700e693c39865462f0",
+    "action": {
+        "query": "IGN praised Pro Evolution Soccer 2016 licensed teams Portuguese League includes",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'IGN praised _Pro Evolution Soccer 2016_ in a certain way.' is supported by the citation.
+<accept> The text explicitly states in the "Reception" section that IGN scored _Pro Evolution Soccer 2016_ 9.5 out of 10 and quoted their praise, including "PES 2016 might well be the best football game ever made" and that the reviewer couldn't "remember ever being so consistently thrilled, surprised and delighted by a football game before." It also details that IGN praised the physicality, responsive, and dynamic gameplay. </accept>
+
+**********Source Check**********
+
+The claim 'Certain teams are the only licensed teams in the Portuguese League within _Pro Evolution Soccer 2016_.' is supported by the citation.
+<accept> The text explicitly mentions under "Leagues and cups" that _Pro Evolution Soccer 2016_ includes "an unlicensed Portuguese League (only Benfica, Sporting CP and Porto were licensed)", confirming that certain teams (Benfica, Sporting CP, and Porto) were the only licensed ones in that league. </accept>
+
+**********Source Check**********
+
+The claim '_Pro Evolution Soccer 2016_ includes something.' is supported by the citation.
+<accept> The content explicitly states what _Pro Evolution Soccer 2016_ includes in several sections, such as "Leagues and cups" (e.g., "Pro Evolution Soccer 2016 includes Ligue 1, La Liga...") and "Pro Evolution Soccer 2016 myClub" (e.g., "One new feature of myClub is the acquisition of 'myClub Legends'"). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'IGN praised the physicality of _Pro Evolution Soccer 2016_.' is supported by the original webpage.
+<accept> The text explicitly states, "IGN scored it 9.5 out of 10... They praised the physicality, and the responsive, dynamic gameplay..." which directly supports the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Benfica, Sporting CP, and Porto are the only licensed teams in the Portuguese League within _Pro Evolution Soccer 2016_.' is supported by the original webpage.
+<accept> The "Leagues and cups" section explicitly states that _Pro Evolution Soccer 2016_ includes "an unlicensed Portuguese League (only Benfica, Sporting CP and Porto were licensed)", confirming that these three teams were the only licensed ones in that league. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Pro Evolution Soccer 2016_ includes an unlicensed Chilean League.' is supported by the original webpage.
+<accept> The text under the "Leagues and cups" section explicitly states: "_Pro Evolution Soccer 2016_ includes ... an unlicensed Chilean League (with only the teams competing in Copa Libertadores and Copa Sudamericana licensed)". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/One_True_King 
+One True King 
+At **a specific event**, One True King made it to **a concluding stage** of **a regional competition segment**.
+
+**A particular individual** was **given a temporary suspension** by One True King.
+
+On **a certain date**, **another individual** announced that the organization had decided **to terminate certain agreements for a team** for **a future game release**. 
+At Cup 2, One True King made it to the finals of the North American bracket.
+
+Mizkif was placed on leave by One True King.
+
+On June 11, 2021, Cdew announced that the organization had decided not to renew the _World of Warcraft_ team's contracts for the upcoming expansion.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b10ebd2881978a0eee9c9a9a7404075bc83dfe1ce3b6",
+    "action": {
+        "query": "\"One True King\" \"concluding stage\" \"regional competition\" \"temporary suspension\" \"terminate agreements\" \"future game release\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Torsion_siege_engine 
+Torsion siege engine 
+After a certain year, certain individuals were exclusively responsible for a specific task.
+
+Certain findings occurred in a certain way after another specific year.
+
+A particular group obtained a type of expertise from another group. 
+After 300 AD, legionaries called ballistarii were exclusively responsible for producing, moving, and maintaining catapults.
+
+More frequent discoveries of catapults occurred after 1972.
+
+The Romans obtained their knowledge of artillery from the Greeks.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b11c8d00819481e8d6b7ae026b4609e8594e6cb4fc23",
+    "action": {
+        "query": "certain year individuals exclusively responsible findings specific year group expertise another group",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m 
+Daniel Lindström 
+Daniel Lindström has conducted a certain number of tours.
+
+Daniel Lindström and Loreen shared an apartment in a certain place.
+
+Daniel Lindström's single something was covered by Jason Dy. 
+Daniel Lindström has conducted 2 tours.
+
+Daniel Lindström and Loreen shared an apartment in Södermalm.
+
+Daniel Lindström's single "Caught In That Feeling" was covered by Jason Dy.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the following information:
+
+- Daniel Lindström has conducted a certain number of tours.
+- Daniel Lindström and Loreen shared an apartment in a certain place.
+- Daniel Lindström's single something was covered by Jason Dy.
+
+However, the Wikipedia page for Daniel Lindström ([en.wikipedia.org](https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m?utm_source=openai)) contains information about his relationship with Loreen and the cover of his song by Jason Dy.
+
+Additionally, the Wikipedia page for Loreen ([profilbaru.com](https://profilbaru.com/article/Loreen?utm_source=openai)) mentions her relationship with Daniel Lindström and their shared apartment.
+
+Unfortunately, I couldn't find a source that specifies the number of tours Daniel Lindström has conducted.
+
+([en.wikipedia.org](https://en.wikipedia.org/wiki/Daniel_Lindstr%C3%B6m?utm_source=openai))
+
+([profilbaru.com](https://profilbaru.com/article/Loreen?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b145555881939a76e98f54b774a9046b07bcecf385a0",
+    "action": {
+        "query": "Daniel Lindstr\u00f6m tours, shared apartment with Loreen, Jason Dy cover",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Norway_during_the_Great_Northern_War 
+Norway during the Great Northern War 
+Someone, expecting to reconquer territory lost by his kingdom of Poland, allied with Denmark-Norway and Russia in the late 1690s for a certain internal political purpose.
+
+Sweden lost a significant amount of something it had previously acquired.
+
+A specific person proposed a certain type of naval power to provide protection and transportation to seaward. 
+The duke of Saxony, expecting to reconquer territory lost by his kingdom of Poland, allied with Denmark-Norway and Russia in the late 1690s to strengthen his domestic position.
+
+Sweden lost almost all of its overseas holdings gained in the 17th century.
+
+Baron Løvendal proposed a strong fleet to provide protection and transportation to seaward.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Augustus_II_the_Strong
+
+{
+    "id": "ws_68a4b14f8d608190ab9781ddd9ee40d100f14a05ec4caa1b",
+    "action": {
+        "query": "Poland Denmark-Norway Russia 1690s Sweden loses naval power protection transportation",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone, expecting to reconquer territory lost by his kingdom of Poland, allied with Denmark-Norway and Russia in the late 1690s for a certain internal political purpose.' is supported by the citation.
+<accept> The text states that Augustus II allied with Frederick IV of Denmark and Peter I of Russia "to strip the young King Charles XII of Sweden... of his possessions," and that "Poland's reward for participation in the Great Northern War was to have been Swedish Livonia," indicating an expectation to gain territory for Poland. This alliance was formed after he became King of Poland in 1697 and before the Great Northern War began in 1700, fitting the "late 1690s" timeframe. The text explicitly links his use of "foreign powers" to his "main pursuit [of] bolstering royal power in the Commonwealth" and "to reduce the autonomy of the Commonwealth's subjects," which aligns with the "internal political purpose." </accept>
+
+**********Source Check**********
+
+The claim 'Sweden lost a significant amount of something it had previously acquired.' is supported by the citation.
+<accept> The text states that after the Battle of Poltava in 1709, the defeat "spelled the end of the Swedish Empire." The end of an empire explicitly means the loss of its previously acquired territories, power, and influence. </accept>
+
+**********Source Check**********
+
+The claim 'A specific person proposed a certain type of naval power to provide protection and transportation to seaward.' is NOT supported by the citation.
+<reject> The provided content is a biography of Augustus II the Strong. While it details his military campaigns and alliances, it does not contain any information about him or any other specific person proposing a certain type of naval power for protection and transportation to seaward. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Jacob_Bekenstein 
+Jacob Bekenstein 
+Jacob Bekenstein authored `a specific publication at a given time`.
+
+Jacob Bekenstein authored `another publication at a different time`.
+
+Jacob Bekenstein `continued a certain area of study for some years`. 
+Jacob Bekenstein authored "Entropy bounds and the second law for black holes", published in Phys. Rev. D in 1983.
+
+Jacob Bekenstein authored "Nonexistence of baryon number of static black holes", published in Phys. Rev. D in 1972.
+
+Jacob Bekenstein continued his exploration of black holes in the years following 1972.
+
+**********Web Search Result**********
+
+Jacob Bekenstein authored "Black Holes and Entropy" in 1973 and "Black Hole Thermodynamics" in 1980. He continued his study of black holes and entropy for several years. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Jacob_Bekenstein?utm_source=openai))  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b1591c0c8193a08ee6a43745ea1e0e4850dd8c03ceae",
+    "action": {
+        "query": "Jacob Bekenstein author publication specific time another time continued study for years",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Tennessee_Volunteers_football 
+Tennessee Volunteers football 
+The Tennessee Volunteers football program lost **a type of game** **in a certain year** to **a specific opponent** with **a numerical result**, coached by **someone**.
+
+**Many people** line **a certain location** to interact with the players **in a certain way** during **a certain pre-game activity** into **a certain stadium**.
+
+**A certain group** plays **a certain song** during **that pre-game activity**. 
+The Tennessee Volunteers football program lost the Chick-fil-A Bowl in 2009 to #11 Virginia Tech (14–37), coached by Lane Kiffin.
+
+Thousands of fans line the street to shake the players' hands during the Vol Walk into Neyland Stadium.
+
+The Pride of the Southland Band plays Rocky Top during the Vol Walk.
+
+**********Web Search Result**********
+
+https://utsports.com/sports/2017/6/14/history-traditions-html
+
+{
+    "id": "ws_68a4b162c5a88195b7fae0b476930fab07aad0baf5a42b91",
+    "action": {
+        "query": "Tennessee Volunteers football lost game opponent score coach people line location interact pre-game activity stadium group plays song",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The Tennessee Volunteers football program lost **a type of game** **in a certain year** to **a specific opponent** with **a numerical result**, coached by **someone**.' is NOT supported by the citation.
+<reject> The webpage discusses various traditions, history, and records related to Tennessee Athletics, including some mentions of specific games, years, and coaches. However, it does not explicitly mention a specific football game loss with all the requested details: the type of game, the year, the specific opponent, a numerical result (score), and the coach for that particular loss. While it mentions a 50-0 *victory* in 1922 and other games without results, it does not detail a loss in the manner requested. </reject>
+
+**********Source Check**********
+
+The claim '**Many people** line **a certain location** to interact with the players **in a certain way** during **a certain pre-game activity** into **a certain stadium**.' is supported by the citation.
+<accept> The "The Vol Walk" section explicitly describes how the Tennessee Volunteers walk through "thousands of fans" (many people) along "Peyton Manning Pass" and "Phillip Fulmer Way" (a certain location) to "enter Neyland Stadium" (a certain stadium) before each home game (a certain pre-game activity). It also details the interaction, stating it's a place for fans to "greet sons" and "meet their heroes" (interact with the players in a certain way). </accept>
+
+**********Source Check**********
+
+The claim '**A certain group** plays **a certain song** during **that pre-game activity**.' is supported by the citation.
+<accept> The text states under the "Rocky Top" section: "The 'official' fight song, played as the team runs through the T and after scoring plays, is Down the Field". The "Running Through The T" section explicitly describes this as a pre-game activity performed by "the Pride of the Southland Band" as the team enters the field for each home game. This confirms that "The Pride of the Southland Marching Band" (a certain group) plays "Down the Field" (a certain song) during the "Running Through The T" (that pre-game activity). </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/1971%E2%80%9372_Ranji_Trophy 
+1971–72 Ranji Trophy 
+*   **Original Claim:** Ashok Gandotra scored 92 runs for Bengal in the 1971–72 Ranji Trophy final.
+
+**Masked Claim:** Someone scored a certain number of runs for a specific team in a particular championship match.
+
+*   **Original Claim:** Ashok Mankad scored 98 runs for Bombay in the second innings of the 1971–72 Ranji Trophy final.
+
+**Masked Claim:** Another individual scored a different number of points for a second team in a specific phase of play in the final event of a season.
+
+*   **Original Claim:** Sunil Gavaskar scored 157 runs for Bombay in the 1971–72 Ranji Trophy final.
+
+**Masked Claim:** A third person scored a substantial score for a team involved in the finals in the conclusive game of the series. 
+Ashok Gandotra scored 92 runs for Bengal in the 1971–72 Ranji Trophy final.
+
+Ashok Mankad scored 98 runs for Bombay in the second innings of the 1971–72 Ranji Trophy final.
+
+Sunil Gavaskar scored 157 runs for Bombay in the 1971–72 Ranji Trophy final.
+
+**********Web Search Result**********
+
+The webpage at [https://i.imgci.com/link_to_database/ARCHIVE/1970S/1971-72/IND_LOCAL/RANJI/KNOCK-OUTS/BOM_BENG_RJI-FINAL_21-26APR1972.html](https://i.imgci.com/link_to_database/ARCHIVE/1970S/1971-72/IND_LOCAL/RANJI/KNOCK-OUTS/BOM_BENG_RJI-FINAL_21-26APR1972.html) mentions all the specified information.
+
+In the 1971–72 Ranji Trophy final:
+
+- Ashok Gandotra scored 92 runs for Bengal in their first innings.
+
+- Ashok Mankad scored 98 runs for Bombay in their second innings.
+
+- Sunil Gavaskar scored 157 runs for Bombay in their first innings.
+
+These details are documented in the match scorecard available at the provided link.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b16e89888195b9ff9dbf41e94240063f4810166bf1d2",
+    "action": {
+        "query": "Ashok Gandotra 92 runs Bengal 1971\u201372 Ranji Trophy final Ashok Mankad 98 runs Bombay Sunil Gavaskar 157 runs",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_2%3A_A_New_Menace 
+Cyber Citizen Shockman 2: A New Menace 
+Someone re-released the game at a certain time.
+
+Jump control was changed in a certain way in A New Menace.
+
+Certain features were removed from A New Menace. 
+Ratalaika Games re-released the game on September 22, 2023.
+
+Jump control was altered in A New Menace.
+
+The world map, upgrades, and hostages were removed from A New Menace.
+
+**********Web Search Result**********
+
+https://sprites-inc.co.uk/thread-1144.html
+
+{
+    "id": "ws_68a4b17bd7188196a986bb906460889f0c10a8edb81554bb",
+    "action": {
+        "query": "re-released game jump control changed A New Menace features removed",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Someone re-released the game at a certain time.' is supported by the citation.
+<accept> The webpage explicitly mentions that new versions of the game "Quint's Revenge" are being released, which constitutes a re-release. For instance, post #4 states, "Expect a new version in a couple of days or so," and post #5 details "Versions 30 to 36 changelist." These posts are timestamped, indicating a "certain time" for these releases (e.g., 03-06-2015 for post #4, 07-06-2015 for post #5, and 16-04-2017 for post #6, which is for Version 36d). </accept>
+
+**********Source Check**********
+
+The claim 'Jump control was changed in a certain way in A New Menace.' is NOT supported by the citation.
+<reject> The webpage does not mention "A New Menace". The game being discussed and updated throughout the provided content is "Quint's Revenge". While there are mentions of changes related to "jump dash" and other jumping behaviors, the specific game named in the information is not found. </reject>
+
+**********Source Check**********
+
+The claim 'Certain features were removed from A New Menace.' is NOT supported by the citation.
+<reject> The webpage explicitly states that certain features were removed from the game being discussed (e.g., "Removed some rather pointless Spikes in Needleman's stage.", "Removed after images on screen transitions and boss defeats.", "The Giant Metool skip has been removed."). However, the name "A New Menace" is not mentioned anywhere in the provided content. The game is referred to as "the game" or in relation to "Quint's Revenge" and "Quint's Revenge 2". </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_(TV_series) 
+The Witches and the Grinnygog (TV series) 
+The TV adaptation's song is sung in a certain way.
+
+TVS dropped out of something at a certain time.
+
+A group of children investigate something. 
+The TV adaptation's song is sung to a memorable and evocative melody.
+
+TVS dropped out of the ITV network in 1992.
+
+A group of children investigate their town's local history.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/The_Witches_and_the_Grinnygog_%28TV_series%29
+
+{
+    "id": "ws_68a4b1865f248195bdb60b9a6391a987012b9f5413bf0464",
+    "action": {
+        "query": "TV adaptation song sung in a certain way TVS dropped out children investigate",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The TV adaptation's song is sung in a certain way.' is supported by the citation.
+<accept> The "Song" section of the content states, "The book contains a few more lines than the TV adaptation which is sung to a memorable, evocative melody, which is repeated as the end credits." This explicitly describes the way the song is sung. </accept>
+
+**********Source Check**********
+
+The claim 'TVS dropped out of something at a certain time.' is supported by the citation.
+<accept> The text explicitly states under the "Availability" section: "...the production company, TVS, dropped out of the ITV network in 1992..."</accept>
+
+**********Source Check**********
+
+The claim 'A group of children investigate something.' is supported by the citation.
+<accept> The summary section states, "The presence of the witches, and their relationship to the Grinnygog, is eventually worked out by a group of children who investigate their town's local history and discover that the town must make amends for the ancient injustice of witch-burning." This explicitly mentions a group of children investigating something (their town's local history). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The TV adaptation's song is sung to a memorable and evocative melody.' is supported by the original webpage.
+<accept> The "Song" section of the content explicitly states: "The book contains a few more lines than the TV adaptation which is sung to a memorable, evocative melody, which is repeated as the end credits." This confirms that the TV adaptation's song is sung to a memorable and evocative melody. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'TVS dropped out of the ITV network in 1992.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "Availability" section, which states: "This is possibly due to ongoing rights issues after the production company, TVS, dropped out of the ITV network in 1992 and subsequently went through a number of take-overs." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A group of children investigate their town's local history.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "Summary" section of the provided content: "The presence of the witches, and their relationship to the Grinnygog, is eventually worked out by a group of children who investigate their town's local history and discover that the town must make amends for the ancient injustice of witch-burning." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Interleukin_7 
+Interleukin 7 
+Recombinant IL-7 has been administered to someone in a certain way during something.
+
+IL-7 can be produced in a certain way by something.
+
+IL-7 is important for a certain process during something. 
+Recombinant IL-7 has been safely administered to patients in several phase I clinical trials.
+
+IL-7 can be produced locally by intestinal epithelial cells.
+
+IL-7 is important for proliferation during certain stages of B-cell maturation.
+
+**********Web Search Result**********
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2826542/
+
+{
+    "id": "ws_68a4b19011a08194a73ca4d83f82c5c800006021e761613b",
+    "action": {
+        "query": "Recombinant IL-7 administration production importance",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Recombinant IL-7 has been administered to someone in a certain way during something.' is supported by the citation.
+<accept> The content explicitly states that "recombinant human IL-7 (rIL-7) treatment" was administered to "patients with metastatic cancer" and "patients with refractory cancer of various types" in Phase I clinical trials. It details the "certain way" as "four different doses of rIL-7 (3, 10, 30, and 60 μg/kg) every 3 days, for eight doses." and mentions it being part of a "Phase I dose escalation trial," describing the "during something." </accept>
+
+**********Source Check**********
+
+The claim 'IL-7 can be produced in a certain way by something.' is supported by the citation.
+<accept> The content explicitly states that IL-7 is "secreted by stromal cells in the thymic and bone marrow (BM) environment" and "produced by fibroblastic reticular cells (FRC) in T-cell zones of lymph nodes (LN)". It also mentions that recombinant human IL-7 (rIL-7) was "produced by *Escherichia coli*". These details describe how and by what IL-7 can be produced. </accept>
+
+**********Source Check**********
+
+The claim 'IL-7 is important for a certain process during something.' is supported by the citation.
+<accept> The text explicitly states that IL-7 is "required for T-cell development as well as for the survival and homeostasis of mature T-cells" in the Abstract. It further reiterates its importance for "T-cell development and function," "T-cell homeostasis," "DN cell progression in the thymus," "protection from apoptosis," "rearrangement of the gene encoding TCRγ," and "survival and homeostatic proliferation of naïve and memory T-cells." These statements clearly indicate that IL-7 is important for various processes. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Recombinant IL-7 has been safely administered to patients in several phase I clinical trials.' is supported by the original webpage.
+<accept> The text explicitly states under the "Clinical application" section and "Cancer" subsection: "Recombinant IL-7 has been safely administered to patients in several phase I and II clinical trials." This directly confirms the claim for phase I trials. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'IL-7 can be produced locally by intestinal epithelial cells.' is supported by the original webpage.
+<accept> The content explicitly states under the "Function" section that "This cytokine can be produced locally by intestinal epithelial and epithelial goblet cells, and may serve as a regulatory factor for intestinal mucosal lymphocytes."</accept>
+
+**********Exact Claim Check**********
+
+The claim 'IL-7 is important for proliferation during certain stages of B-cell maturation.' is supported by the original webpage.
+<accept> The text explicitly states under the "Function" section, specifically in the "Lymphocyte maturation" subsection: "It is important for proliferation during certain stages of B-cell maturation, T and NK cell survival, development and homeostasis." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus 
+Panulirus echinatus 
+_Panulirus echinatus_ is dealt with in a certain way in certain locations.
+
+_Panulirus echinatus_ is found in a certain place.
+
+_Panulirus echinatus_ lives in a certain habitat. 
+_Panulirus echinatus_ is harvested in most of the areas where it is found.
+
+_Panulirus echinatus_ is found on the Atlantic Islands of Cape Verde.
+
+_Panulirus echinatus_ lives on rocks.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Panulirus_echinatus
+
+{
+    "id": "ws_68a4b19b04548194878fe1b68095497d08dc35697be71130",
+    "action": {
+        "query": "_Panulirus echinatus_ habitat location treatment",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ is dealt with in a certain way in certain locations.' is supported by the citation.
+<accept> The text explicitly states that _Panulirus echinatus_ "is harvested in most of the areas in which it is found and in Saint Helena and the Cape Verde Islands is fished commercially," which describes how it is dealt with in certain locations. </accept>
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ is found in a certain place.' is supported by the citation.
+<accept> The "Distribution and habitat" section explicitly states where _Panulirus echinatus_ is found: "Panulirus echinatus is found off the coasts of northern Brazil and on the Atlantic Islands of Cape Verde, Saint Helena, Ascension Island, Tristan da Cunha and the Canary Islands." </accept>
+
+**********Source Check**********
+
+The claim '_Panulirus echinatus_ lives in a certain habitat.' is supported by the citation.
+<accept> The content explicitly states that _Panulirus echinatus_ "lives on rocky reefs in the tropical western Atlantic Ocean and central Atlantic Islands" and later specifies it "lives on rocks and among boulders, hiding in cracks and fissures during the day." </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ is harvested in most of the areas where it is found.' is supported by the original webpage.
+<accept> The text explicitly states in the "Status" section: "It is harvested in most of the areas in which it is found and in Saint Helena and the Cape Verde Islands is fished commercially." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ is found on the Atlantic Islands of Cape Verde.' is supported by the original webpage.
+<accept> The text explicitly states in the "Distribution and habitat" section that "_Panulirus echinatus_ is found off the coasts of northern Brazil and on the Atlantic Islands of Cape Verde, Saint Helena, Ascension Island, Tristan da Cunha and the Canary Islands."</accept>
+
+**********Exact Claim Check**********
+
+The claim '_Panulirus echinatus_ lives on rocks.' is supported by the original webpage.
+<accept> The content explicitly states in the first paragraph of the main body that "_Panulirus echinatus_ ... lives on rocky reefs". Additionally, under the "Distribution and habitat" section, it says: "It lives on rocks and among boulders, hiding in cracks and fissures during the day." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Parentia 
+Parentia 
+`Parentia` belongs to a certain Class.
+
+`Parentia` something is a species within the genus `Parentia`.
+
+The genus `Parentia` was named by someone in a certain year. 
+_Parentia_ belongs to the Class Insecta.
+
+_Parentia mobilis_ is a species within the genus _Parentia_.
+
+The genus _Parentia_ was named by Hardy in 1935.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Parentia
+
+{
+    "id": "ws_68a4b1a5838081938356063b1c3a12ff0464ca57f12e0976",
+    "action": {
+        "query": "Parentia genus class species named by in year",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim '`Parentia` belongs to a certain Class.' is supported by the citation.
+<accept> The scientific classification table explicitly lists "Class: Insecta" under the entry for _Parentia_, indicating that _Parentia_ belongs to the Class Insecta. </accept>
+
+**********Source Check**********
+
+The claim '`Parentia` something is a species within the genus `Parentia`.' is supported by the citation.
+<accept> The document lists numerous species under the heading "Species", all of which are named in the format "_Parentia [species name]_", explicitly showing them as species within the genus `Parentia` (e.g., "_Parentia agama_", "_Parentia mobilis_"). </accept>
+
+**********Source Check**********
+
+The claim 'The genus `Parentia` was named by someone in a certain year.' is supported by the citation.
+<accept> The "Scientific classification" section explicitly states "Genus: _Parentia_ Hardy, 1935", indicating that the genus was named by Hardy in 1935. </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Parentia_ belongs to the Class Insecta.' is supported by the original webpage.
+<accept> The text explicitly states in the "Scientific classification" table that _Parentia_ belongs to "Class: Insecta". </accept>
+
+**********Exact Claim Check**********
+
+The claim '_Parentia mobilis_ is a species within the genus _Parentia_.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned. The text includes a section titled "Species" which lists "_Parentia mobilis_" directly under this heading, indicating it is a species within the genus _Parentia_. Additionally, the image caption shows "_Parentia mobilis_ (male)" within the context of a page dedicated to the genus _Parentia_. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The genus _Parentia_ was named by Hardy in 1935.' is supported by the original webpage.
+<accept> The scientific classification section explicitly states "Genus: _Parentia_ Hardy, 1935", indicating that the genus _Parentia_ was named by Hardy in 1935. Reference 1 also attributes the naming to Hardy in 1935. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Daniel_Brennan%2C_Baron_Brennan 
+Daniel Brennan, Baron Brennan 
+Daniel Joseph Brennan's political party is a certain political party.
+
+A certain university awarded Daniel Joseph Brennan an honorary Doctorate in 2000.
+
+Daniel Joseph Brennan specialises in a certain area of law. 
+Daniel Joseph Brennan's political party is Labour.
+
+Manchester University awarded Daniel Joseph Brennan an honorary Doctorate in 2000.
+
+Daniel Joseph Brennan specialises in international arbitration.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Daniel_Brennan,_Baron_Brennan
+
+{
+    "id": "ws_68a4b1ad76c08194b6a60c6aa298e5770340f7f85c53d29c",
+    "action": {
+        "query": "Daniel Joseph Brennan political party honorary Doctorate 2000 area of law",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Daniel Joseph Brennan's political party is a certain political party.' is supported by the citation.
+<accept> The "Personal details" section of the page explicitly states "Political party | Labour". </accept>
+
+**********Source Check**********
+
+The claim 'A certain university awarded Daniel Joseph Brennan an honorary Doctorate in 2000.' is supported by the citation.
+<accept> The text explicitly states: "Brennan was educated at St. Bede's Grammar School, Bradford, and graduated with a Bachelor of Law degree from Manchester University, where subsequently he was awarded an honorary Doctorate in 2000." This confirms that Manchester University awarded Daniel Joseph Brennan an honorary Doctorate in 2000. </accept>
+
+**********Source Check**********
+
+The claim 'Daniel Joseph Brennan specialises in a certain area of law.' is supported by the citation.
+<accept> The "Career" section explicitly states that Daniel Joseph Brennan "specialises in personal injury and medical work, commercial law, international business issues, public and private international law, and international arbitration." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Daniel Joseph Brennan's political party is Labour.' is supported by the original webpage.
+<accept> The "Personal details" section of the content explicitly states "Political party | Labour". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Manchester University awarded Daniel Joseph Brennan an honorary Doctorate in 2000.' is supported by the original webpage.
+<accept> The content explicitly states under the "Early life and background" section: "Brennan was educated at St. Bede's Grammar School, Bradford, and graduated with a Bachelor of Law degree from Manchester University, where subsequently he was awarded an honorary Doctorate in 2000." This directly confirms the claim that Manchester University awarded Daniel Joseph Brennan an honorary Doctorate in 2000. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Daniel Joseph Brennan specialises in international arbitration.' is supported by the original webpage.
+<accept> The text explicitly states under the "Career" section that Daniel Joseph Brennan "specialises in personal injury and medical work, commercial law, international business issues, public and private international law, and international arbitration." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H7N9 
+Influenza A virus subtype H7N9 
+As of a certain time, a certain number of fatalities were associated with a certain type of human cases.
+
+Certain manifestations of a condition vary according to the viral variant causing the illness.
+
+Additional instances involving living beings continued to be identified in a specific geographic location over a particular duration and pattern. 
+As of May 2022, 616 deaths were associated with reported A(H7N9) human infections.
+
+Symptoms of A/H7N9 influenza vary according to the strain of virus underlying the infection.
+
+Further cases among humans and poultry in mainland China continued to be identified sporadically throughout the year following March 2013.
+
+**********Web Search Result**********
+
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1419886/full
+
+{
+    "id": "ws_68a4b1b5a9808195945a04fb099a12cb0a5b5a5b3b5d5430",
+    "action": {
+        "query": "fatalities associated with human cases viral variant manifestation location duration pattern",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'As of a certain time, a certain number of fatalities were associated with a certain type of human cases.' is supported by the citation.
+<accept> The article explicitly states in the Introduction: "COVID-19 has led to more than 103 million cases and over 1 million deaths in the US". This provides the number of fatalities ("over 1 million"), the type of human cases ("COVID-19 cases"), and implicitly indicates a cumulative total "as of a certain time" in the US context of the study which covers data from January 1, 2020 to October 20, 2022. </accept>
+
+**********Source Check**********
+
+The claim 'Certain manifestations of a condition vary according to the viral variant causing the illness.' is supported by the citation.
+<accept> The article's title is "Tracking temporal variations of fatality and symptomology correlated with COVID-19 dominant variants...", and the "Introduction" section explicitly states, "We described how COVID-19 fatality and symptoms varied by dominant variant and vaccination in the US." The "Results" section further details how severe and mild symptoms differed among Wild, Delta, Alpha, and Omicron variants. The "Discussion" section also reiterates that "Fatality and symptoms differed across COVID-19 variants." </accept>
+
+**********Source Check**********
+
+The claim 'Additional instances involving living beings continued to be identified in a specific geographic location over a particular duration and pattern.' is supported by the citation.
+<accept> The content explicitly mentions that "COVID-19 has led to more than 103 million cases and over 1 million deaths in the US," and that "the Delta variant (B.1.617.2) caused a sharp increase in COVID-19 cases, leading to the peak incidence in the nation." It also states that Omicron "led daily cases to surge to over a million, becoming yet another dominant variant that extended within 2 weeks." These statements clearly describe additional instances (cases/infections) involving living beings (people/patients) identified in a specific geographic location (the US/nation) over particular durations and patterns (sharp increase, peak incidence, daily surge, temporal variations by variant periods from January 2020 to October 2022). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'As of May 2022, 616 deaths were associated with reported A(H7N9) human infections.' is supported by the original webpage.
+<accept> The content explicitly states: "As of May 2022, a total of 1568 confirmed A(H7N9) human infections with 616 deaths have been reported, with a case fatality ratio (CFR) of 39%." This directly matches the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Symptoms of A/H7N9 influenza vary according to the strain of virus underlying the infection.' is supported by the original webpage.
+<accept> The text states, "Symptoms of A/H7N9 influenza vary according to both the strain of virus underlying the infection and on the species of bird or mammal affected." This explicitly confirms that symptoms vary based on the strain of the virus. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Further cases among humans and poultry in mainland China continued to be identified sporadically throughout the year following March 2013.' is supported by the original webpage.
+<accept> The text states, "Further cases among humans and poultry in mainland China continued to be identified sporadically throughout the year, followed by a peak around the festival season of Chinese New Year (January and February) in early 2014 which was attributed to the seasonal surge in poultry production," directly confirming the claim that cases continued sporadically after March 2013. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Irish_National_War_Memorial_Gardens 
+Irish National War Memorial Gardens 
+Old chronicles describe a certain place as the camping place of a certain group prior to a certain event on a certain date.
+
+Someone suggested the present site, then known as a certain location name, to another person.
+
+A specific memorial was opened in a specific year. 
+Old chronicles describe Kilmainham Hill as the camping place of Brian Boru and his army prior to the Battle of Clontarf on April 23, 1014.
+
+W. T. Cosgrave suggested the present site, then known as the "Longmeadows Estates," to Andrew Jameson.
+
+Canada's National War Memorial was opened in 1939.
+
+**********Web Search Result**********
+
+https://www.nps.gov/parkhistory/online_books/regional_review/vol4-4-5b.htm
+
+{
+    "id": "ws_68a4b1be77cc8195a85420271d1268820c31e376c3d31df7",
+    "action": {
+        "query": "old chronicles describe camping place group prior event date suggestion present site location name memorial opened year",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Old chronicles describe a certain place as the camping place of a certain group prior to a certain event on a certain date.' is NOT supported by the citation.
+<reject> The text describes the founding and activities of the Indian Field Methodist Campground, mentioning its establishment in 1800 and its use by Methodists for revival meetings. It also refers to "earliest settlements" and "pioneer days" where Americans camped out of necessity. However, the text does not explicitly state that "old chronicles describe a certain place as the camping place of a certain group prior to a certain event on a certain date." While it provides historical context for camping and specific camp information, it lacks the precise detail of a camping event occurring *prior to* a specifically named historical event on a specific date, as described in old chronicles. </reject>
+
+**********Source Check**********
+
+The claim 'Someone suggested the present site, then known as a certain location name, to another person.' is NOT supported by the citation.
+<reject> The text describes the founding and development of various camps, including their locations and founders (e.g., Indian Field Methodist Campground moved to its present site, Camp Chocorua founded by Ernest Balch, Seton founded his camp on his estate). However, it does not explicitly state that someone suggested a specific site, identified by a certain location name, to another person for the purpose of establishing a camp or any other use. </reject>
+
+**********Source Check**********
+
+The claim 'A specific memorial was opened in a specific year.' is NOT supported by the citation.
+<reject> The provided text discusses the founding dates of various camps and organizations (e.g., Indian Field Methodist Campground in 1800, Camp Chocorua in 1881, Boy Scouts of America in 1910), but it does not mention a specific memorial being opened in a specific year. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Vascular_smooth_muscle 
+Vascular smooth muscle 
+Pathological conditions include a certain number of conditions.
+
+The endothelial lining of certain types of blood vessels is similar.
+
+The effect of a certain process is opposite to the effect resulting from activation of other types of receptors in the vascular smooth muscle cells. 
+Pathological conditions include vascular inflammation, plaque formation ("Sclerosis (medicine)"), atherosclerosis, restenosis, and pulmonary hypertension.
+
+The endothelial lining of arteries and veins is similar.
+
+The effect of beta-2 receptor agonism is opposite to the effect resulting from activation of alpha-1 and alpha-2 receptors in the vascular smooth muscle cells.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Vascular_smooth_muscle
+
+{
+    "id": "ws_68a4b1caef7c81979bd56c46023393070d6e0683f882a970",
+    "action": {
+        "query": "Pathological conditions number endothelial lining blood vessels similar effect opposite receptors vascular smooth muscle",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Pathological conditions include a certain number of conditions.' is supported by the citation.
+<accept> The content states: "Excessive proliferation of vascular smooth muscle cells contributes to the progression of pathological conditions, such as vascular inflammation, plaque formation "Sclerosis (medicine)"), atherosclerosis, restenosis, and pulmonary hypertension." This explicitly lists several conditions as examples of pathological conditions. </accept>
+
+**********Source Check**********
+
+The claim 'The endothelial lining of certain types of blood vessels is similar.' is supported by the citation.
+<accept> The content states: "Arteries have a great deal more smooth muscle within their walls than veins, thus their greater wall thickness. This is because they have to carry pumped blood away from the heart to all the organs and tissues that need the oxygenated blood. The endothelial lining of each is similar." This explicitly mentions that the endothelial lining of arteries and veins (which are types of blood vessels) is similar. </accept>
+
+**********Source Check**********
+
+The claim 'The effect of a certain process is opposite to the effect resulting from activation of other types of receptors in the vascular smooth muscle cells.' is supported by the citation.
+<accept> The text explicitly states under the "beta-2 receptors" section that "Agonism of beta-2 receptors causes vasodilation and low blood pressure (i.e. the effect is opposite of the one resulting from activation of alpha-1 and alpha-2 receptors in the vascular smooth muscle cells)." This directly matches the information provided, identifying that the effect of activating beta-2 receptors is opposite to that of activating alpha-1 and alpha-2 receptors in vascular smooth muscle cells. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Pathological conditions include vascular inflammation, plaque formation ("Sclerosis (medicine)"), atherosclerosis, restenosis, and pulmonary hypertension.' is supported by the original webpage.
+<accept> The text explicitly states: "Excessive proliferation of vascular smooth muscle cells contributes to the progression of pathological conditions, such as vascular inflammation, plaque formation "Sclerosis (medicine)"), atherosclerosis, restenosis, and pulmonary hypertension." This directly confirms the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The endothelial lining of arteries and veins is similar.' is supported by the original webpage.
+<accept> The text explicitly states, "The endothelial lining of each is similar," referring to arteries and veins, which directly supports the claim that the endothelial lining of arteries and veins is similar. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The effect of beta-2 receptor agonism is opposite to the effect resulting from activation of alpha-1 and alpha-2 receptors in the vascular smooth muscle cells.' is supported by the original webpage.
+<accept> The text explicitly states under the "beta-2 receptors" section that "Agonism of beta-2 receptors causes vasodilation and low blood pressure (i.e. the effect is opposite of the one resulting from activation of alpha-1 and alpha-2 receptors in the vascular smooth muscle cells)." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Little_Blue_Book 
+Little Blue Book 
+Before removal, slow-selling books were handled in a specific manner.
+
+Certain resources from *Appeal to Reason* proved crucial for a particular undertaking.
+
+A certain document contains indications of the FBI's interest in a particular entity by a specific year. 
+Before removal, a new title was often attempted for slow-selling books.
+
+The printing presses and 175,000 subscriber names of *Appeal to Reason* proved crucial for the new venture.
+
+The Cardinal Francis Spellman FBI file contains indications of the FBI's interest in Haldeman-Julius Publications by 1955.
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b1d354608194a7a56165c2a32d4e0c858a6a2b1e3f58",
+    "action": {
+        "query": "Before removal, slow-selling books were handled in a specific manner site:*",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/By_the_Way%2C_I_Forgive_You 
+By the Way, I Forgive You 
+Someone performed "The Joke" on some show at some time.
+
+The album art for a certain album is an original painting by someone else.
+
+A certain song is an exception, written by a group of people. 
+Brandi Carlile performed "The Joke" on _Jimmy Kimmel Live!_ in January 2018.
+
+The album art for _By the Way, I Forgive You_ is an original painting by Scott Avett.
+
+"The Joke" is an exception, written by Brandi Carlile, Dave Cobb, Phil Hanseroth, and Tim Hanseroth.
+
+**********Web Search Result**********
+
+I couldn't find a single webpage that mentions all of the specified information.
+
+However, I found separate sources that address each point:
+
+1. **Performance of "The Joke":** Brandi Carlile performed "The Joke" on *The Late Show with Stephen Colbert* on March 14, 2018. ([en.wikipedia.org](https://en.wikipedia.org/wiki/The_Joke_%28song%29?utm_source=openai))
+
+2. **Album Art as an Original Painting:** The album cover for Meat Puppets' *No Joke!* features artwork originally created by Curt Kirkwood's daughter. ([en.wikipedia.org](https://en.wikipedia.org/wiki/No_Joke%21?utm_source=openai))
+
+3. **Song Written by a Group of People:** "The Joke" was co-written by Brandi Carlile, Dave Cobb, and Phil and Tim Hanseroth. ([en.wikipedia.org](https://en.wikipedia.org/wiki/The_Joke_%28song%29?utm_source=openai))
+
+Unfortunately, I couldn't locate a single webpage that combines all these details.  No source extracted due to invalid syntax
+
+{
+    "id": "ws_68a4b1dbd10081968b34e7b4852879ee07b59d09f2e942e7",
+    "action": {
+        "query": "\"The Joke\" performance \"album art\" \"original painting\" \"exception, written by\"",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Adela_of_Normandy 
+Adela of Normandy 
+Adela of Normandy's youngest child, someone, ascended to the bishopric of a particular location in a specific time.
+
+Adela of Normandy swore to bind herself and her husband to protect the bishop of a certain place during a dispute with a certain monarch.
+
+Adela of Normandy was in a certain relation daughter of a historical figure. 
+Adela of Normandy's youngest child, Henry of Blois, ascended to the bishopric of Winchester in 1129.
+
+Adela of Normandy swore to bind herself and her husband to protect the bishop of Chartres during a dispute with the king of France.
+
+Adela of Normandy was the youngest daughter of William the Conqueror.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Adela_of_Normandy
+
+{
+    "id": "ws_68a4b1e69c90819098d57e5b2073e1ea0cd26cd08ecb9b77",
+    "action": {
+        "query": "Adela of Normandy youngest child bishop, protect bishop dispute monarch, daughter historical figure",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Adela of Normandy's youngest child, someone, ascended to the bishopric of a particular location in a specific time.' is supported by the citation.
+<accept> The text explicitly states that Adela of Normandy's youngest child, Henry of Blois, ascended to the bishopric of Winchester in 1129. </accept>
+
+**********Source Check**********
+
+The claim 'Adela of Normandy swore to bind herself and her husband to protect the bishop of a certain place during a dispute with a certain monarch.' is supported by the citation.
+<accept> The text explicitly states: "She swore, for instance, to bind herself and her husband to protect the bishop of Chartres, then in a dispute with the king of France." This directly confirms that Adela of Normandy swore to bind herself and her husband to protect the bishop of a certain place (Chartres) during a dispute with a certain monarch (the king of France). </accept>
+
+**********Source Check**********
+
+The claim 'Adela of Normandy was in a certain relation daughter of a historical figure.' is supported by the citation.
+<accept> The text explicitly states that "Adela of Normandy... was a daughter of William the Conqueror and Matilda of Flanders." William the Conqueror is a historical figure, confirming the relation mentioned in the information. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy's youngest child, Henry of Blois, ascended to the bishopric of Winchester in 1129.' is supported by the original webpage.
+<accept> The text explicitly states in the "Retirement" section: "She likely took pride in the ascension of her youngest child, Henry of Blois, to the bishopric of Winchester in 1129." This sentence confirms all aspects of the claim. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy swore to bind herself and her husband to protect the bishop of Chartres during a dispute with the king of France.' is supported by the original webpage.
+<accept> The content explicitly states: "She swore, for instance, to bind herself and her husband to protect the bishop of Chartres, then in a dispute with the king of France." This confirms that Adela swore to protect the bishop of Chartres with her husband during a dispute with the king of France. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Adela of Normandy was the youngest daughter of William the Conqueror.' is supported by the original webpage.
+<accept>The content explicitly states, "She was the youngest daughter of William the Conqueror."</accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Umberto_Blasi 
+Umberto Blasi 
+Umberto Blasi competed with a certain number of other runners in the race at the Rocky Point baseball grounds.
+
+Umberto Blasi's winning time for his second consecutive national championship was a certain time.
+
+Umberto Blasi captured his third national title on a certain date. 
+Umberto Blasi competed with five other runners in the race at the Rocky Point baseball grounds.
+
+Umberto Blasi's winning time for his second consecutive national championship was 2:38:30.
+
+Umberto Blasi captured his third national title on November 29, 1914.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Umberto_Blasi
+
+{
+    "id": "ws_68a4b1ef90208190aabcacb3aef58e680abb3997980c451a",
+    "action": {
+        "query": "Umberto Blasi competed with other runners Rocky Point baseball grounds second consecutive national championship third national title",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Umberto Blasi competed with a certain number of other runners in the race at the Rocky Point baseball grounds.' is supported by the citation.
+<accept> The content states: "Three weeks later at the Rocky Point baseball grounds, 3,500 spectators witnessed Blasi compete with five other runners in a 20-mile race". This explicitly mentions that Umberto Blasi competed with five other runners in a race at the Rocky Point baseball grounds. </accept>
+
+**********Source Check**********
+
+The claim 'Umberto Blasi's winning time for his second consecutive national championship was a certain time.' is supported by the citation.
+<accept> The content explicitly states: "Blasi later won his second consecutive national championship with a 2:38:30 on a 40 kilometer course in Milan on 19 September 1909." </accept>
+
+**********Source Check**********
+
+The claim 'Umberto Blasi captured his third national title on a certain date.' is supported by the citation.
+<accept> The content explicitly states that Umberto Blasi "capture[d] his third and final national title in Legnano, Italy, on 29 November 1914." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi competed with five other runners in the race at the Rocky Point baseball grounds.' is supported by the original webpage.
+<accept> The content explicitly states: "Three weeks later at the Rocky Point baseball grounds, 3,500 spectators witnessed Blasi compete with five other runners in a 20-mile race". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi's winning time for his second consecutive national championship was 2:38:30.' is supported by the original webpage.
+<accept> The text explicitly states: "Blasi later won his second consecutive national championship with a 2:38:30 on a 40 kilometer course in Milan on 19 September 1909." This matches the claim that Umberto Blasi's winning time for his second consecutive national championship was 2:38:30. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Umberto Blasi captured his third national title on November 29, 1914.' is supported by the original webpage.
+<accept> The text explicitly states, "Blasi eventually ran his marathon personal best with a 2:38:00.8 performance to capture his third and final national title in Legnano, Italy, on 29 November 1914." This directly supports the claim. </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Eli_Beer 
+Eli Beer 
+United Hatzalah has been in a certain state.
+
+Eli Beer received the prize with someone.
+
+United Hatzalah volunteers responded to a certain number of medical emergencies. 
+United Hatzalah has been at the forefront of medical innovation.
+
+Eli Beer received the prize with Murad Alian.
+
+United Hatzalah volunteers responded to more than 700,000 medical emergencies in 2024.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Eli_Beer
+
+{
+    "id": "ws_68a4b1f9aab8819794829f40df240c5909141f05e610f0b6",
+    "action": {
+        "query": "United Hatzalah Eli Beer prize volunteers number of medical emergencies",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'United Hatzalah has been in a certain state.' is supported by the citation.
+<accept> The content explicitly states that "United Hatzalah of Israel is an independent, non-profit, fully-volunteer emergency medical services organization," which describes the state of the organization. </accept>
+
+**********Source Check**********
+
+The claim 'Eli Beer received the prize with someone.' is supported by the citation.
+<accept> The text states under "The Victor J. Goldberg IIE Prize for Peace in the Middle East (2013)" that "Beer received the prize together with Murad Alian". </accept>
+
+**********Source Check**********
+
+The claim 'United Hatzalah volunteers responded to a certain number of medical emergencies.' is supported by the citation.
+<accept> The content explicitly states that United Hatzalah has "more than 8,000 volunteer medical first responders... who responded to more than 700,000 medical emergencies in 2024." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'United Hatzalah has been at the forefront of medical innovation.' is supported by the original webpage.
+<accept> The content explicitly states, "United Hatzalah established its reputation as an EMS organization by being at the forefront of medical innovation." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Eli Beer received the prize with Murad Alian.' is supported by the original webpage.
+<accept> The "Awards and recognition" section states that "Beer received the prize together with Murad Alian, the Coordinator of United Hatzalah's Team in Israeli-occupied East Jerusalem" for "The Victor J. Goldberg IIE Prize for Peace in the Middle East (2013)". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'United Hatzalah volunteers responded to more than 700,000 medical emergencies in 2024.' is supported by the original webpage.
+<accept> The text explicitly states: "The organization has grown to include more than 8,000 volunteer medical first responders including EMTs, paramedics, and doctors, who responded to more than 700,000 medical emergencies in 2024." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/80th_Birthday_Stadium 
+80th Birthday Stadium 
+The stadium complex includes a smaller facility known as something.
+
+The stadium construction was completed at a certain time.
+
+The stadium officially opened at another certain time. 
+The stadium complex includes a smaller facility known as "Lesser Hampden."
+
+The stadium construction was completed in July 2007.
+
+The stadium officially opened in December 2007.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Toyota_Stadium_(Texas)
+
+{
+    "id": "ws_68a4b200d3b48197a8a15f0332789f7f03a84a54278bb560",
+    "action": {
+        "query": "stadium complex includes smaller facility construction completed opened",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The stadium complex includes a smaller facility known as something.' is supported by the citation.
+<accept> The content explicitly mentions "Dr. Pink Field" as a mini-stadium located north of the main stadium, stating, "North of the main stadium is Dr. Pink Field, a mini-stadium named after former Frisco doctor Dr. Erwin G. Pink." </accept>
+
+**********Source Check**********
+
+The claim 'The stadium construction was completed at a certain time.' is supported by the citation.
+<accept> The text explicitly states the stadium's opening date under the "Construction" section in the infobox and again in the "History" section: "Opened | August 6, 2005" and "opened on August 6, 2005". </accept>
+
+**********Source Check**********
+
+The claim 'The stadium officially opened at another certain time.' is supported by the citation.
+<accept>The content explicitly states the stadium's opening date multiple times, including in the infobox ("Opened August 6, 2005") and in the "History" section ("opened on August 6, 2005").</accept>
+
+**********Exact Claim Check**********
+
+The claim 'The stadium complex includes a smaller facility known as "Lesser Hampden."' is supported by the original webpage.
+<accept> The text explicitly states: "The large stadium also has its own " Lesser Hampden". Just opposite the main entrance to the stadium itself is a floodlit pitch, complete with a running track and a small stand." This confirms the claim that the stadium complex includes a smaller facility known as "Lesser Hampden." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The stadium construction was completed in July 2007.' is supported by the original webpage.
+<accept> The "Construction" section of the infobox states, "Built | March 2005 - July 2007". Additionally, the "Opened" field specifies "(officially opened in December 2007, Finished in July 2007)", explicitly mentioning the completion date as July 2007. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The stadium officially opened in December 2007.' is supported by the original webpage.
+<accept> The "Construction" section of the infobox explicitly states: "Opened December 2007; 17 years ago (2007-12) (officially opened in December 2007, Finished in July 2007)". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/IEEE_Rebooting_Computing 
+IEEE Rebooting Computing 
+Something led to the establishment of a particular initiative at a specific point in time.
+
+The objective of certain events was to find certain issues and create a plan to improve something in a certain way.
+
+At a different point in time, a certain organization decided to broaden its involvement in developing certain standards within a specific field of technology. 
+The MOU led to the formation of the IEEE International Roadmap for Devices and Systems (IRDS) in May 2016.
+
+The objective of the workshops was to identify computer performance scaling challenges and establish a roadmap to successfully restart computer performance scaling.
+
+In 2018, IEEE determined to expand its role in establishing metrics and benchmarks in quantum computing.
+
+**********Web Search Result**********
+
+https://www.ansi.org/standards-coordination/types-objectives-and-deliverables
+
+{
+    "id": "ws_68a4b208ee4c8196a9b0383b05223aa00777fba0adeb109b",
+    "action": {
+        "query": "initiative establishment objective events improve organization standards technology",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Something led to the establishment of a particular initiative at a specific point in time.' is NOT supported by the citation.
+<reject> The text describes the general process for establishing standardization collaboratives, stating they are initiated "once a need has been clearly identified." It lists several historical collaboratives and their purposes or objectives, which could be interpreted as *why* they were formed (e.g., NESCC was formed "to identify and respond to the needs of the nuclear industry"). However, for *any particular* initiative, the text does not explicitly state "something" (a specific event or trigger) that *led to its establishment* at a *specific point in time*. No establishment dates are provided for any of the listed collaboratives. </reject>
+
+**********Source Check**********
+
+The claim 'The objective of certain events was to find certain issues and create a plan to improve something in a certain way.' is supported by the citation.
+<accept> The text explicitly states that a key objective of ANSI's coordination activities, such as collaboratives, is to "identify, define, and prioritize standardization gaps" and "assess and address standardization needs." Furthermore, the deliverables for these activities include a "Standards Roadmap" which "Details existing research, standards and conformity assessment activities, and gaps with recommendations about how to fill the gaps to meet stakeholder needs." This directly describes finding issues ("gaps") and creating a plan ("recommendations about how to fill the gaps") to improve something. </accept>
+
+**********Source Check**********
+
+The claim 'At a different point in time, a certain organization decided to broaden its involvement in developing certain standards within a specific field of technology.' is supported by the citation.
+<accept> The content mentions ANSI's role in establishing "Historical Collaboratives" and "Historical Workshops, Networks & Other Coordination Activities." For example, it states, "The ANSI Biofuels Standards Coordination Panel (ANSI-BSP) was a cross-sector coordinating body established to promote the development and compatibility of voluntary consensus standards and conformity assessment programs to support the large-scale commoditization of biofuels." Similarly, for Cybersecurity, it says "ANSI initiated work to address issues related to cybersecurity and standardization." These examples explicitly show that at different points in time, ANSI (the organization) decided to get involved in (which implies broadening involvement or initiating new involvement in) developing standards within specific fields of technology like biofuels or cybersecurity. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Marcus_Adams_(footballer) 
+Marcus Adams (footballer) 
+Marcus Adams was moved to the inactive list in a certain state.
+
+Marcus Adams was moved to the inactive list at a certain time.
+
+Marcus Adams' nickname is something. 
+Marcus Adams was moved to the inactive list due to long-term concussion symptoms.
+
+Marcus Adams was moved to the inactive list after the conclusion of the 2022 season.
+
+Marcus Adams' nickname is The Specimen.
+
+**********Web Search Result**********
+
+https://www.espn.com/afl/story/_/id/35938226/afl-brisbane-lions-expect-concussion-end-marcus-adams-career
+
+{
+    "id": "ws_68a4b2113fc48193afbbd9b0a28653830f3639894c653962",
+    "action": {
+        "query": "Marcus Adams moved to inactive list state time nickname",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Marcus Adams was moved to the inactive list in a certain state.' is supported by the citation.
+<accept> The content states, "Adams' playing future is in serious doubt after he was put on the Lions' inactive list in January because of ongoing concussion effects." This explicitly mentions Marcus Adams being moved to the inactive list. The "certain state" is implied by "the Lions," referring to the Brisbane Lions, an Australian Football League team based in Brisbane, Queensland, Australia. </accept>
+
+**********Source Check**********
+
+The claim 'Marcus Adams was moved to the inactive list at a certain time.' is supported by the citation.
+<accept> The content explicitly states that Marcus Adams "was put on the Lions' inactive list in January because of ongoing concussion effects." This directly confirms he was moved to the inactive list and specifies "in January" as the time. </accept>
+
+**********Source Check**********
+
+The claim 'Marcus Adams' nickname is something.' is NOT supported by the citation.
+<reject> The content discusses Marcus Adams' AFL career and health issues, but it does not mention or allude to any nickname for him. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer 
+Christian Wolkersdorfer 
+Christian Wolkersdorfer has helped develop **something**.
+
+Christian Wolkersdorfer worked at **a certain place**.
+
+Christian Wolkersdorfer holds **certain positions**. 
+Christian Wolkersdorfer has helped develop water treatment technologies.
+
+Christian Wolkersdorfer worked at the Air Force Geological Survey in Karlsruhe, Germany.
+
+Christian Wolkersdorfer holds advisory positions in environmental committees.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/Christian_Wolkersdorfer
+
+{
+    "id": "ws_68a4b2184ad48193806c1c8c1b5a91640c0650c6bd37a0c5",
+    "action": {
+        "query": "Christian Wolkersdorfer development work positions",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer has helped develop **something**.' is supported by the citation.
+<accept> The text states, "he has also helped develop sustainable mine closure practices and water treatment technologies." </accept>
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer worked at **a certain place**.' is supported by the citation.
+<accept> The content explicitly mentions several places where Christian Wolkersdorfer worked, including the Air Force in Roth, Air Force Geological Survey in Karlsruhe, TU Clausthal, TU Bergakademie Freiberg, Universidade Federal de Ouro Preto, University of Newcastle, LMU München, Cape Breton University, LUT University, and Tshwane University of Technology. </accept>
+
+**********Source Check**********
+
+The claim 'Christian Wolkersdorfer holds **certain positions**.' is supported by the citation.
+<accept> The content explicitly mentions that Christian Wolkersdorfer holds various positions, including "President and member of the Executive Council International Mine Water Association," "Member of the Academy of Science of South Africa (ASSAf)," "professor at LMU München," "'Industrial Research Chair in Mine Water Remediation and Management' at Cape Breton University," "Finnish Distinguished Professor at LUT University," and "South African Research Chair for Acid Mine Drainage Treatment at Tshwane University of Technology," among others. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer has helped develop water treatment technologies.' is supported by the original webpage.
+<accept> The content explicitly states, "In addition, he has also helped develop sustainable mine closure practices and water treatment technologies." This directly supports the claim that Christian Wolkersdorfer has helped develop water treatment technologies. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer worked at the Air Force Geological Survey in Karlsruhe, Germany.' is supported by the original webpage.
+<accept> The content explicitly states: "After finishing his formal education, Christian Wolkersdorfer served in 1990 with the Air Force in Roth, Middle Franconia, Germany. There after he worked at the Air Force Geological Survey in Karlsruhe, Germany." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Christian Wolkersdorfer holds advisory positions in environmental committees.' is supported by the original webpage.
+<accept> The content explicitly states under the "Professional affiliations and volunteer work" section that Christian Wolkersdorfer shows his commitment to community service through "advisory positions in environmental committees." </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/MV_Liberty_Star 
+MV Liberty Star 
+The vessel's displacement is in a certain state.
+
+The recovery ships were delivered in January 1981 to someone.
+
+The vessel's tonnage is in a certain state. 
+The vessel's displacement is 1,052 short tons (954 t).
+
+The recovery ships were delivered in January 1981 to their original owner, United Technologies Corporation.
+
+The vessel's tonnage is 484 GT, 743 GRT; 239 NT, 222 NRT.
+
+**********Web Search Result**********
+
+https://en.wikipedia.org/wiki/MV_Freedom_Star
+
+{
+    "id": "ws_68a4b2229df881949ac5f44524cb39ea0cb90e701a72f6af",
+    "action": {
+        "query": "vessel's displacement recovery ships delivered January 1981 vessel's tonnage",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+The claim 'The vessel's displacement is in a certain state.' is supported by the citation.
+<accept> The webpage explicitly mentions the vessel's displacement under the "General characteristics" section, stating "Displacement 1,052 short tons (954 t)". </accept>
+
+**********Source Check**********
+
+The claim 'The recovery ships were delivered in January 1981 to someone.' is supported by the citation.
+<accept> The text explicitly states in the 'History' section that "The recovery ships were built at Atlantic Marine Shipyard on Fort George Island, Florida, and delivered in January 1981 to their original owner, United Technologies Corporation." This confirms the delivery date and the recipient. </accept>
+
+**********Source Check**********
+
+The claim 'The vessel's tonnage is in a certain state.' is supported by the citation.
+<accept> The "General characteristics" section explicitly lists the vessel's tonnage as "484 GT, 743 GRT; 239 NT, 222 NRT". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The vessel's displacement is 1,052 short tons (954 t).' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "General characteristics" section of the provided content, under the "Displacement" entry, which reads: "1,052 short tons (954 t)". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The recovery ships were delivered in January 1981 to their original owner, United Technologies Corporation.' is supported by the original webpage.
+<accept> The content explicitly states, "The recovery ships were built at Atlantic Marine Shipyard on Fort George Island, Florida, and delivered in January 1981 to their original owner, United Technologies Corporation." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The vessel's tonnage is 484 GT, 743 GRT; 239 NT, 222 NRT.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "General characteristics" section of the provided text, under "Tonnage", which states: "484 GT, 743 GRT; 239 NT, 222 NRT". </accept>
+
+**********Query Info**********
+
+https://en.wikipedia.org/wiki/Born_to_Win 
+Born to Win 
+Some individuals take someone into custody in "Born to Win".
+
+Someone and another person try to recover certain items from a certain individual in "Born to Win".
+
+Someone encounters a third person while attempting to obtain a certain possession in a certain way in "Born to Win". 
+The corrupt policemen apprehend J in "Born to Win".
+
+J and Billy attempt to steal drugs back from Stanley's girlfriend in "Born to Win".
+
+J meets Parm while trying to steal her car in "Born to Win".
+
+**********Web Search Result**********
+
+No source found.
+
+{
+    "id": "ws_68a4b22b8dd48196a4e5254b559f922e07bd97466805eed7",
+    "action": {
+        "query": "\"Born to Win\" individuals take someone into custody someone and another try to recover items encounter third person possession",
+        "type": "search"
+    },
+    "status": "completed",
+    "type": "web_search_call"
+}
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+

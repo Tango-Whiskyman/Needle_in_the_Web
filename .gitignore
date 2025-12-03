@@ -1,0 +1,14 @@
+__pycache__/
+tmp/*
+*.tar.gz
+
+*.egg-info
+
+.DS_Store
+*.csv
+
+.env
+
+build/
+
+misc/*

@@ -1,0 +1,405 @@
+[
+    {
+        "id": 0,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5ca31c788190b0e81db3855da1be07d5b48631109bd6",
+            "action": {
+                "query": "three of the four recorded performances selected for the article jokes rhetorical techniques engender complicity poetry not popular",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 1,
+        "source": "https://www.theguardian.com/global-development/poverty-matters/2013/feb/06/make-customary-laws-work-for-women",
+        "search": {
+            "id": "ws_68ad5ca936308194b98924412d916f8b032ec3733a3d2f5c",
+            "action": {
+                "query": "customary law is grounded in androcentric regulation restricts women",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 2,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5cb2fab88194868aa0bc1b2f300e03c0c1d638690f59",
+            "action": {
+                "query": "\"Dancing to Music You Hate\" incorporates something is in a certain state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 3,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5cb9fe988194aff076fb32afe3860ad26383bdce7c43",
+            "action": {
+                "query": "\"rich text for analysis\" \"Derry Halloween festival\" \"The tales are about people who represent or have fallen prey to something\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 4,
+        "source": "Anthony Joseph is a multifaceted artist who has engaged in various disciplines, including painting, acting, and animation. He has released a number of works, such as his solo painting exhibition \"And the Monkey Flips the Switch\" in 2016, which showcased a series of black and white oil paintings reflecting on social evolution. Additionally, he launched his art studio, ADO Works, where he creates mixed media paintings, illustrations, and animations. His acting career includes roles in film, television, stage, and commercial projects, notably in TV series like \"Snowpiercer\" and \"The Flash.\" In 2020, he created a large-scale mural titled \"Hope Through Ashes: A Requiem for Hogan\u2019s Alley\" as part of the Vancouver Mural Festival. ([ecuad.ca](https://www.ecuad.ca/news/2021/anthony-joseph-on-finding-his-way-back-to-art?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5cc171788195a45c46c0c32114200318deae7257b51e",
+            "action": {
+                "query": "Anthony Joseph released items engaged art forms various disciplines",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 6,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5ccb24fc8190bfdf93619ea0e81d02f99300fb3611b5",
+            "action": {
+                "query": "imprisonment for any term not exceeding two years with or without hard labor Ireland colonial force mid-19th century racial linguistic cultural cleansing",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 7,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5cd36c1c8195a023663ba10590530f1825db5afc95b4",
+            "action": {
+                "query": "literary convention does not necessarily imply an absence of historical basis Richard FitzRalph's agenda was shaped by a certain condition Richard FitzRalph launched a certain type of activity",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 8,
+        "source": "https://dahj.org/article/data-science-and-digital-art-history",
+        "search": {
+            "id": "ws_68ad5cdd0cbc819498616919b13b0fd40874c0c6348f787f",
+            "action": {
+                "query": "exclusive interest to researchers, intersection of Data Science, Museum Studies, Digital Art History, areas open something, shift affects, areas provide something",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 9,
+        "source": "https://emergentfutureslab.com/newsletter/vol-169-creativity-is-worldmaking",
+        "search": {
+            "id": "ws_68ad5ce475bc8193ae041230786e09170fc51ec59193ed95",
+            "action": {
+                "query": "\"This paradigm shift implies the invention of something\" \"These new forms open up something\" \"The new forms are not invented in a certain way\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 10,
+        "source": "https://www.britannica.com/topic/corporatism",
+        "search": {
+            "id": "ws_68ad5cf3312081939e76f5eab29cb516064de99b324bbc93",
+            "action": {
+                "query": "Corporatism characterized in a certain way often accompanied in a certain state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 12,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5cfc4ee48195bb65621b882a5ff105f88ad3f2c1f424",
+            "action": {
+                "query": "new variants amend something \"The paper is organized into\" \"2022 invasion was a progression of the Russo-Ukrainian War that began in 2014\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 13,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d0475308196bf24ac30cbf7ae1b0e26199ea39c3222",
+            "action": {
+                "query": "Meta-hermeneutics definition narratology judicial interpretive practices",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 14,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d10d5908194ad6dcc5edc4a1f72090db6226550079b",
+            "action": {
+                "query": "Aspects of autobiography are themes in 1966 House Mother Normal 1971 rare classification",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 15,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d188f3881949c9dbdd0a23fcbe2089da33939c18889",
+            "action": {
+                "query": "\"A mixer dominates the left-hand side\" \"Piles of stony fragments on the floor were tended by three men\" \"The \u2018Garden City of the Future\u2019 was a large town made up of\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 16,
+        "source": "https://vdoc.pub/documents/objects-and-materials-a-routledge-companion-6gaohnj9h110",
+        "search": {
+            "id": "ws_68ad5d22228881959534ccc2bd742a9103d1875c82cc7f6b",
+            "action": {
+                "query": "\"Objects are capable of not merely transmitting but also receiving something\" \"materially stable objects are different things in different scenes\" \"These traditions include certain things\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 17,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d2ccda08195a3d2d807b861fded00af3d78f47a9141",
+            "action": {
+                "query": "\"reeling out\" process rule Democratic societies freedom express opinions state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 18,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, the article \"What is an Assemblage?\" by Thomas Nail discusses the Deleuzian concept of assemblage, including the rejection of unity in favor of multiplicity and the rejection of essence in favor of events. ([researchgate.net](https://www.researchgate.net/publication/315898387_What_is_an_Assemblage?utm_source=openai))\n\nRegarding the information about \"someone and D. B. Murphy being highly costumed and performative characters,\" I couldn't locate a source that includes this detail.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5d3473b0819493648fc4611de3280056e9c5609bdad6",
+            "action": {
+                "query": "Deleuzian concept of the assemblage rejection of unity in favour of multiplicity rejection of something in favour of events Thomas Nail D. B. Murphy costumed performative",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 19,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d3fb938819380e148c994c127aa0a01e7f02f1e5741",
+            "action": {
+                "query": "Donald Trump accused of mocking type of person inversion brings one back to a certain state Trump known for",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 20,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d4680c88197bf0c55be793034f509faa7af0a8835f5",
+            "action": {
+                "query": "Small institutions relying on aggregators for data publication lack something to develop collection-specific tools. Projects demonstrate the achievement of something, but they do not provide evidence of benefits achieved or the extent of those benefits. The promised revamp of attractiveness was attributed to something.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 21,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d4db0688190b38d949727660e1c07d6ba4b2ad817f3",
+            "action": {
+                "query": "\"Documents are integral to the social order\" \"S.S. _Vera_ sailed\" \"name of the line or liner was displayed\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 22,
+        "source": "https://link.springer.com/chapter/10.1007/978-3-030-88361-4_36",
+        "search": {
+            "id": "ws_68ad5d5911b4819496b8bde97feaf8f208afb37a3f061e25",
+            "action": {
+                "query": "RDF triples Mapping Manuscript Migrations Biblissima",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 23,
+        "source": "https://en.wikipedia.org/wiki/Multiple_Independent_Levels_of_Security",
+        "search": {
+            "id": "ws_68ad5d612a3c8196a74d5f0a3b6714910e75d7dabead9bf5",
+            "action": {
+                "query": "\"used to maintain separation between systems\" \"system comprises\" \"necessity for the system\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 24,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d69599881909ea80c9eb58e79450eeeaec27391bcba",
+            "action": {
+                "query": "\"These traditional moral ideals link something.\" \"The vocabulary of Victorian England restricted something.\" \"This collapse, in turn, challenges something.\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 25,
+        "source": "I couldn't find a single webpage that mentions all of the following information:\n\n- St Mary\u2019s Guildhall along the Lower High Street dates from a certain year.\n- Lincoln is a small city located in a certain region of the United Kingdom (UK).\n- Lincoln has a population of a certain number of people.\n\nHowever, I found separate sources that provide this information:\n\n- St Mary\u2019s Guildhall, located on Lincoln High Street, dates back to 1157. ([lincoln.gov.uk](https://www.lincoln.gov.uk/st-marys-guildhall?utm_source=openai))\n- Lincoln is a cathedral city and district in Lincolnshire, England. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lincoln%2C_England?utm_source=openai))\n- As of the 2021 Census, Lincoln's population was approximately 103,813. ([ons.gov.uk](https://www.ons.gov.uk/visualisations/censusareachanges/E07000138/?utm_source=openai))\n\nUnfortunately, I couldn't locate a single webpage that consolidates all this information.  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5d7056a08196816c704cff06b97e080d8a3c783ff38d",
+            "action": {
+                "query": "St Mary\u2019s Guildhall Lower High Street year Lincoln small city region population",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 26,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d7a88d88195b055475a0e67861f0a78d0e243bc392d",
+            "action": {
+                "query": "\"The paper does not analyze\" \"Workers Leaving the Lumi\u00e8re Factory\" \"first screened in 1895\" \"editorial board member of Screen magazine\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 27,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d83f27c81908f8a8d417199c5a202b961c1fb928666",
+            "action": {
+                "query": "\"source of the photograph\" \"Stevenage was in a certain state\" \"translates to \u2018call to order\u2019\"",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 30,
+        "source": "https://apnews.com/article/7c961e3eac44ae89810f0611ad7994c1",
+        "search": {
+            "id": "ws_68ad5d8b46e0819082aee875085e00fd00e98f1745a4f879",
+            "action": {
+                "query": "impact on socially precarious families enforcement of new laws child custody charges state",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 31,
+        "source": "https://www.ieg-ego.eu/en/threads/theories-and-methods/en/threads/europe-and-the-world/european-overseas-rule/fabian-klose-decolonization-and-revolution",
+        "search": {
+            "id": "ws_68ad5d9121b4819591c9d69f523ee52f0ab2c71d33d0d9f0",
+            "action": {
+                "query": "demographic cultural preeminence threatened European colonialism Enlightenment Soviets 1945",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 32,
+        "source": "I was unable to find a single webpage that mentions all of the specified information.\n\nHowever, I found a source that discusses the concept of insight as a sudden understanding of the solution to a problem, which aligns with the second point:\n\n([scribd.com](https://www.scribd.com/document/736234364/CH12-Cognition6eTB?utm_source=openai))  No source extracted due to invalid syntax",
+        "search": {
+            "id": "ws_68ad5d97af188197a8596a16c193d61d0c503d28ee3faeb5",
+            "action": {
+                "query": "method does not draw direct connections between concepts, part of a wider system of thought insight solution to a problem appears decade separates",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 33,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5d9e09e48196911a3fafc67482d202de4533971307fc",
+            "action": {
+                "query": "\"Transcription\" is a term borrowed from something. Roberts refers to the thesis of someone. The components listed above do not form in a certain way.",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    },
+    {
+        "id": 34,
+        "source": "No source found.",
+        "search": {
+            "id": "ws_68ad5da469988197981e84cbbd2fb64e00c9b1ec32d36ac8",
+            "action": {
+                "query": "consider terms in context Old English something cor John Cassian disciple",
+                "type": "search"
+            },
+            "status": "completed",
+            "type": "web_search_call"
+        }
+    }
+]

@@ -1,0 +1,3446 @@
+**********Query Info**********
+
+https://arxiv.org/html/2508.11630v1 
+Thyme: Think Beyond Images 
+These unsupported packages include some specific packages.
+
+Feedback on these issues is in a certain state.
+
+HTML conversions sometimes display errors in a certain way. 
+These unsupported packages include datetime2.sty, fontawesome.sty, scrextend.sty, tgpagella.sty, and fvextra.sty.
+
+Feedback on these issues is not necessary as they are known and are being worked on.
+
+HTML conversions sometimes display errors due to content that did not convert correctly from the source.
+
+**********Web Search Result**********
+
+https://info.arxiv.org/about/accessibility_html_error_messages.html
+
+[
+    {
+        "title": "Why is an HTML conversion error skipped? \u00b7 Issue #463 - GitHub",
+        "url": "https://github.com/DS4SD/docling/issues/463",
+        "date": "2024-11-28",
+        "last_updated": "2025-05-22"
+    },
+    {
+        "title": "Document conversion troubleshooting - Server2024",
+        "url": "https://help.relativity.com/Server2024/Content/Relativity/Viewer/Document_Conversion_Troubleshooting.htm",
+        "date": "2023-01-01",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Troubleshooting and tips on HTML conversion - Adobe Help Center",
+        "url": "https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_text_tx-html-output-troubleshooting.html",
+        "date": null,
+        "last_updated": "2025-05-15"
+    },
+    {
+        "title": "HTML to PDF conversion fails when document is about page long",
+        "url": "https://forum.aspose.com/t/html-to-pdf-conversion-fails-when-document-is-about-page-long/274574",
+        "date": "2023-11-16",
+        "last_updated": "2025-01-31"
+    },
+    {
+        "title": "Solving formatting issues when converting HTML to PDF",
+        "url": "https://www.nutrient.io/guides/document-converter/sharepoint/troubleshooting/solving-formatting-issues-when-converting-html-to-pdf/",
+        "date": "2000-01-01",
+        "last_updated": "2025-07-02"
+    },
+    {
+        "title": "Issue with Markdown to HTML Conversion \u2013 Bullet Points Formatting",
+        "url": "https://community.make.com/t/issue-with-markdown-to-html-conversion-bullet-points-formatting/74345",
+        "date": "2025-03-07",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Common HTML Errors to Avoid & How to Check Them - Nestify",
+        "url": "https://nestify.io/blog/common-html-errors-to-avoid-how-to-check-them/",
+        "date": "2023-12-12",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Error messages in HTML papers - About arXiv",
+        "url": "https://info.arxiv.org/about/accessibility_html_error_messages.html",
+        "date": "2000-01-01",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Common Causes of Conversion Errors - BMC Documentation",
+        "url": "https://docs.bmc.com/xwiki/bin/view/Mainframe/DevX/BMC-AMI-DevX-Data-Studio-Help/bctedhelp/ConverterPro-Data-Privacy-Manager/Common-Causes-of-Conversion-Errors/",
+        "date": "2021-12-03",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'These unsupported packages include some specific packages.' is NOT supported by the citation.
+<reject> The content states that there is a "long tail of less commonly used packages that are not presently supported" and refers to an external "list of unsupported packages," but it does not explicitly name any specific unsupported packages within the provided text. The examples given are types of errors (e.g., "Tik Z errors," "System name errors"), not specific unsupported package names themselves. </reject>
+
+**********Source Check**********
+
+The claim 'Feedback on these issues is in a certain state.' is supported by the citation.
+<accept> The content includes an image caption that explicitly states, "These issues are known and are being worked on," which describes the state of the feedback on these issues. </accept>
+
+**********Source Check**********
+
+The claim 'HTML conversions sometimes display errors in a certain way.' is supported by the citation.
+<accept> The document explicitly states that "HTML papers on arXiv.org ... will sometimes display errors" and details the way these errors appear under the heading "HTML errors you may see:", describing them as "formatting errors in red" and providing images of red boxes and red markup interspersed with the text. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11628v1 
+Is ChatGPT-5 Ready for Mammogram VQA? 
+Something displays errors in a certain way due to content that did not convert correctly from the source.
+
+This paper uses certain unsupported packages.
+
+A specific package failed.
+
+Authors: achieve something in a particular way.
+
+Breast cancer is a common malignancy.
+
+A certain item was used to control external factors.
+
+Breast cancer is something significant. 
+Breast cancer is the most frequently diagnosed malignancy among women worldwide.
+
+A fixed zero-shot prompt was used to control external factors.
+
+Breast cancer is a leading cause of cancer-related death.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Breast Cancer Facts & Stats 2024 - Incidence, Age, Survival ...",
+        "url": "https://www.nationalbreastcancer.org/breast-cancer-facts/",
+        "date": "2025-06-12",
+        "last_updated": "2025-06-13"
+    },
+    {
+        "title": "Breast Cancer Facts and Statistics 2025",
+        "url": "https://www.breastcancer.org/facts-statistics",
+        "date": "2025-07-03",
+        "last_updated": "2025-07-31"
+    },
+    {
+        "title": "Breast Cancer\u2014Epidemiology, Risk Factors, Classification, ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/",
+        "date": "2021-08-25",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Cancer Stat Facts: Female Breast Cancer - SEER",
+        "url": "https://seer.cancer.gov/statfacts/html/breast.html",
+        "date": "2025-07-02",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Breast Cancer Statistics | How Common Is Breast Cancer?",
+        "url": "https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html",
+        "date": "2025-05-05",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Breast Cancer Facts & Figures 2024-2025",
+        "url": "https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/breast-cancer-facts-and-figures/2024/breast-cancer-facts-and-figures-2024.pdf",
+        "date": "2024-07-11",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Breast Cancer Statistics",
+        "url": "https://www.komen.org/breast-cancer/facts-statistics/breast-cancer-statistics/",
+        "date": "2025-07-10",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Cancer Stat Facts: Common Cancer Sites - SEER",
+        "url": "https://seer.cancer.gov/statfacts/html/common.html",
+        "date": "2025-07-02",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Breast cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Breast Cancer Statistics",
+        "url": "https://www.cdc.gov/breast-cancer/statistics/index.html",
+        "date": "2025-06-10",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11624v1 
+LoRAtorio: An intrinsic approach to LoRA Skill Composition 
+This paper uses **something**.
+
+**Something** is not yet supported by **a certain tool**.
+
+HTML conversions sometimes **behave in a certain way**. 
+This paper uses the `asymptote.sty` package.
+
+The `asymptote.sty` package is not yet supported by the HTML conversion tool.
+
+HTML conversions sometimes display errors due to content that did not convert correctly from the source.
+
+**********Web Search Result**********
+
+https://learn.microsoft.com/en-us/connectors/conversionservice/
+
+[
+    {
+        "title": "Simple HTML and XHTML parser",
+        "url": "https://docs.python.org/3/library/html.parser.html",
+        "date": "2025-08-09",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Images converted to HTML and CSS",
+        "url": "https://www.badsender.com/en/2024/01/22/conversion-image-code-html-css/",
+        "date": "2024-01-22",
+        "last_updated": "2025-06-06"
+    },
+    {
+        "title": "2024's Top C# HTML Parser Tools",
+        "url": "https://scrapingrobot.com/blog/c-sharp-html-parser/",
+        "date": "2024-07-24",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Content Conversion (Preview) - Connectors",
+        "url": "https://learn.microsoft.com/en-us/connectors/conversionservice/",
+        "date": "2024-03-01",
+        "last_updated": "2025-07-25"
+    },
+    {
+        "title": "HTML Parsing \u2014 ChatNoir Resiliparse 0.15.2 documentation",
+        "url": "https://resiliparse.chatnoir.eu/en/stable/man/parse/html.html",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Resolve block Convert to HTML doesn't create the After ...",
+        "url": "https://github.com/WordPress/gutenberg/issues/10848",
+        "date": "2018-10-21",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "19.1. HTMLParser \u2014 Simple HTML and XHTML parser",
+        "url": "https://www.jython.org/jython-old-sites/docs/library/htmlparser.html",
+        "date": "2011-01-01",
+        "last_updated": "2025-03-28"
+    },
+    {
+        "title": "HTML Whitespace is Broken - Devel without a Cause",
+        "url": "https://blog.dwac.dev/posts/html-whitespace/",
+        "date": "2024-09-02",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "13.2 Parsing HTML documents - HTML Standard - whatwg",
+        "url": "https://html.spec.whatwg.org/multipage/parsing.html",
+        "date": "2025-08-15",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "HTML Conversion Editor User Interface",
+        "url": "https://docs.oracle.com/middleware/12213/wcc/dynamic-converter/GUID-A68FDB47-3919-4FDF-ADCB-5B623524C5DA.htm",
+        "date": "2016-09-12",
+        "last_updated": "2025-03-30"
+    }
+]
+
+**********Source Check**********
+
+The claim 'This paper uses **something**.' is NOT supported by the citation.
+<reject> The provided content describes a "Content Conversion" service/connector and its functionalities, limitations, and behaviors. It does not refer to itself as a "paper" nor does it state that "this paper uses something." The information refers to the document as a service or connector, not a paper. </reject>
+
+**********Source Check**********
+
+The claim '**Something** is not yet supported by **a certain tool**.' is supported by the citation.
+<accept> The "Known Issues and Limitations" section states, "the Content Conversion connector does not keep the formatting of the HTML when it converts to plain text. Instead, it removes the hyperlinks." This explicitly mentions that "keeping the formatting of the HTML" and "preserving hyperlinks" are not supported by the "Content Conversion connector." </accept>
+
+**********Source Check**********
+
+The claim 'HTML conversions sometimes **behave in a certain way**.' is supported by the citation.
+<accept> The text explicitly details the "Element-specific behavior of Content Conversion Service," which describes how various HTML elements behave during conversion, such as max line length, link formatting, header uppercasing, and new line handling. The "Known Issues and Limitations" section also describes specific behaviors like not keeping HTML formatting and removing hyperlinks. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Robust Topology and the Hausdorff-Smyth Monad on Metric Spaces over Continuous Quantales 
+Objects in hand can block something, affecting it in a certain way.
+
+The follow-up Grab-n-Go study involved a certain number of people.
+
+Instrumenting objects with sensors can be something, especially for some types of objects. 
+Objects in hand can block sensor views, interfering with signal capture.
+
+The follow-up Grab-n-Go study involved 8 additional participants.
+
+Instrumenting objects with sensors can be costly and not feasible for everyday objects, especially consumables.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11620v1
+
+[
+    {
+        "title": "On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://arxiv.org/html/2508.11620v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Scientists to Study Real-World Eating Behaviors Using ...",
+        "url": "https://cockrell.utexas.edu/news/scientists-to-study-real-world-eating-behaviors-using-wearable-sensors-and-ai/",
+        "date": "2024-03-14",
+        "last_updated": "2025-07-31"
+    },
+    {
+        "title": "[PDF] Object Detection for Agricultural and Construction Environments ...",
+        "url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1043&context=bae_facpub",
+        "date": null,
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "On-the-Go Microgesture Recognition with Objects in Hand",
+        "url": "https://ecommons.cornell.edu/items/2af01cc7-1f1d-4484-95f0-0927ead37f7c",
+        "date": "2025-08-04",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Assessing and Enhancing Movement Quality Using ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11437222/",
+        "date": "2024-09-13",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "[PDF] Advanced Sensors and Instrumentation Research Overview",
+        "url": "https://www.energy.gov/sites/prod/files/2021/02/f82/ne-02-calderoni-asi-research-overview.pdf",
+        "date": "2020-10-29",
+        "last_updated": "2024-05-30"
+    },
+    {
+        "title": "Improving Robotic Dexterity with Optical Tactile Sensor ...",
+        "url": "https://www.youtube.com/watch?v=9QC7XsSipAU",
+        "date": "2024-02-02",
+        "last_updated": "2025-06-23"
+    },
+    {
+        "title": "FitNibble: A Field Study to Evaluate the Utility and Usability ...",
+        "url": "https://dl.acm.org/doi/fullHtml/10.1145/3490099.3511154",
+        "date": null,
+        "last_updated": "2025-02-12"
+    },
+    {
+        "title": "[PDF] Advanced Sensors and Instrumentation Project Summaries",
+        "url": "https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_37586.pdf",
+        "date": null,
+        "last_updated": "2024-07-27"
+    },
+    {
+        "title": "A flexible way to grab items with feeling",
+        "url": "https://meche.mit.edu/news-media/flexible-way-grab-items-feeling",
+        "date": "2022-04-15",
+        "last_updated": "2025-07-08"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Objects in hand can block something, affecting it in a certain way.' is supported by the citation.
+<accept> The text explicitly mentions that "Objects in hand can block sensor views, interfering with signal capture" when discussing challenges for active acoustic sensing. This shows that objects in hand can block something (sensor views) and affect it (interfering with signal capture).</accept>
+
+**********Source Check**********
+
+The claim 'The follow-up Grab-n-Go study involved a certain number of people.' is supported by the citation.
+<accept> The content explicitly states that the follow-up study "involved 8 right-handed participants". </accept>
+
+**********Source Check**********
+
+The claim 'Instrumenting objects with sensors can be something, especially for some types of objects.' is supported by the citation.
+<accept> The text explicitly states that "instrumenting objects with sensors... can be costly and not feasible for everyday objects, especially consumables" in the "1. Introduction" section. This directly confirms that instrumenting objects with sensors can be a particular way (costly and not feasible) for certain types of objects (everyday objects, especially consumables). </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Objects in hand can block sensor views, interfering with signal capture.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "1. Introduction" section under the sub-heading discussing challenges for active acoustic sensing, specifically point (2) "Occlusion: Objects in hand can block sensor views, interfering with signal capture — especially when detecting subtle hand and finger movements." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The follow-up Grab-n-Go study involved 8 additional participants.' is supported by the original webpage.
+<accept> The content explicitly states, "To further explore system boundaries, we conducted a follow-up study with 8 additional participants specifically targeting 10 more challenging, deformable objects." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Instrumenting objects with sensors can be costly and not feasible for everyday objects, especially consumables.' is supported by the original webpage.
+<accept> The claim is explicitly mentioned in the "1. Introduction" section, which states: "One approach involves instrumenting objects with sensors (Schmitz et al., 2015; Zhang et al., [2017a](https://arxiv.org/html/2508.11620v1#bib.bib70 "")), but this can be costly and not feasible for everyday objects, especially consumables." </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11620v1 
+Grab-n-Go: On-the-Go Microgesture Recognition with Objects in Hand 
+The microphone captures something.
+
+The follow-up study involved someone.
+
+Echo profiles are fed into something. 
+The microphone captures the reflected sound waves (echoes).
+
+The follow-up study involved 8 additional participants.
+
+Echo profiles are fed into a deep learning model.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "[PDF] a sparsity measure for echo density growth in general environments",
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/04/A_sparsity_measure_for_echo_density_growth_in_general_environments8.pdf",
+        "date": null,
+        "last_updated": "2025-07-19"
+    },
+    {
+        "title": "Neural Time Course of Echo Suppression in Humans - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2835501/",
+        "date": "2010-02-03",
+        "last_updated": "2025-07-19"
+    },
+    {
+        "title": "[PDF] A Comprehensive Study of Audio Profiling: Methods, Applications ...",
+        "url": "https://www.techrxiv.org/users/780034/articles/921421/master/file/data/IEEE_AP/IEEE_AP.pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11618v1 
+Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective 
+Such optimization becomes infeasible in a certain state.
+
+Landowners focus on maximizing something.
+
+Operators typically manage something. 
+Such optimization becomes infeasible when computational resources are limited.
+
+Landowners focus on maximizing land use value and royalty income.
+
+Operators typically manage one or more injection/extraction wells.
+
+**********Web Search Result**********
+
+https://farmtogether.com/learn/blog/demystifying-the-relationship-between-farm-owners-and-operators
+
+[
+    {
+        "title": "Using Game Theory To Encourage Cooperation in Levee System ...",
+        "url": "https://californiawaterblog.com/2016/03/13/using-game-theory-to-encourage-cooperation-in-levee-system-planning/",
+        "date": "2016-03-13",
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "Demystifying the Relationship Between Farm Owners and Operators",
+        "url": "https://farmtogether.com/learn/blog/demystifying-the-relationship-between-farm-owners-and-operators",
+        "date": "2020-07-30",
+        "last_updated": "2024-12-07"
+    },
+    {
+        "title": "[PDF] Game Theory and Real Options: Analysis of Land ... - DSpace@MIT",
+        "url": "https://dspace.mit.edu/bitstream/handle/1721.1/84171/867636352-MIT.pdf",
+        "date": null,
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "What landowners want from farmer tenants - Farm Progress",
+        "url": "https://www.farmprogress.com/farm-operations/what-landowners-want-from-farmer-tenants",
+        "date": "2024-01-02",
+        "last_updated": "2025-06-19"
+    },
+    {
+        "title": "Game theory and risk\u2010based leveed river system planning with ...",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR017707",
+        "date": "2015-12-16",
+        "last_updated": null
+    },
+    {
+        "title": "What absentee owners should know when renting out farmland",
+        "url": "https://agentblog.nationwide.com/additional-coverage-insights/agriculture/what-absentee-owners-should-know-when-renting-out-farmland/",
+        "date": "2022-12-02",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "a game theoretical approach to value capturing - Emerald Insight",
+        "url": "https://www.emerald.com/insight/content/doi/10.1108/17539261211216003/full/html",
+        "date": "2012-05-04",
+        "last_updated": "2024-06-24"
+    },
+    {
+        "title": "Farm Management - Tenant & Lease | Peoples Bank Wealth ...",
+        "url": "https://www.peoples-ebank.com/about/blog/farm-management---tenant-and-lease-selection",
+        "date": "2021-09-15",
+        "last_updated": "2024-12-26"
+    },
+    {
+        "title": "6 Ways to Build a Lasting Relationship with Your Tenant Farmer",
+        "url": "https://www.stalcupag.com/blog/tenant-farmer-landowner-relationship/",
+        "date": "2025-05-30",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Landowner Farm Leasing Considerations - Peoples Company",
+        "url": "https://peoplescompany.com/blog/landowner-farm-leasing-considerations",
+        "date": "2021-08-30",
+        "last_updated": "2025-06-06"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Such optimization becomes infeasible in a certain state.' is NOT supported by the citation.
+<reject> The provided text discusses the complexities of the relationship between farmland owners and operators, highlighting the importance of balancing short-term profitability with long-term land health. It mentions that certain practices might compromise soil health or that different incentives exist, but it does not state that "optimization becomes infeasible in a certain state." The idea of optimization becoming impossible or unachievable is not present in the content. </reject>
+
+**********Source Check**********
+
+The claim 'Landowners focus on maximizing something.' is supported by the citation.
+<accept> The text explicitly states that landowners' interests are aligned with increasing the "value of the land" and "consistent favorable cash flow." It also mentions that landowners "make money from rent and from the land itself, as its value increases," and that "engaged landlords will see greater return on their investments in farmland." This indicates that landowners focus on maximizing the value, cash flow, and returns from their land assets. </accept>
+
+**********Source Check**********
+
+The claim 'Operators typically manage something.' is supported by the citation.
+<accept> The article explicitly states that "it is the operator’s responsibility to manage day-to-day production, including everything from fertilization to variety selection to grazing to irrigation and pest management," and discusses how "farmland owners and farm operators share responsibilities for managing the farm." This directly supports the idea that operators manage something. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11616v1 
+Controlling Multimodal LLMs via Reward-guided Decoding 
+Something offers a general language interface to users.
+
+Something encompasses both object precision and recall.
+
+Something between generated text output and image input can cause specific types of hallucinations to emerge. 
+MLLMs offer a general language interface to users.
+
+Visual grounding encompasses both object precision and recall.
+
+Interaction between generated text output and image input can cause specific types of hallucinations to emerge.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The difference between precision vs recall in machine ...",
+        "url": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/difference-precision-vs-recall-machine-learning-ai-false-positive-negative",
+        "date": "2025-08-16",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Precision and Recall in Machine Learning",
+        "url": "https://www.geeksforgeeks.org/machine-learning/precision-and-recall-in-machine-learning/",
+        "date": "2025-08-02",
+        "last_updated": "2025-08-03"
+    },
+    {
+        "title": "rafaelpadilla/Object-Detection-Metrics: Most popular ...",
+        "url": "https://github.com/rafaelpadilla/Object-Detection-Metrics",
+        "date": "2018-05-23",
+        "last_updated": "2025-08-09"
+    },
+    {
+        "title": "Accuracy vs. precision vs. recall in machine learning",
+        "url": "https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall",
+        "date": "2025-01-09",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Precision-Recall Curve - ML",
+        "url": "https://www.geeksforgeeks.org/machine-learning/precision-recall-curve-ml/",
+        "date": "2025-07-12",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Object Detection User Guide",
+        "url": "https://www.sentisight.ai/user-guide/object-detection/",
+        "date": "2023-09-27",
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "Conversational language understanding evaluation metrics",
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/evaluation-metrics",
+        "date": "2025-06-04",
+        "last_updated": "2025-08-16"
+    },
+    {
+        "title": "Metrics and validation - Amazon SageMaker AI",
+        "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-metrics-validation.html",
+        "date": null,
+        "last_updated": "2025-07-25"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11613v1 
+Adaptive Cardio Load Targets for Improving Fitness and Performance 
+The weighting factor 'k' is a certain value for males.
+
+The weighting factor 'k' is another certain value for females.
+
+'e' represents a certain type of function. 
+The weighting factor 'k' is 1.92 for males.
+
+The weighting factor 'k' is 1.67 for females.
+
+'e' represents the exponential function.
+
+**********Web Search Result**********
+
+https://jbpe.sums.ac.ir/article_49422.html
+
+[
+    {
+        "title": "Sex differences in human physiology",
+        "url": "https://en.wikipedia.org/wiki/Sex_differences_in_human_physiology",
+        "date": "2005-12-04",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Understanding gender differences in body weight control",
+        "url": "https://blogs.bcm.edu/2018/09/27/understanding-gender-differences-in-body-weight-control/",
+        "date": "2018-09-27",
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "Comparison of Male and Female Maximum Lifting Capacity,",
+        "url": "https://apps.dtic.mil/sti/tr/pdf/ADA160687.pdf",
+        "date": null,
+        "last_updated": "2025-08-04"
+    },
+    {
+        "title": "BODY SIZE-SPECIFIC EFFECTIVE DOSE CONVERSION ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5204364/",
+        "date": "2017-01-02",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "A Monte Carlo Simulation Study",
+        "url": "https://jbpe.sums.ac.ir/article_49422.html",
+        "date": null,
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "Cardiac-specific Conversion Factors to Estimate Radiation ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5756125/",
+        "date": "2017-08-16",
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "ICRP Publication 116",
+        "url": "https://www.icrp.org/publication.asp?id=icrp+publication+116",
+        "date": "2023-02-10",
+        "last_updated": "2025-03-27"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The weighting factor 'k' is a certain value for males.' is supported by the citation.
+<accept> The content explicitly states specific values for the 'k'-factors (weighting factors) for the male phantom under different imaging protocols in the "Results" section and Table 3. For example, it mentions that for the male phantom, the k-factors for liver, chest, cardiac, and abdomen-pelvis imaging protocols are 0.020, 0.012, 0.016, and 0.014 mSv.mGy−1cm−1, respectively. </accept>
+
+**********Source Check**********
+
+The claim 'The weighting factor 'k' is another certain value for females.' is supported by the citation.
+<accept> The content explicitly states numerical values for the weighting factor 'k' for female phantoms under different imaging protocols in the Abstract, Results, and Discussion sections, as well as in Table 3. For example, it mentions: "For the female phantom, the corresponding values [k-factors] are equal to 0.026, 0.023, 0.036, and 0.018, respectively." These specific values indicate that 'k' is indeed a certain value for females. </accept>
+
+**********Source Check**********
+
+The claim ''e' represents a certain type of function.' is NOT supported by the citation.
+<reject> The content states that 'ED' stands for 'Effective Dose', which is described as a 'quantity for patient dosimetry', not a 'function'. The letter 'e' on its own is not defined as a function. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11612v1 
+Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry 
+These numerical methods are sensitive in a certain way.
+
+Sensitivity to the initial guess can lead to a certain state of the numerical solver.
+
+The new framework acts in a certain way. 
+These numerical methods are sensitive to the quality of the initial guess.
+
+Sensitivity to the initial guess can lead to convergence to local minima or complete divergence of the numerical solver.
+
+The new framework bypasses sensitivities observed in other methods.
+
+**********Web Search Result**********
+
+https://blogs.sas.com/content/iml/2015/06/24/sensitivity-newtons-method.html
+
+[
+    {
+        "title": "The sensitivity of Newton's method to an initial guess",
+        "url": "https://blogs.sas.com/content/iml/2015/06/24/sensitivity-newtons-method.html",
+        "date": "2015-06-24",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Solution very sensitive to initial guess? - MATLAB Answers",
+        "url": "https://www.mathworks.com/matlabcentral/answers/233300-solution-very-sensitive-to-initial-guess",
+        "date": "2015-08-11",
+        "last_updated": "2024-11-19"
+    },
+    {
+        "title": "Initial guess sensitivity in computational optimal control ...",
+        "url": "https://www.aimsciences.org/article/doi/10.3934/naco.2019031",
+        "date": null,
+        "last_updated": "2024-12-14"
+    },
+    {
+        "title": "[PDF] Solution and sensitivity analysis of nonlinear equations using a ...",
+        "url": "https://ceid.utsa.edu/HYPAD/wp-content/uploads/sites/50/2023/04/Solution-and-sensitivity-analysis-of-nonlinear-equations-using-a-hypercomplex-variable-Newton-Raphson-method.pdf",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "Gauss-Seidel method | Numerical Analysis II Class Notes",
+        "url": "https://library.fiveable.me/numerical-analysis-ii/unit-8/gauss-seidel-method/study-guide/d5qvlUqGns87MIcj",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[PDF] A SENSITIVITY EQUATION APPROACH TO SHAPE OPTIMIZATION ...",
+        "url": "https://www.cs.odu.edu/~mln/ltrs-pdfs/icase-1994-8.pdf",
+        "date": null,
+        "last_updated": "2025-03-22"
+    },
+    {
+        "title": "Broyden's Method: A Numerical Analysis Powerhouse",
+        "url": "https://www.numberanalytics.com/blog/broydens-method-numerical-analysis-powerhouse",
+        "date": "2025-06-13",
+        "last_updated": "2025-07-05"
+    },
+    {
+        "title": "Limiting the sensitivity of initial guess in NLS Optimization ...",
+        "url": "https://www.mathworks.com/matlabcentral/answers/1756150-limiting-the-sensitivity-of-initial-guess-in-nls-optimization-lsqnonlin-fmincon",
+        "date": "2022-07-08",
+        "last_updated": "2024-11-28"
+    }
+]
+
+**********Source Check**********
+
+The claim 'These numerical methods are sensitive in a certain way.' is supported by the citation.
+<accept> The content explicitly discusses "The sensitivity of Newton's method" and states multiple times that "Newton's method is sensitive to the initial guess" and exhibits "sensitive dependence on initial conditions." Newton's method is a numerical method, thus the statement is supported. </accept>
+
+**********Source Check**********
+
+The claim 'Sensitivity to the initial guess can lead to a certain state of the numerical solver.' is supported by the citation.
+<accept> The content explicitly states "The sensitivity of Newton's method to an initial guess" and elaborates on how this sensitivity can lead to different outcomes, such as converging to a far-away root, endlessly cycling, or diverging to infinity. This directly supports that sensitivity to the initial guess can lead to a certain state of the numerical solver. </accept>
+
+**********Source Check**********
+
+The claim 'The new framework acts in a certain way.' is NOT supported by the citation.
+<reject> The text discusses "Newton's method" and its behavior and dynamics, but it does not mention or refer to a "new framework" acting in a certain way. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11609v1 
+Pretrained Conformers for Audio Fingerprinting and Retrieval 
+Someone offers a certain service.
+
+A certain resource enables results to be replicated in a certain way.
+
+Another entity offers a similar service. 
+SoundHound offers music identification services.
+
+The open source code enables easy replication of the results.
+
+Apple's Shazam offers music identification services.
+
+**********Web Search Result**********
+
+https://www.eweek.com/artificial-intelligence/aiaas-companies/
+
+[
+    {
+        "title": "Azure Service Bus Geo-Replication (Preview) - Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-replication",
+        "date": "2025-07-15",
+        "last_updated": "2025-08-11"
+    },
+    {
+        "title": "12 Top AI-as-a-Service Companies: Powerhouses of AI ...",
+        "url": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
+        "date": "2024-06-27",
+        "last_updated": "2025-07-28"
+    },
+    {
+        "title": "9 Best Data Replication Tools to Consider in 2025 | Estuary",
+        "url": "https://estuary.dev/blog/data-replication-software/",
+        "date": "2025-04-23",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Compare Top 7 Generative AI Services & Vendors in 2025",
+        "url": "https://research.aimultiple.com/generative-ai-services/",
+        "date": "2025-07-02",
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "Mirroring Vs Replication Vs Clustering: A Data Protection Comparison",
+        "url": "https://stonefly.com/blog/mirroring-vs-replication-vs-clustering-comparison/",
+        "date": "2023-07-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Comparing Generative AI Offerings From Major Cloud ...",
+        "url": "https://www.megaport.com/blog/comparing-generative-ai-offerings-from-major-cloud-providers/",
+        "date": "2024-07-30",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Data Replication Tools List & Software Comparison for 2023",
+        "url": "https://portable.io/learn/data-replication-tools",
+        "date": "2023-04-18",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "The best AI chatbots for 2025: Compare features and costs",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/The-best-AI-chatbots-Compare-features-and-costs",
+        "date": "2025-01-22",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Database Replication: Types, Benefits, and Use Cases | Rivery",
+        "url": "https://rivery.io/data-learning-center/complete-guide-to-data-replication/",
+        "date": "2025-01-21",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "Comparison of Models: Intelligence, Performance & Price ...",
+        "url": "https://artificialanalysis.ai/models",
+        "date": "2023-12-06",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Someone offers a certain service.' is supported by the citation.
+<accept> The article explicitly discusses "Artificial intelligence as a service (AIaaS) companies" which by definition "deliver advanced solutions to businesses," clearly indicating they offer services. The article then lists and details numerous companies (e.g., IBM, Amazon Web Services, Microsoft) that offer various AI and ML "services" to businesses. </accept>
+
+**********Source Check**********
+
+The claim 'A certain resource enables results to be replicated in a certain way.' is NOT supported by the citation.
+<reject> The provided text lists and describes various AI as a service companies and their offerings. It discusses features like data preparation, management, automation, and specific industry solutions. However, there is no mention of any resource enabling results to be replicated or reproduced in any specific way. </reject>
+
+**********Source Check**********
+
+The claim 'Another entity offers a similar service.' is supported by the citation.
+<accept> The document is an article titled "Best AI as a Service Companies" and it explicitly lists and compares twelve different companies (IBM, Amazon Web Services, Microsoft, Google, OpenAI, NVIDIA, ServiceNow, Salesforce, MonkeyLearn, DataRobot, H2O.ai, and Oracle) that all offer AI as a service, indicating that "another entity offers a similar service." </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11608v1 
+A multigrid method for CutFEM and its implementation on GPU 
+HTML conversions happen in a certain way.
+
+This paper uses certain packages.
+
+Cu Cui was supported by a certain organization.
+
+We present a multigrid method for something specific.
+
+The discretization employs certain techniques.
+
+We apply certain operators for a certain reason.
+
+The smoother is implemented in a certain way.
+
+Our computational results show that we obtain a method in a certain state.
+
+Furthermore, runtime comparison to fitted methods show that losses are in a certain state.
+
+Our goal in this article is combining certain advantages with certain implementations.
+
+Unfitted finite element methods provide a framework for certain purposes.
+
+In this work, we establish a certain technique to obtain certain outcomes.
+
+We focus on the realization of unfitted finite elements by a certain method.
+
+For the handling of instabilities due to small cuts, we rely on certain penalties.
+
+A multigrid method for a certain problem was presented in a first reference.
+
+There, a certain type of smoother is used and combined with a certain solver.
+
+They obtain certain iteration counts, such that their method can be expected to work in a certain way.
+
+Nevertheless, such a global solver for the interface degrees of freedom causes certain issues.
+
+In the thesis \[ 21], a certain change is presented which renders certain rates.
+
+Additionally, results for a certain method are presented in the thesis, employing certain solvers.
+
+Furthermore, in a third reference, a certain preconditioner is presented in a certain way.
+
+Albeit their estimates are in a certain state, they also present certain results.
+
+Another method related to our work was developed in a fourth reference for certain methods.
+
+There, certain methods are combined in a certain way.
+
+Since they do not combine this preconditioner with a coarse grid, they exhibit a certain dependence.
+
+The vertex-patch smoother as a particular implementation of a multilevel domain decomposition method was introduced by someone in a second reference.
+
+In its additive and multiplicative form, it has proven to operate in a certain way, leading to certain properties and capabilities, as shown in multiple sources.
+
+In a series of publications, we have established that it enables certain implementations, illustrated by specific examples from various sources.
+
+Our numerical experiments demonstrate that the proposed approach not only achieves certain robustness but also delivers comparable performance.
+
+This advancement represents a significant step toward a certain extension, underscoring certain potential. 
+Standard intergrid operators are applied in the method.
+
+Runtime comparisons to fitted methods show that the losses are moderate.
+
+The smoother has an inconsistent treatment of ghost penalties.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11608
+
+[
+    {
+        "title": "A multigrid method for CutFEM and its implementation on GPU - arXiv",
+        "url": "https://arxiv.org/abs/2508.11608",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "A multigrid method for CutFEM and its implementation on GPU - arXiv",
+        "url": "https://arxiv.org/html/2508.11608",
+        "date": "2025-08-15",
+        "last_updated": null
+    },
+    {
+        "title": "A Multigrid Method for Unfitted Finite Element Discretizations of ...",
+        "url": "https://dl.acm.org/doi/abs/10.1137/18M1203353",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Adaptive geometric multigrid for the mixed finite cell formulation of ...",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/fld.5180",
+        "date": "2023-01-27",
+        "last_updated": null
+    },
+    {
+        "title": "Distributed-memory parallelization of the aggregated unfitted finite ...",
+        "url": "https://ui.adsabs.harvard.edu/abs/2019CMAME.35712583V/abstract",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "A Multigrid Method for Unfitted Finite Element Discretizations of ...",
+        "url": "https://epubs.siam.org/doi/10.1137/18M1203353",
+        "date": "2025-01-01",
+        "last_updated": "2025-03-15"
+    },
+    {
+        "title": "The Aggregated Unfitted Finite Element Method on Parallel Tree ...",
+        "url": "https://epubs.siam.org/doi/10.1137/20M1344512",
+        "date": "2025-01-01",
+        "last_updated": "2025-03-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'HTML conversions happen in a certain way.' is NOT supported by the citation.
+<reject> The content mentions that HTML conversions sometimes display errors and suggests best practices for authors to achieve the best HTML results from LaTeX submissions, implying that there is a way they happen. However, it does not explicitly describe *how* HTML conversions happen or the *certain way* they are carried out. </reject>
+
+**********Source Check**********
+
+The claim 'This paper uses certain packages.' is supported by the citation.
+<accept> The first paragraph explicitly states: "This paper uses the following packages that are not yet supported by the HTML conversion tool." It then lists "tikzscale.sty" and "fxthemecolor.sty" as examples.</accept>
+
+**********Source Check**********
+
+The claim 'Cu Cui was supported by a certain organization.' is supported by the citation.
+<accept> The content explicitly states: "Cu Cui was supported by the China Scholarship Council (CSC) under grant NO. 202106380059." This confirms that Cu Cui was supported by a certain organization (China Scholarship Council). </accept>
+
+**********Source Check**********
+
+The claim 'We present a multigrid method for something specific.' is supported by the citation.
+<accept> The abstract explicitly states: "We present a multigrid method for an unfitted finite element discretization of the Dirichlet boundary value problem." The introduction and conclusion also mention presenting a multigrid method for CutFEM and unfitted finite element methods. </accept>
+
+**********Source Check**********
+
+The claim 'The discretization employs certain techniques.' is supported by the citation.
+<accept> The abstract explicitly states: "The discretization employs Nitsche’s method to implement the boundary condition and additional face based ghost penalties for stabilization." This confirms that the discretization uses certain techniques. </accept>
+
+**********Source Check**********
+
+The claim 'We apply certain operators for a certain reason.' is supported by the citation.
+<accept> The abstract states, "We apply standard intergrid operators, relying on the fact that the relevant domain of computation does not grow under mesh refinement." This explicitly mentions applying operators and provides a reason for their application. </accept>
+
+**********Source Check**********
+
+The claim 'The smoother is implemented in a certain way.' is supported by the citation.
+<accept> The document explicitly describes how the smoother is implemented, stating in the abstract that "The smoother is a parallel implementation of the multiplicative vertex-patch smoother with inconsistent treatment of ghost penalties." Section 2.3 "Vertex-patch smoother" and Section 3 "Implementation Details" provide further extensive details on its implementation, including the use of local solvers, handling of ghost penalties, and different approaches for interior versus cut patches. </accept>
+
+**********Source Check**********
+
+The claim 'Our computational results show that we obtain a method in a certain state.' is supported by the citation.
+<accept> The abstract explicitly states, "Our computational results show that we obtain a fast converging method," which directly matches the given information. </accept>
+
+**********Source Check**********
+
+The claim 'Furthermore, runtime comparison to fitted methods show that losses are in a certain state.' is supported by the citation.
+<accept> The abstract explicitly states, "Furthermore, runtime comparison to fitted methods show that the losses are moderate although many optimizations for Cartesian vertex patches cannot be applied on cut patches." This directly matches the provided information, with "moderate" being the specified state of the losses. </accept>
+
+**********Source Check**********
+
+The claim 'Our goal in this article is combining certain advantages with certain implementations.' is NOT supported by the citation.
+<reject> The information "Our goal in this article is combining certain advantages with certain implementations" is not explicitly mentioned. The webpage states a more specific goal: "Our goal in this article is combining the advantages of unfitted finite element discretizations with state-of-the-art GPU implementations of finite element solvers." while similar in intent, the phrasing is not identical. </reject>
+
+**********Source Check**********
+
+The claim 'Unfitted finite element methods provide a framework for certain purposes.' is supported by the citation.
+<accept> The text explicitly states in the '1 Introduction' section: "Unfitted finite element methods provide a powerful framework for handling complex geometries as well as moving boundaries and interfaces while enabling the use of computationally efficient tensor techniques in the bulk of the domain." This confirms that unfitted finite element methods provide a framework for certain purposes.</accept>
+
+**********Source Check**********
+
+The claim 'In this work, we establish a certain technique to obtain certain outcomes.' is NOT supported by the citation.
+<reject> The provided text states "In this work, we establish a geometric multigrid technique based on vertex-patch smoothers to obtain fast solvers and efficient preconditioners for such discretizations." which is more specific than "a certain technique to obtain certain outcomes." Therefore, the exact phrasing is not present. </reject>
+
+**********Source Check**********
+
+The claim 'We focus on the realization of unfitted finite elements by a certain method.' is supported by the citation.
+<accept> The sentence "We focus on the realization of unfitted finite elements by the CutFEM method" is explicitly mentioned in the '1 Introduction' section of the provided content, directly matching the information given. </accept>
+
+**********Source Check**********
+
+The claim 'For the handling of instabilities due to small cuts, we rely on certain penalties.' is supported by the citation.
+<accept> The text explicitly states in the "1 Introduction" section: "For the handling of instabilities due to small cuts, we rely on “ghost penalties” introduced and analyzed in [6, 7]." This directly matches the information given. </accept>
+
+**********Source Check**********
+
+The claim 'A multigrid method for a certain problem was presented in a first reference.' is supported by the citation.
+<accept> The content states, "A multigrid method for the unfitted interface problem was presented in \[22\]". This directly matches the information provided, with "\[22\]" serving as the first reference and "the unfitted interface problem" as the certain problem.</accept>
+
+**********Source Check**********
+
+The claim 'There, a certain type of smoother is used and combined with a certain solver.' is supported by the citation.
+<accept> The content explicitly states that a multigrid method is used, which combines a "smoother" (specifically, a "multiplicative vertex-patch smoother") with an "exact solver on the coarsest level" as part of a V-cycle. It also mentions using the V-cycle as a preconditioner for a GMRES method (another solver). Furthermore, it cites previous work [22] that uses a "Gauss-Seidel smoother... combined with a global solver." </accept>
+
+**********Source Check**********
+
+The claim 'They obtain certain iteration counts, such that their method can be expected to work in a certain way.' is supported by the citation.
+<accept> The document states in the 'Introduction' section: "They obtain good iteration counts independent of contrast, such that their method can be expected to work for the unfitted boundary value problem as well." This explicitly mentions obtaining iteration counts and the expectation of the method working in a certain way (for the unfitted boundary value problem).</accept>
+
+**********Source Check**********
+
+The claim 'Nevertheless, such a global solver for the interface degrees of freedom causes certain issues.' is supported by the citation.
+<accept> The text explicitly states: "Nevertheless, such a global solver for the interface degrees of freedom necessitates data structures which impede the flow of information on the GPU, and hence we prefer to avoid it." This directly supports the claim that such a solver causes certain issues (specifically, impeding information flow on the GPU). </accept>
+
+**********Source Check**********
+
+The claim 'In the thesis \[ 21], a certain change is presented which renders certain rates.' is supported by the citation.
+<accept> The text explicitly states, "In the thesis \[ 21], a basis change at the interface is presented which renders good convergence rates without a global solution involving the interface matrix." This directly matches the provided information about a change presented in thesis [21] that renders certain (good convergence) rates. </accept>
+
+**********Source Check**********
+
+The claim 'Additionally, results for a certain method are presented in the thesis, employing certain solvers.' is supported by the citation.
+<accept> The text explicitly states: "Additionally, results for a pp-multigrid method for higher order discretizations are presented in the thesis, employing face-patch solvers." This directly confirms that results for a certain method (pp-multigrid) are presented in the thesis, employing certain solvers (face-patch solvers). </accept>
+
+**********Source Check**********
+
+The claim 'Furthermore, in a third reference, a certain preconditioner is presented in a certain way.' is supported by the citation.
+<accept> The content explicitly states: "Furthermore, in \[ 15\], a domain decomposition preconditioner for the CutFEM interface problem is presented and analyzed." In the context of the paragraph discussing related work (\[22], \[21]), \[15] is indeed the third reference mentioned. The text specifies "a domain decomposition preconditioner" as the certain preconditioner and "presented and analyzed" as how it is presented. </accept>
+
+**********Source Check**********
+
+The claim 'Albeit their estimates are in a certain state, they also present certain results.' is supported by the citation.
+<accept> The sentence "Albeit their estimates are not robust, they also present computational results for the Dirichlet boundary value problem" explicitly states that their estimates are "not robust" (a specific "certain state") and that they "also present computational results" (specific "certain results"). </accept>
+
+**********Source Check**********
+
+The claim 'Another method related to our work was developed in a fourth reference for certain methods.' is supported by the citation.
+<accept> The text explicitly states: "Another method related to our work was developed in [ 13] for unfitted isogeometric methods." This directly confirms that another related method was developed in a referenced source (reference 13) for specific methods (unfitted isogeometric methods).</accept>
+
+**********Source Check**********
+
+The claim 'There, certain methods are combined in a certain way.' is supported by the citation.
+<accept> The text states, "A multigrid method for the unfitted interface problem was presented in [22]. There, a Gauss-Seidel smoother is used inside the two subdomains and combined with a global solver for the degrees of freedom coupling over the interface." This explicitly describes certain methods (Gauss-Seidel smoother and a global solver) being combined in a certain way (Gauss-Seidel used inside subdomains and combined with a global solver for interface coupling). </accept>
+
+**********Source Check**********
+
+The claim 'Since they do not combine this preconditioner with a coarse grid, they exhibit a certain dependence.' is supported by the citation.
+<accept> The text explicitly states: "Since they do not combine this preconditioner with a coarse grid, they exhibit the usual dependence of the condition number for second order problems, namely κ∼h−2\\kappa\\sim h^{-2}, but independent of the size and location of the cuts." This directly supports the given information. </accept>
+
+**********Source Check**********
+
+The claim 'The vertex-patch smoother as a particular implementation of a multilevel domain decomposition method was introduced by someone in a second reference.' is supported by the citation.
+<accept> The content explicitly states: "The vertex-patch smoother as a particular implementation of a multilevel domain decomposition method was introduced by Pavarino in \[25]." This matches all components of the provided information, with "Pavarino" being the "someone" and "\[25\]" being the "second reference" (in the context of the paper's references). </accept>
+
+**********Source Check**********
+
+The claim 'In its additive and multiplicative form, it has proven to operate in a certain way, leading to certain properties and capabilities, as shown in multiple sources.' is supported by the citation.
+<accept> The text states, "In its additive and multiplicative form, it has proven to be a robust smoother for many applications [2, 18, 23], can be implemented in an efficient way [5, 29], and provides the computational intensity needed to exploit modern computers [28]," which explicitly mentions its additive and multiplicative forms, how it operates (robust smoother, efficient implementation, computational intensity), and refers to multiple sources. </accept>
+
+**********Source Check**********
+
+The claim 'In a series of publications, we have established that it enables certain implementations, illustrated by specific examples from various sources.' is supported by the citation.
+<accept> The text states, "In a series of publications, we have established that it enables implementations on GPU with high utilization \[8, 9, 10, 11], exemplified with the CUDA and Tensor cores of the Nvidia A100, respectively." This directly matches the provided information, indicating that the vertex-patch smoother enables certain implementations, illustrated by specific examples from various sources (the cited publications and specific technologies). </accept>
+
+**********Source Check**********
+
+The claim 'Our numerical experiments demonstrate that the proposed approach not only achieves certain robustness but also delivers comparable performance.' is supported by the citation.
+<accept> The information is explicitly mentioned in the "1 Introduction" section, which states: "Our numerical experiments demonstrate that the proposed approach not only achieves robustness in GPU implementations for unfitted methods but also delivers performance comparable to that observed on standard Cartesian geometries." This directly supports the claim of achieving "certain robustness" and "comparable performance." </accept>
+
+**********Source Check**********
+
+The claim 'This advancement represents a significant step toward a certain extension, underscoring certain potential.' is supported by the citation.
+<accept> The last paragraph of Section 1 explicitly states: "This advancement represents a significant step toward extending GPU-accelerated solvers to complex geometries and unfitted methods, underscoring the potential for combining multigrid techniques with Schwarz smoothers to efficiently manage the computational demands of CutFEM on modern hardware." This directly mentions the advancement, a significant step, the extension (GPU-accelerated solvers to complex geometries and unfitted methods), and the potential. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11607v1 
+TinyTim: A Family of Language Models for Divergent Generation 
+LLMs are constrained in a certain way.
+
+Formal systems struggle with something.
+
+Dual-process theories posit an interplay between a certain type of thinking. 
+LLMs are constrained to convergent, ‘mean-reverting’ outputs.
+
+Formal systems struggle with the ambiguity inherent in human cognition.
+
+Dual-process theories posit an interplay between focused, convergent thinking for evaluation.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "10 Biggest Limitations of Large Language Models",
+        "url": "https://www.projectpro.io/article/llm-limitations/1045",
+        "date": "2024-10-28",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Exploring Dual Process Theory",
+        "url": "https://www.structural-learning.com/post/exploring-dual-process-theory",
+        "date": "2024-04-29",
+        "last_updated": "2025-08-03"
+    },
+    {
+        "title": "Unveiling the power and limitations of large language models",
+        "url": "https://www.6clicks.com/resources/blog/unveiling-the-power-of-large-language-models",
+        "date": "2024-02-02",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Dual-Process Theory of Thought and Inhibitory Control",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10813498/",
+        "date": "2024-01-20",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "Understanding LLMs and overcoming their limitations",
+        "url": "https://lumenalta.com/insights/understanding-llms-overcoming-limitations",
+        "date": "2024-12-03",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Dual Process Theory: Embodied and Predictive; Symbolic ...",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full",
+        "date": "2022-03-21",
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "The Limitations of Large Language Models for ...",
+        "url": "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00160/124234/The-Limitations-of-Large-Language-Models-for",
+        "date": "2024-12-15",
+        "last_updated": "2025-02-15"
+    },
+    {
+        "title": "Dual process theory",
+        "url": "https://en.wikipedia.org/wiki/Dual_process_theory",
+        "date": "2006-08-03",
+        "last_updated": "2025-05-31"
+    },
+    {
+        "title": "A Primer on Large Language Models and their Limitations",
+        "url": "https://arxiv.org/html/2412.04503v1",
+        "date": "2024-12-03",
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "Understanding dual process cognition via the minimum ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11534269/",
+        "date": "2024-10-18",
+        "last_updated": "2025-07-09"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11605v1 
+Dataset Creation for Visual Entailment using Generative AI 
+Natural language inference (NLI) is defined in a certain way.
+
+The F-score on SICK-VTE is a specific value when models are trained on a particular kind of data.
+
+The F-score on SICK-VTE is a different value when models are trained on another kind of data. 
+Natural language inference (NLI) is a classification problem for pairs of two texts: a premise and a hypothesis.
+
+The F-score on SICK-VTE is 0.384 when models are trained on synthetic data.
+
+The F-score on SICK-VTE is 0.400 when models are trained on original data.
+
+**********Web Search Result**********
+
+No source found.
+
+[]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11603v1 
+CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion 
+InstructNeRF2NeRF suffers from something.
+
+An unstable attention process often leads to results in a certain state.
+
+Something can cause the attention process to become highly unstable. 
+InstructNeRF2NeRF suffers from slow convergence.
+
+An unstable attention process often leads to low-quality and over-saturated outputs.
+
+An insufficient token count can cause the attention process to become highly unstable.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11603v1
+
+[
+    {
+        "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions",
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Haque_Instruct-NeRF2NeRF_Editing_3D_Scenes_with_Instructions_ICCV_2023_paper.pdf",
+        "date": null,
+        "last_updated": "2025-04-28"
+    },
+    {
+        "title": "Intrinsic Fluctuations in Sustained Attention and Distractor ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6827583/",
+        "date": "2014-01-29",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian ...",
+        "url": "https://arxiv.org/html/2403.08733v2",
+        "date": "2024-03-14",
+        "last_updated": "2025-05-22"
+    },
+    {
+        "title": "Characterizing the Neural Correlates of Response ...",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.803891/full",
+        "date": "2022-03-04",
+        "last_updated": "2025-04-29"
+    },
+    {
+        "title": "CoreEditor: Consistent 3D Editing via Correspondence- ...",
+        "url": "https://arxiv.org/html/2508.11603v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Behavioral and neural stability of attention bias to threat in ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5139370/",
+        "date": "2016-04-27",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "ED-NERF: EFFICIENT TEXT-GUIDED EDITING OF 3D ...",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/6e444c80042f97db2e19a17774acb51f-Paper-Conference.pdf",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "NeRF: Neural Radiance Field in 3D Vision",
+        "url": "https://arxiv.org/html/2210.00379v6",
+        "date": "2025-06-20",
+        "last_updated": "2025-06-23"
+    },
+    {
+        "title": "ED-NeRF: Efficient Text-Guided Editing of 3D Scene With ...",
+        "url": "https://openreview.net/forum?id=9DvDRTTdlu",
+        "date": null,
+        "last_updated": "2025-05-15"
+    },
+    {
+        "title": "MBS-NeRF: reconstruction of sharp neural radiance fields ...",
+        "url": "https://www.nature.com/articles/s41598-025-88614-z",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'InstructNeRF2NeRF suffers from something.' is supported by the citation.
+<accept> The text explicitly states that "The pioneering InstructNeRF2NeRF \[ 7\] addresses this issue via an iterative dataset update scheme, but suffers from slow convergence." This directly mentions that InstructNeRF2NeRF suffers from "slow convergence." </accept>
+
+**********Source Check**********
+
+The claim 'An unstable attention process often leads to results in a certain state.' is supported by the citation.
+<accept> The text explicitly states: "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs". This matches the provided information that an unstable attention process often leads to results in a certain state (low-quality and over-saturated outputs). </accept>
+
+**********Source Check**********
+
+The claim 'Something can cause the attention process to become highly unstable.' is supported by the citation.
+<accept> The text explicitly states that "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs." This explains that an "insufficient token count," which occurs when background image patches have few geometrically corresponding patches in other views due to occlusion, can cause the attention process to become highly unstable. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'InstructNeRF2NeRF suffers from slow convergence.' is supported by the original webpage.
+<accept> The text explicitly states, "The pioneering InstructNeRF2NeRF [7] addresses this issue via an iterative dataset update scheme, but suffers from slow convergence." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An unstable attention process often leads to low-quality and over-saturated outputs.' is supported by the original webpage.
+<accept> The text states: "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs (see Fig. 8)." This explicitly mentions that an unstable attention process can lead to low-quality and over-saturated outputs. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'An insufficient token count can cause the attention process to become highly unstable.' is supported by the original webpage.
+<accept> The text explicitly states: "The insufficient token count causes the attention process to become highly unstable, often leading to low-quality and over-saturated outputs". </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11599v1 
+CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection 
+CVE-2022-21449 caused a specific effect.
+
+The experimental gains were validated by a particular kind of evidence.
+
+The experimental gains were validated by a certain experimental technique. 
+CVE-2022-21449 allowed attackers to bypass authentication.
+
+The experimental gains were validated by real-world discoveries.
+
+The experimental gains were validated by ablations.
+
+**********Web Search Result**********
+
+https://jfrog.com/blog/cve-2022-21449-psychic-signatures-analyzing-the-new-java-crypto-vulnerability/
+
+[
+    {
+        "title": "CVE-2022-21449 \"Psychic Signatures\" Java Vulnerability Analysis",
+        "url": "https://jfrog.com/blog/cve-2022-21449-psychic-signatures-analyzing-the-new-java-crypto-vulnerability/",
+        "date": "2022-04-21",
+        "last_updated": "2025-08-13"
+    },
+    {
+        "title": "How to fix CVE-2022-21449 Psychic Signatures issue in Java?",
+        "url": "https://cheapsslweb.com/resources/how-to-fix-cve-2022-21449-psychic-signatures-vulnerability-in-java",
+        "date": "2024-10-02",
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "How To Fix CVE-2022-21449 Psychic Signatures Vulnerability in ...",
+        "url": "https://certera.com/kb/how-to-fix-cve-2022-21449-psychic-signatures-vulnerability-in-java/",
+        "date": "2023-11-07",
+        "last_updated": "2025-03-08"
+    },
+    {
+        "title": "CVE-2022-21449 Impact, Exploitability, and Mitigation Steps | Wiz",
+        "url": "https://www.wiz.io/vulnerability-database/cve/cve-2022-21449",
+        "date": "2022-07-20",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "cve-2022-21449 Report - Details, Severity, & Advisories - Twingate",
+        "url": "https://www.twingate.com/blog/tips/cve-2022-21449",
+        "date": null,
+        "last_updated": "2025-06-19"
+    },
+    {
+        "title": "vulnerability - CVE - Search Results - MITRE Corporation",
+        "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi",
+        "date": null,
+        "last_updated": "2024-10-10"
+    },
+    {
+        "title": "The Java ECDSA cryptography CVE-2022-21449 - Connect2id",
+        "url": "https://connect2id.com/blog/cve-2022-21449",
+        "date": "2022-04-20",
+        "last_updated": "2024-10-29"
+    }
+]
+
+**********Source Check**********
+
+The claim 'CVE-2022-21449 caused a specific effect.' is supported by the citation.
+<accept> The content explicitly mentions several effects caused by CVE-2022-21449, such as the "nullification of content’s integrity," an attacker being able to "intercept (read and alter) encrypted communications," or "bypass authentication in some cases." </accept>
+
+**********Source Check**********
+
+The claim 'The experimental gains were validated by a particular kind of evidence.' is NOT supported by the citation.
+<reject> The provided content discusses a security vulnerability (CVE-2022-21449), its impact, and remediation. It does not mention "experimental gains" or their validation by any kind of evidence. </reject>
+
+**********Source Check**********
+
+The claim 'The experimental gains were validated by a certain experimental technique.' is NOT supported by the citation.
+<reject> The provided content discusses a Java vulnerability (CVE-2022-21449), its details, affected versions, impact, and remediation. It does not mention any "experimental gains" or their validation by a specific experimental technique. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11598v1 
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens 
+Something is unlikely to be a biologically plausible objective.
+
+wav2vec2 uses an auxiliary objective in combination with in a certain way.
+
+HuBERT uses something. 
+High-fidelity signal reconstruction is unlikely to be a biologically plausible objective.
+
+wav2vec2 uses an auxiliary objective in combination with contrasting.
+
+HuBERT uses self-generated k-means pseudolabels.
+
+**********Web Search Result**********
+
+https://arxiv.org/abs/2508.08110
+
+[
+    {
+        "title": "[2111.02735] A Fine-tuned Wav2vec 2.0/HuBERT Benchmark ... - ar5iv",
+        "url": "https://ar5iv.labs.arxiv.org/html/2111.02735",
+        "date": "2006-01-01",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Speaker adaptation for Wav2vec2 based dysarthric ASR",
+        "url": "https://www.isca-archive.org/interspeech_2022/baskar22b_interspeech.pdf",
+        "date": null,
+        "last_updated": "2025-05-06"
+    },
+    {
+        "title": "[PDF] Advancing Speech Emotion Recognition - DiVA portal",
+        "url": "http://www.diva-portal.org/smash/get/diva2:1886207/FULLTEXT01.pdf",
+        "date": null,
+        "last_updated": "2024-09-04"
+    },
+    {
+        "title": "Comparative study between addition of one MAMBA block ...",
+        "url": "https://web.stanford.edu/class/cs224n/final-reports/256908412.pdf",
+        "date": null,
+        "last_updated": "2025-01-17"
+    },
+    {
+        "title": "[PDF] Self-training ASR Guided by Unsupervised ASR Teacher",
+        "url": "https://www.isca-archive.org/interspeech_2024/kim24t_interspeech.pdf",
+        "date": "2024-09-05",
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "Source code for torchaudio.models.wav2vec2.model",
+        "url": "https://docs.pytorch.org/audio/2.0.0/_modules/torchaudio/models/wav2vec2/model.html",
+        "date": "2021-01-01",
+        "last_updated": "2025-05-19"
+    },
+    {
+        "title": "Iterative refinement, not training objective, makes HuBERT behave ...",
+        "url": "https://arxiv.org/abs/2508.08110",
+        "date": "2025-08-11",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Wav2Vec2Model \u2014 Torchaudio 2.8.0 documentation",
+        "url": "https://docs.pytorch.org/audio/main/generated/torchaudio.models.Wav2Vec2Model.html",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "[PDF] Comparison of Wav2vec2.0 and Hubert Models based on word error ...",
+        "url": "https://tijer.org/tijer/papers/TIJER2312131.pdf",
+        "date": null,
+        "last_updated": "2025-04-25"
+    },
+    {
+        "title": "Speech-Lab-IITM/CCC-wav2vec-2.0: Code for the method ...",
+        "url": "https://github.com/Speech-Lab-IITM/CCC-wav2vec-2.0",
+        "date": "2022-11-03",
+        "last_updated": "2025-08-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something is unlikely to be a biologically plausible objective.' is NOT supported by the citation.
+<reject> The provided text discusses computer science models for speech representation learning, specifically comparing training objectives and iterative refinement in HuBERT and wav2vec 2.0. It does not contain any mention or discussion of "biologically plausible objectives." </reject>
+
+**********Source Check**********
+
+The claim 'wav2vec2 uses an auxiliary objective in combination with in a certain way.' is NOT supported by the citation.
+<reject> The content mentions "wav2vec 2.0" and "training objective" as a point of comparison with HuBERT, but it does not specify that wav2vec2 uses an "auxiliary objective" nor does it describe how wav2vec2's training objective is combined with anything in a certain way. </reject>
+
+**********Source Check**********
+
+The claim 'HuBERT uses something.' is supported by the citation.
+<accept> The abstract explicitly states that the study compares "two of their architectural differences: training objective and iterative pseudo-label refinement through multiple training iterations" for HuBERT and wav2vec 2.0, implying that HuBERT uses both. It further highlights the effectiveness of "iterative refinement" for encoding linguistic information in self-supervised speech representations, which applies to HuBERT. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring 
+A specific type of network is a certain kind of computational model.
+
+Tests with a particular data processing technique did not produce positive outcomes for it.
+
+It uses a specific data input format. 
+The Long Short-Term Memory (LSTM) is a recursive neural network.
+
+Tests with a Fast Fourier Transform (FFT) did not produce strong results for the LSTM.
+
+The LSTM uses a single time sample window.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "What is a Neural Network? | IBM",
+        "url": "https://www.ibm.com/think/topics/neural-networks",
+        "date": "2021-10-06",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Deep Learning Data Formats - MATLAB &amp; Simulink",
+        "url": "https://www.mathworks.com/help/deeplearning/ug/deep-learning-data-formats.html",
+        "date": "2025-01-01",
+        "last_updated": "2025-05-17"
+    },
+    {
+        "title": "What is a Neural Network?",
+        "url": "https://www.geeksforgeeks.org/machine-learning/neural-networks-a-beginners-guide/",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Understanding Input Data Shapes For Neural Networks in ...",
+        "url": "https://blog.datumo.com/en/tech/16035",
+        "date": "2024-10-22",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Artificial Neural Network",
+        "url": "https://www.quantinuum.com/glossary-item/artificial-neural-network",
+        "date": "2025-03-28",
+        "last_updated": "2025-04-02"
+    },
+    {
+        "title": "How do you preprocess data for a neural network?",
+        "url": "https://milvus.io/ai-quick-reference/how-do-you-preprocess-data-for-a-neural-network",
+        "date": "2025-03-24",
+        "last_updated": "2025-04-09"
+    },
+    {
+        "title": "Neural network (machine learning)",
+        "url": "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)",
+        "date": "2001-10-02",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Understanding \"Input Features\"",
+        "url": "https://community.deeplearning.ai/t/understanding-input-features/71448",
+        "date": "2021-12-03",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Explained: Neural networks",
+        "url": "https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414",
+        "date": "2017-04-14",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What is a Neural Network?",
+        "url": "https://aws.amazon.com/what-is/neural-network/",
+        "date": "2025-07-18",
+        "last_updated": "2025-07-22"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11588v1 
+Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation 
+1. The LSTM is a certain kind of neural network designed in a particular way for specific data.
+
+2. Tests with a certain method did not produce certain outcomes for the LSTM.
+
+3. The LSTM uses a particular data processing approach. 
+The LSTM is a recursive neural network designed to work with time sequence data and to capture longer-term dependencies.
+
+Tests with an FFT did not produce strong results for the LSTM.
+
+The LSTM uses a single time sample window.
+
+**********Web Search Result**********
+
+https://www.mathworks.com/discovery/lstm.html
+
+[
+    {
+        "title": "Understanding of LSTM Networks - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/understanding-of-lstm-networks/",
+        "date": "2023-06-05",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Top 5 Must-Know LSTM Techniques: Memory Networks Explained",
+        "url": "https://www.numberanalytics.com/blog/top-must-know-lstm-techniques",
+        "date": "2025-03-19",
+        "last_updated": "2025-06-25"
+    },
+    {
+        "title": "What is LSTM - Long Short Term Memory? - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/deep-learning/deep-learning-introduction-to-long-short-term-memory/",
+        "date": "2025-08-13",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "What Is Long Short-Term Memory (LSTM)? - MATLAB & Simulink",
+        "url": "https://www.mathworks.com/discovery/lstm.html",
+        "date": "2023-08-11",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Long Short-Term Memory Neural Networks - MATLAB & Simulink",
+        "url": "https://www.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html",
+        "date": "2025-01-01",
+        "last_updated": "2025-05-20"
+    },
+    {
+        "title": "Understanding LSTM Networks - colah's blog",
+        "url": "https://colah.github.io/posts/2015-08-Understanding-LSTMs/",
+        "date": "2015-08-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "5 Types of LSTM Recurrent Neural Networks - Exxact Corporation",
+        "url": "https://www.exxactcorp.com/blog/Deep-Learning/5-types-of-lstm-recurrent-neural-networks-and-what-to-do-with-them",
+        "date": "2023-12-28",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "Long short-term memory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+        "date": "2007-04-16",
+        "last_updated": "2025-07-27"
+    }
+]
+
+**********Source Check**********
+
+The claim '1. The LSTM is a certain kind of neural network designed in a particular way for specific data.' is supported by the citation.
+<accept> The content states that "A long short-term memory (LSTM) network is a type of recurrent neural network (RNN)," confirming it is a certain kind of neural network. It also details the "LSTM Layer Architecture" and "LSTM Network Architecture," describing its particular design with additional gates (input, output, forget) and a memory cell to overcome limitations of traditional RNNs. Furthermore, it explicitly mentions that "LSTMs are predominantly used to learn, process, and classify sequential data," indicating it's for specific data. </accept>
+
+**********Source Check**********
+
+The claim '2. Tests with a certain method did not produce certain outcomes for the LSTM.' is NOT supported by the citation.
+<reject> The content describes how LSTMs work, their architecture, and their applications. It provides an example of Renault engineers using LSTMs successfully to predict NOX levels with 85–90% accuracy after iterations. There is no mention of tests with a certain method that *did not* produce certain outcomes for the LSTM; rather, the text highlights the effectiveness and success of LSTMs. </reject>
+
+**********Source Check**********
+
+The claim '3. The LSTM uses a particular data processing approach.' is supported by the citation.
+<accept> The content explains that LSTMs are predominantly used to "learn, process, and classify sequential data" and details "How LSTMs Work" by describing their architecture, including additional gates (input, output, forget, memory cell) that control information flow and enable them to learn long-term dependencies, which is a particular data processing approach. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11584v1 
+Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks 
+Something is the source of the projection regarding the growth of India’s luxury market.
+
+A rising middle class and increasing urbanization contribute to India's market in a certain way.
+
+Someone has stated that today’s Indian luxury consumer does not fit a singular archetype. 
+Each node in Isaac ROS runs independently.
+
+DINOv2, SAM, and CLIP have demonstrated capabilities in replacing specialized solutions across diverse applications.
+
+By-reference GPU memory transfers across processes are not natively supported on Jetson devices.
+
+**********Web Search Result**********
+
+https://www.wrightresearch.in/blog/understanding-the-rise-of-luxury-consumption-from-affluent-india/
+
+[
+    {
+        "title": "India Luxury Goods Market Size, Share, Forecast 2033",
+        "url": "https://www.imarcgroup.com/india-luxury-goods-market",
+        "date": "2025-06-02",
+        "last_updated": "2025-08-04"
+    },
+    {
+        "title": "Luxe & Loaded: How India is Capturing the Global Luxury ...",
+        "url": "https://www.smallcase.com/blog/luxe-loaded-how-india-is-capturing-the-global-luxury-market/",
+        "date": "2025-02-11",
+        "last_updated": "2025-02-19"
+    },
+    {
+        "title": "India's Luxury Market 2025: Growth Drivers, Key Segments ...",
+        "url": "https://www.kotaksecurities.com/investing-guide/articles/india-luxury-market-growth-trends/",
+        "date": "2025-05-06",
+        "last_updated": "2025-04-26"
+    },
+    {
+        "title": "India's Luxury Market Boom: Surge in Affluent Spending 2025",
+        "url": "https://www.wrightresearch.in/blog/understanding-the-rise-of-luxury-consumption-from-affluent-india/",
+        "date": "2024-11-03",
+        "last_updated": "2025-07-23"
+    },
+    {
+        "title": "Perfect strategy to win the Indian luxury market in 2025",
+        "url": "https://retail.economictimes.indiatimes.com/blog/perfect-strategy-to-win-the-indian-luxury-market-in-2025/119651663",
+        "date": "2025-04-16",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "India's Luxury Retail Takes a Quantum Leap",
+        "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/indias-luxury-retail-takes-a-quantum-leap/120762464",
+        "date": "2025-04-30",
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "India: the next luxury hotspot?",
+        "url": "https://www.kearney.com/industry/consumer-retail/article/india-the-next-luxury-hotspot",
+        "date": "2025-04-02",
+        "last_updated": null
+    },
+    {
+        "title": "India's Luxury Retail Market Surges 90% in Q1 2025 as ...",
+        "url": "https://www.angelone.in/news/market-updates/india-luxury-retail-market-surges-90-percent",
+        "date": "2025-05-02",
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "Luxury: Is India the next China?",
+        "url": "https://www.kearney.com/about/kearney-in-the-media/press/luxury-is-india-the-next-china",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Swipe Right on Luxury: India's E-commerce Market by 2025",
+        "url": "https://www.codetocouture.com/blogs/news/swipe-right-on-luxury-india-s-e-commerce-market-by-2025",
+        "date": "2025-03-08",
+        "last_updated": "2025-04-17"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something is the source of the projection regarding the growth of India’s luxury market.' is NOT supported by the citation.
+<reject> The content mentions the projection that "Indian consumer spending on luxury goods is forecasted to reach $32 billion by 2030" and that "The luxury market's consumer base is projected to expand to 500 million by 2030," but it does not specify the source of these projections. </reject>
+
+**********Source Check**********
+
+The claim 'A rising middle class and increasing urbanization contribute to India's market in a certain way.' is supported by the citation.
+<accept> The text explicitly states that "India’s middle class is also on a significant upward trajectory... This group’s preference for premium products indicates strong potential for luxury and high-quality goods." It also mentions "As the urban population grows and infrastructure improves... there is a shift toward discretionary spending among higher-income groups. This affluent demographic is more inclined to purchase high-end items". This indicates that a rising middle class and increasing urbanization contribute to India's market by driving demand for luxury and premium products and a shift towards discretionary spending. </accept>
+
+**********Source Check**********
+
+The claim 'Someone has stated that today’s Indian luxury consumer does not fit a singular archetype.' is supported by the citation.
+<accept> The content explicitly states that the growth story of India's luxury market is "complex and nuanced, characterized by a stark dichotomy in spending patterns." It elaborates on this by explaining that "while a segment of the population is embracing luxury and discretionary spending, a vast majority still allocates most of their budget to necessities." This clearly indicates that the Indian luxury consumer does not fit a singular archetype, as there are distinct segments with different spending behaviors. The article further reinforces this by discussing a "K-shaped economic recovery" where "wealthier consumers are exhibiting robust spending patterns on high-end goods" while "lower-income segments" focus on essentials, and concludes by stating that "true luxury demand is confined to a small segment of the population" while "for the majority, essential spending remains the priority," suggesting a "two-tiered approach" is needed in India's "unique consumer market." </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11582v1 
+Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models 
+Existing studies incorporate compression techniques `in a certain way`.
+
+The Long CoT process is facilitated by `something`.
+
+Long Chain-of-Thought (Long CoT) involves `something` in contrast to Short Chain-of-Thought (Short CoT). 
+Existing studies incorporate compression techniques such as static pruning thresholds to filter out intermediate tokens or adaptive routing to more efficient modules.
+
+The Long CoT process is facilitated by inference-time scaling.
+
+Long Chain-of-Thought (Long CoT) involves a more detailed and progressive process of exploration and reflection based on a given problem, in contrast to Short Chain-of-Thought (Short CoT).
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "How Chain of Thought (CoT) Prompting Helps LLMs Reason More ...",
+        "url": "https://www.splunk.com/en_us/blog/learn/chain-of-thought-cot-prompting.html",
+        "date": "2025-05-06",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Comprehensive Guide to Chain-of-Thought Prompting - Mercity AI",
+        "url": "https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting",
+        "date": "2022-05-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Prompt Chaining vs Chain of Thoughts COT | YourGPT",
+        "url": "https://yourgpt.ai/blog/general/prompt-chaining-vs-chain-of-thoughts",
+        "date": "2024-10-21",
+        "last_updated": "2024-11-04"
+    },
+    {
+        "title": "Chain-of-Thought Prompting",
+        "url": "https://learnprompting.org/docs/intermediate/chain_of_thought",
+        "date": "2024-10-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Chain of Thought Prompting: A Guide to Enhanced AI Reasoning",
+        "url": "https://www.openxcell.com/blog/chain-of-thought-prompting/",
+        "date": "2024-11-22",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "What is chain of thought (CoT) prompting? - IBM",
+        "url": "https://www.ibm.com/think/topics/chain-of-thoughts",
+        "date": "2025-04-23",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Chain of Thought Prompting Guide - PromptHub",
+        "url": "https://www.prompthub.us/blog/chain-of-thought-prompting-guide",
+        "date": "2025-08-12",
+        "last_updated": "2025-08-14"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11579v1 
+Intergenerational Support for Deepfake Scams Targeting Older Adults 
+Something has caused scams to become in a certain state.
+
+Older adults lost a certain amount to fraud in a certain place at a certain time.
+
+A certain something centers someone as being in a certain way and having a certain role. 
+Advances in technology have led to more sophisticated scams.
+
+Older adults lost an estimated $61.5 billion to fraud in the United States in 2023.
+
+This dual victimization framework centers youth as both affected parties and potential allies.
+
+**********Web Search Result**********
+
+https://www.fbi.gov/contact-us/field-offices/boston/news/fbi-highlights-growing-number-of-reported-elder-fraud-cases-ahead-of-world-elder-abuse-awareness-day
+
+[
+    {
+        "title": "Elder fraud is rising. And it is hurting more than just finances.",
+        "url": "https://www.uchealth.org/today/elder-fraud-is-rising-and-it-is-hurting-more-than-just-finances/",
+        "date": "2025-06-17",
+        "last_updated": "2025-06-18"
+    },
+    {
+        "title": "4 in 10 Americans Have Lost Money to Fraud, AARP Survey Finds",
+        "url": "https://www.aarp.org/money/scams-fraud/fraud-awareness-survey-2025.html",
+        "date": "2025-04-21",
+        "last_updated": "2025-04-22"
+    },
+    {
+        "title": "False alarm, real scam: how scammers are stealing older adults' life ...",
+        "url": "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2025/08/false-alarm-real-scam-how-scammers-are-stealing-older-adults-life-savings",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "FBI Highlights Growing Number of Reported Elder Fraud Cases ...",
+        "url": "https://www.fbi.gov/contact-us/field-offices/boston/news/fbi-highlights-growing-number-of-reported-elder-fraud-cases-ahead-of-world-elder-abuse-awareness-day",
+        "date": "2025-06-13",
+        "last_updated": "2025-06-13"
+    },
+    {
+        "title": "2025 Statistics on Senior Identity Theft - SeniorLiving.org",
+        "url": "https://www.seniorliving.org/identity-theft-protection/statistics/",
+        "date": "2025-04-18",
+        "last_updated": "2025-05-14"
+    },
+    {
+        "title": "Elder Fraud - FBI",
+        "url": "https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/elder-fraud",
+        "date": "2020-04-06",
+        "last_updated": "2025-07-16"
+    },
+    {
+        "title": "FTC Data Show a More Than Four-Fold Increase in Reports of ...",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-data-show-more-four-fold-increase-reports-impersonation-scammers-stealing-tens-even-hundreds",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-07"
+    },
+    {
+        "title": "Five Fraud Trends to Watch Out for in 2025",
+        "url": "https://www.ccul.org/news/five-fraud-trends-to-watch-out-for-in-2025/",
+        "date": "2025-04-17",
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something has caused scams to become in a certain state.' is supported by the citation.
+<accept> The content explicitly states that "Elder fraud is a growing problem" and provides data showing a "46% increase in complaints from 2023, as well as a 43% increase in losses," indicating that scams have become more prevalent. It also attributes this to criminal elements seeking to take advantage of a "vulnerable and growing population" and seniors being "frequently targeted" due to perceived traits like politeness and financial stability. </accept>
+
+**********Source Check**********
+
+The claim 'Older adults lost a certain amount to fraud in a certain place at a certain time.' is supported by the citation.
+<accept> The content explicitly states that "in 2024 there was a total of $4.885 billion in losses from 147,127 complaints" related to elder fraud nationwide. It also provides more specific details for the Boston Division (Maine, Massachusetts, New Hampshire, and Rhode Island), stating that "total reported losses in 2024 were $134,935,643" and breaking down the losses for each state within that division for the same year. </accept>
+
+**********Source Check**********
+
+The claim 'A certain something centers someone as being in a certain way and having a certain role.' is NOT supported by the citation.
+<reject> The information "A certain something centers someone as being in a certain way and having a certain role" is highly abstract and not explicitly mentioned or directly inferable from the content. While the text describes how seniors are perceived by criminals ("polite and trusting," "financially stable") and how this perception leads to them being targeted (a potential "role"), the text does not use the phrasing "centers someone as being in a certain way and having a certain role" or convey this precise meaning with specific entities for "certain something," "certain way," or "certain role." </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11576v1 
+Causality Matters: How Temporal Information Emerges in Video Language Models 
+The entire information pathway is causal in a certain way.
+
+Experiments were conducted with some certain models.
+
+The resulting representation from something is then used for something else. 
+The entire information pathway from aggregation to query enrichment is causal.
+
+Experiments were conducted with Qwen2.5-VL and LLaVA-OneVision.
+
+The resulting representation from aggregated raw information is then used to enrich the query’s context.
+
+**********Web Search Result**********
+
+https://www.nature.com/articles/s42256-023-00744-z
+
+[
+    {
+        "title": "Deep learning of causal structures in high dimensions under data ...",
+        "url": "https://www.nature.com/articles/s42256-023-00744-z",
+        "date": "2023-10-26",
+        "last_updated": "2024-10-04"
+    },
+    {
+        "title": "Causal Inference Meets Deep Learning: A Comprehensive Survey",
+        "url": "https://spj.science.org/doi/10.34133/research.0467",
+        "date": "2024-09-10",
+        "last_updated": "2025-04-05"
+    },
+    {
+        "title": "Machine Learning for Causal Inference in Biological Networks",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9581010/",
+        "date": "2021-09-22",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Causal Machine Learning Requires Rigorous Synthetic Experiments ...",
+        "url": "https://arxiv.org/html/2508.08883",
+        "date": "2025-08-12",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Causality in Machine Learning 101 for Dummies like Me",
+        "url": "https://sangeetm.github.io/projects/2019/11/24/Causality-in-Machine-Learning-101-for-Dummies-like-Me/",
+        "date": "2019-11-24",
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "Recent Developments in Causal Inference and Machine Learning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11192458/",
+        "date": "2023-04-26",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Causal Machine Learning (CML): What Is It and How Can You Learn ...",
+        "url": "https://www.refontelearning.com/blog/causal-machine-learning",
+        "date": "2025-04-01",
+        "last_updated": "2025-06-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The entire information pathway is causal in a certain way.' is NOT supported by the citation.
+<reject> The provided text describes a deep learning approach for learning "causal structures" and "causal relationships" between variables. It details how the model outputs a "directed graph" whose edges "represent causal influences." However, the abstract and general phrase "The entire information pathway is causal in a certain way" is not explicitly mentioned or directly implied in the text. The text focuses on the methods and results of identifying causal links within a system, rather than making a philosophical statement about the nature of an "information pathway." </reject>
+
+**********Source Check**********
+
+The claim 'Experiments were conducted with some certain models.' is supported by the citation.
+<accept> The content explicitly states that experiments were conducted with "proposed learners" and "models," such as D2CL, in various scenarios including simulations and real biological examples. For instance, the abstract mentions, "In experiments, we find that the proposed learners can effectively identify novel causal relationships across thousands of variables. Results include extensive (linear and nonlinear) simulations... as well as real biological examples where the models are applied to high-dimensional molecular data." </accept>
+
+**********Source Check**********
+
+The claim 'The resulting representation from something is then used for something else.' is supported by the citation.
+<accept> The content explicitly states that the CNN and GNN towers output "high-dimensional embedding[s] of the individual features found". These embeddings (which are a form of representation) "are concatenated and further processed by multiple fully connected layers" to "finally output the log-likelihood of a directed edge", thereby being used for something else. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11575v1 
+Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption 
+In most cases, data must be handled in a certain way.
+
+Unauthorized access, leakage, or misuse of something could compromise national security, operational plans, or strategic assets.
+
+This dependency presents problems in a certain state. 
+In most cases, data must be decrypted before it can be processed.
+
+Unauthorized access, leakage, or misuse of military data could compromise national security, operational plans, or strategic assets.
+
+This dependency presents serious privacy and security challenges.
+
+**********Web Search Result**********
+
+https://www.fticonsulting.com/insights/articles/national-security-meets-data-security-understanding-dojs-bulk-data-rule
+
+[
+    {
+        "title": "National Security Meets Data Security",
+        "url": "https://www.fticonsulting.com/insights/articles/national-security-meets-data-security-understanding-dojs-bulk-data-rule",
+        "date": "2025-07-22",
+        "last_updated": "2025-08-08"
+    },
+    {
+        "title": "The Open Data Market and Risks to National Security",
+        "url": "https://www.lawfaremedia.org/article/open-data-market-and-risks-national-security",
+        "date": "2022-02-03",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Big Data as a National Security Issue",
+        "url": "https://legal-forum.uchicago.edu/print-archive/big-data-national-security-issue",
+        "date": "2020-03-16",
+        "last_updated": "2025-01-19"
+    },
+    {
+        "title": "Managing the Risks of China's Access to U.S. Data and ...",
+        "url": "https://carnegieendowment.org/research/2025/01/managing-the-risks-of-chinas-access-to-us-data-and-control-of-software-and-connected-technology?lang=en",
+        "date": "2025-01-30",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "New US Data Security Program limits sensitive data transfers",
+        "url": "https://www.mwe.com/insights/us-data-security-program-limits-sensitive-data-transfers/",
+        "date": "2025-07-01",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "Who's a national security risk? The changing transatlantic ...",
+        "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/whos-a-national-security-risk-geopolitics-of-data-transfers/",
+        "date": "2024-05-29",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Key Cybersecurity, Privacy, and National Security ...",
+        "url": "https://www.morganlewis.com/pubs/2025/07/key-cybersecurity-privacy-and-national-security-considerations-for-data-centers-in-2025",
+        "date": "2025-07-02",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "NSA Issues Guidance for Maturing Data Security",
+        "url": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3735130/nsa-issues-guidance-for-maturing-data-security/",
+        "date": "2024-04-09",
+        "last_updated": "2025-08-15"
+    }
+]
+
+**********Source Check**********
+
+The claim 'In most cases, data must be handled in a certain way.' is NOT supported by the citation.
+<reject> The article details how data "must" be handled in a certain way specifically under the DOJ's Bulk Data Rule for sensitive personal and government-related data. It does not make a general statement that "in most cases, data must be handled in a certain way." </reject>
+
+**********Source Check**********
+
+The claim 'Unauthorized access, leakage, or misuse of something could compromise national security, operational plans, or strategic assets.' is NOT supported by the citation.
+<reject> The content states that foreign adversaries exploiting bulk data could lead to "theft of proprietary information," "disruption of U.S. critical infrastructure," and is a "national security measure." This covers the concepts of unauthorized access/misuse, compromise of national security, and strategic assets (proprietary information, critical infrastructure). However, the specific phrase "operational plans" is not explicitly mentioned in the text as something that could be compromised. </reject>
+
+**********Source Check**********
+
+The claim 'This dependency presents problems in a certain state.' is NOT supported by the citation.
+<reject> The text discusses problems related to "countries of concern" (which are foreign states) exploiting U.S. sensitive data, posing national security risks to the U.S. and its citizens. However, it does not mention a "dependency" that presents problems "in a certain state." The problems described are threats from foreign adversaries, not issues arising from a dependency within a specific state. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11574v1 
+Intelligent Edge Resource Provisioning for Scalable Digital Twins of Autonomous Vehicles 
+The proposed framework reduces synchronization errors to as low as a certain percentage.
+
+Something offers a more centralized approach to network management.
+
+Software-Defined Networking (SDN) decouples certain parts. 
+Software-Defined Networking (SDN) offers a more centralized approach to network management.
+
+The proposed framework reduces synchronization errors to as low as 5%.
+
+Software-Defined Networking (SDN) decouples the data forwarding layer from the control layer.
+
+**********Web Search Result**********
+
+https://www.comparitech.com/net-admin/software-defined-networking/
+
+[
+    {
+        "title": "Distributed SDN Synchronization for Time Sensitive Applications",
+        "url": "https://arxiv.org/html/2508.11475",
+        "date": "2013-01-01",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Understanding SDN Configuration: Software-Defined ...",
+        "url": "https://tailscale.com/learn/software-defined-networking",
+        "date": "2024-11-01",
+        "last_updated": "2025-01-12"
+    },
+    {
+        "title": "[PDF] Learning the Optimal Synchronization Rates in Distributed SDN ...",
+        "url": "https://arxiv.org/pdf/1901.08936",
+        "date": "2019-01-25",
+        "last_updated": "2025-07-14"
+    },
+    {
+        "title": "Software-Defined Networking: The New Norm for Networks",
+        "url": "https://opennetworking.org/sdn-resources/whitepapers/software-defined-networking-the-new-norm-for-networks/",
+        "date": "2023-10-14",
+        "last_updated": "2025-04-27"
+    },
+    {
+        "title": "SecuNet 4D a comprehensive framework for distributed SDN ...",
+        "url": "https://www.nature.com/articles/s41598-025-98649-x",
+        "date": "2025-05-08",
+        "last_updated": "2025-05-08"
+    },
+    {
+        "title": "Software-Defined Networking (SDN) Guide: SDN Advantages",
+        "url": "https://www.comparitech.com/net-admin/software-defined-networking/",
+        "date": "2024-11-30",
+        "last_updated": "2024-12-02"
+    },
+    {
+        "title": "An improved Lagrangian relaxation algorithm based SDN ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8907310/",
+        "date": "2022-03-09",
+        "last_updated": "2025-06-14"
+    },
+    {
+        "title": "How and Why Software Defined Networking SDN Works",
+        "url": "https://www.trgdatacenters.com/resource/how-and-why-software-defined-networking-sdn-works/",
+        "date": "2025-02-19",
+        "last_updated": "2025-02-26"
+    },
+    {
+        "title": "Securing the Precision Time Protocol with SDN-enabled Cyclic Path ...",
+        "url": "https://dl.acm.org/doi/10.1145/3728363",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Understanding Software-Defined Networking (SDN) and its ...",
+        "url": "https://www.techfinitive.com/features/understanding-software-defined-networking-sdn-and-its-benefits/",
+        "date": "2024-12-02",
+        "last_updated": "2025-07-27"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The proposed framework reduces synchronization errors to as low as a certain percentage.' is NOT supported by the citation.
+<reject> The provided content discusses Software-Defined Networking (SDN) and its advantages, disadvantages, deployment, and comparison with traditional networking and SD-WAN. It does not mention "synchronization errors" or any specific percentage reduction for them. </reject>
+
+**********Source Check**********
+
+The claim 'Something offers a more centralized approach to network management.' is supported by the citation.
+<accept> The content explicitly states multiple times that Software-Defined Networking (SDN) offers a more centralized approach to network management. For example, it says, "SDN allows for more centralized control, enabling easier configuration, monitoring, and management of the network and security policies," and lists "Centralized Management" as a primary benefit, explaining, "Network administrators can manage the entire network from a single interface, simplifying tasks like configuration, monitoring, and troubleshooting." </accept>
+
+**********Source Check**********
+
+The claim 'Software-Defined Networking (SDN) decouples certain parts.' is supported by the citation.
+<accept> The content explicitly states, "SDN separates these two functions into: 1. Control Plane... 2. Data Plane (Forwarding Plane)," and further clarifies that in SDN, the control plane is "decoupled and centralized" while in traditional networks it is "tightly coupled with the hardware." This directly supports the idea that SDN decouples certain parts. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11573v1 
+Nominal Evaluation Of Automatic Multi-Sections Control Potential In Comparison To A Simpler One- Or Two-Sections Alternative With Predictive Spray Switching 
+The preferred method can be implemented in a certain state.
+
+Obstacle areas can include something inside a field area.
+
+The movement of a wide boom bar is highly dynamic and affected in a certain way. 
+The preferred method can be implemented sensor-free.
+
+Obstacle areas can include tree islands, ponds, or power pole masts inside a field area.
+
+The movement of a wide boom bar is highly dynamic and affected by mechanical structure vibrations and inertia.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Dynamic Boom-Booms (2 Contacts) - YouTube",
+        "url": "https://www.youtube.com/watch?v=vEv3y0OAZoA",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[PDF] Instrumented Self-Propelled Sprayer to Determine Dynamic Boom ...",
+        "url": "https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3376&context=utk_gradthes",
+        "date": null,
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "[PDF] CHAPTER 22 - IHSA",
+        "url": "https://www.ihsa.ca/rtf/health_safety_manual/pdfs/equipment/ewps.pdf",
+        "date": null,
+        "last_updated": "2024-02-01"
+    },
+    {
+        "title": "[PDF] Vibration absorber optimization for boom-sprayer",
+        "url": "http://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-8a4d7185-6e65-4010-968c-8461f241e14e/c/504.pdf",
+        "date": null,
+        "last_updated": "2025-04-13"
+    },
+    {
+        "title": "[PDF] Boom Barriers - Gandhi Automation",
+        "url": "https://www.geapl.com/cdnfiles/gandhi-boom-barriers.pdf",
+        "date": null,
+        "last_updated": "2025-07-27"
+    },
+    {
+        "title": "[PDF] Dynamics and Control of Lattice Boom Cranes as Spatial Rigid ...",
+        "url": "https://mediatum.ub.tum.de/doc/1730871/1730871.pdf",
+        "date": null,
+        "last_updated": "2024-11-07"
+    },
+    {
+        "title": "How to Hit Boom Bars - TikTok",
+        "url": "https://www.tiktok.com/discover/how-to-hit-boom-bars",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Hydraulic-drive roll movement control of a spray boom using ...",
+        "url": "https://journals.sagepub.com/doi/full/10.1177/1687814018825012",
+        "date": "2019-02-11",
+        "last_updated": "2025-03-11"
+    },
+    {
+        "title": "1910.179 - Overhead and gantry cranes. - OSHA",
+        "url": "http://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.179",
+        "date": "2004-02-01",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "[PDF] for controlling the rolling motion of spray boom - CABI Digital Library",
+        "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20193426500",
+        "date": "2022-11-01",
+        "last_updated": "2025-02-15"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11571v1 
+Temporal Network Analysis of Microservice Architectural Degradation 
+A certain type of network contains a certain number of time instances.
+
+A specific approach is designed to facilitate a process for a particular kind of system into components with certain characteristics.
+
+Some components are called a particular name. 
+Microservice architecture is a paradigm promoting the decomposition of a coupled software system into small, independent components.
+
+The most complete temporal network obtained in this research contains 7 time instances.
+
+These small, independent components are called microservices.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Module Decomposition | System Design",
+        "url": "https://www.geeksforgeeks.org/system-design/module-decomposition-system-design/",
+        "date": "2025-07-23",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "THREE APPROACHES TO COMPLEX SYSTEM ...",
+        "url": "https://www.designsociety.org/download-publication/30820/Three+Approaches+to+Complex+System+Decomposition",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "A Tutorial on Decomposition Methods for Network Utility ...",
+        "url": "https://www.princeton.edu/~chiangm/decomptutorial.pdf",
+        "date": null,
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "Decomposition in Systems Engineering",
+        "url": "https://www.numberanalytics.com/blog/decomposition-in-systems-engineering",
+        "date": "2025-06-11",
+        "last_updated": "2025-07-07"
+    },
+    {
+        "title": "What Is Time Series Decomposition? A Detailed Introduction",
+        "url": "https://www.influxdata.com/blog/time-series-decomposition/",
+        "date": "2023-08-11",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Functions Decomposition in Software Engineering",
+        "url": "https://www.geeksforgeeks.org/software-engineering/functions-decomposition-in-software-engineering/",
+        "date": "2025-07-23",
+        "last_updated": "2025-07-25"
+    },
+    {
+        "title": "Decomposition-based multi-scale transformer framework ...",
+        "url": "https://arxiv.org/html/2504.14206v1",
+        "date": "2025-04-19",
+        "last_updated": "2025-05-26"
+    },
+    {
+        "title": "Functional Decomposition: Guide for Business Analysts",
+        "url": "https://www.adaptiveus.com/blog/functional-decomposition/",
+        "date": "2023-09-28",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Global decomposition of networks into multiple cores formed ...",
+        "url": "https://link.aps.org/doi/10.1103/PhysRevE.111.054302",
+        "date": "2025-05-12",
+        "last_updated": "2025-05-25"
+    },
+    {
+        "title": "Best Practices For Decomposing a System",
+        "url": "https://cameomagic.com/best-practices-for-decomposing-a-system/",
+        "date": "2025-01-31",
+        "last_updated": "2025-02-03"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11570v1 
+ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework 
+A path can be made between two T-metacells only in a certain way.
+
+The paper's methods are built on certain existing methods.
+
+Each T-metacell gadget must be in a certain state. 
+A path can be made between two T-metacells only when their exits are aligned.
+
+The paper's methods are built on the methods of [6].
+
+Each T-metacell gadget must be reflectable and rotatable.
+
+**********Web Search Result**********
+
+https://arxiv.org/pdf/2508.11570
+
+[
+    {
+        "title": "[PDF] ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework",
+        "url": "https://arxiv.org/pdf/2508.11570",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "SEACells infers transcriptional and epigenomic cellular states from ...",
+        "url": "https://www.nature.com/articles/s41587-023-01716-9",
+        "date": "2023-03-27",
+        "last_updated": "2025-04-03"
+    },
+    {
+        "title": "ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework",
+        "url": "https://arxiv.org/html/2508.11570v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Metacells - Single-cell RNA Sequencing Analysis - GitHub",
+        "url": "https://github.com/tanaylab/metacells",
+        "date": "2020-09-30",
+        "last_updated": "2025-07-17"
+    },
+    {
+        "title": "Metacells untangle large and complex single-cell transcriptome ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9375201/",
+        "date": "2022-08-13",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Single-cell RNA Sequencing Analysis \u2014 Metacell 0.5.1 documentation",
+        "url": "https://tanaylab.github.io/metacell.py/README.html",
+        "date": null,
+        "last_updated": "2025-07-22"
+    },
+    {
+        "title": "SIB_workshop/workbooks/Workbook_1__cancer_cell_lines.md at ...",
+        "url": "https://github.com/GfellerLab/SIB_workshop/blob/main/workbooks/Workbook_1__cancer_cell_lines.md",
+        "date": "2022-05-03",
+        "last_updated": "2025-06-10"
+    },
+    {
+        "title": "MCProj: metacell projection for interpretable and quantitative use of ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10552220/",
+        "date": "2023-10-05",
+        "last_updated": "2025-07-01"
+    },
+    {
+        "title": "MetaQ: fast, scalable and accurate metacell inference via single-cell ...",
+        "url": "https://www.nature.com/articles/s41467-025-56424-6",
+        "date": "2025-01-31",
+        "last_updated": "2025-03-19"
+    },
+    {
+        "title": "memory- and time-efficient identification of metacells for atlas-level ...",
+        "url": "https://academic.oup.com/bioinformatics/article/40/4/btae191/7642398",
+        "date": "2024-04-08",
+        "last_updated": "2025-05-02"
+    }
+]
+
+**********Source Check**********
+
+The claim 'A path can be made between two T-metacells only in a certain way.' is supported by the citation.
+<accept> The text states, "a path can be made between two T-metacells only when they have their exits aligned," which specifies a particular condition or "certain way" for a path to exist between them. </accept>
+
+**********Source Check**********
+
+The claim 'The paper's methods are built on certain existing methods.' is supported by the citation.
+<accept> The abstract explicitly states, "In this paper, we utilize the “T-metacell” framework developed by Tang [17] and the MIT Hardness Group [6]". Section 1.2 "Our Contribution" further reinforces this by stating, "Building on the methods of [6], which developed the existing T-metacell framework to be sufficient proof of ASP-completeness, we create a series of reductions..." This clearly indicates that the paper's methods are built on existing methods and frameworks. </accept>
+
+**********Source Check**********
+
+The claim 'Each T-metacell gadget must be in a certain state.' is supported by the citation.
+<accept> The text states that "Each gadget must have exactly three exits out of the four sides, and must be reflectable and rotatable," and later describes "All possible exit choices" and "All possible traversals of T-metacell," which implies that a T-metacell gadget can exist in various configurations or "states" depending on how paths are routed through its exits. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'A path can be made between two T-metacells only when their exits are aligned.' is supported by the original webpage.
+<accept> The text states in section 1.1: "Each gadget must have exactly three exits out of the four sides, and must be reflectable and rotatable, and a path can be made between two T-metacells only when they have their exits aligned." This explicitly mentions the condition for making a path between T-metacells. </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The paper's methods are built on the methods of [6].' is supported by the original webpage.
+<accept> The paper explicitly states in section 1.2, "Our Contribution", that their methods are "Building on the methods of [6]". </accept>
+
+**********Exact Claim Check**********
+
+The claim 'Each T-metacell gadget must be reflectable and rotatable.' is supported by the original webpage.
+<accept> The text states, "A T-metacell is any gadget that represents a vertex of degree 3 in a grid graph. Each gadget must have exactly three exits out of the four sides, and must be reflectable and rotatable, and a path can be made between two T-metacells only when they have their exits aligned." This explicitly mentions that each T-metacell gadget must be reflectable and rotatable. </accept>
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11569v1 
+TrajSV: A Trajectory-based Model for Sports Video Representations and Applications 
+Existing techniques often focus on utilizing data for something.
+
+The effectiveness of manually annotated datasets heavily relies on a certain amount of information.
+
+Datasets resulting from manual annotation are limited to a certain kind of content. 
+Existing techniques often focus on utilizing data for specific tasks.
+
+The effectiveness of manually annotated datasets heavily relies on sufficient labeled data.
+
+Datasets resulting from manual annotation are limited to specific events.
+
+**********Web Search Result**********
+
+https://aixblock.io/blog/45
+
+[
+    {
+        "title": "AI-Powered Tools vs. Manual Dataset Annotation",
+        "url": "https://aixblock.io/blog/45",
+        "date": null,
+        "last_updated": "2025-02-22"
+    },
+    {
+        "title": "Manual data annotation labor market vs automated jungles | Keymakr",
+        "url": "https://keymakr.com/blog/3-reasons-why-manual-data-annotation-labor-market-will-survive-among-automated-jungles/",
+        "date": "2023-11-16",
+        "last_updated": "2025-02-20"
+    },
+    {
+        "title": "When to Use Automatic vs. Manual Annotation",
+        "url": "https://keylabs.ai/blog/when-to-use-automatic-vs-manual-annotation/",
+        "date": "2024-07-10",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Limitations Of Small ML Team's Data Annotation? How to Solve It?",
+        "url": "https://www.labellerr.com/blog/small-scale-ai-based-startups-perform-data-annotation-wheres-the-problem/",
+        "date": "2023-08-16",
+        "last_updated": "2025-04-07"
+    },
+    {
+        "title": "Manual annotation is dead: One-shot is the future",
+        "url": "https://www.superannotate.com/blog/one-shot-annotation",
+        "date": "2023-12-05",
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "An extensive review of tools for manual annotation of documents",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7820865/",
+        "date": "2019-12-15",
+        "last_updated": "2025-05-29"
+    },
+    {
+        "title": "Manual Data Annotation vs. Augmented Annotation",
+        "url": "https://www.labelvisor.com/manual-data-annotation-vs-augmented-annotation-pros-and-cons/",
+        "date": "2023-07-21",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Top Challenges in Data Annotation And How To Overcome ...",
+        "url": "https://www.labellerr.com/blog/how-to-overcome-challenges-in-data-annotation/",
+        "date": "2025-02-10",
+        "last_updated": "2025-04-08"
+    },
+    {
+        "title": "The Ultimate Guide to Data Annotation Techniques",
+        "url": "https://www.numberanalytics.com/blog/ultimate-guide-data-annotation-techniques",
+        "date": "2025-05-27",
+        "last_updated": "2025-08-10"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Existing techniques often focus on utilizing data for something.' is NOT supported by the citation.
+<reject> The webpage content is a "404 Not Found" page and does not contain any information about existing techniques or data utilization. </reject>
+
+**********Source Check**********
+
+The claim 'The effectiveness of manually annotated datasets heavily relies on a certain amount of information.' is NOT supported by the citation.
+<reject> The provided content is a 404 Not Found page and does not contain any information about manually annotated datasets or their effectiveness. </reject>
+
+**********Source Check**********
+
+The claim 'Datasets resulting from manual annotation are limited to a certain kind of content.' is NOT supported by the citation.
+<reject> The provided content is a "404 NOT FOUND" page and does not contain any information about datasets, manual annotation, or content limitations. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11567v1 
+AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment 
+A certain method of analysis limits the ability of existing approaches to handle scenarios where user-provided information is in a certain state.
+
+The prevalence of anxiety disorders reaches up to a certain percentage of the global population, according to a certain organization.
+
+The root node of a certain type of memory structure encodes certain information about someone. 
+Passive analysis of static data limits the ability of existing approaches to handle scenarios where user-provided information is incomplete or insufficient.
+
+The prevalence of anxiety disorders reaches up to 4% of the global population, according to the WHO.
+
+The root node of the tree-structured memory encodes a user’s basic information.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "The Maple Tree: Storing Ranges and Dumping the Tree",
+        "url": "https://blogs.oracle.com/linux/post/maple-tree-storing-ranges",
+        "date": "2024-06-18",
+        "last_updated": "2024-09-24"
+    },
+    {
+        "title": "Rising global burden of anxiety disorders among adolescents and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11651023/",
+        "date": "2024-11-26",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "Devicetree Specification v0.2-dirty documentation",
+        "url": "https://devicetree-specification.readthedocs.io/en/v0.2/devicetree-basics.html",
+        "date": "2011-03-02",
+        "last_updated": "2025-04-21"
+    },
+    {
+        "title": "Anxiety disorders - World Health Organization (WHO)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders",
+        "date": "2023-09-27",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "CS106B Huffman tree warmup",
+        "url": "https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1212/assignments/7-huffman/warmup",
+        "date": null,
+        "last_updated": "2025-08-14"
+    },
+    {
+        "title": "Global Trends in the Incidence of Anxiety Disorders From 1990 to ...",
+        "url": "https://publichealth.jmir.org/2024/1/e49609/",
+        "date": "2024-01-29",
+        "last_updated": "2024-11-14"
+    },
+    {
+        "title": "Tightly Packed Tries: How to Fit Large Models into Memory, ...",
+        "url": "https://aclanthology.org/W09-1505.pdf",
+        "date": null,
+        "last_updated": "2025-04-14"
+    },
+    {
+        "title": "Global, regional and national burden of anxiety disorders from 1990 ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8157816/",
+        "date": "2020-01-01",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Dynamic Tree Memory Representation for LLMs",
+        "url": "https://arxiv.org/html/2410.14052v1",
+        "date": "2024-10-17",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "Anxiety disorders prevalence, 2021 - Our World in Data",
+        "url": "https://ourworldindata.org/grapher/anxiety-disorders-prevalence",
+        "date": "2024-05-20",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11565v1 
+INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems 
+Early architectures such as `certain architectures` `handle certain data in a limited manner`.
+
+In production, `certain type of data` are often `processed in a particular fashion`.
+
+Short video platforms such as `certain platforms` `experienced significant growth recently`. 
+Early architectures such as FM and DCN largely ignore sequential signals.
+
+In production, sequence data are often truncated and flattened with side information.
+
+Short video platforms such as TikTok and Kwai have surged in popularity in recent years.
+
+**********Web Search Result**********
+
+https://www.coherentmarketinsights.com/industry-reports/short-video-platforms-market
+
+[
+    {
+        "title": "Von Neumann architecture",
+        "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+        "date": "2004-02-20",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "Short Video Platforms Market Forecast, 2025-2032",
+        "url": "https://www.coherentmarketinsights.com/industry-reports/short-video-platforms-market",
+        "date": "2025-06-11",
+        "last_updated": "2025-08-12"
+    },
+    {
+        "title": "Evolution of Software Architecture: From Mainframes and ...",
+        "url": "https://orkes.io/blog/software-architecture-evolution/",
+        "date": "2024-08-06",
+        "last_updated": "2025-07-19"
+    },
+    {
+        "title": "The Rise of Short-Form Video Content in 2025 - Appnova",
+        "url": "https://www.appnova.com/the-rise-of-short-form-video-content-in-2025/",
+        "date": "2025-03-21",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "How the von Neumann bottleneck is impeding AI computing",
+        "url": "https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing",
+        "date": "2025-02-09",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Video Marketing Statistics and Trends in 2025 - Teleprompter.com",
+        "url": "https://www.teleprompter.com/blog/video-marketing-statistics",
+        "date": "2025-06-27",
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "A Brief and Biased History of Computer Architecture (Part 1)",
+        "url": "https://www.sigarch.org/a-brief-and-biased-history-of-computer-architecture-part-1/",
+        "date": "2021-06-10",
+        "last_updated": "2025-08-17"
+    },
+    {
+        "title": "Short Form Video Marketing & Content In 2025 | Popular Pays Blog",
+        "url": "https://popularpays.com/blog/short-form-video-marketing",
+        "date": "2025-07-24",
+        "last_updated": "2025-07-24"
+    },
+    {
+        "title": "Computer Organization - Von Neumann Architecture",
+        "url": "https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-15"
+    },
+    {
+        "title": "20+ Interesting Short Form Video Trends & Statistics (2025) - Vidico",
+        "url": "https://vidico.com/news/short-form-video-statistics/",
+        "date": "2025-08-14",
+        "last_updated": "2025-08-14"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Early architectures such as `certain architectures` `handle certain data in a limited manner`.' is NOT supported by the citation.
+<reject> The provided content is a market analysis report on "Short Video Platforms". It discusses market size, growth trends, monetization models, technological advancements like AI and AR in the context of short video platforms, and regional insights. There is no mention of "early architectures" or how they handle data in a limited manner. </reject>
+
+**********Source Check**********
+
+The claim 'In production, `certain type of data` are often `processed in a particular fashion`.' is supported by the citation.
+<accept> The content explicitly states under "Impact of AI on the Short Video Platforms Market" that "Platforms like TikTok and Instagram Reels rely heavily on AI-driven algorithms to analyze user behavior—such as watch time, likes, shares, and comments—to serve highly targeted short-form videos that maximize user engagement." This indicates that `user behavior data` (a certain type of data) is `analyzed by AI-driven algorithms to serve targeted videos` (processed in a particular fashion) in a production environment (on platforms like TikTok and Instagram Reels). </accept>
+
+**********Source Check**********
+
+The claim 'Short video platforms such as `certain platforms` `experienced significant growth recently`.' is supported by the citation.
+<accept> The content explicitly states that "platforms like TikTok, Kwai, and Instagram experiencing explosive user growth" in Brazil, which directly supports the claim that short video platforms experienced significant growth. It also mentions TikTok's "explosive growth in Tier-2 and Tier-3 cities" in India before its ban, indicating past significant growth for a specific platform. </accept>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11563v1 
+Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks 
+The paper draws connections with something for the first time in this context.
+
+If the guess for a record is in a certain state, the reconstruction is accurate; otherwise, the true database is its reflection.
+
+The first SE scheme was introduced by someone. 
+The paper draws connections with Satisfiability Modulo Theories (SMT) solvers for the first time in this context.
+
+If the guess for the record ID's extremity is correct, the reconstruction is accurate; otherwise, the true database is its reflection.
+
+The first SE scheme was introduced by Curtmola et al.
+
+**********Web Search Result**********
+
+https://differentialprivacy.org/reconstruction-theory/
+
+[
+    {
+        "title": "Database Reconstruction Is Not So Easy and Is Different ...",
+        "url": "https://arxiv.org/pdf/2301.10213",
+        "date": null,
+        "last_updated": "2025-01-23"
+    },
+    {
+        "title": "[PDF] A Small Dummy Disrupting Database Reconstruction in a Cache ...",
+        "url": "https://thesai.org/Downloads/Volume14No10/Paper_111-A_Small_Dummy_Disrupting_Database_Reconstruction.pdf",
+        "date": null,
+        "last_updated": "2025-04-26"
+    },
+    {
+        "title": "improving security of order-preserving encryption and its",
+        "url": "https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=3333&context=td",
+        "date": null,
+        "last_updated": "2025-05-23"
+    },
+    {
+        "title": "[PDF] A Highly Accurate Query-Recovery Attack against Searchable ...",
+        "url": "https://www.usenix.org/system/files/sec21-damie.pdf",
+        "date": "2021-08-13",
+        "last_updated": "2025-07-21"
+    },
+    {
+        "title": "Frequency-revealing attacks against ...",
+        "url": "https://www.vldb.org/pvldb/vol16/p3124-liu.pdf",
+        "date": null,
+        "last_updated": "2025-07-08"
+    },
+    {
+        "title": "The Theory of Reconstruction Attacks - DifferentialPrivacy.org",
+        "url": "https://differentialprivacy.org/reconstruction-theory/",
+        "date": null,
+        "last_updated": "2025-07-30"
+    },
+    {
+        "title": "Cryptanalysis of An Encrypted Database in SIGMOD '14",
+        "url": "http://vldb.org/pvldb/vol14/p1743-liu.pdf",
+        "date": null,
+        "last_updated": "2025-05-15"
+    },
+    {
+        "title": "Leakage-Abuse Attacks Based on Expected Distributions",
+        "url": "https://dl.acm.org/doi/10.1007/978-981-97-5606-3_10",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'The paper draws connections with something for the first time in this context.' is supported by the citation.
+<accept> The text states that the attacks described by the authors are "the first successful attempt to reconstruct data from a commercial statistical-database system that is specifically designed to protect the privacy of the underlying data." This means a connection (successful reconstruction) is drawn for the first time in this specific context (commercial privacy-preserving systems). </accept>
+
+**********Source Check**********
+
+The claim 'If the guess for a record is in a certain state, the reconstruction is accurate; otherwise, the true database is its reflection.' is NOT supported by the citation.
+<reject> The text explains that if a guess for the private bits (`b^`) is consistent with the noisy answers, then it is accurate (agrees with the true private bits `b` for most users). This covers the first part of the statement ("If the guess for a record is in a certain state, the reconstruction is accurate"). However, the second part, "otherwise, the true database is its reflection," is not mentioned or implied anywhere in the content. The text explains that an inconsistent guess would be eliminated, not that the true database would become a "reflection" of it. </reject>
+
+**********Source Check**********
+
+The claim 'The first SE scheme was introduced by someone.' is NOT supported by the citation.
+<reject> The document discusses the introduction of "reconstruction attacks" by Dinur and Nissim, but it does not mention or define an "SE scheme" or state who introduced it. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11561v1 
+Identification of Sub/Super-Synchronous Control Interaction Paths Using Dissipative Energy Flow 
+Something is the source of a certain market's growth projection.
+
+Certain demographic shifts contribute in a certain way to a market's growth.
+
+Someone has stated that a certain type of consumer is not a singular type.
+
+The demonstration illustrates a certain kind of localization without requiring a specific adjustment.
+
+The proposed method improves a certain quality and suitability for a particular use case.
+
+Something specific demonstrates improved accuracy in a certain task. 
+The demonstration illustrates accurate source-path localization without case-specific calibration.
+
+The proposed method improves robustness and suitability for online implementation.
+
+CDEF demonstrates improved localization accuracy.
+
+**********Web Search Result**********
+
+https://www.janushenderson.com/en-us/advisor/article/demographic-shifts-trends-and-implications-for-businesses-and-investors/
+
+[
+    {
+        "title": "Demographics will shape future growth potential",
+        "url": "https://research-center.amundi.com/article/demographics-will-shape-future-growth-potential",
+        "date": "2025-03-31",
+        "last_updated": "2025-03-31"
+    },
+    {
+        "title": "Demographic Trends: Adapting Industry Strategies for ...",
+        "url": "https://www.ibisworld.com/blog/demographic-trends/99/1127/",
+        "date": "2024-05-23",
+        "last_updated": "2024-10-14"
+    },
+    {
+        "title": "Confronting the consequences of a new demographic reality",
+        "url": "https://www.mckinsey.com/mgi/our-research/dependency-and-depopulation-confronting-the-consequences-of-a-new-demographic-reality",
+        "date": "2025-01-15",
+        "last_updated": "2025-06-16"
+    },
+    {
+        "title": "Demographic shifts: Trends and implications for ...",
+        "url": "https://www.janushenderson.com/en-us/advisor/article/demographic-shifts-trends-and-implications-for-businesses-and-investors/",
+        "date": "2024-07-30",
+        "last_updated": "2025-05-09"
+    },
+    {
+        "title": "Fannie Mae Updates Demographic Projections",
+        "url": "https://www.fanniemae.com/research-and-insights/demographic-projection-updates",
+        "date": "2024-08-02",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Demographics and Their Implications for the Economy and ...",
+        "url": "https://www.cato.org/cato-journal/spring/summer-2018/demographics-their-implications-economy-policy",
+        "date": "2022-06-18",
+        "last_updated": "2025-07-09"
+    },
+    {
+        "title": "What do demographic changes mean for labor supply?",
+        "url": "https://blogs.worldbank.org/en/developmenttalk/what-do-demographic-changes-mean-for-labor-supply-",
+        "date": "2024-04-09",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Demographic shifts: How to steer towards economic growth",
+        "url": "https://www.weforum.org/stories/2024/10/demographic-shifts-ageing-population-economic-growth/",
+        "date": "2024-10-15",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Changing Demographics and Economic Growth \u2013 IMF F&D",
+        "url": "https://www.imf.org/en/Publications/fandd/issues/2020/03/changing-demographics-and-economic-growth-bloom",
+        "date": "2020-03-01",
+        "last_updated": "2025-05-18"
+    },
+    {
+        "title": "Shifting demographics are impacting investment decision- ...",
+        "url": "https://www.cfauk.org/pi-listing/demographic-shifts",
+        "date": "2025-01-01",
+        "last_updated": "2025-07-16"
+    }
+]
+
+**********Source Check**********
+
+The claim 'Something is the source of a certain market's growth projection.' is NOT supported by the citation.
+<reject> The content discusses "future market drivers" and "exciting investment opportunities" related to demographic shifts and generational research, but it does not explicitly mention "a certain market's growth projection" or provide a source for such a projection. </reject>
+
+**********Source Check**********
+
+The claim 'Certain demographic shifts contribute in a certain way to a market's growth.' is supported by the citation.
+<accept> The content states that the article "highlights the value of generational research for understanding future market drivers" and that "this change [referring to generational shifts and preferences] brings exciting investment opportunities." Understanding future market drivers and identifying investment opportunities directly implies that demographic shifts contribute to market growth. </accept>
+
+**********Source Check**********
+
+The claim 'Someone has stated that a certain type of consumer is not a singular type.' is supported by the citation.
+<accept> The article explicitly states that different generations have "distinct differences and preferences that impact... consumer choices" and that "inter-generational attitudes to such issues vary according to generations," demonstrating that consumers are not a singular type but rather diverse based on generational cohorts. It provides detailed typologies for different generations, highlighting their unique characteristics related to purchasing and attitudes. </accept>
+
+**********Source Check**********
+
+The claim 'The demonstration illustrates a certain kind of localization without requiring a specific adjustment.' is NOT supported by the citation.
+<reject> The provided text discusses demographic shifts, generational differences, and research into various generational attitudes and preferences. It explicitly states that "Understanding communication preferences, motivations, and technology-use and adjusting approach accordingly can meaningfully improve productivity." This contradicts the idea of something being demonstrated "without requiring a specific adjustment," and there is no mention of "localization" or a "demonstration" in the context described in the information. </reject>
+
+**********Source Check**********
+
+The claim 'The proposed method improves a certain quality and suitability for a particular use case.' is supported by the citation.
+<accept> The text states, "Understanding communication preferences, motivations, and technology-use and adjusting approach accordingly can meaningfully improve productivity and a company’s chances of success." This explicitly mentions that understanding and adjusting the approach (a proposed method) improves productivity and chances of success (a certain quality and suitability) for a company (a particular use case).</accept>
+
+**********Source Check**********
+
+The claim 'Something specific demonstrates improved accuracy in a certain task.' is NOT supported by the citation.
+<reject> The content mentions that "Understanding communication preferences, motivations, and technology-use and adjusting approach accordingly can meaningfully improve productivity and a company’s chances of success." However, it does not explicitly state that something specific demonstrates improved accuracy in a certain task. The term "accuracy" is not used in the context of improvement. </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11555v1 
+A Tight Lower Bound for Doubling Spanners 
+Cuong Than is affiliated with a certain institution.
+
+Shay Solomon is affiliated with another institution.
+
+HTML conversions act in a certain way. 
+Cuong Than is affiliated with Manning CICS, UMass Amherst.
+
+Shay Solomon is affiliated with Tel Aviv University.
+
+HTML conversions sometimes display errors due to content not converting correctly from the source.
+
+**********Web Search Result**********
+
+No source found.
+
+[
+    {
+        "title": "Cuong Than: About me",
+        "url": "https://thanvietcuong.github.io",
+        "date": "2024-01-01",
+        "last_updated": "2025-03-26"
+    },
+    {
+        "title": "Shay Solomon - Google Sites",
+        "url": "https://sites.google.com/site/soloshay/",
+        "date": "2024-12-10",
+        "last_updated": "2024-12-18"
+    },
+    {
+        "title": "American National University Signs Agreements with ...",
+        "url": "https://an.edu/american-national-university-signs-agreements-with-vietnamese-universities/",
+        "date": "2020-09-02",
+        "last_updated": "2025-06-24"
+    },
+    {
+        "title": "Program committee - PODC 2024",
+        "url": "https://podc24.hotcrp.com/users/pc?sort=-given_name",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Cuong Tran - Home",
+        "url": "https://dl.acm.org/profile/99659833236",
+        "date": null,
+        "last_updated": "2023-09-25"
+    },
+    {
+        "title": "Shay Solomon - dblp",
+        "url": "https://dblp.org/pid/s/ShaySolomon",
+        "date": "2025-07-07",
+        "last_updated": "2024-12-18"
+    },
+    {
+        "title": "Cuong Than",
+        "url": "https://thanvietcuong.github.io/files/Resume_Research.pdf",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Shay Solomon - Home - ACM Digital Library",
+        "url": "https://dl.acm.org/profile/81381599240",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Predicting conflict and tracking terrorist networks using online news",
+        "url": "https://www.cs.rice.edu/~devika/conflict/publications.html",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "Shay Solomon - Women's Basketball",
+        "url": "https://ekusports.com/sports/womens-basketball/roster/shay-solomon/7595",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+No source provided, skipping further checks.
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11553v1 
+SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling 
+The central trajectory manager maintains certain records.
+
+Each compute resource carries certain identifiers.
+
+Capability tags indicate its suitability for certain functions. 
+The central trajectory manager maintains complete interaction histories.
+
+Each compute resource carries one or more capability tags.
+
+Capability tags indicate which tasks a resource can serve.
+
+**********Web Search Result**********
+
+http://bucket.kangry.net/paper/TrajectoryManagementSIGSPATIAL2017.pdf
+
+[
+    {
+        "title": "[PDF] A Cloud-Based Trajectory Data Management System",
+        "url": "http://bucket.kangry.net/paper/TrajectoryManagementSIGSPATIAL2017.pdf",
+        "date": "2017-10-21",
+        "last_updated": "2024-09-26"
+    },
+    {
+        "title": "Identifying resources with AWS Cloud Control API",
+        "url": "https://docs.aws.amazon.com/cloudcontrolapi/latest/userguide/resource-identifier.html",
+        "date": null,
+        "last_updated": "2025-07-29"
+    },
+    {
+        "title": "Managing Massive Trajectories on the Cloud - Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/publication/managing-massive-trajectories-cloud/",
+        "date": "2016-10-31",
+        "last_updated": "2024-10-04"
+    },
+    {
+        "title": "Resource Identifiers - Oracle Help Center",
+        "url": "https://docs.oracle.com/iaas/Content/General/Concepts/identifiers.htm",
+        "date": "2025-05-21",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "Critical Path Method In Cloud Computing - Meegle",
+        "url": "https://www.meegle.com/en_us/topics/critical-path-method/critical-path-method-in-cloud-computing",
+        "date": "2025-06-01",
+        "last_updated": "2025-07-10"
+    },
+    {
+        "title": "Full resource names | IAM Documentation - Google Cloud",
+        "url": "https://cloud.google.com/iam/docs/full-resource-names",
+        "date": "2025-08-07",
+        "last_updated": "2025-08-19"
+    },
+    {
+        "title": "A Cloud-Based Trajectory Data Management System",
+        "url": "https://dl.acm.org/doi/10.1145/3139958.3139990",
+        "date": null,
+        "last_updated": "2025-02-12"
+    },
+    {
+        "title": "Compute Resources | Cloud Security Documentation",
+        "url": "https://docs.rapid7.com/insightcloudsec/compute-resources/",
+        "date": "2018-05-31",
+        "last_updated": "2025-08-06"
+    },
+    {
+        "title": "Managing massive trajectories on the cloud - ACM Digital Library",
+        "url": "https://dl.acm.org/doi/10.1145/2996913.2996916",
+        "date": null,
+        "last_updated": "2025-02-10"
+    },
+    {
+        "title": "Resource hierarchy | Resource Manager Documentation",
+        "url": "https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy",
+        "date": "2020-01-07",
+        "last_updated": "2025-08-19"
+    }
+]
+
+**********Source Check**********
+
+The claim 'The central trajectory manager maintains certain records.' is NOT supported by the citation.
+<reject> The document describes a "cloud-based trajectory data management system" that manages historical and real-time trajectory records, but it does not explicitly mention a component named "central trajectory manager" that maintains these records. The system as a whole performs data management and storage tasks. </reject>
+
+**********Source Check**********
+
+The claim 'Each compute resource carries certain identifiers.' is NOT supported by the citation.
+<reject> The document discusses identifiers for data (e.g., object ID, plate numbers for taxis, GPS points, RowKey) and spatial regions (region with an identity), but it does not explicitly state that "each compute resource carries certain identifiers." The text focuses on identifying data and data partitions, not the underlying computing resources themselves.</reject>
+
+**********Source Check**********
+
+The claim 'Capability tags indicate its suitability for certain functions.' is NOT supported by the citation.
+<reject> The information about "capability tags indicating suitability for certain functions" is not mentioned in the provided content. The document discusses a cloud-based trajectory data management system, its components, indexing methods, and query types, but it does not include any concept of "capability tags." </reject>
+
+**********Judging Result**********
+
+The source is incorrect
+
+**********Query Info**********
+
+https://arxiv.org/html/2508.11550v1 
+Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model 
+HTML conversions in a certain state.
+
+The paper uses certain packages.
+
+The packages that are not supported are something.
+
+Authors can in a certain way.
+
+Something is the license for the paper.
+
+The paper's arXiv identifier is something and it was published on a certain date.
+
+The paper proposes something.
+
+AAG is based on something.
+
+Given a normal image, mask and a simple text prompt, AAG can in a certain way.
+
+Cross-Attention Enhancement (CAE) is proposed in a certain way.
+
+CAE in a certain way.
+
+Self-Attention Enhancement (SAE) in a certain way.
+
+SAE ensures that generated anomalies in a certain state.
+
+AAG in a certain way.
+
+IAD ensures something.
+
+The text prompt is in a certain way. 
+CAE and SAE are designed.
+
+IAD ensures product quality and safety.
+
+The text prompt is encoded by a CLIP text encoder.
+
+**********Web Search Result**********
+
+https://arxiv.org/html/2508.11550v1
+
+[
+    {
+        "title": "Training-Free Anomaly Generation via Dual-Attention Enhancement ...",
+        "url": "https://arxiv.org/html/2508.11550v1",
+        "date": "2025-08-15",
+        "last_updated": "2025-08-18"
+    },
+    {
+        "title": "Enhanced Multi-Scale Cross-Attention for Person Image ...",
+        "url": "https://arxiv.org/abs/2501.08900",
+        "date": "2025-01-15",
+        "last_updated": "2025-05-08"
+    },
+    {
+        "title": "[PDF] A Survey on Explainable Anomaly Detection - arXiv",
+        "url": "https://arxiv.org/pdf/2210.06959",
+        "date": null,
+        "last_updated": "2025-04-19"
+    },
+    {
+        "title": "Enhanced Multi-Scale Cross-Attention for Person Image ...",
+        "url": "https://dl.acm.org/doi/10.1109/TPAMI.2025.3531220",
+        "date": "2025-01-20",
+        "last_updated": null
+    },
+    {
+        "title": "A Comparative Evaluation of Unsupervised Anomaly Detection ...",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0152173",
+        "date": "2016-04-19",
+        "last_updated": "2025-06-15"
+    },
+    {
+        "title": "TEXT-IMAGE ALIGNMENT IN DIFFUSION MODELS",
+        "url": "https://hammer.purdue.edu/ndownloader/files/54319586",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "[PDF] Anomaly Detection : A Survey - cucis",
+        "url": "http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf",
+        "date": null,
+        "last_updated": "2025-08-10"
+    },
+    {
+        "title": "A 3D medical image segmentation network based on gated ...",
+        "url": "https://www.nature.com/articles/s41598-025-90339-y",
+        "date": null,
+        "last_updated": null
+    },
+    {
+        "title": "A Survey on Explainable Anomaly Detection - ACM Digital Library",
+        "url": "https://dl.acm.org/doi/full/10.1145/3609333",
+        "date": null,
+        "last_updated": "2025-04-11"
+    },
+    {
+        "title": "Learning Flow Fields in Attention for Controllable Person ...",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Learning_Flow_Fields_in_Attention_for_Controllable_Person_Image_Generation_CVPR_2025_paper.pdf",
+        "date": null,
+        "last_updated": null
+    }
+]
+
+**********Source Check**********
+
+The claim 'HTML conversions in a certain state.' is supported by the citation.
+<accept> The document mentions that "HTML conversions sometimes display errors due to content that did not convert correctly from the source," which describes a certain state of HTML conversions. </accept>
+
+**********Source Check**********
+
+The claim 'The paper uses certain packages.' is supported by the citation.
+<accept> The first paragraph explicitly states: "This paper uses the following packages that are not yet supported by the HTML conversion tool." and then lists "utfsym.sty" and "bibentry.sty". </accept>
+
+**********Source Check**********
+
+The claim 'The packages that are not supported are something.' is supported by the citation.
+<accept> The content explicitly states: "This paper uses the following packages that are not yet supported by the HTML conversion tool. Feedback on these issues are not necessary; they are known and are being worked on. - failed: utfsym.sty - failed: bibentry.sty". This directly lists the packages that are not supported. </accept>
+
+**********Source Check**********
+
+The claim 'Authors can in a certain way.' is supported by the citation.
+<accept> The text states, "Authors: achieve the best HTML results from your LaTeX submissions by following these best practices." This indicates a way authors can achieve something (the best HTML results).</accept>
+
+**********Source Check**********
+
+The claim 'Something is the license for the paper.' is supported by the citation.
+<accept> The content explicitly states "License: arXiv.org perpetual non-exclusive license", indicating that the arXiv.org perpetual non-exclusive license is the license for the paper. </accept>
+
+**********Source Check**********
+
+The claim 'The paper's arXiv identifier is something and it was published on a certain date.' is supported by the citation.
+<accept> The content explicitly mentions the paper's arXiv identifier as "2508.11550v1" and its publication date as "15 Aug 2025" in the line "arXiv:2508.11550v1 [cs.CV] 15 Aug 2025". </accept>
+
+**********Source Check**********
+
+The claim 'The paper proposes something.' is supported by the citation.
+<accept> The paper explicitly states multiple times that it proposes a "training-free anomaly generation framework dubbed AAG" and also details the design of "Cross-Attention Enhancement (CAE) and Self-Attention Enhancement (SAE)". </accept>
+
+**********Source Check**********
+
+The claim 'AAG is based on something.' is supported by the citation.
+<accept> The abstract states: "we propose a training-free anomaly generation framework dubbed AAG, which is based on Stable Diffusion (SD)’s strong generation ability for effective anomaly image generation." This explicitly mentions that AAG is based on Stable Diffusion (SD). </accept>
+
+**********Source Check**********
+
+The claim 'Given a normal image, mask and a simple text prompt, AAG can in a certain way.' is supported by the citation.
+<accept> The abstract explicitly states: "Given a normal image, mask and a simple text prompt, AAG can generate realistic and natural anomalies in the specific regions and simultaneously keep contents in other regions unchanged." </accept>
+
+**********Source Check**********
+
+The claim 'Cross-Attention Enhancement (CAE) is proposed in a certain way.' is supported by the citation.
+<accept> The document explicitly states that "we propose Cross-Attention Enhancement (CAE) to re-engineer the cross-attention mechanism within Stable Diffusion based on the given mask." It further details the method in the "Cross-Attention Enhancement" section, explaining how it re-engineers cross-attention maps by modifying the vision-text similarity matrix to improve alignment and text-guidance during anomaly generation. </accept>
+
+**********Source Check**********
+
+The claim 'CAE in a certain way.' is supported by the citation.
+<accept> The document extensively describes Cross-Attention Enhancement (CAE), explaining that it re-engineers the cross-attention mechanism within Stable Diffusion, increases similarity between visual tokens and text embeddings, and enhances text guidance for anomaly generation. It details the process of modifying the vision-text similarity matrix using a mask and a CAE factor (α). </accept>
+
+**********Source Check**********
+
+The claim 'Self-Attention Enhancement (SAE) in a certain way.' is supported by the citation.
+<accept> The document explicitly describes how Self-Attention Enhancement (SAE) is implemented. It states that SAE "re-weight the similarity matrix in SD’s self-attention modules" and provides the mathematical formulation for this process, including how the re-weighted mask `Mi,js` and the SAE factor `β` are used to regulate self-attention maps (Equations 22, 23, 24). </accept>
+
+**********Source Check**********
+
+The claim 'SAE ensures that generated anomalies in a certain state.' is supported by the citation.
+<accept> The text states, "SAE ensures that generated anomalies are coherent with original pattern." and "SAE provides visual context for anomaly generation process, which makes generated anomalies blend into original normal image seamlessly." These phrases describe the "certain state" that SAE ensures for the generated anomalies. </accept>
+
+**********Source Check**********
+
+The claim 'AAG in a certain way.' is supported by the citation.
+<accept> The text explicitly describes AAG as a training-free anomaly generation framework based on Stable Diffusion, which uses Cross-Attention Enhancement (CAE) to re-engineer the cross-attention mechanism and Self-Attention Enhancement (SAE) to improve similarity within visual tokens, along with a blended mechanism to preserve original content. These details explain "AAG in a certain way." </accept>
+
+**********Source Check**********
+
+The claim 'IAD ensures something.' is supported by the citation.
+<accept> The text states, "Industrial anomaly detection (IAD) ... is an indispensable task in industrial scenarios, ensuring product quality and safety." This explicitly mentions that IAD ensures "product quality and safety." </accept>
+
+**********Source Check**********
+
+The claim 'The text prompt is in a certain way.' is supported by the citation.
+<accept> The content explicitly mentions the structure of the text prompt, stating: "The text prompt template is ”A [cls] that is damaged and broken” where cls refers to object type in each dataset." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'CAE and SAE are designed.' is supported by the original webpage.
+<accept> The paper explicitly states under "The main contribution of this paper can be summarized as follows:" that "We design Cross-Attention Enhancement (CAE) and Self-Attention Enhancement (SAE)..." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'IAD ensures product quality and safety.' is supported by the original webpage.
+<accept> The claim is explicitly stated in the "Introduction" section: "IAD is an indispensable task in industrial scenarios, ensuring product quality and safety." </accept>
+
+**********Exact Claim Check**********
+
+The claim 'The text prompt is encoded by a CLIP text encoder.' is supported by the original webpage.
+<accept> The text explicitly states, "Text prompt is encoded by CLIP text encoder to steer the denoising diffusion process." </accept>
+
