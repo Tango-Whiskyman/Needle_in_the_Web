@@ -204,7 +204,7 @@ def full_pipeline(experiment_id, web_content_path, mode, model: Literal["oai", "
     if queryset_specs is None:
         queryset_specs = generate_query(experiment_id, web_content_path, mode, top_k)
     for spec in queryset_specs:
-        print(f"Generated queryset: {spec['name']}")
+        print(f"Using queryset: {spec['name']}")
         raw_results_path = get_model_answer(experiment_id, spec["filename"], spec["name"], model)
         print(f"Raw results saved to: {raw_results_path}")
         test_result_path = judge_model_answer(experiment_id, raw_results_path, spec["filename"], spec["name"])

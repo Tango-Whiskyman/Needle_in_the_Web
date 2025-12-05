@@ -21,14 +21,14 @@ import json
 from pathlib import Path
 import glob
 from typing import Literal, Union
-from NiW.constants import COOKIE_STRING_FT, COOKIE_STRING_WP
+from NiW.constants import COOKIE_STRING_FT, COOKIE_STRING_WP, FIRECRAWL_API_KEY
 # from constants import COOKIE_STRING_FT, COOKIE_STRING_WP
 
 from sympy import content
 
 wd = Path(__file__).parent.resolve()
 
-firecrawl_client = FirecrawlApp(api_key = None)
+firecrawl_client = FirecrawlApp(api_key = FIRECRAWL_API_KEY)
 
 cache = dict()
 
