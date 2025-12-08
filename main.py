@@ -4,7 +4,6 @@ from NiW.claim_dissimilarity import *
 from NiW.llm_judge import *
 from NiW.logger import get_logging_path, log_message
 import time
-import litellm
 
 def generate_query(experiment_id, web_content_path: str, mode: Literal["easy", "medium", "hard", "all"] = "all", top_k: int = 3, url_list: list[str] = None):
     log_path = get_logging_path(experiment_id=experiment_id, directory="queryset_logs", prefix=f"queryset_{mode}")

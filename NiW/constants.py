@@ -9,7 +9,6 @@ PERPLEXITY_API_KEY = ""
 GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_API_KEY = ""
 FIRECRAWL_API_KEY = ""
-# OPENAI_API_KEY = ""
 # API_BASE_URL = "https://api.nuwaapi.com/v1"
 
 COOKIE_STRING_WP = ""

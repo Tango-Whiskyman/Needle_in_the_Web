@@ -1,12 +1,12 @@
 import os
 from litellm import completion
+from google.genai import types
 import requests
 from NiW.scraper import get_page_content, QueryContextPage
 from NiW.constants import API_BASE_URL, JUDGING_MODEL, GEMINI_MODEL, GEMINI_API_KEY, PERPLEXITY_API_KEY, PERPLEXITY_MODEL, OPENAI_API_KEY, OPENAI_MODEL
 from typing import Literal
 from openai import OpenAI
 from google import genai
-from google.genai import types
 import json
 
 NAIVE_JUDGING_PROMPT = """ You are an assistant to judge whether an answer to a question is correct. You will be provided a query, its ground truth, and an answer to the query, and your task is to determine whether the answer is correct or not. The answer does not have to perfectly match the ground truth to be correct, instead, you should only check if the answer is conveying the same meaning as the ground truth. If the answer is correct, return:
