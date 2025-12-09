@@ -4,6 +4,7 @@ from NiW.claim_dissimilarity import *
 from NiW.llm_judge import *
 from NiW.logger import get_logging_path, log_message
 import time
+import argparse
 
 def generate_query(experiment_id, web_content_path: str, mode: Literal["easy", "medium", "hard", "all"] = "all", top_k: int = 3, url_list: list[str] = None):
     log_path = get_logging_path(experiment_id=experiment_id, directory="queryset_logs", prefix=f"queryset_{mode}")
@@ -212,7 +213,11 @@ def full_pipeline(experiment_id, web_content_path, mode, model: Literal["oai", "
 
 
 if __name__ == "__main__":
-    # querysets = os.listdir("experiments/deepresearcher/test_raw_responses")
-    querysets = ["lonelyplanet_easy.json", "lonelyplanet_hard.json", "lonelyplanet_medium.json"]
-    for queryset_name in querysets:
-        judge_model_answer("deepresearcher", "experiments/deepresearcher/test_raw_responses/" + queryset_name, "querysets/" + queryset_name, queryset_name[:-5])
+    parser = argparse.ArgumentParser(description="Run Needle in the Web evaluation pipeline")
+    parser.add_argument("experiment_id", help="Experiment ID")
+    parser.add_argument("queryset_path", help="Path to queryset JSON file")
+    parser.add_argument("mode", choices=["easy", "medium", "hard", "all"], help="Difficulty mode")
+    parser.add_argument("model", choices=["oai", "gemini", "perplexity"], help="Model to use")
+    
+    args = parser.parse_args()
+    full_pipeline(args.experiment_id, args.queryset_path, args.mode, args.model)

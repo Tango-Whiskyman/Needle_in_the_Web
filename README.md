@@ -15,12 +15,25 @@ cd Needle_in_the_Web
 pip install -r requirements.txt
 ```
 
-3. Set up API keys in `NiW/constants.py`:
-```python
-OPENAI_API_KEY = "your_openai_key"
-GEMINI_API_KEY = "your_gemini_key"
-PERPLEXITY_API_KEY = "your_perplexity_key"
+3. Set up API keys as environment variables:
+```bash
+export OPENAI_API_KEY="your_openai_key"
+export GEMINI_API_KEY="your_gemini_key"
+export PERPLEXITY_API_KEY="your_perplexity_key"
+export FIRECRAWL_API_KEY="your_firecrawl_key"
 ```
+
+## Quick Start
+
+To run the full evaluation pipeline on an existing queryset:
+
+```bash
+python -m main your_experiment_id all gemini
+```
+
+Replace `your_experiment_id` with your desired experiment name, `path/to/web_content.json` with the path to the queryset, `all` with the difficulty mode (`easy`, `medium`, `hard`, or `all`), and `gemini` with your chosen model (`oai`, `gemini`, or `perplexity`).
+
+For running on existing querysets, see the detailed instructions below.
 
 ## How to Reproduce Results
 
@@ -77,7 +90,7 @@ Results are saved in `experiments/{experiment_id}/test_results/` with metrics in
 
 ### Step 1: Collect Web Content
 
-First, gather web content from your target domain. You can use the built-in scrapers, which requires a FireCrawl api key specified in `constants.py`:
+First, gather web content from your target domain. You can use the built-in scrapers, which requires a FireCrawl api key set as an environment variable:
 
 ```python
 from NiW.scraper import get_wikipedia_random_pages # Other scrapers function in roughly the same way

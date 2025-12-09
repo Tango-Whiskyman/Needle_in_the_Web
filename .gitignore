@@ -12,3 +12,5 @@ tmp/*
 build/
 
 misc/*
+
+.vscode/

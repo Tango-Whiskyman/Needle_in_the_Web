@@ -3,7 +3,7 @@ from litellm import completion
 from google.genai import types
 import requests
 from NiW.scraper import get_page_content, QueryContextPage
-from NiW.constants import API_BASE_URL, JUDGING_MODEL, GEMINI_MODEL, GEMINI_API_KEY, PERPLEXITY_API_KEY, PERPLEXITY_MODEL, OPENAI_API_KEY, OPENAI_MODEL
+from NiW.constants import API_BASE_URL, JUDGING_MODEL, GEMINI_MODEL, PERPLEXITY_MODEL, OPENAI_MODEL
 from typing import Literal
 from openai import OpenAI
 from google import genai
@@ -65,7 +65,7 @@ class Query:
         }
 
 def naive_get_answer(query: str, context: str):
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     for k in range(5):
         for i in range(10):
             try:
@@ -99,7 +99,7 @@ def get_web_search_answer(query: str, model: Literal["oai", "gemini", "perplexit
     # messages.extend(QUERY_ANSWER_EXAMPLES)
     # messages.append({"role": "user", "content": query})
     if model == "oai":
-        client = OpenAI(api_key=OPENAI_API_KEY)
+        client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
         for i in range(10):
             try:
                 response = client.responses.create(
@@ -116,7 +116,7 @@ def get_web_search_answer(query: str, model: Literal["oai", "gemini", "perplexit
         response = response.output[1].content[0].text
         
     elif model == "gemini":
-        client = genai.Client(api_key=GEMINI_API_KEY)
+        client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
         grounding_tool = types.Tool(google_search=types.GoogleSearch())
         config = types.GenerateContentConfig(tools=[grounding_tool])
         for i in range(10):
@@ -137,7 +137,7 @@ def get_web_search_answer(query: str, model: Literal["oai", "gemini", "perplexit
         
     elif model == "perplexity":
         perplexity_url = "https://api.perplexity.ai/chat/completions"
-        headers = {"Authorization": f"Bearer {PERPLEXITY_API_KEY}"}
+        headers = {"Authorization": f"Bearer {os.environ.get('PERPLEXITY_API_KEY')}"}
         payload = {
             "model": "sonar",
             "messages": [{"role": "user", "content": query}],
@@ -204,7 +204,6 @@ def get_web_search_answer(query: str, model: Literal["oai", "gemini", "perplexit
         return "", "No source extracted due to error processing response: " + str(e)
 
 def naive_judge_answer(query: str, ground_truth: str, answer: str):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [
         {"role": "system", "content": NAIVE_JUDGING_PROMPT},
         {"role": "user", "content": f"Query: {query}"},
@@ -216,7 +215,7 @@ def naive_judge_answer(query: str, ground_truth: str, answer: str):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:
@@ -235,7 +234,6 @@ def naive_judge_answer(query: str, ground_truth: str, answer: str):
 
 
 def check_source_exact(page_content: str, claim: str):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [
         {"role": "system", "content": EXACT_SOURCE_CHECKING_PROMPT},
         {"role": "user", "content": f"Claim: {claim}\n\nContent:\n{page_content}"}
@@ -245,7 +243,7 @@ def check_source_exact(page_content: str, claim: str):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:
@@ -266,7 +264,6 @@ def check_source_exact(page_content: str, claim: str):
 
 
 def check_source(page_content: str, claim: str):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [
         {"role": "system", "content": SOURCE_CHECKING_PROMPT},
         {"role": "user", "content": f"Information: {claim}\n\nContent:\n{page_content}"}
@@ -276,7 +273,7 @@ def check_source(page_content: str, claim: str):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:

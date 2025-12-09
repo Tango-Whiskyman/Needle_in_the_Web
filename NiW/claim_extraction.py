@@ -1,6 +1,6 @@
 import os
 from litellm import completion
-from NiW.constants import GEMINI_API_KEY, API_BASE_URL, QUERY_FORMULATION_MODEL
+from NiW.constants import API_BASE_URL, QUERY_FORMULATION_MODEL
 
 SUMMARY_PROMPT = """
 You will be given an article. Your task is provide a summary for the article in no more than 7000 tokens."""
@@ -54,7 +54,6 @@ Someone has stated that today’s Indian luxury consumer does not fit a singular
 ]
 
 def summarize_article(article: str):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [
         {"role": "system", "content": SUMMARY_PROMPT},
         {"role": "user", "content": article}
@@ -64,7 +63,7 @@ def summarize_article(article: str):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:
@@ -77,7 +76,6 @@ def summarize_article(article: str):
     return response.strip()
 
 def extract_claims(article: str):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [{"role": "system", "content": CLAIM_EXTRACTION_PROMPT}]
     messages.extend(CLAIM_EXTRACTION_EXAMPLES)
     messages.append({"role": "user", "content": article})
@@ -86,7 +84,7 @@ def extract_claims(article: str):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:
@@ -109,7 +107,6 @@ def extract_claims(article: str):
     return claims
 
 def formulate_questions(article: str, claims: list):
-    os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
     messages = [{"role": "system", "content": QUESTION_FORMULATION_PROMPT}]
     messages.extend(QUESTION_FORMULATION_EXAMPLES)
     messages.extend([
@@ -121,7 +118,7 @@ def formulate_questions(article: str, claims: list):
         "messages": messages,
         "stream": False,
         "base_url": API_BASE_URL,
-        "api_key": GEMINI_API_KEY,
+        "api_key": os.environ.get("GEMINI_API_KEY"),
     }
     for i in range(10):
         try:

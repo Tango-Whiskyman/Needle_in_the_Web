@@ -5,7 +5,7 @@ import tiktoken
 from typing import List, Tuple
 from litellm import embedding
 
-from NiW.constants import OPENAI_API_KEY, API_BASE_URL
+from NiW.constants import API_BASE_URL
 from NiW.claim_extraction import summarize_article
 
 # openai.api_key = "" 
@@ -25,7 +25,7 @@ def get_embeddings(sentences: List[str]) -> np.ndarray:
                 input=sentences,
                 model=EMBED_MODEL,
                 api_base=API_BASE_URL,
-                api_key=OPENAI_API_KEY,
+                api_key=os.environ.get("OPENAI_API_KEY"),
             )
             break
         except Exception as e:
